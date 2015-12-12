@@ -1,0 +1,4465 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-11-30'
+p3
+sS'text'
+p4
+V$goog - apple ranks near last on this measure URL
+p5
+sS'time'
+p6
+S'18:46:38'
+p7
+sS'author'
+p8
+Vyahyatuts
+p9
+sa(dp10
+g2
+S'2015-11-30'
+p11
+sg4
+V$goog - apple ranks near last on this measure URL
+p12
+sg6
+S'18:46:33'
+p13
+sg8
+VLive Stock News
+p14
+sa(dp15
+g2
+S'2015-11-30'
+p16
+sg4
+Vsuntrust lays out potential ceo replacements if yahoo moves on from mayer $yhoo $baba $fb $chgg $goog $ge $cmc... URL
+p17
+sg6
+S'18:45:47'
+p18
+sg8
+VThe Fly
+p19
+sa(dp20
+g2
+S'2015-11-30'
+p21
+sg4
+Vrt AT_USER it's no dot-com bubble but facebook, amazon, netflix and google could correct ... - forbes URL goog\u2026
+p22
+sg6
+S'18:43:39'
+p23
+sg8
+VSyed Afzal Ali
+p24
+sa(dp25
+g2
+S'2015-11-30'
+p26
+sg4
+Vafter 10 years, google water is back! URL $goog
+p27
+sg6
+S'18:42:41'
+p28
+sg8
+VPlayboyankur1@gmail.
+p29
+sa(dp30
+g2
+S'2015-11-30'
+p31
+sg4
+Vit's no dot-com bubble but facebook, amazon, netflix and google could correct ... - forbes URL google $goog $googl
+p32
+sg6
+S'18:42:37'
+p33
+sg8
+V#SocialMedia NC
+p34
+sa(dp35
+g2
+S'2015-11-30'
+p36
+sg4
+Vafter 10 years, google water is back! URL $goog
+p37
+sg6
+S'18:42:09'
+p38
+sg8
+Vdhawan.gaurav786@gma
+p39
+sa(dp40
+g2
+S'2015-11-30'
+p41
+sg4
+Vrt AT_USER alphabet inc (googl) wants google cars to talk while driving $goog $googl URL
+p42
+sg6
+S'18:41:08'
+p43
+sg8
+VEternity101
+p44
+sa(dp45
+g2
+S'2015-11-30'
+p46
+sg4
+Vafter 10 years, google water is back! URL $goog
+p47
+sg6
+S'18:40:05'
+p48
+sg8
+Varjunbansal707@yahoo
+p49
+sa(dp50
+g2
+S'2015-11-30'
+p51
+sg4
+Valphabet inc (googl) wants google cars to talk while driving $goog $googl URL
+p52
+sg6
+S'18:39:37'
+p53
+sg8
+VLearnBonds.com
+p54
+sa(dp55
+g2
+S'2015-11-30'
+p56
+sg4
+Vgld spdr gold trust shares stock forum URL $gld $nem $aezs $goog gld pennystocks stockmarket
+p57
+sg6
+S'18:39:34'
+p58
+sg8
+Vleahanne
+p59
+sa(dp60
+g2
+S'2015-11-30'
+p61
+sg4
+Vewz brazil ishares ask size URL $ewz $jnk $goog $pot.to ewz finance nasdaq
+p62
+sg6
+S'18:37:34'
+p63
+sg8
+Vclayton
+p64
+sa(dp65
+g2
+S'2015-11-30'
+p66
+sg4
+Vafter 10 years, google water is back! URL $goog
+p67
+sg6
+S'18:36:29'
+p68
+sg8
+Vsam dude
+p69
+sa(dp70
+g2
+S'2015-11-30'
+p71
+sg4
+V$hedj stock forum updated monday, november 30, 2015 1:07:04 pm $nugt $cldn $uvxy $goog URL
+p72
+sg6
+S'18:36:14'
+p73
+sg8
+VPolgarStocks
+p74
+sa(dp75
+g2
+S'2015-11-30'
+p76
+sg4
+Vchromecast outsold roku, others to become 1 streaming device in q3: report URL $goog googl via AT_USER
+p77
+sg6
+S'18:34:47'
+p78
+sg8
+VJohn Earl Burnett
+p79
+sa(dp80
+g2
+S'2015-11-30'
+p81
+sg4
+Vgoogle spills its work secrets &amp; gives lessons in boosting creativity URL via AT_USER $goog workplace success
+p82
+sg6
+S'18:33:54'
+p83
+sg8
+VSmaksked Skåne AB
+p84
+sa(dp85
+g2
+S'2015-11-30'
+p86
+sg4
+Vagn allergan plc stock message board URL $agn $goog $fldm $blue agn invest tradeideas
+p87
+sg6
+S'18:33:16'
+p88
+sg8
+VPolgarStocks
+p89
+sa(dp90
+g2
+S'2015-11-30'
+p91
+sg4
+Vafter 10 years, google water is back! URL $goog
+p92
+sg6
+S'18:30:17'
+p93
+sg8
+Vvasanth kumarnr
+p94
+sa(dp95
+g2
+S'2015-11-30'
+p96
+sg4
+V$bbry $aapl $googl $goog can blackberry priv drive blackberry stock? URL
+p97
+sg6
+S'18:30:05'
+p98
+sg8
+VAmigobulls
+p99
+sa(dp100
+g2
+S'2015-11-30'
+p101
+sg4
+VURL &lt;&lt;-- supertrades could buy a freakin house with this recent win!! $mbly $aapl $jcp $tasr $goog
+p102
+sg6
+S'18:26:32'
+p103
+sg8
+VRussell Barbour
+p104
+sa(dp105
+g2
+S'2015-11-30'
+p106
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p107
+sg6
+S'18:25:55'
+p108
+sg8
+VFinBuzz
+p109
+sa(dp110
+g2
+S'2015-11-30'
+p111
+sg4
+Vafter 10 years, google water is back! URL $goog
+p112
+sg6
+S'18:23:38'
+p113
+sg8
+Vgeeta naveen
+p114
+sa(dp115
+g2
+S'2015-11-30'
+p116
+sg4
+Valphabet inc (nasdaq:googl), apple placed well to dominate ev segment: morgan $goog $aapl google apple ev URL
+p117
+sg6
+S'18:22:21'
+p118
+sg8
+VLearnBonds.com
+p119
+sa(dp120
+g2
+S'2015-11-30'
+p121
+sg4
+Vafter 10 years, google water is back! URL $goog
+p122
+sg6
+S'18:21:34'
+p123
+sg8
+Vsamera hakes
+p124
+sa(dp125
+g2
+S'2015-11-30'
+p126
+sg4
+Vafter 10 years, google water is back! URL $goog
+p127
+sg6
+S'18:21:04'
+p128
+sg8
+Vbilal george
+p129
+sa(dp130
+g2
+S'2015-11-30'
+p131
+sg4
+Vrt AT_USER billion-dollar augmented/virtual reality investment in the last 12 months URL $fb $goog $googl $intc
+p132
+sg6
+S'18:18:33'
+p133
+sg8
+VJKO
+p134
+sa(dp135
+g2
+S'2015-11-30'
+p136
+sg4
+Vafter 10 years, google water is back! URL $goog
+p137
+sg6
+S'18:17:29'
+p138
+sg8
+Vxain ahmed
+p139
+sa(dp140
+g2
+S'2015-11-30'
+p141
+sg4
+Vafter 10 years, google water is back! URL $goog
+p142
+sg6
+S'18:15:28'
+p143
+sg8
+Vneetu  linux
+p144
+sa(dp145
+g2
+S'2015-11-30'
+p146
+sg4
+Vrt AT_USER AT_USER here's one for fang stocks, 2009-2015. you can update it. URL $goog $aapl $nflx
+p147
+sg6
+S'18:15:12'
+p148
+sg8
+VMathias Paulsson
+p149
+sa(dp150
+g2
+S'2015-11-30'
+p151
+sg4
+Vrt AT_USER rt seekingalpha: billion-dollar augmented/virtual reality investment in the last 12 months URL $fb $go\u2026
+p152
+sg6
+S'18:15:05'
+p153
+sg8
+VProfessor Vryl
+p154
+sa(dp155
+g2
+S'2015-11-30'
+p156
+sg4
+Vrt AT_USER why apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom\u2026
+p157
+sg6
+S'18:15:04'
+p158
+sg8
+VL.Mauro!
+p159
+sa(dp160
+g2
+S'2015-11-30'
+p161
+sg4
+Vrt seekingalpha: billion-dollar augmented/virtual reality investment in the last 12 months URL $fb $goog $googl $intc
+p162
+sg6
+S'18:14:53'
+p163
+sg8
+VChina Invest
+p164
+sa(dp165
+g2
+S'2015-11-30'
+p166
+sg4
+VAT_USER here's one for fang stocks, 2009-2015. you can update it. URL $goog $aapl $nflx
+p167
+sg6
+S'18:11:37'
+p168
+sg8
+VDavid Shvartsman
+p169
+sa(dp170
+g2
+S'2015-11-30'
+p171
+sg4
+Vwill microsoft $msft catch up to google $goog in driverless cars? URL autonomousdriving URL
+p172
+sg6
+S'18:08:38'
+p173
+sg8
+VLeo Sun
+p174
+sa(dp175
+g2
+S'2015-11-30'
+p176
+sg4
+Valert: new social signal created on $goog - buy at 744.105 - time: 18:08 - strength: 6. powered by URL
+p177
+sg6
+S'18:08:34'
+p178
+sg8
+VTrusted Forex & CFD
+p179
+sa(dp180
+g2
+S'2015-11-30'
+p181
+sg4
+Vbillion-dollar augmented/virtual reality investment in the last 12 months URL $fb $goog $googl $intc
+p182
+sg6
+S'18:03:27'
+p183
+sg8
+VTech Stocks
+p184
+sa(dp185
+g2
+S'2015-11-30'
+p186
+sg4
+Vbillion-dollar augmented/virtual reality investment in the last 12 months URL $fb $goog $googl $intc
+p187
+sg6
+S'18:03:27'
+p188
+sg8
+VQuick Stock Ideas
+p189
+sa(dp190
+g2
+S'2015-11-30'
+p191
+sg4
+Vbillion-dollar augmented/virtual reality investment in the last 12 months URL $fb $goog $googl $intc
+p192
+sg6
+S'18:03:26'
+p193
+sg8
+VSeeking Alpha
+p194
+sa(dp195
+g2
+S'2015-11-30'
+p196
+sg4
+Vis this the new google glass? $goog wearables URL
+p197
+sg6
+S'18:02:48'
+p198
+sg8
+VJon Markman
+p199
+sa(dp200
+g2
+S'2015-11-30'
+p201
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $aapl, $intc, $msft, $qcom, $ssnlf, $goog, $googl
+p202
+sg6
+S'18:01:16'
+p203
+sg8
+VLecorb
+p204
+sa(dp205
+g2
+S'2015-11-30'
+p206
+sg4
+V$goog - 3 reasons microsoft corporation's windows 10 is a game-changer URL
+p207
+sg6
+S'18:01:15'
+p208
+sg8
+VRuben
+p209
+sa(dp210
+g2
+S'2015-11-30'
+p211
+sg4
+V$goog - 3 reasons microsoft corporation's windows 10 is a game-changer URL
+p212
+sg6
+S'18:01:11'
+p213
+sg8
+Vyahyatuts
+p214
+sa(dp215
+g2
+S'2015-11-30'
+p216
+sg4
+Vafter 10 years, google water is back! URL $goog
+p217
+sg6
+S'18:01:10'
+p218
+sg8
+Vpemdas
+p219
+sa(dp220
+g2
+S'2015-11-30'
+p221
+sg4
+V$goog - 3 reasons microsoft corporation's windows 10 is a game-changer URL
+p222
+sg6
+S'18:01:05'
+p223
+sg8
+VLive Stock News
+p224
+sa(dp225
+g2
+S'2015-11-30'
+p226
+sg4
+Vrt AT_USER why apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom\u2026
+p227
+sg6
+S'18:00:55'
+p228
+sg8
+VJason Olive
+p229
+sa(dp230
+g2
+S'2015-11-30'
+p231
+sg4
+Vrt AT_USER with elastic computing, oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $go\u2026
+p232
+sg6
+S'18:00:29'
+p233
+sg8
+VMarco Zampieri
+p234
+sa(dp235
+g2
+S'2015-11-30'
+p236
+sg4
+Valphabet: google is ready for the mobile internet of apps URL $goog $googl
+p237
+sg6
+S'18:00:02'
+p238
+sg8
+VTech Stocks
+p239
+sa(dp240
+g2
+S'2015-11-30'
+p241
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom $ssnlf $goog
+p242
+sg6
+S'18:00:01'
+p243
+sg8
+VTrending Articles SA
+p244
+sa(dp245
+g2
+S'2015-11-30'
+p246
+sg4
+Vafter 10 years, google water is back! URL $goog
+p247
+sg6
+S'17:58:03'
+p248
+sg8
+Vstock_fail
+p249
+sa(dp250
+g2
+S'2015-11-30'
+p251
+sg4
+Vwith elastic computing, oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p252
+sg6
+S'17:57:35'
+p253
+sg8
+VEric Martin
+p254
+sa(dp255
+g2
+S'2015-11-30'
+p256
+sg4
+V$intc $msft $qcom $goog news: "why apple is best positioned in smartphones, in\u2026" URL analyze: URL
+p257
+sg6
+S'17:55:06'
+p258
+sg8
+VQuantpost Technology
+p259
+sa(dp260
+g2
+S'2015-11-30'
+p261
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom $ssnlf $goog
+p262
+sg6
+S'17:55:05'
+p263
+sg8
+VTech Stocks
+p264
+sa(dp265
+g2
+S'2015-11-30'
+p266
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom $ssnlf $goog
+p267
+sg6
+S'17:55:05'
+p268
+sg8
+VLong & Short Ideas
+p269
+sa(dp270
+g2
+S'2015-11-30'
+p271
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc briankrzanich intel $msft $qcom $ssnlf $goog
+p272
+sg6
+S'17:55:04'
+p273
+sg8
+VSeeking Alpha
+p274
+sa(dp275
+g2
+S'2015-11-30'
+p276
+sg4
+Vtvix twitter, inc. 52wk high URL $tvix $goog $lnkd $slv tvix share stock
+p277
+sg6
+S'17:48:33'
+p278
+sg8
+Vnasdaqfan
+p279
+sa(dp280
+g2
+S'2015-11-30'
+p281
+sg4
+Vtna proshares ultrapro qqq ask URL $tna $uwm $va $goog tna pennystocks investing
+p282
+sg6
+S'17:48:03'
+p283
+sg8
+VInvestors Hangout
+p284
+sa(dp285
+g2
+S'2015-11-30'
+p286
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p287
+sg6
+S'17:47:51'
+p288
+sg8
+VFinBuzz
+p289
+sa(dp290
+g2
+S'2015-11-30'
+p291
+sg4
+Vrt AT_USER oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p292
+sg6
+S'17:44:33'
+p293
+sg8
+VJason Olive
+p294
+sa(dp295
+g2
+S'2015-11-30'
+p296
+sg4
+Vrt AT_USER oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p297
+sg6
+S'17:42:17'
+p298
+sg8
+VAdrian Iosifescu
+p299
+sa(dp300
+g2
+S'2015-11-30'
+p301
+sg4
+Vrt seekingalpha: oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p302
+sg6
+S'17:40:58'
+p303
+sg8
+VChina Invest
+p304
+sa(dp305
+g2
+S'2015-11-30'
+p306
+sg4
+Vrt AT_USER oracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p307
+sg6
+S'17:40:23'
+p308
+sg8
+VJohn W. Green JW
+p309
+sa(dp310
+g2
+S'2015-11-30'
+p311
+sg4
+V$goog $msft $orcl news: "oracle jumps into the cloud: smart or foolish? $amzn \u2026" URL analyze: URL
+p312
+sg6
+S'17:40:12'
+p313
+sg8
+VQuantpost Technology
+p314
+sa(dp315
+g2
+S'2015-11-30'
+p316
+sg4
+Voracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p317
+sg6
+S'17:40:12'
+p318
+sg8
+VTech Stocks
+p319
+sa(dp320
+g2
+S'2015-11-30'
+p321
+sg4
+Voracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p322
+sg6
+S'17:40:12'
+p323
+sg8
+VLong & Short Ideas
+p324
+sa(dp325
+g2
+S'2015-11-30'
+p326
+sg4
+Voracle jumps into the cloud: smart or foolish? URL $amzn $qlik $data $sap $goog $msft $orcl
+p327
+sg6
+S'17:40:11'
+p328
+sg8
+VSeeking Alpha
+p329
+sa(dp330
+g2
+S'2015-11-30'
+p331
+sg4
+Vgoog alphabet inc. yield URL $goog $ew $expe $ua goog stockmarket finance
+p332
+sg6
+S'17:40:04'
+p333
+sg8
+Vjim50
+p334
+sa(dp335
+g2
+S'2015-11-30'
+p336
+sg4
+Vmy stock index is killing it right now despite $goog being down. 14 up in the green &amp; 4 down in the red. teamsands
+p337
+sg6
+S'17:38:33'
+p338
+sg8
+VSimon
+p339
+sa(dp340
+g2
+S'2015-11-30'
+p341
+sg4
+V$aapl $goog eta-2015-189 - psx and nasdaq pricing updates effective december, 2015: news categor... URL AT_USER
+p342
+sg6
+S'17:34:47'
+p343
+sg8
+VOTC Stock Money
+p344
+sa(dp345
+g2
+S'2015-11-30'
+p346
+sg4
+V[$$] gt advanced pursues $80 million loan to exit bankruptcy: URL $aapl $goog $pcln $k
+p347
+sg6
+S'17:32:22'
+p348
+sg8
+VThe Stock Professor
+p349
+sa(dp350
+g2
+S'2015-11-30'
+p351
+sg4
+V$fb $amzn $nflx $goog so cheap here buy this dip! (i've got a bridge 2 sell ya too!) fang
+p352
+sg6
+S'17:29:35'
+p353
+sg8
+Vnobullshytrading
+p354
+sa(dp355
+g2
+S'2015-11-30'
+p356
+sg4
+Vrt AT_USER santa claus rally on the way for amazon, google, according to AT_USER $amzn $goog URL via AT_USER
+p357
+sg6
+S'17:28:13'
+p358
+sg8
+VTheStreet TV
+p359
+sa(dp360
+g2
+S'2015-11-30'
+p361
+sg4
+Vrt AT_USER while everyone is so focused on fang ( $fb $amzn $nflx $goog), i've been busy building my positions in fast ( $feye $aapl $\u2026
+p362
+sg6
+S'17:21:48'
+p363
+sg8
+VStoic Stock Trader
+p364
+sa(dp365
+g2
+S'2015-11-30'
+p366
+sg4
+Vrt AT_USER after her success in $vmw will diane greene's confidence influence $goog stock? get more at URL ht\u2026
+p367
+sg6
+S'17:16:28'
+p368
+sg8
+VIshika Alani
+p369
+sa(dp370
+g2
+S'2015-11-30'
+p371
+sg4
+Vnumber of winning positions: 316 number of losing positions: 20 annualized % return : 1122% $spy $qqq $aapl $gld $uso $amzn $fb $goog
+p372
+sg6
+S'17:10:17'
+p373
+sg8
+VNigam Arora
+p374
+sa(dp375
+g2
+S'2015-11-30'
+p376
+sg4
+V$ko company info updated monday, november 30, 2015 11:10:57 am $dhi $bidu $goog $qcom URL
+p377
+sg6
+S'17:10:08'
+p378
+sg8
+VIH News Desk
+p379
+sa(dp380
+g2
+S'2015-11-30'
+p381
+sg4
+Valphabet inc (googl) wants google cars to talk while driving $goog $googl URL
+p382
+sg6
+S'17:09:37'
+p383
+sg8
+VLearnBonds.com
+p384
+sa(dp385
+g2
+S'2015-11-30'
+p386
+sg4
+V50 most liquid highrelativestrength stocks in the market $adsk $chtr $expe $goog $lmt $tnx \u2026 URL trading swingtrade
+p387
+sg6
+S'17:03:08'
+p388
+sg8
+VBriefing.com
+p389
+sa(dp390
+g2
+S'2015-11-30'
+p391
+sg4
+Vsanta claus rally on the way for amazon, google, according to AT_USER $amzn $goog URL via AT_USER
+p392
+sg6
+S'17:02:18'
+p393
+sg8
+VRhonda Schaffler
+p394
+sa(dp395
+g2
+S'2015-11-30'
+p396
+sg4
+Vblackberry: priv 'marketing ploy' could be a stroke of genius URL $goog $googl $bbry
+p397
+sg6
+S'17:00:02'
+p398
+sg8
+VTech Stocks
+p399
+sa(dp400
+g2
+S'2015-11-30'
+p401
+sg4
+V$goog alphabet inc wants future cars to shout at pedestrians for you: alphabet inc wants future cars to shout... URL
+p402
+sg6
+S'16:58:01'
+p403
+sg8
+VFinancePress
+p404
+sa(dp405
+g2
+S'2015-11-30'
+p406
+sg4
+Valphabet inc (nasdaq:googl), apple placed well to dominate ev segment: morgan $goog $aapl google apple ev URL
+p407
+sg6
+S'16:52:22'
+p408
+sg8
+VLearnBonds.com
+p409
+sa(dp410
+g2
+S'2015-11-30'
+p411
+sg4
+Valphaber lower today another chance to own $goog on way to $800 URL
+p412
+sg6
+S'16:45:36'
+p413
+sg8
+Vtom renna
+p414
+sa(dp415
+g2
+S'2015-11-30'
+p416
+sg4
+Vgain from movement in these buzzing assets $amzn $gbpusd $goog $rket URL URL
+p417
+sg6
+S'16:40:39'
+p418
+sg8
+VFinBuzz
+p419
+sa(dp420
+g2
+S'2015-11-30'
+p421
+sg4
+Vgoog alphabet inc. - class c shares URL $goog $cmg $frc.to $dgaz goog nasdaq stock
+p422
+sg6
+S'16:40:16'
+p423
+sg8
+VInvestors Hangout
+p424
+sa(dp425
+g2
+S'2015-11-30'
+p426
+sg4
+Vrt AT_USER microsoft rises after analyst gets more bullish on cloud prospects $msft $goog $googl $amzn: full story URL
+p427
+sg6
+S'16:32:38'
+p428
+sg8
+VEric
+p429
+sa(dp430
+g2
+S'2015-11-30'
+p431
+sg4
+Vquarz capital management's open letter (dated nov. 10, 2015) to apple pushing for split of ... URL $aapl $amzn $goog
+p432
+sg6
+S'16:30:02'
+p433
+sg8
+VAAPL Stock Alerts
+p434
+sa(dp435
+g2
+S'2015-11-30'
+p436
+sg4
+Vrt AT_USER i used to say wwad (what would $aapl do) with regards to the $nq_f next move will come from. now i need to say wwgd (what wou\u2026
+p437
+sg6
+S'16:29:05'
+p438
+sg8
+VPatrick
+p439
+sa(dp440
+g2
+S'2015-11-30'
+p441
+sg4
+Valphabet inc $goog major shareholder sergey brin sells 33,332 shares of stock URL
+p442
+sg6
+S'16:25:16'
+p443
+sg8
+VSleek Money
+p444
+sa(dp445
+g2
+S'2015-11-30'
+p446
+sg4
+Valphabet inc $goog major shareholder sergey brin sells 33,332 shares of stock URL
+p447
+sg6
+S'16:24:18'
+p448
+sg8
+VInterCooler
+p449
+sa(dp450
+g2
+S'2015-11-30'
+p451
+sg4
+V.quantified design? bloodyhell, AT_USER you can do better // $goog tech ideas URL
+p452
+sg6
+S'16:18:57'
+p453
+sg8
+VBKLTD | NEW YORK
+p454
+sa(dp455
+g2
+S'2015-11-30'
+p456
+sg4
+Vapple, google and tesla are making strides to combat climate change URL via AT_USER $aapl $goog $tsla
+p457
+sg6
+S'16:16:50'
+p458
+sg8
+VScott Gamm
+p459
+sa(dp460
+g2
+S'2015-11-30'
+p461
+sg4
+Valphabet: google is ready for the mobile internet of apps URL $goog $googl
+p462
+sg6
+S'16:14:28'
+p463
+sg8
+VLive Calls Media
+p464
+sa(dp465
+g2
+S'2015-11-30'
+p466
+sg4
+Vwhy apple inc.\u2019s 2016 macbook will use an intel corp. core m processor: URL $aapl $goog $pcln $k
+p467
+sg6
+S'16:09:30'
+p468
+sg8
+VThe Stock Professor
+p469
+sa(dp470
+g2
+S'2015-11-30'
+p471
+sg4
+Vhey, do you know everything while trading sp500? $goog $jnj $ge URL URL
+p472
+sg6
+S'16:08:53'
+p473
+sg8
+VFinBuzz
+p474
+sa(dp475
+g2
+S'2015-11-30'
+p476
+sg4
+Vrt AT_USER $goog:us google in talks with israel to block palestinian videos from youtube google inc URL sp5\u2026
+p477
+sg6
+S'16:08:02'
+p478
+sg8
+VOptions Answers
+p479
+sa(dp480
+g2
+S'2015-11-30'
+p481
+sg4
+Vmicrosoft rises after analyst gets more bullish on cloud prospects $msft $goog $googl $amzn: full story URL
+p482
+sg6
+S'16:02:30'
+p483
+sg8
+VThe Fly
+p484
+sa(dp485
+g2
+S'2015-11-30'
+p486
+sg4
+Vafter her success in $vmw will diane greene's confidence influence $goog stock? get more at URL URL
+p487
+sg6
+S'15:57:12'
+p488
+sg8
+VCity Falcon
+p489
+sa(dp490
+g2
+S'2015-11-30'
+p491
+sg4
+Vsvxy proshares short vix short-term futures etf last price URL $svxy $clvs $kite $goog svxy stockmarket\u2026
+p492
+sg6
+S'15:48:12'
+p493
+sg8
+Vjim50
+p494
+sa(dp495
+g2
+S'2015-11-30'
+p496
+sg4
+Vfangs rolling over a bit $fb $amzn $goog but not $aapl. when i was at $tgt fri, ipads selling. old tech &amp; expensive, still selling
+p497
+sg6
+S'15:45:12'
+p498
+sg8
+VDumberer Money
+p499
+sa(dp500
+g2
+S'2015-11-30'
+p501
+sg4
+Vrt AT_USER want to build the best stocks portfolio in the whole wild world? start here URL $fb $nflx $amzn $goog \u2026
+p502
+sg6
+S'15:44:38'
+p503
+sg8
+VNASDAQStocks
+p504
+sa(dp505
+g2
+S'2015-11-30'
+p506
+sg4
+Vrt AT_USER farming is growing more high tech. can big data boost the agriculture industry? stocks $dd $mon $goog $ibm URL
+p507
+sg6
+S'15:43:59'
+p508
+sg8
+VCMG-The Best Stocks
+p509
+sa(dp510
+g2
+S'2015-11-30'
+p511
+sg4
+Vhou.to horizons betapro nymex crude oil bull plus etf change URL $hou.to $phm.v $goog $erx hou.to share invest
+p512
+sg6
+S'15:40:34'
+p513
+sg8
+VIH News Desk
+p514
+sa(dp515
+g2
+S'2015-11-30'
+p516
+sg4
+Vgoog alphabet inc. - class c tick URL $goog $fslr $hou.to $pfe goog nasdaq invest
+p517
+sg6
+S'15:40:11'
+p518
+sg8
+VJake13
+p519
+sa(dp520
+g2
+S'2015-11-30'
+p521
+sg4
+Vfarming is growing more high tech. can big data boost the agriculture industry? stocks $dd $mon $goog $ibm URL
+p522
+sg6
+S'15:39:40'
+p523
+sg8
+VValue Line
+p524
+sa(dp525
+g2
+S'2015-11-30'
+p526
+sg4
+Valphabet inc (googl) wants google cars to talk while driving $goog $googl URL
+p527
+sg6
+S'15:39:38'
+p528
+sg8
+VLearnBonds.com
+p529
+sa(dp530
+g2
+S'2015-11-30'
+p531
+sg4
+Vthese assets are seeing a jump in tweets ftse100 $amzn $fb $gbpusd $goog URL URL
+p532
+sg6
+S'15:32:13'
+p533
+sg8
+VFinBuzz
+p534
+sa(dp535
+g2
+S'2015-11-30'
+p536
+sg4
+V$goog:us google in talks with israel to block palestinian videos from youtube google inc URL nasdaq
+p537
+sg6
+S'15:31:06'
+p538
+sg8
+VFinSentS NASDAQ
+p539
+sa(dp540
+g2
+S'2015-11-30'
+p541
+sg4
+Vwill google\u2019s increased focus on cloud technology give its stock price a boost? $goog URL via AT_USER
+p542
+sg6
+S'15:28:10'
+p543
+sg8
+VIshika Alani
+p544
+sa(dp545
+g2
+S'2015-11-30'
+p546
+sg4
+VAT_USER so damn literal... but to be fair, if $goog device store sent me half the capacity i ordered, i wouldn't be jovial either
+p547
+sg6
+S'15:27:37'
+p548
+sg8
+VAshtar
+p549
+sa(dp550
+g2
+S'2015-11-30'
+p551
+sg4
+Vwebinar this thursday URL $spy es_f $goog $kbio $vltc $aezs $spx $dji $iwm $uso $tlt $nflx $bidu $cldn $aapl $twtr $fb
+p552
+sg6
+S'15:23:17'
+p553
+sg8
+VTradeMyAlgos
+p554
+sa(dp555
+g2
+S'2015-11-30'
+p556
+sg4
+Valphabet inc (nasdaq:googl), apple placed well to dominate ev segment: morgan $goog $aapl google apple ev URL
+p557
+sg6
+S'15:22:23'
+p558
+sg8
+VLearnBonds.com
+p559
+sa(dp560
+g2
+S'2015-11-30'
+p561
+sg4
+V$goog took 2.23 loss
+p562
+sg6
+S'15:18:06'
+p563
+sg8
+VDan
+p564
+sa(dp565
+g2
+S'2015-11-30'
+p566
+sg4
+Vsee why these assets are trending in 1 watchlist ftse100 greececrisis $amzn $goog $ice URL URL
+p567
+sg6
+S'15:14:38'
+p568
+sg8
+VFinBuzz
+p569
+sa(dp570
+g2
+S'2015-11-30'
+p571
+sg4
+Vwant to build the best stocks portfolio in the whole wild world? start here URL $fb $nflx $amzn $goog $msft $ko $biib
+p572
+sg6
+S'15:13:56'
+p573
+sg8
+VFUNanc!al
+p574
+sa(dp575
+g2
+S'2015-11-30'
+p576
+sg4
+V$goog:us google in talks with israel to block palestinian videos from youtube google inc URL sp500
+p577
+sg6
+S'15:11:46'
+p578
+sg8
+VFinSentS SP500
+p579
+sa(dp580
+g2
+S'2015-11-30'
+p581
+sg4
+V$fb $nflx $amzn $goog $tsla and the rest of the momoverse keeping calm. considering how much they have run w/o pause, one is needed.
+p582
+sg6
+S'15:10:09'
+p583
+sg8
+VVlad Mazek
+p584
+sa(dp585
+g2
+S'2015-11-30'
+p586
+sg4
+VAT_USER i think $aapl's best option in wearables is to buy-out $fit... unless $goog beats them to it. thoughts?
+p587
+sg6
+S'15:06:56'
+p588
+sg8
+VPaul Van Huffel
+p589
+sa(dp590
+g2
+S'2015-11-30'
+p591
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p592
+sg6
+S'14:54:23'
+p593
+sg8
+VBryan Priest 
+p594
+sa(dp595
+g2
+S'2015-11-30'
+p596
+sg4
+Vtrack trending assets in 1 watchlist ftse100 $amzn $fb $goog $nflx URL URL
+p597
+sg6
+S'14:53:32'
+p598
+sg8
+VFinBuzz
+p599
+sa(dp600
+g2
+S'2015-11-30'
+p601
+sg4
+Vupdate apertura stocks major news $amzn +0.70% $aapl +0.19% $goog +0.01% $msft +1.60% $f -0.17% $bhp -3.52% $fb +0.55%
+p602
+sg6
+S'14:53:02'
+p603
+sg8
+VInvest Huddle
+p604
+sa(dp605
+g2
+S'2015-11-30'
+p606
+sg4
+V$egyh 011 ceo predicts $5 &amp;uplist $xom $bp $hal $wti $jcp $bac $eqm $sep $mmp $ete $mpc $vlo $hfc $psx $tso $s $goog URL
+p607
+sg6
+S'14:50:42'
+p608
+sg8
+VObi
+p609
+sa(dp610
+g2
+S'2015-11-30'
+p611
+sg4
+Vrt AT_USER over-eager peering link causes google cloud trouble, via AT_USER tech it $goog URL
+p612
+sg6
+S'14:48:11'
+p613
+sg8
+VVincent Rais
+p614
+sa(dp615
+g2
+S'2015-11-30'
+p616
+sg4
+Vrt AT_USER trading students find success: URL $z $x $aapl $twtr $mnkd $fb $goog $axp $vltc $bmrn $pfe $lly http\u2026
+p617
+sg6
+S'14:45:47'
+p618
+sg8
+VBalachandran Nair NS
+p619
+sa(dp620
+g2
+S'2015-11-30'
+p621
+sg4
+Vmcd mcdonalds corp. financials URL $mcd $bidu $bidu $goog mcd stocks stockmarket
+p622
+sg6
+S'14:43:05'
+p623
+sg8
+VStock Forums
+p624
+sa(dp625
+g2
+S'2015-11-30'
+p626
+sg4
+Vsecrets of the macbook: URL $aapl $goog $pcln $k
+p627
+sg6
+S'14:41:21'
+p628
+sg8
+VThe Stock Professor
+p629
+sa(dp630
+g2
+S'2015-11-30'
+p631
+sg4
+Vgoog alphabet inc. - class c day low URL $goog $aapl $aig $vlo goog stock stocks
+p632
+sg6
+S'14:40:14'
+p633
+sg8
+VStock_Tracker
+p634
+sa(dp635
+g2
+S'2015-11-30'
+p636
+sg4
+Vover-eager peering link causes google cloud trouble, via AT_USER tech it $goog URL
+p637
+sg6
+S'14:39:18'
+p638
+sg8
+VData Center Frontier
+p639
+sa(dp640
+g2
+S'2015-11-30'
+p641
+sg4
+Vover-eager peering link causes google cloud trouble, via AT_USER tech it $goog URL
+p642
+sg6
+S'14:39:18'
+p643
+sg8
+VRich Miller
+p644
+sa(dp645
+g2
+S'2015-11-30'
+p646
+sg4
+V$goog long 753.56 avg
+p647
+sg6
+S'14:39:03'
+p648
+sg8
+VDan
+p649
+sa(dp650
+g2
+S'2015-11-30'
+p651
+sg4
+Vrt seekingalpha: does fang make sense after a rate hike? URL $amzn $fb $googl $nflx $goog
+p652
+sg6
+S'14:37:56'
+p653
+sg8
+VChina Invest
+p654
+sa(dp655
+g2
+S'2015-11-30'
+p656
+sg4
+V$nflx news: "does fang make sense after a rate hike? $amzn $fb $googl $nflx $goog" URL analyze: URL
+p657
+sg6
+S'14:33:42'
+p658
+sg8
+VQuantpost $NFLX
+p659
+sa(dp660
+g2
+S'2015-11-30'
+p661
+sg4
+V$amzn news: "does fang make sense after a rate hike? $amzn $fb $googl $nflx $goog" URL analyze: URL
+p662
+sg6
+S'14:33:42'
+p663
+sg8
+VQuantpost $AMZN
+p664
+sa(dp665
+g2
+S'2015-11-30'
+p666
+sg4
+V$fb news: "does fang make sense after a rate hike? $amzn $fb $googl $nflx $goog" URL analyze: URL
+p667
+sg6
+S'14:33:42'
+p668
+sg8
+VQuantpost $FB
+p669
+sa(dp670
+g2
+S'2015-11-30'
+p671
+sg4
+Vdoes fang make sense after a rate hike? URL $amzn $fb $googl $nflx $goog
+p672
+sg6
+S'14:33:42'
+p673
+sg8
+VQuick Stock Ideas
+p674
+sa(dp675
+g2
+S'2015-11-30'
+p676
+sg4
+Vdoes fang make sense after a rate hike? URL $amzn $fb $googl $nflx $goog
+p677
+sg6
+S'14:33:41'
+p678
+sg8
+VSeeking Alpha
+p679
+sa(dp680
+g2
+S'2015-11-30'
+p681
+sg4
+V$goog: will google\u2019s increased focus on cloud technology give its stock \u2026: URL
+p682
+sg6
+S'14:32:03'
+p683
+sg8
+VBreaking News
+p684
+sa(dp685
+g2
+S'2015-11-30'
+p686
+sg4
+Vis $goog going to try projectloon in the us? documents with fcc raise the question. URL watch out telcos!
+p687
+sg6
+S'14:32:01'
+p688
+sg8
+VARK Indu Innovation
+p689
+sa(dp690
+g2
+S'2015-11-30'
+p691
+sg4
+Vwill google\u2019s increased focus on cloud technology give its stock price a boost? $goog URL URL
+p692
+sg6
+S'14:31:51'
+p693
+sg8
+Vpauljtest
+p694
+sa(dp695
+g2
+S'2015-11-30'
+p696
+sg4
+Vrt AT_USER engineers reveal working at google is like being at the 'world's\u2026 URL google $goog $googl URL
+p697
+sg6
+S'14:31:06'
+p698
+sg8
+VBjørn Anker Jesperse
+p699
+sa(dp700
+g2
+S'2015-11-30'
+p701
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p702
+sg6
+S'14:29:59'
+p703
+sg8
+VSami Hassanyeh
+p704
+sa(dp705
+g2
+S'2015-11-30'
+p706
+sg4
+Valphabet inc (googl) wants google cars to talk while driving URL $googl $goog
+p707
+sg6
+S'14:26:01'
+p708
+sg8
+VLearnBonds.com
+p709
+sa(dp710
+g2
+S'2015-11-30'
+p711
+sg4
+Valphabet inc (goog), apple inc. (aapl) will dominate evs: morgan stanley URL $goog $aapl
+p712
+sg6
+S'14:26:01'
+p713
+sg8
+VLearnBonds.com
+p714
+sa(dp715
+g2
+S'2015-11-30'
+p716
+sg4
+V$sale breakout on blackfriday up 5% target $15. 6 ev/ebitda, $60m stock buyback plan in q4 URL $goog $utx $met
+p717
+sg6
+S'14:22:29'
+p718
+sg8
+VDailyStockPicks
+p719
+sa(dp720
+g2
+S'2015-11-30'
+p721
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is on the way! get it early: URL $erbb $bbda $goog
+p722
+sg6
+S'14:22:28'
+p723
+sg8
+VMichael Cook
+p724
+sa(dp725
+g2
+S'2015-11-30'
+p726
+sg4
+V$mhrc has now gained 756.25% in the past 2 weeks! huge news: URL $erbb $bbda $goog
+p727
+sg6
+S'14:21:46'
+p728
+sg8
+VPaul Henry
+p729
+sa(dp730
+g2
+S'2015-11-30'
+p731
+sg4
+V$mhrc has nearly quadrupled in value, in the past 2 weeks! special update: URL $erbb $bbda $goog
+p732
+sg6
+S'14:21:35'
+p733
+sg8
+VMichael James
+p734
+sa(dp735
+g2
+S'2015-11-30'
+p736
+sg4
+Vtrading students find success: URL $z $x $aapl $twtr $mnkd $fb $goog $axp $vltc $bmrn $pfe $lly URL
+p737
+sg6
+S'14:20:32'
+p738
+sg8
+VSwing Trade Warrior
+p739
+sa(dp740
+g2
+S'2015-11-30'
+p741
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p742
+sg6
+S'14:17:28'
+p743
+sg8
+VOptions Answers
+p744
+sa(dp745
+g2
+S'2015-11-30'
+p746
+sg4
+Vnow 775 - getting ready for 800 $googl $goog $spy URL
+p747
+sg6
+S'14:16:42'
+p748
+sg8
+VNavi Avatar
+p749
+sa(dp750
+g2
+S'2015-11-30'
+p751
+sg4
+Vday trading chatroom for free! access here: URL $vltc $adro $exel $bmrn $acet $goog $lulu $cybr $ipxl $dwti $pfe $arwr
+p752
+sg6
+S'14:16:09'
+p753
+sg8
+VRoss Cameron
+p754
+sa(dp755
+g2
+S'2015-11-30'
+p756
+sg4
+Vjefferies: it\u2019s time to move past the fang bangers | trading $fb, $aapl, $nflx, $goog algorithms with the fly URL
+p757
+sg6
+S'14:10:28'
+p758
+sg8
+VThe_Real_Fly
+p759
+sa(dp760
+g2
+S'2015-11-30'
+p761
+sg4
+Valphabet inc (googl) wants google cars to talk while driving $goog $googl URL
+p762
+sg6
+S'14:09:37'
+p763
+sg8
+VLearnBonds.com
+p764
+sa(dp765
+g2
+S'2015-11-30'
+p766
+sg4
+V$iwo filings updated monday, november 30, 2015 08:10:56 am $goog $iyr $gdx $fxe URL
+p767
+sg6
+S'14:08:14'
+p768
+sg8
+VIH News Desk
+p769
+sa(dp770
+g2
+S'2015-11-30'
+p771
+sg4
+V$goog stock forum updated monday, november 30, 2015 08:10:56 am $uso $dhi $wmih $fxc URL
+p772
+sg6
+S'14:08:13'
+p773
+sg8
+VIH News Desk
+p774
+sa(dp775
+g2
+S'2015-11-30'
+p776
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p777
+sg6
+S'14:05:18'
+p778
+sg8
+Vvested interest vent
+p779
+sa(dp780
+g2
+S'2015-11-30'
+p781
+sg4
+V$goog $googl: alphabet inc (nasdaq:goog)\u2019s custom machines threatening to \u2026: URL
+p782
+sg6
+S'14:03:10'
+p783
+sg8
+VBreakingStocksNews
+p784
+sa(dp785
+g2
+S'2015-11-30'
+p786
+sg4
+V$msft +1% - bernstein bullish on azure and raymond james ups to strong buy pt 62, sees joining $goog $amzn as only hyperscale cloud vendors
+p787
+sg6
+S'14:02:58'
+p788
+sg8
+VOptionsTrader32
+p789
+sa(dp790
+g2
+S'2015-11-30'
+p791
+sg4
+V$aapl $goog $googl: apple inc. (nasdaq:aapl)\u2019s ios accounted for 80% of \u2026: URL
+p792
+sg6
+S'14:02:35'
+p793
+sg8
+VProVesting
+p794
+sa(dp795
+g2
+S'2015-11-30'
+p796
+sg4
+Valphabet's custom machines threatening to shake up amazon's aws $goog $googl URL
+p797
+sg6
+S'13:57:20'
+p798
+sg8
+Vinvest correctly
+p799
+sa(dp800
+g2
+S'2015-11-30'
+p801
+sg4
+Vrt AT_USER chart of the week (by views): fang vs. the 1995-2000 4-horsemen $fb $amzn $nflx $goog post: URL ht\u2026
+p802
+sg6
+S'13:56:12'
+p803
+sg8
+VConnor Ridgeway
+p804
+sa(dp805
+g2
+S'2015-11-30'
+p806
+sg4
+Vsuntrust's peck lists 10 potential ceo candidates for yahoo $yhoo $baba $fb $chgg $cbs $ge $goog: full story URL
+p807
+sg6
+S'13:55:47'
+p808
+sg8
+VThe Fly
+p809
+sa(dp810
+g2
+S'2015-11-30'
+p811
+sg4
+Valphabet inc (nasdaq:googl), apple placed well to dominate ev segment: morgan stanley $goog $aapl google apple ev URL
+p812
+sg6
+S'13:52:21'
+p813
+sg8
+VLearnBonds.com
+p814
+sa(dp815
+g2
+S'2015-11-30'
+p816
+sg4
+Vrt AT_USER amazon sss rose over 20% on black friday, cyber saturday, channeladvisor says $amzn $ebay $goog $googl: full story URL
+p817
+sg6
+S'13:49:04'
+p818
+sg8
+VMichael
+p819
+sa(dp820
+g2
+S'2015-11-30'
+p821
+sg4
+Vamazon sss rose over 20% on black friday, cyber saturday, channeladvisor says $amzn $ebay $goog $googl: full story URL
+p822
+sg6
+S'13:47:06'
+p823
+sg8
+VThe Fly
+p824
+sa(dp825
+g2
+S'2015-11-30'
+p826
+sg4
+Vt at&amp;t, inc. market cap URL $t $ms $goog $fnfg t stocks share
+p827
+sg6
+S'13:47:04'
+p828
+sg8
+Vnasdaqfan
+p829
+sa(dp830
+g2
+S'2015-11-30'
+p831
+sg4
+Vgain from movement in these buzzing assets ftse100 $eurusd $gbpusd $goog URL URL
+p832
+sg6
+S'13:44:56'
+p833
+sg8
+VFinBuzz
+p834
+sa(dp835
+g2
+S'2015-11-30'
+p836
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is on the way! get it early: URL $ibm $goog $aapl
+p837
+sg6
+S'13:40:25'
+p838
+sg8
+VMichael Cook
+p839
+sa(dp840
+g2
+S'2015-11-30'
+p841
+sg4
+V$mhrc has now gained 756.25% in the past 2 weeks! huge news: URL $ibm $goog $aapl
+p842
+sg6
+S'13:39:21'
+p843
+sg8
+VPaul Henry
+p844
+sa(dp845
+g2
+S'2015-11-30'
+p846
+sg4
+V$mhrc has nearly quadrupled in value, in the past 2 weeks! special update: URL $ibm $goog $aapl
+p847
+sg6
+S'13:39:10'
+p848
+sg8
+VMichael James
+p849
+sa(dp850
+g2
+S'2015-11-30'
+p851
+sg4
+Vrt AT_USER microsoft upgraded to strong buy on cloud strength at raymond james $msft $goog $googl $amzn: full story URL
+p852
+sg6
+S'13:36:34'
+p853
+sg8
+VDenny
+p854
+sa(dp855
+g2
+S'2015-11-30'
+p856
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p857
+sg6
+S'13:35:02'
+p858
+sg8
+VSush Bhankhar
+p859
+sa(dp860
+g2
+S'2015-11-30'
+p861
+sg4
+V$cwb recent news updated monday, november 30, 2015 07:59:22 am $csco $edv $goog $amzn URL
+p862
+sg6
+S'13:34:05'
+p863
+sg8
+VRosner Stocks
+p864
+sa(dp865
+g2
+S'2015-11-30'
+p866
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p867
+sg6
+S'13:31:50'
+p868
+sg8
+VZayyyy
+p869
+sa(dp870
+g2
+S'2015-11-30'
+p871
+sg4
+Ve-commerce-boom: google und URL profitieren vom black friday $goog URL
+p872
+sg6
+S'13:28:12'
+p873
+sg8
+VJewgenij Leube
+p874
+sa(dp875
+g2
+S'2015-11-30'
+p876
+sg4
+Vrt AT_USER rt AT_USER rt AT_USER apple watch still hot, here's what's not: ibm watson: URL $aa\u2026
+p877
+sg6
+S'13:27:56'
+p878
+sg8
+V\u0411\u0443\u043b\u0430\u0442 \u0425\u0430\u0441\u0430\u043d\u043e\u0432
+p879
+sa(dp880
+g2
+S'2015-11-30'
+p881
+sg4
+V30 nov 2015: uptrend stocks in technology $adbe $adsk $amat $amd $aph $brcm $ca $flir $glw $goog URL
+p882
+sg6
+S'13:21:03'
+p883
+sg8
+VTrading Quotient
+p884
+sa(dp885
+g2
+S'2015-11-30'
+p886
+sg4
+Valphabet earns aa credit rating from morningstar $goog URL
+p887
+sg6
+S'13:18:59'
+p888
+sg8
+VUS Banking News
+p889
+sa(dp890
+g2
+S'2015-11-30'
+p891
+sg4
+Viyw saw $33.59 billion in fund inflows in trailing 1-month period $aapl $goog $pcln $k URL URL
+p892
+sg6
+S'13:14:48'
+p893
+sg8
+VWLST.com
+p894
+sa(dp895
+g2
+S'2015-11-30'
+p896
+sg4
+Viyw saw $33.59 billion in fund inflows in trailing 1-month period: URL $aapl $goog $pcln $k
+p897
+sg6
+S'13:14:42'
+p898
+sg8
+VThe Stock Professor
+p899
+sa(dp900
+g2
+S'2015-11-30'
+p901
+sg4
+Vrt AT_USER lots of interest in self driving cars + taxis globally $aapl $goog $tsla URL URL
+p902
+sg6
+S'13:11:08'
+p903
+sg8
+Vsdbratt
+p904
+sa(dp905
+g2
+S'2015-11-30'
+p906
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p907
+sg6
+S'13:05:36'
+p908
+sg8
+VManny Destura
+p909
+sa(dp910
+g2
+S'2015-11-30'
+p911
+sg4
+Vsee why these assets are trending in 1 watchlist ftse100 $eurusd $gbpusd $goog URL URL
+p912
+sg6
+S'13:04:14'
+p913
+sg8
+VFinBuzz
+p914
+sa(dp915
+g2
+S'2015-11-30'
+p916
+sg4
+Vtrack curated news and tweets for multiple tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p917
+sg6
+S'13:03:10'
+p918
+sg8
+VFinBuzz
+p919
+sa(dp920
+g2
+S'2015-11-30'
+p921
+sg4
+Vrt AT_USER microsoft upgraded to strong buy on cloud strength at raymond james $msft $goog $googl $amzn: full story URL
+p922
+sg6
+S'13:01:54'
+p923
+sg8
+VDomani Capital
+p924
+sa(dp925
+g2
+S'2015-11-30'
+p926
+sg4
+Vrt AT_USER google cloud brought down due to human failure - zdnet URL google $goog $googl URL
+p927
+sg6
+S'13:00:44'
+p928
+sg8
+VBayu Hutomo Dakota
+p929
+sa(dp930
+g2
+S'2015-11-30'
+p931
+sg4
+V$tsts has gained 336.36% in the past 2 weeks! huge news: URL $amzn $mcox $goog
+p932
+sg6
+S'12:58:03'
+p933
+sg8
+VPenny Stockington
+p934
+sa(dp935
+g2
+S'2015-11-30'
+p936
+sg4
+Vrt AT_USER google cloud brought down due to human failure - zdnet URL google $goog $googl URL
+p937
+sg6
+S'12:57:13'
+p938
+sg8
+VSyed Afzal Ali
+p939
+sa(dp940
+g2
+S'2015-11-30'
+p941
+sg4
+Vmicrosoft upgraded to strong buy on cloud strength at raymond james $msft $goog $googl $amzn: full story URL
+p942
+sg6
+S'12:56:47'
+p943
+sg8
+VThe Fly
+p944
+sa(dp945
+g2
+S'2015-11-30'
+p946
+sg4
+V$tsts has more than quadrupled in value in 2 weeks! big news: URL $amzn $mcox $goog
+p947
+sg6
+S'12:56:34'
+p948
+sg8
+VStockaholics
+p949
+sa(dp950
+g2
+S'2015-11-30'
+p951
+sg4
+Vrt AT_USER alphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p952
+sg6
+S'12:52:37'
+p953
+sg8
+VJames DiPlata
+p954
+sa(dp955
+g2
+S'2015-11-30'
+p956
+sg4
+Vrt AT_USER google cloud brought down due to human failure - zdnet URL google $goog $googl URL
+p957
+sg6
+S'12:51:14'
+p958
+sg8
+Vjuan vidal melchor
+p959
+sa(dp960
+g2
+S'2015-11-30'
+p961
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is on the way! get it early: URL $cbl $goog $bll
+p962
+sg6
+S'12:50:09'
+p963
+sg8
+VMichael Cook
+p964
+sa(dp965
+g2
+S'2015-11-30'
+p966
+sg4
+Vvnth nano mobile healthcare, inc. last price URL $vnth $dxj $goog $cvx vnth finance stock
+p967
+sg6
+S'12:50:03'
+p968
+sg8
+VIH News Desk
+p969
+sa(dp970
+g2
+S'2015-11-30'
+p971
+sg4
+V$mhrc has now gained 756.25% in the past 2 weeks! huge news: URL $cbl $goog $bll
+p972
+sg6
+S'12:49:34'
+p973
+sg8
+VPaul Henry
+p974
+sa(dp975
+g2
+S'2015-11-30'
+p976
+sg4
+V$mhrc has nearly quadrupled in value, in the past 2 weeks! special update: URL $cbl $goog $bll
+p977
+sg6
+S'12:48:50'
+p978
+sg8
+VMichael James
+p979
+sa(dp980
+g2
+S'2015-11-30'
+p981
+sg4
+Vtlt ishares barclays 20+ year treasury bond fund message board posts URL $tlt $wwav $goog $chgt tlt stockmarket\u2026
+p982
+sg6
+S'12:48:32'
+p983
+sg8
+Vjim50
+p984
+sa(dp985
+g2
+S'2015-11-30'
+p986
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p987
+sg6
+S'12:48:18'
+p988
+sg8
+VJean-Claude Saade
+p989
+sa(dp990
+g2
+S'2015-11-30'
+p991
+sg4
+Vgoogle cloud brought down due to human failure - zdnet URL google $goog $googl URL
+p992
+sg6
+S'12:42:20'
+p993
+sg8
+V#SocialMedia NC
+p994
+sa(dp995
+g2
+S'2015-11-30'
+p996
+sg4
+Vfslr first solar inc. news URL $fslr $nflx $nvda $goog fslr investing share
+p997
+sg6
+S'12:40:02'
+p998
+sg8
+VRosner Stocks
+p999
+sa(dp1000
+g2
+S'2015-11-30'
+p1001
+sg4
+Vexplosive growth this weekend of new cos &amp; organizations advertising on $twtr. dithering $goog will be pay much higher price one day / $fb
+p1002
+sg6
+S'12:36:39'
+p1003
+sg8
+VZero Filter
+p1004
+sa(dp1005
+g2
+S'2015-11-30'
+p1006
+sg4
+V$goog - instant articles aren't very profitable, but publishers might choose facebook over google anyways URL
+p1007
+sg6
+S'12:36:11'
+p1008
+sg8
+VRuben
+p1009
+sa(dp1010
+g2
+S'2015-11-30'
+p1011
+sg4
+V$goog - instant articles aren't very profitable, but publishers might choose facebook over google anyways URL
+p1012
+sg6
+S'12:36:09'
+p1013
+sg8
+Vyahyatuts
+p1014
+sa(dp1015
+g2
+S'2015-11-30'
+p1016
+sg4
+V$goog - instant articles aren't very profitable, but publishers might choose facebook over google anyways URL
+p1017
+sg6
+S'12:36:04'
+p1018
+sg8
+VLive Stock News
+p1019
+sa(dp1020
+g2
+S'2015-11-30'
+p1021
+sg4
+Vgoog top news - nov 30th, 2015 $goog URL
+p1022
+sg6
+S'12:34:50'
+p1023
+sg8
+VSweet Platform
+p1024
+sa(dp1025
+g2
+S'2015-11-30'
+p1026
+sg4
+Vsaw many on florida beaches using $gpro as casual video capture device-reiterate key success this demo like $sne heydays $goog $fb AT_USER
+p1027
+sg6
+S'12:16:34'
+p1028
+sg8
+VZero Filter
+p1029
+sa(dp1030
+g2
+S'2015-11-30'
+p1031
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1032
+sg6
+S'12:14:54'
+p1033
+sg8
+Vkarel Vinck
+p1034
+sa(dp1035
+g2
+S'2015-11-30'
+p1036
+sg4
+Valphabet: google is ready for the mobile internet of apps URL $goog $googl
+p1037
+sg6
+S'12:13:25'
+p1038
+sg8
+VGlobal Web Advisors
+p1039
+sa(dp1040
+g2
+S'2015-11-30'
+p1041
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1042
+sg6
+S'12:10:34'
+p1043
+sg8
+VFederico Diaz Sparta
+p1044
+sa(dp1045
+g2
+S'2015-11-30'
+p1046
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1047
+sg6
+S'12:06:51'
+p1048
+sg8
+VRaj Chandran
+p1049
+sa(dp1050
+g2
+S'2015-11-30'
+p1051
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1052
+sg6
+S'12:02:40'
+p1053
+sg8
+VEkrem Teymur
+p1054
+sa(dp1055
+g2
+S'2015-11-30'
+p1056
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1057
+sg6
+S'12:00:44'
+p1058
+sg8
+VRashid Castle-Ali
+p1059
+sa(dp1060
+g2
+S'2015-11-30'
+p1061
+sg4
+Vfor some people, the older the smartphone, the better $aapl $goog $pcln $k wlst URL URL
+p1062
+sg6
+S'11:52:38'
+p1063
+sg8
+VWLST.com
+p1064
+sa(dp1065
+g2
+S'2015-11-30'
+p1066
+sg4
+Vfor some people, the older the smartphone, the better: [ap] - between splashy launches, l... URL $aapl $goog $pcln $k
+p1067
+sg6
+S'11:52:18'
+p1068
+sg8
+VThe Stock Professor
+p1069
+sa(dp1070
+g2
+S'2015-11-30'
+p1071
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1072
+sg6
+S'11:50:41'
+p1073
+sg8
+VBenCasey1
+p1074
+sa(dp1075
+g2
+S'2015-11-30'
+p1076
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1077
+sg6
+S'11:50:17'
+p1078
+sg8
+VMattBurns
+p1079
+sa(dp1080
+g2
+S'2015-11-30'
+p1081
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1082
+sg6
+S'11:49:59'
+p1083
+sg8
+VDavid Taylor
+p1084
+sa(dp1085
+g2
+S'2015-11-30'
+p1086
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1087
+sg6
+S'11:48:56'
+p1088
+sg8
+VDon Right
+p1089
+sa(dp1090
+g2
+S'2015-11-30'
+p1091
+sg4
+Vuso powershares db us dollar index bullish fund short sales URL $uso $goog $smn $oled uso stockmarket tradeideas
+p1092
+sg6
+S'11:48:13'
+p1093
+sg8
+Vleahanne
+p1094
+sa(dp1095
+g2
+S'2015-11-30'
+p1096
+sg4
+Vplatinum members have seen incredible gains on our top stock picks! see our new picks early: URL $erbb $bbda $goog
+p1097
+sg6
+S'11:47:57'
+p1098
+sg8
+VStock Rocket
+p1099
+sa(dp1100
+g2
+S'2015-11-30'
+p1101
+sg4
+V$goog oi for maturity 12/04/2015. 650.00 highest put. 762.50 highest call. URL URL
+p1102
+sg6
+S'11:45:57'
+p1103
+sg8
+VDan
+p1104
+sa(dp1105
+g2
+S'2015-11-30'
+p1106
+sg4
+Vrt AT_USER goog alphabet inc. financials URL $goog $rxmd $aci $kite goog stocks finance
+p1107
+sg6
+S'11:45:56'
+p1108
+sg8
+VOptions Answers
+p1109
+sa(dp1110
+g2
+S'2015-11-30'
+p1111
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1112
+sg6
+S'11:45:29'
+p1113
+sg8
+VGary Thomson
+p1114
+sa(dp1115
+g2
+S'2015-11-30'
+p1116
+sg4
+Valphabet: google is ready for the mobile internet of apps $goog: URL $googl $aapl
+p1117
+sg6
+S'11:43:41'
+p1118
+sg8
+VGary Thomson
+p1119
+sa(dp1120
+g2
+S'2015-11-30'
+p1121
+sg4
+Vmnst maxim integrated products, inc. stock forum URL $mnst $edz $goog $pbf mnst share stocks
+p1122
+sg6
+S'11:43:06'
+p1123
+sg8
+VIH NASDAQ OMX
+p1124
+sa(dp1125
+g2
+S'2015-11-30'
+p1126
+sg4
+Vgoog alphabet inc. financials URL $goog $rxmd $aci $kite goog stocks finance
+p1127
+sg6
+S'11:40:04'
+p1128
+sg8
+VPolgarStocks
+p1129
+sa(dp1130
+g2
+S'2015-11-30'
+p1131
+sg4
+Vfcx first trust dow jones internet index fund day high URL $fcx $c $googl $goog fcx invest share
+p1132
+sg6
+S'11:39:06'
+p1133
+sg8
+VDennyT
+p1134
+sa(dp1135
+g2
+S'2015-11-30'
+p1136
+sg4
+V$nwav closed up a whopping 55.56%! major expectations for next week: URL $erbb $bbda $goog
+p1137
+sg6
+S'11:32:34'
+p1138
+sg8
+VStockenheimerSchmidt
+p1139
+sa(dp1140
+g2
+S'2015-11-30'
+p1141
+sg4
+V$gogl reviews updated monday, november 30, 2015 06:07:05 am $expd $dnkn $t $goog URL
+p1142
+sg6
+S'11:31:29'
+p1143
+sg8
+VPolgarStocks
+p1144
+sa(dp1145
+g2
+S'2015-11-30'
+p1146
+sg4
+Vour winning picks have multiplied as much as 34 times in 5 months! see our new pick: URL $erbb $bbda $goog
+p1147
+sg6
+S'11:31:06'
+p1148
+sg8
+VStock Dawgzz
+p1149
+sa(dp1150
+g2
+S'2015-11-30'
+p1151
+sg4
+V$goog max pain is 740.00 for maturity 12/04/2015. price = 750.26. URL
+p1152
+sg6
+S'11:30:23'
+p1153
+sg8
+VDan
+p1154
+sa(dp1155
+g2
+S'2015-11-30'
+p1156
+sg4
+Vrt AT_USER risk adjusted fundamental &amp; momentum scans put $ulta $v $ma $mktx $nke $ua $goog $googl $nvr $azo $orly on watch. retail payme\u2026
+p1157
+sg6
+S'11:30:18'
+p1158
+sg8
+VOptions Answers
+p1159
+sa(dp1160
+g2
+S'2015-11-30'
+p1161
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1162
+sg6
+S'11:26:56'
+p1163
+sg8
+VMarketingForJustice
+p1164
+sa(dp1165
+g2
+S'2015-11-30'
+p1166
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1167
+sg6
+S'11:25:11'
+p1168
+sg8
+VFrancisco Perez Bes
+p1169
+sa(dp1170
+g2
+S'2015-11-30'
+p1171
+sg4
+Vrt AT_USER ibm joins facebook, google in open sourcing machine learning software $ibm, $fb, $goog machinelearning URL
+p1172
+sg6
+S'11:24:39'
+p1173
+sg8
+Vduangthip chomprang
+p1174
+sa(dp1175
+g2
+S'2015-11-30'
+p1176
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1177
+sg6
+S'11:21:01'
+p1178
+sg8
+VTechnoplug
+p1179
+sa(dp1180
+g2
+S'2015-11-30'
+p1181
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1182
+sg6
+S'11:19:51'
+p1183
+sg8
+VNikki Blue
+p1184
+sa(dp1185
+g2
+S'2015-11-30'
+p1186
+sg4
+Vrisk adjusted fundamental &amp; momentum scans put $ulta $v $ma $mktx $nke $ua $goog $googl $nvr $azo $orly on watch. retail payments stocks
+p1187
+sg6
+S'11:19:28'
+p1188
+sg8
+VAnacott Steel
+p1189
+sa(dp1190
+g2
+S'2015-11-30'
+p1191
+sg4
+Vgoogle $goog implied volatility of 18 at lower end of index mean range
+p1192
+sg6
+S'11:16:32'
+p1193
+sg8
+VIVolatility 
+p1194
+sa(dp1195
+g2
+S'2015-11-30'
+p1196
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1197
+sg6
+S'11:16:24'
+p1198
+sg8
+VShawn Haugen
+p1199
+sa(dp1200
+g2
+S'2015-11-30'
+p1201
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1202
+sg6
+S'11:11:50'
+p1203
+sg8
+Vjjsesma
+p1204
+sa(dp1205
+g2
+S'2015-11-30'
+p1206
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1207
+sg6
+S'11:10:11'
+p1208
+sg8
+VALFARO & CALVO
+p1209
+sa(dp1210
+g2
+S'2015-11-30'
+p1211
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1212
+sg6
+S'11:05:17'
+p1213
+sg8
+VYann Kastelnik
+p1214
+sa(dp1215
+g2
+S'2015-11-30'
+p1216
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1217
+sg6
+S'11:04:32'
+p1218
+sg8
+VVivek Nadiminti
+p1219
+sa(dp1220
+g2
+S'2015-11-30'
+p1221
+sg4
+VAT_USER major breakout watch $ngcg: on the verge of breakout for today and beyond URL $goog, hemp, cannabis stocks
+p1222
+sg6
+S'11:02:37'
+p1223
+sg8
+Vsyberstock
+p1224
+sa(dp1225
+g2
+S'2015-11-30'
+p1226
+sg4
+V$goog - watch the latest episode of bizwiretv accelerator report from business wire URL
+p1227
+sg6
+S'11:01:08'
+p1228
+sg8
+VLive Stock News
+p1229
+sa(dp1230
+g2
+S'2015-11-30'
+p1231
+sg4
+V$goog - watch the latest episode of bizwiretv accelerator report from business wire URL
+p1232
+sg6
+S'11:01:05'
+p1233
+sg8
+Vyahyatuts
+p1234
+sa(dp1235
+g2
+S'2015-11-30'
+p1236
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1237
+sg6
+S'10:58:56'
+p1238
+sg8
+VdeOndernemer.nl
+p1239
+sa(dp1240
+g2
+S'2015-11-30'
+p1241
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1242
+sg6
+S'10:58:43'
+p1243
+sg8
+VFrederico
+p1244
+sa(dp1245
+g2
+S'2015-11-30'
+p1246
+sg4
+Vwhy access a ticker when you can access a group of tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1247
+sg6
+S'10:54:40'
+p1248
+sg8
+VFinBuzz
+p1249
+sa(dp1250
+g2
+S'2015-11-30'
+p1251
+sg4
+Vsai: google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1252
+sg6
+S'10:54:37'
+p1253
+sg8
+Vlluccipha
+p1254
+sa(dp1255
+g2
+S'2015-11-30'
+p1256
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1257
+sg6
+S'10:54:04'
+p1258
+sg8
+VRajesh Choudhari
+p1259
+sa(dp1260
+g2
+S'2015-11-30'
+p1261
+sg4
+Vbusinessinsider: google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1262
+sg6
+S'10:53:16'
+p1263
+sg8
+VInvesting Insight
+p1264
+sa(dp1265
+g2
+S'2015-11-30'
+p1266
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1267
+sg6
+S'10:51:58'
+p1268
+sg8
+VMETHAWINEE _©005
+p1269
+sa(dp1270
+g2
+S'2015-11-30'
+p1271
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1272
+sg6
+S'10:50:16'
+p1273
+sg8
+VKevin Faircloth
+p1274
+sa(dp1275
+g2
+S'2015-11-30'
+p1276
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1277
+sg6
+S'10:50:14'
+p1278
+sg8
+VJulio Villegas
+p1279
+sa(dp1280
+g2
+S'2015-11-30'
+p1281
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1282
+sg6
+S'10:47:17'
+p1283
+sg8
+VHezza
+p1284
+sa(dp1285
+g2
+S'2015-11-30'
+p1286
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1287
+sg6
+S'10:47:10'
+p1288
+sg8
+VTheRealAlexCurry
+p1289
+sa(dp1290
+g2
+S'2015-11-30'
+p1291
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1292
+sg6
+S'10:47:04'
+p1293
+sg8
+Vtamter
+p1294
+sa(dp1295
+g2
+S'2015-11-30'
+p1296
+sg4
+Vbusinessinsider: google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1297
+sg6
+S'10:46:48'
+p1298
+sg8
+VGeospatial Solutions
+p1299
+sa(dp1300
+g2
+S'2015-11-30'
+p1301
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1302
+sg6
+S'10:46:07'
+p1303
+sg8
+VDeepa Hande
+p1304
+sa(dp1305
+g2
+S'2015-11-30'
+p1306
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1307
+sg6
+S'10:45:41'
+p1308
+sg8
+VDebra D'Agostino
+p1309
+sa(dp1310
+g2
+S'2015-11-30'
+p1311
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL bpulse tech
+p1312
+sg6
+S'10:45:34'
+p1313
+sg8
+VBuzz Pulse
+p1314
+sa(dp1315
+g2
+S'2015-11-30'
+p1316
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1317
+sg6
+S'10:44:32'
+p1318
+sg8
+VLanga Digital
+p1319
+sa(dp1320
+g2
+S'2015-11-30'
+p1321
+sg4
+VAT_USER major breakout watch $ngcg: on the verge of breakout for today and beyond URL $spx, $goog, $twtr, $fb.
+p1322
+sg6
+S'10:44:17'
+p1323
+sg8
+Vsyberstock
+p1324
+sa(dp1325
+g2
+S'2015-11-30'
+p1326
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1327
+sg6
+S'10:43:40'
+p1328
+sg8
+VSuper TechStuff
+p1329
+sa(dp1330
+g2
+S'2015-11-30'
+p1331
+sg4
+Vluv southwest airlines co. message board posts URL $luv $ibm $ewg $goog luv nasdaq finance
+p1332
+sg6
+S'10:43:40'
+p1333
+sg8
+VIH News Desk
+p1334
+sa(dp1335
+g2
+S'2015-11-30'
+p1336
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1337
+sg6
+S'10:43:24'
+p1338
+sg8
+Vyologadget
+p1339
+sa(dp1340
+g2
+S'2015-11-30'
+p1341
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1342
+sg6
+S'10:43:18'
+p1343
+sg8
+VRGM Digital Media
+p1344
+sa(dp1345
+g2
+S'2015-11-30'
+p1346
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1347
+sg6
+S'10:42:48'
+p1348
+sg8
+VAbdullah alhowishan
+p1349
+sa(dp1350
+g2
+S'2015-11-30'
+p1351
+sg4
+Vkbe spdr kbw bank index etf 52wk low URL $kbe $fxch $goog $uso kbe finance invest
+p1352
+sg6
+S'10:42:33'
+p1353
+sg8
+VInvestors Hangout
+p1354
+sa(dp1355
+g2
+S'2015-11-30'
+p1356
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1357
+sg6
+S'10:42:31'
+p1358
+sg8
+VSpencer Valli
+p1359
+sa(dp1360
+g2
+S'2015-11-30'
+p1361
+sg4
+Vbusinessinsider: google has patented a way for its self-driving cars to talk to pedestrians $goog URL business
+p1362
+sg6
+S'10:42:23'
+p1363
+sg8
+VJoshua Flores
+p1364
+sa(dp1365
+g2
+S'2015-11-30'
+p1366
+sg4
+Vindiacem.in the india cements ltd. open URL $indiacem.in $tvix $goog $swks indiacem.in investing stockmarket
+p1367
+sg6
+S'10:42:22'
+p1368
+sg8
+Vlookn4wins
+p1369
+sa(dp1370
+g2
+S'2015-11-30'
+p1371
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1372
+sg6
+S'10:42:02'
+p1373
+sg8
+VLongstein
+p1374
+sa(dp1375
+g2
+S'2015-11-30'
+p1376
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1377
+sg6
+S'10:41:49'
+p1378
+sg8
+VCostanza Rivarossa
+p1379
+sa(dp1380
+g2
+S'2015-11-30'
+p1381
+sg4
+Vhow to make money trading $goog URL $$ stock investing
+p1382
+sg6
+S'10:41:43'
+p1383
+sg8
+Vsanusharma909
+p1384
+sa(dp1385
+g2
+S'2015-11-30'
+p1386
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1387
+sg6
+S'10:41:08'
+p1388
+sg8
+VSyed Faheem Razi
+p1389
+sa(dp1390
+g2
+S'2015-11-30'
+p1391
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1392
+sg6
+S'10:40:35'
+p1393
+sg8
+VComoLeoTwitteo
+p1394
+sa(dp1395
+g2
+S'2015-11-30'
+p1396
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1397
+sg6
+S'10:40:24'
+p1398
+sg8
+VHYTESH SAPKOTA \u2651
+p1399
+sa(dp1400
+g2
+S'2015-11-30'
+p1401
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1402
+sg6
+S'10:40:10'
+p1403
+sg8
+VJ sami (:
+p1404
+sa(dp1405
+g2
+S'2015-11-30'
+p1406
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1407
+sg6
+S'10:40:06'
+p1408
+sg8
+VPiecesToThePuzzle
+p1409
+sa(dp1410
+g2
+S'2015-11-30'
+p1411
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1412
+sg6
+S'10:40:06'
+p1413
+sg8
+V#PopeTroy
+p1414
+sa(dp1415
+g2
+S'2015-11-30'
+p1416
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1417
+sg6
+S'10:39:56'
+p1418
+sg8
+VJAME$
+p1419
+sa(dp1420
+g2
+S'2015-11-30'
+p1421
+sg4
+Vrt AT_USER google has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1422
+sg6
+S'10:39:45'
+p1423
+sg8
+VPajama Man
+p1424
+sa(dp1425
+g2
+S'2015-11-30'
+p1426
+sg4
+Vgoog alphabet inc. - class c company info URL $goog $efut $cod.l $dxj goog stocks invest
+p1427
+sg6
+S'10:39:37'
+p1428
+sg8
+VIH News Desk
+p1429
+sa(dp1430
+g2
+S'2015-11-30'
+p1431
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1432
+sg6
+S'10:39:33'
+p1433
+sg8
+VBI Tech
+p1434
+sa(dp1435
+g2
+S'2015-11-30'
+p1436
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1437
+sg6
+S'10:39:32'
+p1438
+sg8
+VBusiness Insider
+p1439
+sa(dp1440
+g2
+S'2015-11-30'
+p1441
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1442
+sg6
+S'10:39:08'
+p1443
+sg8
+VBI UK Tech
+p1444
+sa(dp1445
+g2
+S'2015-11-30'
+p1446
+sg4
+Vgoogle has patented a way for its self-driving cars to talk to pedestrians $goog URL
+p1447
+sg6
+S'10:39:08'
+p1448
+sg8
+VBusiness Insider UK
+p1449
+sa(dp1450
+g2
+S'2015-11-30'
+p1451
+sg4
+Vewz brazil ishares ideas URL $ewz $sphs $goog $plki ewz stocks nasdaq
+p1452
+sg6
+S'10:38:04'
+p1453
+sg8
+VRosner Stocks
+p1454
+sa(dp1455
+g2
+S'2015-11-30'
+p1456
+sg4
+Vthe 10 things in advertising you need to know today $aapl $goog $pcln $k wlst URL URL
+p1457
+sg6
+S'10:34:33'
+p1458
+sg8
+VWLST.com
+p1459
+sa(dp1460
+g2
+S'2015-11-30'
+p1461
+sg4
+Vthe 10 things in advertising you need to know today: [business insider] - good morning. h... URL $aapl $goog $pcln $k
+p1462
+sg6
+S'10:34:28'
+p1463
+sg8
+VThe Stock Professor
+p1464
+sa(dp1465
+g2
+S'2015-11-30'
+p1466
+sg4
+V$ctix percent change updated monday, november 30, 2015 05:07:03 am $nati $mo $xlb $goog URL
+p1467
+sg6
+S'10:30:35'
+p1468
+sg8
+VPolgarStocks
+p1469
+sa(dp1470
+g2
+S'2015-11-30'
+p1471
+sg4
+V$dsx filings updated monday, november 30, 2015 05:07:03 am $dow $xlf $goog $btu URL
+p1472
+sg6
+S'10:30:35'
+p1473
+sg8
+VPolgarStocks
+p1474
+sa(dp1475
+g2
+S'2015-11-30'
+p1476
+sg4
+Vrt AT_USER the 10 things in advertising you need to know today $amzn $fb $aapl $goog URL
+p1477
+sg6
+S'10:28:18'
+p1478
+sg8
+VKelly Travers
+p1479
+sa(dp1480
+g2
+S'2015-11-30'
+p1481
+sg4
+Vthe 10 things in advertising you need to know today $amzn $fb $aapl $goog URL
+p1482
+sg6
+S'10:28:06'
+p1483
+sg8
+VBusiness Insider UK
+p1484
+sa(dp1485
+g2
+S'2015-11-30'
+p1486
+sg4
+Vthe 10 things in advertising you need to know today $amzn $fb $aapl $goog URL by AT_USER
+p1487
+sg6
+S'10:28:04'
+p1488
+sg8
+VSam Ro
+p1489
+sa(dp1490
+g2
+S'2015-11-30'
+p1491
+sg4
+Vrt AT_USER .AT_USER blames third-parties for faulty usb type-c cable and adapter $goog URL URL
+p1492
+sg6
+S'10:21:15'
+p1493
+sg8
+Vmjworkz
+p1494
+sa(dp1495
+g2
+S'2015-11-30'
+p1496
+sg4
+V$goog institutional ownership up 2.87% q/q, with 14,877,600 net purchase URL URL
+p1497
+sg6
+S'10:17:02'
+p1498
+sg8
+VWatchTheFunds
+p1499
+sa(dp1500
+g2
+S'2015-11-30'
+p1501
+sg4
+Vrt AT_USER lots of interest in self driving cars + taxis globally $aapl $goog $tsla URL URL
+p1502
+sg6
+S'09:51:06'
+p1503
+sg8
+Valvin foo
+p1504
+sa(dp1505
+g2
+S'2015-11-30'
+p1506
+sg4
+Vrt AT_USER .AT_USER blames third-parties for faulty usb type-c cable and adapter $goog URL URL
+p1507
+sg6
+S'09:48:09'
+p1508
+sg8
+VVitan Ko\u010devar
+p1509
+sa(dp1510
+g2
+S'2015-11-30'
+p1511
+sg4
+Vrt AT_USER motivate 'hiring women is good for business' $goog $googl URL URL
+p1512
+sg6
+S'09:47:29'
+p1513
+sg8
+VFreda Reid
+p1514
+sa(dp1515
+g2
+S'2015-11-30'
+p1516
+sg4
+Vlots $amzn ads on $p late directing listeners over site. beyond $fb or $yhoo / $baba etc see lots synergies / $socl $goog $twtr AT_USER
+p1517
+sg6
+S'09:46:05'
+p1518
+sg8
+VZero Filter
+p1519
+sa(dp1520
+g2
+S'2015-11-30'
+p1521
+sg4
+V.AT_USER blames third-parties for faulty usb type-c cable and adapter $goog URL URL
+p1522
+sg6
+S'09:45:37'
+p1523
+sg8
+VTweakTown
+p1524
+sa(dp1525
+g2
+S'2015-11-30'
+p1526
+sg4
+V.AT_USER blames third-parties for faulty usb type-c cable and adapter $goog URL URL
+p1527
+sg6
+S'09:45:35'
+p1528
+sg8
+VCameron Wilmot
+p1529
+sa(dp1530
+g2
+S'2015-11-30'
+p1531
+sg4
+Vgoog alphabet inc. - class c dividend URL $goog $smwh.l $cyh $dba goog stocks pennystocks
+p1532
+sg6
+S'09:39:13'
+p1533
+sg8
+Vlookn4wins
+p1534
+sa(dp1535
+g2
+S'2015-11-30'
+p1536
+sg4
+Vrt AT_USER $cprx is going good these days URL $mnga $kbio $abio $ibb $spy $tsla $sune $scty $aapl $yhoo $goog $g\u2026
+p1537
+sg6
+S'09:34:45'
+p1538
+sg8
+Vconstance grisham
+p1539
+sa(dp1540
+g2
+S'2015-11-30'
+p1541
+sg4
+Vaezs aeterna zentaris inc. investor opinions URL $aezs $espr $lnkd $goog aezs pennystocks share
+p1542
+sg6
+S'09:33:18'
+p1543
+sg8
+VInvestors Hangout
+p1544
+sa(dp1545
+g2
+S'2015-11-30'
+p1546
+sg4
+Vfacebook has reached out to youtube's biggest stars to urge them to distribute their videos on facebook. URL $fb $goog
+p1547
+sg6
+S'08:59:56'
+p1548
+sg8
+VThe Cleveland Post
+p1549
+sa(dp1550
+g2
+S'2015-11-30'
+p1551
+sg4
+Vmost popular tweets: $aapl $fb $amzn $spx $twtr $nwbo $tsla $goog $dis $nflx lse nasdaq nyse stocks trading URL
+p1552
+sg6
+S'08:50:15'
+p1553
+sg8
+VAlpha Maven
+p1554
+sa(dp1555
+g2
+S'2015-11-30'
+p1556
+sg4
+Vswks skyworks solutions inc. summary URL $swks $goog $bpcl.in $lfap swks stockmarket nasdaq
+p1557
+sg6
+S'08:48:08'
+p1558
+sg8
+VLucky Jimmy
+p1559
+sa(dp1560
+g2
+S'2015-11-30'
+p1561
+sg4
+Vgoog alphabet inc. - class c summary URL $goog $nbix $tsn $plab goog stocks investing
+p1562
+sg6
+S'08:40:06'
+p1563
+sg8
+VJake13
+p1564
+sa(dp1565
+g2
+S'2015-11-30'
+p1566
+sg4
+Vewj japan ishares financials URL $ewj $goog $xlf $lnc ewj invest invest
+p1567
+sg6
+S'08:37:41'
+p1568
+sg8
+VInvestors Hangout
+p1569
+sa(dp1570
+g2
+S'2015-11-30'
+p1571
+sg4
+Veum proshares short msci emerging markets last price URL $eum $goog $dwti $nk eum finance invest
+p1572
+sg6
+S'08:37:33'
+p1573
+sg8
+Vdanrocks
+p1574
+sa(dp1575
+g2
+S'2015-11-30'
+p1576
+sg4
+Valphabet: google is ready for the mobile internet of apps URL $goog $googl
+p1577
+sg6
+S'08:32:26'
+p1578
+sg8
+VMegha Saini
+p1579
+sa(dp1580
+g2
+S'2015-11-30'
+p1581
+sg4
+Vrt AT_USER $kitd up today on higher than average volume, combination of ceo presenting at roth yest. and the $goog /brightcove buyout \u2026
+p1582
+sg6
+S'08:09:26'
+p1583
+sg8
+VCary
+p1584
+sa(dp1585
+g2
+S'2015-11-30'
+p1586
+sg4
+Vrt AT_USER what is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p1587
+sg6
+S'07:34:15'
+p1588
+sg8
+VJames DiPlata
+p1589
+sa(dp1590
+g2
+S'2015-11-30'
+p1591
+sg4
+Vkik me ello twitter facebook seo $aapl $goog whatsapp kik memes iphone ipod iphone is great with webfonts.
+p1592
+sg6
+S'07:30:32'
+p1593
+sg8
+V\uff1f\uff1f\uff1f\uff1f \u2764\ufe0f
+p1594
+sa(dp1595
+g2
+S'2015-11-30'
+p1596
+sg4
+Vrt AT_USER $apo filings updated sunday, november 29, 2015 10:07:03 pm $v $xlu $hmsy $goog URL
+p1597
+sg6
+S'07:21:56'
+p1598
+sg8
+VOptions Answers
+p1599
+sa(dp1600
+g2
+S'2015-11-30'
+p1601
+sg4
+Vrt AT_USER $goog last price updated sunday, november 29, 2015 8:07:02 pm $alxn $stz $bidu $a URL
+p1602
+sg6
+S'07:21:56'
+p1603
+sg8
+VOptions Answers
+p1604
+sa(dp1605
+g2
+S'2015-11-30'
+p1606
+sg4
+Vrt AT_USER saluting great norcal tech cos including: $aapl $goog $tsla $crm $fb $intc $twtr $adbe $adsk $csco $nflx $ebay $dna $hpq $o\u2026
+p1607
+sg6
+S'07:21:18'
+p1608
+sg8
+VEric Foxhill
+p1609
+sa(dp1610
+g2
+S'2015-11-30'
+p1611
+sg4
+V$dis filings updated monday, november 30, 2015 01:10:58 am $xop $edv $kre $goog URL
+p1612
+sg6
+S'07:03:39'
+p1613
+sg8
+VIH News Desk
+p1614
+sa(dp1615
+g2
+S'2015-11-30'
+p1616
+sg4
+Vtwtr twitter, inc. message board posts URL $twtr $gme $airm $goog twtr stocks pennystocks
+p1617
+sg6
+S'06:49:03'
+p1618
+sg8
+Vlookn4wins
+p1619
+sa(dp1620
+g2
+S'2015-11-30'
+p1621
+sg4
+Vis it a loon or is it a drone? google seeks experimental radio license\u2026 URL google $goog $googl URL
+p1622
+sg6
+S'06:41:11'
+p1623
+sg8
+V#SocialMedia NC
+p1624
+sa(dp1625
+g2
+S'2015-11-30'
+p1626
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p1627
+sg6
+S'06:35:13'
+p1628
+sg8
+VFinBuzz
+p1629
+sa(dp1630
+g2
+S'2015-11-30'
+p1631
+sg4
+Vamcc applied micro circuits corp. prev close URL $amcc $goog $uup $cvx amcc finance stock
+p1632
+sg6
+S'06:35:06'
+p1633
+sg8
+Vleahanne
+p1634
+sa(dp1635
+g2
+S'2015-11-30'
+p1636
+sg4
+V$nflx percent change updated monday, november 30, 2015 00:59:23 am $iyr $goog $dust $pnqi URL
+p1637
+sg6
+S'06:30:20'
+p1638
+sg8
+VRosner Stocks
+p1639
+sa(dp1640
+g2
+S'2015-11-30'
+p1641
+sg4
+Vtrack trending assets in 1 watchlist $goog $rket $sensex $twtr URL URL
+p1642
+sg6
+S'06:20:09'
+p1643
+sg8
+VFinBuzz
+p1644
+sa(dp1645
+g2
+S'2015-11-30'
+p1646
+sg4
+Vrt AT_USER why is day trading failure so common? | find out here: URL $spy $qqq $dia $goog $twtr $gpro $x htt\u2026
+p1647
+sg6
+S'06:18:53'
+p1648
+sg8
+VTime=Best Stock
+p1649
+sa(dp1650
+g2
+S'2015-11-30'
+p1651
+sg4
+Vrt AT_USER why is day trading failure so common? | find out here: URL $spy $qqq $dia $goog $twtr $gpro $x htt\u2026
+p1652
+sg6
+S'06:13:56'
+p1653
+sg8
+VNASDAQStocks
+p1654
+sa(dp1655
+g2
+S'2015-11-30'
+p1656
+sg4
+Vwhy is day trading failure so common? | find out here: URL $spy $qqq $dia $goog $twtr $gpro $x URL
+p1657
+sg6
+S'06:06:15'
+p1658
+sg8
+VRoss Cameron
+p1659
+sa(dp1660
+g2
+S'2015-11-30'
+p1661
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p1662
+sg6
+S'06:05:42'
+p1663
+sg8
+VFinBuzz
+p1664
+sa(dp1665
+g2
+S'2015-11-30'
+p1666
+sg4
+Vrt AT_USER top trade patterns in stock...cheer. $study $aapl $baba $fb $xom $cvx $amzn $goog $msft $ibm $mon stockmarket URL
+p1667
+sg6
+S'06:05:34'
+p1668
+sg8
+VJoshua Carbajal
+p1669
+sa(dp1670
+g2
+S'2015-11-30'
+p1671
+sg4
+Vdata breach at hk toy maker vtech highlights broader problems $aapl $goog $pcln $k wlst URL URL
+p1672
+sg6
+S'06:02:48'
+p1673
+sg8
+VWLST.com
+p1674
+sa(dp1675
+g2
+S'2015-11-30'
+p1676
+sg4
+Vdata breach at hk toy maker vtech highlights broader problems: URL $aapl $goog $pcln $k
+p1677
+sg6
+S'06:02:35'
+p1678
+sg8
+VThe Stock Professor
+p1679
+sa(dp1680
+g2
+S'2015-11-30'
+p1681
+sg4
+Vtickers trending on twtr in last 1 hour $eurusd $goog $rket $sensex $twtr URL URL
+p1682
+sg6
+S'06:02:14'
+p1683
+sg8
+VFinBuzz
+p1684
+sa(dp1685
+g2
+S'2015-11-30'
+p1686
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p1687
+sg6
+S'05:23:00'
+p1688
+sg8
+VFinBuzz
+p1689
+sa(dp1690
+g2
+S'2015-11-30'
+p1691
+sg4
+Vthe 25 most disruptive brands of 2015: URL $aapl $goog $pcln $k
+p1692
+sg6
+S'04:51:21'
+p1693
+sg8
+VThe Stock Professor
+p1694
+sa(dp1695
+g2
+S'2015-11-30'
+p1696
+sg4
+Vgoogle&amp;x27;s secret weapon is not the only thing i like URL $goog $googl
+p1697
+sg6
+S'04:41:55'
+p1698
+sg8
+Vspencer philpott
+p1699
+sa(dp1700
+g2
+S'2015-11-30'
+p1701
+sg4
+Vhrl hormel foods corp. 52wk low URL $hrl $cost $myec $goog hrl nasdaq stockmarket
+p1702
+sg6
+S'04:39:12'
+p1703
+sg8
+VInvestors Hangout
+p1704
+sa(dp1705
+g2
+S'2015-11-30'
+p1706
+sg4
+V$mxim last price updated sunday, november 29, 2015 11:07:07 pm $dow $uup $pphm $goog URL
+p1707
+sg6
+S'04:27:10'
+p1708
+sg8
+VPolgarStocks
+p1709
+sa(dp1710
+g2
+S'2015-11-30'
+p1711
+sg4
+V$xli stock price updated sunday, november 29, 2015 11:07:07 pm $blta $vnm $xiv $goog URL
+p1712
+sg6
+S'04:27:07'
+p1713
+sg8
+VPolgarStocks
+p1714
+sa(dp1715
+g2
+S'2015-11-30'
+p1716
+sg4
+Vfree day/swing trading chat room for cybermonday! URL $aapl $fb $goog $twtr $gpro $tsla $grpn URL
+p1717
+sg6
+S'03:25:04'
+p1718
+sg8
+VSwing Trade Warrior
+p1719
+sa.

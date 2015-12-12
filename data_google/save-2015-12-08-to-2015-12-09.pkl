@@ -1,0 +1,4218 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-08'
+p3
+sS'text'
+p4
+Vmicrosoft: bringing windows 10 and universal apps to vehicle infotainment would change ever... URL $aapl $bbry $goog
+p5
+sS'time'
+p6
+S'20:30:03'
+p7
+sS'author'
+p8
+VTech Stocks
+p9
+sa(dp10
+g2
+S'2015-12-08'
+p11
+sg4
+V$goog doesnt want to come out today. just wants to kill my premiums.
+p12
+sg6
+S'20:25:52'
+p13
+sg8
+VDtrades
+p14
+sa(dp15
+g2
+S'2015-12-08'
+p16
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $db $goog $kmi $psk URL URL
+p17
+sg6
+S'20:23:13'
+p18
+sg8
+VFinBuzz
+p19
+sa(dp20
+g2
+S'2015-12-08'
+p21
+sg4
+Vrt AT_USER spotify reverses a non-subscriber streaming policy as competition in music space heats up: URL $p $aapl\u2026
+p22
+sg6
+S'20:18:41'
+p23
+sg8
+VVictor
+p24
+sa(dp25
+g2
+S'2015-12-08'
+p26
+sg4
+V5 growth investment themes for 2016 and beyond URL $aapl apple $amzn $atrs $biib $crm $ecl $fb $goog $googl $nflx
+p27
+sg6
+S'20:16:46'
+p28
+sg8
+VJanie Tracey
+p29
+sa(dp30
+g2
+S'2015-12-08'
+p31
+sg4
+V$goog alphabet inc (googl) is jennison associates' 7th largest position: alphabet inc (googl) is jennison ass... URL
+p32
+sg6
+S'20:16:28'
+p33
+sg8
+VFinancePress
+p34
+sa(dp35
+g2
+S'2015-12-08'
+p36
+sg4
+Vrt AT_USER $amzn booooom up 150% from our entry this am - like that!! join us today URL $googl $goog $fb $aapl $n\u2026
+p37
+sg6
+S'20:07:39'
+p38
+sg8
+VDtrades
+p39
+sa(dp40
+g2
+S'2015-12-08'
+p41
+sg4
+Vjennison associates raises stake in alphabet inc $goog URL
+p42
+sg6
+S'20:06:08'
+p43
+sg8
+VDakota Financial
+p44
+sa(dp45
+g2
+S'2015-12-08'
+p46
+sg4
+Vspotify reverses a non-subscriber streaming policy as competition in music space heats up: URL $p $aapl $goog
+p47
+sg6
+S'20:05:26'
+p48
+sg8
+VThe Fly
+p49
+sa(dp50
+g2
+S'2015-12-08'
+p51
+sg4
+Vtop 5 innovators according to bcg: $aapl $goog $msft $tsla samsung URL URL
+p52
+sg6
+S'20:05:08'
+p53
+sg8
+VMosse Rodbay
+p54
+sa(dp55
+g2
+S'2015-12-08'
+p56
+sg4
+Vjennison associates raises stake in alphabet inc $goog URL acn
+p57
+sg6
+S'20:02:37'
+p58
+sg8
+VConsumer News
+p59
+sa(dp60
+g2
+S'2015-12-08'
+p61
+sg4
+Vjennison associates raises stake in alphabet inc $goog URL
+p62
+sg6
+S'20:01:44'
+p63
+sg8
+VTicker Report
+p64
+sa(dp65
+g2
+S'2015-12-08'
+p66
+sg4
+Vjennison associates raises stake in alphabet inc $goog URL
+p67
+sg6
+S'19:59:37'
+p68
+sg8
+VUS Banking News
+p69
+sa(dp70
+g2
+S'2015-12-08'
+p71
+sg4
+Vrt AT_USER finding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p72
+sg6
+S'19:56:35'
+p73
+sg8
+VMs Marie
+p74
+sa(dp75
+g2
+S'2015-12-08'
+p76
+sg4
+V$goog +.13% vs $googl +.64%...
+p77
+sg6
+S'19:56:13'
+p78
+sg8
+VNic
+p79
+sa(dp80
+g2
+S'2015-12-08'
+p81
+sg4
+V_spy s&amp;p 500 spdrs message board posts URL $_spy $hxu.to $goog $clr _spy nasdaq tradeideas
+p82
+sg6
+S'19:52:11'
+p83
+sg8
+Vclayton
+p84
+sa(dp85
+g2
+S'2015-12-08'
+p86
+sg4
+V$goog received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 410
+p87
+sg6
+S'19:47:32'
+p88
+sg8
+VMedia Sentiment
+p89
+sa(dp90
+g2
+S'2015-12-08'
+p91
+sg4
+Vmenlo advisors sells 5,280 shares of alphabet inc $goog URL acn
+p92
+sg6
+S'19:47:08'
+p93
+sg8
+VConsumer News
+p94
+sa(dp95
+g2
+S'2015-12-08'
+p96
+sg4
+Vlets go $goog big green you got making up to do!
+p97
+sg6
+S'19:46:44'
+p98
+sg8
+VDtrades
+p99
+sa(dp100
+g2
+S'2015-12-08'
+p101
+sg4
+Vmenlo advisors sells 5,280 shares of alphabet inc $goog URL
+p102
+sg6
+S'19:46:25'
+p103
+sg8
+VTicker Report
+p104
+sa(dp105
+g2
+S'2015-12-08'
+p106
+sg4
+Vslv ishares silver trust ideas URL $slv $goog $save $tlt slv stock pennystocks
+p107
+sg6
+S'19:46:06'
+p108
+sg8
+VInvestors Hangout
+p109
+sa(dp110
+g2
+S'2015-12-08'
+p111
+sg4
+Vmenlo advisors sells 5,280 shares of alphabet inc $goog URL
+p112
+sg6
+S'19:44:44'
+p113
+sg8
+VUS Banking News
+p114
+sa(dp115
+g2
+S'2015-12-08'
+p116
+sg4
+V$amzn booooom up 150% from our entry this am - like that!! join us today URL $googl $goog $fb $aapl $nflx
+p117
+sg6
+S'19:43:56'
+p118
+sg8
+VNavi Avatar
+p119
+sa(dp120
+g2
+S'2015-12-08'
+p121
+sg4
+Valphabet inc adds protection for mobile users at long last $goog $googl URL
+p122
+sg6
+S'19:39:30'
+p123
+sg8
+VLearnBonds.com
+p124
+sa(dp125
+g2
+S'2015-12-08'
+p126
+sg4
+Vgoog alphabet inc. - class c company info URL $goog $ilmn $pcln $gg goog stockmarket stock
+p127
+sg6
+S'19:38:35'
+p128
+sg8
+VDennyT
+p129
+sa(dp130
+g2
+S'2015-12-08'
+p131
+sg4
+Vrt AT_USER 6 winners following a rate increase $aapl $ctsh $dltr $goog URL via AT_USER
+p132
+sg6
+S'19:38:30'
+p133
+sg8
+VKevbeau68
+p134
+sa(dp135
+g2
+S'2015-12-08'
+p136
+sg4
+Verx direxion daily energy bull 3x shares p/e ratio URL $erx $gg $goog $twtr erx nasdaq stock
+p137
+sg6
+S'19:37:03'
+p138
+sg8
+VInvestors Hangout
+p139
+sa(dp140
+g2
+S'2015-12-08'
+p141
+sg4
+V6 winners following a rate increase $aapl $ctsh $dltr $goog URL via AT_USER
+p142
+sg6
+S'19:34:17'
+p143
+sg8
+VBobby Wilbert
+p144
+sa(dp145
+g2
+S'2015-12-08'
+p146
+sg4
+Vrt AT_USER year in review: the top 10 technology stories of 2015 URL $ncr $goog URL
+p147
+sg6
+S'19:33:54'
+p148
+sg8
+VSmith & Howard Tech
+p149
+sa(dp150
+g2
+S'2015-12-08'
+p151
+sg4
+Vrt: dapennystockdon: $mkau - use squuak to connect to facebook $fb, twitter $twtr, linkedin $lnkd, googleplus $goog, pinterest and youtu\u2026
+p152
+sg6
+S'19:33:37'
+p153
+sg8
+ViAppleTom Pinterest
+p154
+sa(dp155
+g2
+S'2015-12-08'
+p156
+sg4
+Vas we stated incessantly over past month - the breadth&amp;depth major cos using $twtr ads &amp; &gt;r adload should worry shorts // $goog $fb $aapl
+p157
+sg6
+S'19:32:19'
+p158
+sg8
+VZero Filter
+p159
+sa(dp160
+g2
+S'2015-12-08'
+p161
+sg4
+Vgain from movement in these buzzing assets $db $goog $kmi $outr $psx URL URL
+p162
+sg6
+S'19:29:26'
+p163
+sg8
+VFinBuzz
+p164
+sa(dp165
+g2
+S'2015-12-08'
+p166
+sg4
+Vinstagram brings '3d touch'-like functionality to android: URL $aapl $goog $pcln $k
+p167
+sg6
+S'19:27:45'
+p168
+sg8
+VThe Stock Professor
+p169
+sa(dp170
+g2
+S'2015-12-08'
+p171
+sg4
+Vrt AT_USER year in review: the top 10 technology stories of 2015 URL $ncr $goog URL
+p172
+sg6
+S'19:26:39'
+p173
+sg8
+VKennyatta R.
+p174
+sa(dp175
+g2
+S'2015-12-08'
+p176
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p177
+sg6
+S'19:25:57'
+p178
+sg8
+Vexpri.org
+p179
+sa(dp180
+g2
+S'2015-12-08'
+p181
+sg4
+V$mkau - use squuak to connect to facebook $fb, twitter $twtr, linkedin $lnkd, googleplus $goog, pinterest and youtube
+p182
+sg6
+S'19:24:06'
+p183
+sg8
+VPenny Stock Don
+p184
+sa(dp185
+g2
+S'2015-12-08'
+p186
+sg4
+Vthe top tech picks from jonathon jacobson\u2019s $11 billion equity portfolio $ibm, $pypl, $ebay, $goog, $googl, $msft URL
+p187
+sg6
+S'19:21:34'
+p188
+sg8
+VInsider Monkey
+p189
+sa(dp190
+g2
+S'2015-12-08'
+p191
+sg4
+Vthe top tech picks from jonathon jacobson\u2019s $11 billion equity portfolio $ibm, $pypl, $ebay, $goog, $googl, $msft URL
+p192
+sg6
+S'19:21:17'
+p193
+sg8
+VInsider Monkey News
+p194
+sa(dp195
+g2
+S'2015-12-08'
+p196
+sg4
+Vrt AT_USER year in review: the top 10 technology stories of 2015 URL $ncr $goog URL
+p197
+sg6
+S'19:21:03'
+p198
+sg8
+Vyouproxything
+p199
+sa(dp200
+g2
+S'2015-12-08'
+p201
+sg4
+Vyear in review: the top 10 technology stories of 2015 URL $ncr $goog URL
+p202
+sg6
+S'19:20:30'
+p203
+sg8
+VAtlBizChron
+p204
+sa(dp205
+g2
+S'2015-12-08'
+p206
+sg4
+Vwhat lunes sold-down $twtr ~ 5.5% lower during amateurhour ? $goog $aapl $msft $amzn
+p207
+sg6
+S'19:20:16'
+p208
+sg8
+VZero Filter
+p209
+sa(dp210
+g2
+S'2015-12-08'
+p211
+sg4
+Vrt AT_USER the 50 most innovative companies of 2015 URL $aapl $goog tesla 50mostinnovative URL
+p212
+sg6
+S'19:18:38'
+p213
+sg8
+VAlejandro Almánzar
+p214
+sa(dp215
+g2
+S'2015-12-08'
+p216
+sg4
+Vrt AT_USER review: google pixel c - wired URL google $goog $googl URL
+p217
+sg6
+S'19:09:07'
+p218
+sg8
+VSyed Afzal Ali
+p219
+sa(dp220
+g2
+S'2015-12-08'
+p221
+sg4
+Vrt AT_USER review: google pixel c - wired URL google $goog $googl URL
+p222
+sg6
+S'19:08:05'
+p223
+sg8
+VSanta's Workshop
+p224
+sa(dp225
+g2
+S'2015-12-08'
+p226
+sg4
+Vreview: google pixel c - wired URL google $goog $googl URL
+p227
+sg6
+S'19:02:39'
+p228
+sg8
+V#SocialMedia NC
+p229
+sa(dp230
+g2
+S'2015-12-08'
+p231
+sg4
+Vhome to a combined 6+ million people, chicago and l.a. are the two largest metros we've engaged with to date." $goog
+p232
+sg6
+S'18:57:14'
+p233
+sg8
+VHipster
+p234
+sa(dp235
+g2
+S'2015-12-08'
+p236
+sg4
+Vi imagine longer term many people will drop $t $cmcsa $vz in favor of $goog URL
+p237
+sg6
+S'18:54:45'
+p238
+sg8
+VHipster
+p239
+sa(dp240
+g2
+S'2015-12-08'
+p241
+sg4
+Vanother loon AT_USER pumping $fang names - this time as great ideas for '16 regardless of valuation - wow... $fb $amzn $nflx $goog zerohedge
+p242
+sg6
+S'18:53:55'
+p243
+sg8
+VZona Harrison
+p244
+sa(dp245
+g2
+S'2015-12-08'
+p246
+sg4
+V$goog alphabet needs chromecast to increase its advertising audience: alphabet needs chromecast to increase i... URL
+p247
+sg6
+S'18:51:37'
+p248
+sg8
+VFinancePress
+p249
+sa(dp250
+g2
+S'2015-12-08'
+p251
+sg4
+Vxli industrials select sector spdr day high URL $xli $xli $uvxy $goog xli share invest
+p252
+sg6
+S'18:51:04'
+p253
+sg8
+VStock_Tracker
+p254
+sa(dp255
+g2
+S'2015-12-08'
+p256
+sg4
+V$mdt any partnership with $aapl or $goog will be nice. near breakout point. consolidating for almost one year.
+p257
+sg6
+S'18:46:28'
+p258
+sg8
+VWarren Short Term
+p259
+sa(dp260
+g2
+S'2015-12-08'
+p261
+sg4
+Voih market vectors oil services ask size URL $oih $twtr $xlk $goog oih pennystocks pennystocks
+p262
+sg6
+S'18:44:24'
+p263
+sg8
+Vlookn4wins
+p264
+sa(dp265
+g2
+S'2015-12-08'
+p266
+sg4
+Vjnk spdr barclays high yield bond etf p/e ratio URL $jnk $goog $v $ual jnk stocks investing
+p267
+sg6
+S'18:41:12'
+p268
+sg8
+VRosner Stocks
+p269
+sa(dp270
+g2
+S'2015-12-08'
+p271
+sg4
+V.AT_USER set to be carbon neutral by 2020 $goog URL URL
+p272
+sg6
+S'18:40:13'
+p273
+sg8
+VCameron Wilmot
+p274
+sa(dp275
+g2
+S'2015-12-08'
+p276
+sg4
+Vgoog alphabet inc. - class c bid URL $goog $tza $oih $ppl goog tradeideas pennystocks
+p277
+sg6
+S'18:40:11'
+p278
+sg8
+VIH NASDAQ OMX
+p279
+sa(dp280
+g2
+S'2015-12-08'
+p281
+sg4
+V.AT_USER set to be carbon neutral by 2020 $goog URL URL
+p282
+sg6
+S'18:40:06'
+p283
+sg8
+VTweakTown
+p284
+sa(dp285
+g2
+S'2015-12-08'
+p286
+sg4
+Valphabet rolls out google play music in south africa -URL - $goog traveltuesday URL
+p287
+sg6
+S'18:35:01'
+p288
+sg8
+VBidness Etc
+p289
+sa(dp290
+g2
+S'2015-12-08'
+p291
+sg4
+V$goog max pain = 755.00. maturity = 12/11/2015. previous close = 759.55. URL
+p292
+sg6
+S'18:32:29'
+p293
+sg8
+VDan
+p294
+sa(dp295
+g2
+S'2015-12-08'
+p296
+sg4
+Vbox: a speculative play URL $goog $msft $googl $box
+p297
+sg6
+S'18:30:06'
+p298
+sg8
+VTech Stocks
+p299
+sa(dp300
+g2
+S'2015-12-08'
+p301
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p302
+sg6
+S'18:20:28'
+p303
+sg8
+Valiveinthecloud
+p304
+sa(dp305
+g2
+S'2015-12-08'
+p306
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p307
+sg6
+S'18:20:12'
+p308
+sg8
+Valiveinthecloud
+p309
+sa(dp310
+g2
+S'2015-12-08'
+p311
+sg4
+Vgoogle renames life sciences biz to 'verily' \u2013 via AT_USER URL $goog
+p312
+sg6
+S'18:17:38'
+p313
+sg8
+Vmedtech[y]
+p314
+sa(dp315
+g2
+S'2015-12-08'
+p316
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $amzn $mcox $goog
+p317
+sg6
+S'18:12:59'
+p318
+sg8
+VPaul Henry
+p319
+sa(dp320
+g2
+S'2015-12-08'
+p321
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p322
+sg6
+S'18:12:27'
+p323
+sg8
+V887me
+p324
+sa(dp325
+g2
+S'2015-12-08'
+p326
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p327
+sg6
+S'18:11:56'
+p328
+sg8
+V887me
+p329
+sa(dp330
+g2
+S'2015-12-08'
+p331
+sg4
+Valphabet inc adds protection for mobile users at long last $goog $googl URL
+p332
+sg6
+S'18:09:27'
+p333
+sg8
+VLearnBonds.com
+p334
+sa(dp335
+g2
+S'2015-12-08'
+p336
+sg4
+V$googl $goog pixelc tablet URL
+p337
+sg6
+S'18:09:08'
+p338
+sg8
+VJohn Earl Burnett
+p339
+sa(dp340
+g2
+S'2015-12-08'
+p341
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $amzn $mcox $goog
+p342
+sg6
+S'18:03:30'
+p343
+sg8
+VMichael James
+p344
+sa(dp345
+g2
+S'2015-12-08'
+p346
+sg4
+Vapple reportedly planning march watch event: URL $aapl $goog $pcln $k
+p347
+sg6
+S'18:02:03'
+p348
+sg8
+VThe Stock Professor
+p349
+sa(dp350
+g2
+S'2015-12-08'
+p351
+sg4
+VAT_USER the other reason(s) like $redf $baba $bidu $goog $fb $msft and other tech co's all getting active in india we shall seeeee :)
+p352
+sg6
+S'18:01:18'
+p353
+sg8
+Vcjboro
+p354
+sa(dp355
+g2
+S'2015-12-08'
+p356
+sg4
+Vthat investors are being led to buy $fb $goog $nflx $amzn with unrealistic valuations when market is weak is extremely irresponsible
+p357
+sg6
+S'18:00:40'
+p358
+sg8
+ViLostMoneyTrading
+p359
+sa(dp360
+g2
+S'2015-12-08'
+p361
+sg4
+Vthe most worrying thing in this bull market is $fang strength when market weak $fb $goog $nflx $amzn this can only be dangerous
+p362
+sg6
+S'17:59:53'
+p363
+sg8
+ViLostMoneyTrading
+p364
+sa(dp365
+g2
+S'2015-12-08'
+p366
+sg4
+V$fb looking good my $rlyp and $goog positions just goofing off withe the rest of the market
+p367
+sg6
+S'17:51:29'
+p368
+sg8
+VDtrades
+p369
+sa(dp370
+g2
+S'2015-12-08'
+p371
+sg4
+Vsalt scorpio bulkers inc. exchange URL $salt $spxs $phm.v $goog salt stocks invest
+p372
+sg6
+S'17:46:10'
+p373
+sg8
+VPolgarStocks
+p374
+sa(dp375
+g2
+S'2015-12-08'
+p376
+sg4
+V$vz ceo issue statement that they would look at $yhoo his comments can put internet media in play $yhoo $twtr &amp; heat $fb $lnkd &amp; $goog
+p377
+sg6
+S'17:45:54'
+p378
+sg8
+VJustTradingHoy
+p379
+sa(dp380
+g2
+S'2015-12-08'
+p381
+sg4
+Vrt AT_USER apple maps is dominating google maps on the iphone $aapl $goog URL
+p382
+sg6
+S'17:42:56'
+p383
+sg8
+VThomas Mansfield
+p384
+sa(dp385
+g2
+S'2015-12-08'
+p386
+sg4
+Vrt AT_USER we'll add more $goog at $1149.50.
+p387
+sg6
+S'17:41:53'
+p388
+sg8
+VJimmy
+p389
+sa(dp390
+g2
+S'2015-12-08'
+p391
+sg4
+Vhnu.to horizons betapro nymex natural gas bull plus etf p/e ratio URL $hnu.to $nke $goog $ambs hnu.to finance\u2026
+p392
+sg6
+S'17:39:33'
+p393
+sg8
+VInvestors Hangout
+p394
+sa(dp395
+g2
+S'2015-12-08'
+p396
+sg4
+Vgoog alphabet inc. - class c bid size URL $goog $nbggy $sil $aryc goog stockmarket investing
+p397
+sg6
+S'17:39:02'
+p398
+sg8
+VEmylers
+p399
+sa(dp400
+g2
+S'2015-12-08'
+p401
+sg4
+Vdis walt disney co. message board posts URL $dis $vale $lly $goog dis invest pennystocks
+p402
+sg6
+S'17:36:09'
+p403
+sg8
+VInvestors Hangout
+p404
+sa(dp405
+g2
+S'2015-12-08'
+p406
+sg4
+Vrt AT_USER five minute trades URL $aapl $iwm $v ibb $gpro $bbry $tsla $fb $xlf $jpm $goog $twtr $fit $shak $us\u2026
+p407
+sg6
+S'17:36:09'
+p408
+sg8
+VForex First Aids
+p409
+sa(dp410
+g2
+S'2015-12-08'
+p411
+sg4
+V$goog AT_USER ceo AT_USER could introduce android v2 in india visit. indian internet penetration growing with affordable smartphones.
+p412
+sg6
+S'17:35:43'
+p413
+sg8
+VBQ Eq Resch Training
+p414
+sa(dp415
+g2
+S'2015-12-08'
+p416
+sg4
+VAT_USER $goog ceo AT_USER could introduce android v2 in india visit. indian internet penetration growing with affordable smartphones.
+p417
+sg6
+S'17:34:25'
+p418
+sg8
+VBQ Eq Resch Training
+p419
+sa(dp420
+g2
+S'2015-12-08'
+p421
+sg4
+Vrt AT_USER auy yamana gold inc. stock forum URL $auy $vti $xly $goog auy share stock
+p422
+sg6
+S'17:33:00'
+p423
+sg8
+VOptions Answers
+p424
+sa(dp425
+g2
+S'2015-12-08'
+p426
+sg4
+Vrt AT_USER fang less \u2013 facebook, amazon, netflix and google URL $fb $amzn $nflx $goog URL
+p427
+sg6
+S'17:30:48'
+p428
+sg8
+VDaniel Cabral
+p429
+sa(dp430
+g2
+S'2015-12-08'
+p431
+sg4
+Vfive minute trades URL $aapl $iwm $v ibb $gpro $bbry $tsla $fb $xlf $jpm $goog $twtr $fit $shak $uso $gdx $dwti $uwti
+p432
+sg6
+S'17:30:03'
+p433
+sg8
+Vtradewithjoe
+p434
+sa(dp435
+g2
+S'2015-12-08'
+p436
+sg4
+Vhow does AT_USER compete against $goog, $fb and $nflx in hiring? vp talent AT_USER explains her secret URL
+p437
+sg6
+S'17:26:56'
+p438
+sg8
+VRick Chen
+p439
+sa(dp440
+g2
+S'2015-12-08'
+p441
+sg4
+Vrt AT_USER $ubqu in full break out! hottest new mj stock! $thcz $cgrw $gblx $ngcg $ecig $grnh $eaph $hemp $cbis $fnma $aapl $goog $\u2026
+p442
+sg6
+S'17:25:28'
+p443
+sg8
+VHaas
+p444
+sa(dp445
+g2
+S'2015-12-08'
+p446
+sg4
+Vrt AT_USER why a new googleglass will fail: URL $goog $googl wearables wearablesatwork wearabletech URL
+p447
+sg6
+S'17:23:14'
+p448
+sg8
+VBruce Meyer
+p449
+sa(dp450
+g2
+S'2015-12-08'
+p451
+sg4
+Vwhy a new googleglass will fail: URL $goog $googl wearables wearablesatwork wearabletech URL
+p452
+sg6
+S'17:20:08'
+p453
+sg8
+VLeo Sun
+p454
+sa(dp455
+g2
+S'2015-12-08'
+p456
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $erbb $bbda $goog
+p457
+sg6
+S'17:16:41'
+p458
+sg8
+VPaul Henry
+p459
+sa(dp460
+g2
+S'2015-12-08'
+p461
+sg4
+VURL &lt;&lt;-- supertrades could buy a freakin house with this recent win!! $mbly $aapl $jcp $tasr $goog
+p462
+sg6
+S'17:16:24'
+p463
+sg8
+VRussell Barbour
+p464
+sa(dp465
+g2
+S'2015-12-08'
+p466
+sg4
+Valphabet needs chromecast to increase its advertising audience URL $goog, $aapl, $amzn, $googl
+p467
+sg6
+S'17:15:09'
+p468
+sg8
+VSushil Choudhary
+p469
+sa(dp470
+g2
+S'2015-12-08'
+p471
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $erbb $bbda $goog
+p472
+sg6
+S'17:13:01'
+p473
+sg8
+VMichael Cook
+p474
+sa(dp475
+g2
+S'2015-12-08'
+p476
+sg4
+Vrepeat - action whipping boy mkt - $gpro - extremely encouraging // $goog $fb $amzn $baba AT_USER AT_USER AT_USER
+p477
+sg6
+S'17:12:55'
+p478
+sg8
+VZero Filter
+p479
+sa(dp480
+g2
+S'2015-12-08'
+p481
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $erbb $bbda $goog
+p482
+sg6
+S'17:09:08'
+p483
+sg8
+VMichael James
+p484
+sa(dp485
+g2
+S'2015-12-08'
+p486
+sg4
+Vhere's how growth in the chinese online video market will impact baidu URL by trefis team $bidu $goog
+p487
+sg6
+S'17:05:42'
+p488
+sg8
+VTrefis.com
+p489
+sa(dp490
+g2
+S'2015-12-08'
+p491
+sg4
+Vgoogle life sciences opts for a name change with 'verily': URL $goog
+p492
+sg6
+S'16:53:52'
+p493
+sg8
+VEmily Wasserman
+p494
+sa(dp495
+g2
+S'2015-12-08'
+p496
+sg4
+Vrt AT_USER fang less \u2013 facebook, amazon, netflix and google URL $fb $amzn $nflx $goog URL
+p497
+sg6
+S'16:50:37'
+p498
+sg8
+VAchilles
+p499
+sa(dp500
+g2
+S'2015-12-08'
+p501
+sg4
+V$yelp show back on... still very long &amp; lovin it $goog $fb $twtr $yhoo $amzn $baba AT_USER AT_USER
+p502
+sg6
+S'16:50:04'
+p503
+sg8
+VZero Filter
+p504
+sa(dp505
+g2
+S'2015-12-08'
+p506
+sg4
+V$aapl was behind $goog in mapping. then they threw money at the problem. now 3x bigger on ios. URL AT_USER
+p507
+sg6
+S'16:46:08'
+p508
+sg8
+Vtdaxp
+p509
+sa(dp510
+g2
+S'2015-12-08'
+p511
+sg4
+Vgoog top news - dec 8th, 2015 $goog URL
+p512
+sg6
+S'16:42:37'
+p513
+sg8
+VSweet Platform
+p514
+sa(dp515
+g2
+S'2015-12-08'
+p516
+sg4
+V$goog patent on a blood-testing watch. description sounds a bit terrifying if you ask me. i'll take a needle thx. URL
+p517
+sg6
+S'16:39:40'
+p518
+sg8
+VCaroline Chen
+p519
+sa(dp520
+g2
+S'2015-12-08'
+p521
+sg4
+Valphabet inc adds protection for mobile users at long last $goog $googl URL
+p522
+sg6
+S'16:39:26'
+p523
+sg8
+VLearnBonds.com
+p524
+sa(dp525
+g2
+S'2015-12-08'
+p526
+sg4
+Vgoog alphabet inc. - class c eod data URL $goog $jnug $svxy $fdn goog pennystocks nasdaq
+p527
+sg6
+S'16:38:36'
+p528
+sg8
+VInvestors Hangout
+p529
+sa(dp530
+g2
+S'2015-12-08'
+p531
+sg4
+Vxlv health care select sector spdr summary URL $xlv $nbd.to $goog $uso xlv invest share
+p532
+sg6
+S'16:37:06'
+p533
+sg8
+VRosner Stocks
+p534
+sa(dp535
+g2
+S'2015-12-08'
+p536
+sg4
+Vthese assets are seeing a jump in tweets $amzn $cmg $djia $enb $goog URL URL
+p537
+sg6
+S'16:35:33'
+p538
+sg8
+VFinBuzz
+p539
+sa(dp540
+g2
+S'2015-12-08'
+p541
+sg4
+Vauy yamana gold inc. stock forum URL $auy $vti $xly $goog auy share stock
+p542
+sg6
+S'16:34:04'
+p543
+sg8
+VDennyT
+p544
+sa(dp545
+g2
+S'2015-12-08'
+p546
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $ibm $goog $aapl
+p547
+sg6
+S'16:33:39'
+p548
+sg8
+VPaul Henry
+p549
+sa(dp550
+g2
+S'2015-12-08'
+p551
+sg4
+Vtlt ishares barclays 20+ year treasury bond fund day low URL $tlt $goog $abx $jnug tlt stocks pennystocks
+p552
+sg6
+S'16:33:33'
+p553
+sg8
+Vnasdaqfan
+p554
+sa(dp555
+g2
+S'2015-12-08'
+p556
+sg4
+Vslw silver wheaton corp. ask URL $slw $goog $jnug $baba slw nasdaq stock
+p557
+sg6
+S'16:32:34'
+p558
+sg8
+VInvestors Hangout
+p559
+sa(dp560
+g2
+S'2015-12-08'
+p561
+sg4
+V$amzn beautiful bounce $googl $goog URL
+p562
+sg6
+S'16:31:47'
+p563
+sg8
+VNavi Avatar
+p564
+sa(dp565
+g2
+S'2015-12-08'
+p566
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $ibm $goog $aapl
+p567
+sg6
+S'16:30:15'
+p568
+sg8
+VMichael Cook
+p569
+sa(dp570
+g2
+S'2015-12-08'
+p571
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p572
+sg6
+S'16:28:30'
+p573
+sg8
+VFinBuzz
+p574
+sa(dp575
+g2
+S'2015-12-08'
+p576
+sg4
+Vjnk spdr barclays high yield bond etf shares URL $jnk $nbd.to $goog $nghc jnk nasdaq nasdaq
+p577
+sg6
+S'16:27:07'
+p578
+sg8
+VJake13
+p579
+sa(dp580
+g2
+S'2015-12-08'
+p581
+sg4
+Vtop cyber threats as detectedbycyren $goog $googl $cyrn URL
+p582
+sg6
+S'16:27:01'
+p583
+sg8
+VVinny Perna
+p584
+sa(dp585
+g2
+S'2015-12-08'
+p586
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $ibm $goog $aapl
+p587
+sg6
+S'16:26:19'
+p588
+sg8
+VMichael James
+p589
+sa(dp590
+g2
+S'2015-12-08'
+p591
+sg4
+Vgoog alphabet inc. - class c exchange URL $goog $fnv $hqd.to $hznp goog stock pennystocks
+p592
+sg6
+S'16:24:41'
+p593
+sg8
+VIH NASDAQ OMX
+p594
+sa(dp595
+g2
+S'2015-12-08'
+p596
+sg4
+Vgasl direxion daily natural gas related bull 3x shares summary URL $gasl $goog $uup $svxy gasl invest investing
+p597
+sg6
+S'16:23:26'
+p598
+sg8
+VStock Forums
+p599
+sa(dp600
+g2
+S'2015-12-08'
+p601
+sg4
+Vsee why these assets are trending in 1 watchlist $amzn $bud $cmg $djia $goog URL URL
+p602
+sg6
+S'16:19:51'
+p603
+sg8
+VFinBuzz
+p604
+sa(dp605
+g2
+S'2015-12-08'
+p606
+sg4
+Vnow you're talking... googlefibre la $goog URL
+p607
+sg6
+S'16:10:13'
+p608
+sg8
+VArdavan Homayounfar
+p609
+sa(dp610
+g2
+S'2015-12-08'
+p611
+sg4
+Vsurprised gpro hasn't yet been acquired - even a 200% premium to current stock price is chump change for $fb, $aapl, $goog. great brand.
+p612
+sg6
+S'16:07:11'
+p613
+sg8
+VAndyFSports
+p614
+sa(dp615
+g2
+S'2015-12-08'
+p616
+sg4
+Vces trendspotting \u2013 inconspicuous innovation $tmus $goog URL
+p617
+sg6
+S'16:06:09'
+p618
+sg8
+VTalkMarkets
+p619
+sa(dp620
+g2
+S'2015-12-08'
+p621
+sg4
+Vfang less \u2013 facebook, amazon, netflix and google URL $fb $amzn $nflx $goog URL
+p622
+sg6
+S'16:05:09'
+p623
+sg8
+VValueWalk
+p624
+sa(dp625
+g2
+S'2015-12-08'
+p626
+sg4
+Vrt seekingalpha: alphabet needs chromecast to increase its advertising audience URL $aapl apple $amzn $goog $googl
+p627
+sg6
+S'16:02:56'
+p628
+sg8
+VChina Invest
+p629
+sa(dp630
+g2
+S'2015-12-08'
+p631
+sg4
+V$goog $googl news: "alphabet needs chromecast to increase its advertising\u2026" URL analyze: URL
+p632
+sg6
+S'16:01:18'
+p633
+sg8
+VQuantpost Technology
+p634
+sa(dp635
+g2
+S'2015-12-08'
+p636
+sg4
+Valphabet needs chromecast to increase its advertising audience URL $aapl apple $amzn $goog $googl
+p637
+sg6
+S'16:01:18'
+p638
+sg8
+VTech Stocks
+p639
+sa(dp640
+g2
+S'2015-12-08'
+p641
+sg4
+Valphabet needs chromecast to increase its advertising audience URL $aapl apple $amzn $goog $googl
+p642
+sg6
+S'16:01:18'
+p643
+sg8
+VLong & Short Ideas
+p644
+sa(dp645
+g2
+S'2015-12-08'
+p646
+sg4
+Valphabet needs chromecast to increase its advertising audience URL $aapl apple $amzn $goog $googl
+p647
+sg6
+S'16:01:17'
+p648
+sg8
+VSeeking Alpha
+p649
+sa(dp650
+g2
+S'2015-12-08'
+p651
+sg4
+V$goog $googl can youtube red lead to better monetization at google? URL
+p652
+sg6
+S'16:00:05'
+p653
+sg8
+VAmigobulls
+p654
+sa(dp655
+g2
+S'2015-12-08'
+p656
+sg4
+Vstreaming by the numbers from recode URL $nflx $amzn $goog $googl $fb URL
+p657
+sg6
+S'15:53:31'
+p658
+sg8
+VSimply Stock Info
+p659
+sa(dp660
+g2
+S'2015-12-08'
+p661
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p662
+sg6
+S'15:51:15'
+p663
+sg8
+VFinBuzz
+p664
+sa(dp665
+g2
+S'2015-12-08'
+p666
+sg4
+Vrt AT_USER $gpro AT_USER deal another ex co moving deep into orgs like AT_USER AT_USER - all ignored by $gmcr - like shorts / $\u2026
+p667
+sg6
+S'15:41:24'
+p668
+sg8
+VOptions Answers
+p669
+sa(dp670
+g2
+S'2015-12-08'
+p671
+sg4
+Vwhy 2015 was a breakthrough year in artificial intelligence URL $goog
+p672
+sg6
+S'15:40:28'
+p673
+sg8
+VHipster
+p674
+sa(dp675
+g2
+S'2015-12-08'
+p676
+sg4
+Vi am still long this market. $ibb, $amzn, $goog, $nflx, $aapl, and now oil, $cvx, $uwti
+p677
+sg6
+S'15:40:21'
+p678
+sg8
+VFlorida Real Estate
+p679
+sa(dp680
+g2
+S'2015-12-08'
+p681
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $cbl $goog $bll
+p682
+sg6
+S'15:40:15'
+p683
+sg8
+VPaul Henry
+p684
+sa(dp685
+g2
+S'2015-12-08'
+p686
+sg4
+Vthe next bear market may have already begun... $amzn $goog $spy $fb URL
+p687
+sg6
+S'15:39:01'
+p688
+sg8
+VTalkMarkets Recap
+p689
+sa(dp690
+g2
+S'2015-12-08'
+p691
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $cbl $goog $bll
+p692
+sg6
+S'15:36:58'
+p693
+sg8
+VMichael Cook
+p694
+sa(dp695
+g2
+S'2015-12-08'
+p696
+sg4
+Vtraders buy alphabet inc $goog on weakness URL
+p697
+sg6
+S'15:34:38'
+p698
+sg8
+VThe Legacy News
+p699
+sa(dp700
+g2
+S'2015-12-08'
+p701
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $cbl $goog $bll
+p702
+sg6
+S'15:33:30'
+p703
+sg8
+VMichael James
+p704
+sa(dp705
+g2
+S'2015-12-08'
+p706
+sg4
+Vblackberry lays $bbry on the line with the priv $aapl $goog $ssnlf URL
+p707
+sg6
+S'15:30:30'
+p708
+sg8
+VInvestorPlace
+p709
+sa(dp710
+g2
+S'2015-12-08'
+p711
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc $msft $qcom $ssnlf $goog $googl $aapl
+p712
+sg6
+S'15:30:01'
+p713
+sg8
+VAAPL Stock Alerts
+p714
+sa(dp715
+g2
+S'2015-12-08'
+p716
+sg4
+Vfacebook opens live streaming video further URL $fb $aapl $goog $twx
+p717
+sg6
+S'15:28:02'
+p718
+sg8
+VRobert Weinstein
+p719
+sa(dp720
+g2
+S'2015-12-08'
+p721
+sg4
+Vyou quit &amp; get a contract @ $goog URL
+p722
+sg6
+S'15:25:45'
+p723
+sg8
+VDividend Master
+p724
+sa(dp725
+g2
+S'2015-12-08'
+p726
+sg4
+V$alv gets $goog's chris urmson on it's research advisory board. URL he used to head up the self driving car program.
+p727
+sg6
+S'15:24:01'
+p728
+sg8
+VARK Indu Innovation
+p729
+sa(dp730
+g2
+S'2015-12-08'
+p731
+sg4
+Vrt AT_USER google hit new all-time highs this week. here's some of that history on a chart: URL $goog URL
+p732
+sg6
+S'15:18:58'
+p733
+sg8
+VRodrigo Meirelles
+p734
+sa(dp735
+g2
+S'2015-12-08'
+p736
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p737
+sg6
+S'15:17:27'
+p738
+sg8
+VFinBuzz
+p739
+sa(dp740
+g2
+S'2015-12-08'
+p741
+sg4
+Vvetr users have upgraded alphabet inc. to a hold rating (3 stars), giving $goog a target price of $746.99 URL
+p742
+sg6
+S'15:11:22'
+p743
+sg8
+VVetr Ratings
+p744
+sa(dp745
+g2
+S'2015-12-08'
+p746
+sg4
+Vwhy apple stock rose 3.5% in the last 12 months: URL $aapl $goog $pcln $k
+p747
+sg6
+S'15:11:09'
+p748
+sg8
+VThe Stock Professor
+p749
+sa(dp750
+g2
+S'2015-12-08'
+p751
+sg4
+Vultimate URL fly URL the morning dump - vc $goog $aapl $fb $twtr $amz\u2026 URL
+p752
+sg6
+S'15:09:57'
+p753
+sg8
+VManliness
+p754
+sa(dp755
+g2
+S'2015-12-08'
+p756
+sg4
+Vultimate URL the morning dump - vc $goog $aapl $fb $twtr $amzn airbnb verily drone circ\u2026 URL
+p757
+sg6
+S'15:09:52'
+p758
+sg8
+VManliness
+p759
+sa(dp760
+g2
+S'2015-12-08'
+p761
+sg4
+V$gpro AT_USER deal another ex co moving deep into orgs like AT_USER AT_USER - all ignored by $gmcr - like shorts / $goog $fb $amzn $aapl
+p762
+sg6
+S'15:07:05'
+p763
+sg8
+VZero Filter
+p764
+sa(dp765
+g2
+S'2015-12-08'
+p766
+sg4
+Vfly URL the morning dump - vc $goog $aapl $fb $twtr $amzn airbnb verily drone circa do\u2026 URL
+p767
+sg6
+S'15:06:13'
+p768
+sg8
+VDrone Tech
+p769
+sa(dp770
+g2
+S'2015-12-08'
+p771
+sg4
+Vthe morning dump - vc $goog $aapl $fb $twtr $amzn airbnb verily drone circa donaldtrump ios URL
+p772
+sg6
+S'15:02:06'
+p773
+sg8
+VMr. Bytes Blog
+p774
+sa(dp775
+g2
+S'2015-12-08'
+p776
+sg4
+Vupdate apertura stocks major news $ibm -1.33% $goog -0.90% $qcom -4.50% $cp -3.35% $ge -1.30% $azo +2.17% $adp -3.58% $vz -0.91%
+p777
+sg6
+S'15:00:16'
+p778
+sg8
+VInvest Huddle
+p779
+sa(dp780
+g2
+S'2015-12-08'
+p781
+sg4
+Vv is for verily: alphabet renames life sciences division - URL - $goog URL
+p782
+sg6
+S'15:00:13'
+p783
+sg8
+VBidness Etc
+p784
+sa(dp785
+g2
+S'2015-12-08'
+p786
+sg4
+Vrt AT_USER finding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p787
+sg6
+S'14:57:36'
+p788
+sg8
+VJames DiPlata
+p789
+sa(dp790
+g2
+S'2015-12-08'
+p791
+sg4
+Vyoutube may beat out netflix. what do you think about this competition? $nflx $goog $googl URL
+p792
+sg6
+S'14:54:43'
+p793
+sg8
+VWhoTrades
+p794
+sa(dp795
+g2
+S'2015-12-08'
+p796
+sg4
+Vi will be banging the tub when these absurd pigs ( $goog possibly excluded from being absurd ) go up like nukes URL
+p797
+sg6
+S'14:52:47'
+p798
+sg8
+VDividend Master
+p799
+sa(dp800
+g2
+S'2015-12-08'
+p801
+sg4
+Vrt AT_USER if $gpro holding up this well in this early rough-tape could close up 10% all we know ?? $goog $aapl $fb $amzn $baba\u2026
+p802
+sg6
+S'14:48:29'
+p803
+sg8
+VOptions Answers
+p804
+sa(dp805
+g2
+S'2015-12-08'
+p806
+sg4
+V$spx $appl $nflx $fb $amzn $goog URL
+p807
+sg6
+S'14:37:58'
+p808
+sg8
+VChris Lemieux
+p809
+sa(dp810
+g2
+S'2015-12-08'
+p811
+sg4
+V$goog v is for verily: alphabet inc renames life sciences division: v is for verily: alphabet inc renames lif... URL
+p812
+sg6
+S'14:37:57'
+p813
+sg8
+VFinancePress
+p814
+sa(dp815
+g2
+S'2015-12-08'
+p816
+sg4
+Vrt AT_USER finding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p817
+sg6
+S'14:35:34'
+p818
+sg8
+VGlobalMarketsInsight
+p819
+sa(dp820
+g2
+S'2015-12-08'
+p821
+sg4
+Vrt seekingalpha: 5 growth investment themes for 2016 and beyond URL $aapl apple $amzn $atrs $biib $crm $ecl $fb $goog\u2026
+p822
+sg6
+S'14:34:49'
+p823
+sg8
+VDonna Barnes
+p824
+sa(dp825
+g2
+S'2015-12-08'
+p826
+sg4
+Vif $gpro holding up this well in this early rough-tape could close up 10% all we know ?? $goog $aapl $fb $amzn $baba AT_USER
+p827
+sg6
+S'14:34:19'
+p828
+sg8
+VZero Filter
+p829
+sa(dp830
+g2
+S'2015-12-08'
+p831
+sg4
+Vgreat analysis: apple waited too long to get into music streaming URL via AT_USER $aapl $goog tech analytics
+p832
+sg6
+S'14:32:44'
+p833
+sg8
+VGraham Smith
+p834
+sa(dp835
+g2
+S'2015-12-08'
+p836
+sg4
+Vrt AT_USER amazon may be seen in new light as earnings prove sustainable, analyst says $amzn $fb $goog $googl: full story URL
+p837
+sg6
+S'14:32:15'
+p838
+sg8
+VYale
+p839
+sa(dp840
+g2
+S'2015-12-08'
+p841
+sg4
+Vintersting article about a new stock pick site. URL related: $aapl $goog $twtr $yhoo
+p842
+sg6
+S'14:26:14'
+p843
+sg8
+VStock Rocket
+p844
+sa(dp845
+g2
+S'2015-12-08'
+p846
+sg4
+Vsentishiftup $feye $goog $ndx $celg $uvxy fintech finserv URL 20151208-09:25
+p847
+sg6
+S'14:25:03'
+p848
+sg8
+VSentiQuant
+p849
+sa(dp850
+g2
+S'2015-12-08'
+p851
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p852
+sg6
+S'14:20:00'
+p853
+sg8
+VSwing Trade Warrior
+p854
+sa(dp855
+g2
+S'2015-12-08'
+p856
+sg4
+Vwhy access a ticker when you can access a group of tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p857
+sg6
+S'14:18:41'
+p858
+sg8
+VFinBuzz
+p859
+sa(dp860
+g2
+S'2015-12-08'
+p861
+sg4
+Vtry the discovery engine &amp; social network for investors. free. $amzn $nflx $goog stocks URL
+p862
+sg6
+S'14:16:25'
+p863
+sg8
+VSpecStocks Pulse
+p864
+sa(dp865
+g2
+S'2015-12-08'
+p866
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p867
+sg6
+S'14:16:08'
+p868
+sg8
+VRoss Cameron
+p869
+sa(dp870
+g2
+S'2015-12-08'
+p871
+sg4
+Vwhy microsoft prefers apple for apps URL $aapl $goog $googl $msft
+p872
+sg6
+S'13:55:34'
+p873
+sg8
+VJohn Williamson
+p874
+sa(dp875
+g2
+S'2015-12-08'
+p876
+sg4
+Vhow about instead of fang - we do ngaf? nobody gives a fuuuu $nflx $goog $amzn $fb
+p877
+sg6
+S'13:49:18'
+p878
+sg8
+VSeth
+p879
+sa(dp880
+g2
+S'2015-12-08'
+p881
+sg4
+V$ebay $esrx $fast $fb $flir $goog trade long and short positions from the nasdaq, up to 190% since 2011. URL $spy
+p882
+sg6
+S'13:48:59'
+p883
+sg8
+VStock Market Picks
+p884
+sa(dp885
+g2
+S'2015-12-08'
+p886
+sg4
+Vreview: apple's smart battery case for the iphone: URL $aapl $goog $pcln $k
+p887
+sg6
+S'13:46:50'
+p888
+sg8
+VThe Stock Professor
+p889
+sa(dp890
+g2
+S'2015-12-08'
+p891
+sg4
+Vmaybe you should speak to $goog instead... lowestcommondenominator URL
+p892
+sg6
+S'13:46:00'
+p893
+sg8
+VDan Wilkos
+p894
+sa(dp895
+g2
+S'2015-12-08'
+p896
+sg4
+Vrisk comes at you fast, faster when you're in momentum stocks. don't catch falling knives wait for the momentum to reset $nflx $fb $goog
+p897
+sg6
+S'13:40:44'
+p898
+sg8
+VVlad Mazek
+p899
+sa(dp900
+g2
+S'2015-12-08'
+p901
+sg4
+Vapple maps is dominating AT_USER on the iphone $aapl $goog URL (via: AT_USER
+p902
+sg6
+S'13:39:29'
+p903
+sg8
+VMilton Rojas Chavez
+p904
+sa(dp905
+g2
+S'2015-12-08'
+p906
+sg4
+Vwill google\u2019s increased focus on cloud technology give its stock price a boost? $goog URL URL
+p907
+sg6
+S'13:35:31'
+p908
+sg8
+VBull-Markets
+p909
+sa(dp910
+g2
+S'2015-12-08'
+p911
+sg4
+Vtrack trending assets in 1 watchlist $dax $gazp $gbpaud $goog $hse URL URL
+p912
+sg6
+S'13:31:48'
+p913
+sg8
+VFinBuzz
+p914
+sa(dp915
+g2
+S'2015-12-08'
+p916
+sg4
+V$goog $googl $nflx can youtube red take on netflix? URL
+p917
+sg6
+S'13:30:05'
+p918
+sg8
+VAmigobulls
+p919
+sa(dp920
+g2
+S'2015-12-08'
+p921
+sg4
+VURL &lt;- want to make $600,00 in one year trading? check out how this guy did it! $goog $pcln $vtae
+p922
+sg6
+S'13:27:45'
+p923
+sg8
+VSmallCaps 
+p924
+sa(dp925
+g2
+S'2015-12-08'
+p926
+sg4
+Valphabet's android shipments to grow 9.5% in 2015 $goog $googl $aapl $msft URL
+p927
+sg6
+S'13:27:42'
+p928
+sg8
+Vinvest correctly
+p929
+sa(dp930
+g2
+S'2015-12-08'
+p931
+sg4
+V08 dec 2015: uptrend stocks in technology $adsk $amat $aph $brcm $ca $flir $fslr $goog $hrs $ibm URL
+p932
+sg6
+S'13:20:56'
+p933
+sg8
+VTrading Quotient
+p934
+sa(dp935
+g2
+S'2015-12-08'
+p936
+sg4
+Vgoogle life sciences will now be known as "verily": URL $goog
+p937
+sg6
+S'13:15:21'
+p938
+sg8
+VEmily Wasserman
+p939
+sa(dp940
+g2
+S'2015-12-08'
+p941
+sg4
+Vhey, do you know everything while trading sp500? $goog $jnj $ge URL URL
+p942
+sg6
+S'13:13:16'
+p943
+sg8
+VFinBuzz
+p944
+sa(dp945
+g2
+S'2015-12-08'
+p946
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p947
+sg6
+S'13:09:07'
+p948
+sg8
+VMike H
+p949
+sa(dp950
+g2
+S'2015-12-08'
+p951
+sg4
+Vgoogle hit with a student privacy complaint - npr URL google $goog $googl URL
+p952
+sg6
+S'13:02:15'
+p953
+sg8
+V#SocialMedia NC
+p954
+sa(dp955
+g2
+S'2015-12-08'
+p956
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $dpm $frak $goog
+p957
+sg6
+S'13:01:34'
+p958
+sg8
+VPaul Henry
+p959
+sa(dp960
+g2
+S'2015-12-08'
+p961
+sg4
+Vsentishiftup $goog $djia $ndx $hd $uvxy fintech finserv URL 20151208-08:00
+p962
+sg6
+S'13:00:05'
+p963
+sg8
+VSentiQuant
+p964
+sa(dp965
+g2
+S'2015-12-08'
+p966
+sg4
+Vgoogle ventures is ditching its european arm in favor of a global investment fund | startup vc $goog $googl URL
+p967
+sg6
+S'13:00:00'
+p968
+sg8
+VStephen McNaughton
+p969
+sa(dp970
+g2
+S'2015-12-08'
+p971
+sg4
+Vhow google and other giant corporations are going 100% renewable | environment social $bmw $ko $goog $googl URL
+p972
+sg6
+S'13:00:00'
+p973
+sg8
+VPrideShares ®
+p974
+sa(dp975
+g2
+S'2015-12-08'
+p976
+sg4
+Vbuy side can't admit $qqq looking toppy $amzn $goog $nflx $aapl URL
+p977
+sg6
+S'12:59:40'
+p978
+sg8
+Vharveyrosenblum
+p979
+sa(dp980
+g2
+S'2015-12-08'
+p981
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $dpm $frak $goog
+p982
+sg6
+S'12:57:36'
+p983
+sg8
+VMichael Cook
+p984
+sa(dp985
+g2
+S'2015-12-08'
+p986
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $dpm $frak $goog
+p987
+sg6
+S'12:54:59'
+p988
+sg8
+VMichael James
+p989
+sa(dp990
+g2
+S'2015-12-08'
+p991
+sg4
+Vrt $tsla hft algos triggered sell in sigma-x, crossfinder, ats, lx @ 07:46, p/t 225.00 quant $msft $gpro $goog $amzn $nflx $fb $aapl $qqq
+p992
+sg6
+S'12:47:46'
+p993
+sg8
+VGuru Algo Trading 
+p994
+sa(dp995
+g2
+S'2015-12-08'
+p996
+sg4
+Vrt AT_USER lest we forget, in the nasdaq 100 $qqq the top four stocks make up 30% of its holdings. $aapl $msft $amzn $goog
+p997
+sg6
+S'12:44:14'
+p998
+sg8
+VJames DiPlata
+p999
+sa(dp1000
+g2
+S'2015-12-08'
+p1001
+sg4
+Vbearish divergences on hrly/daily. right at fib extension. i think $goog is a short candidate here. URL
+p1002
+sg6
+S'12:39:14'
+p1003
+sg8
+VBostonCharts
+p1004
+sa(dp1005
+g2
+S'2015-12-08'
+p1006
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $gps $nspr $goog
+p1007
+sg6
+S'12:32:08'
+p1008
+sg8
+VPaul Henry
+p1009
+sa(dp1010
+g2
+S'2015-12-08'
+p1011
+sg4
+Vwhy did it take google so long to enable this feature for mobile users on android? malware $goog $googl URL
+p1012
+sg6
+S'12:30:56'
+p1013
+sg8
+VGary Nielson
+p1014
+sa(dp1015
+g2
+S'2015-12-08'
+p1016
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $gps $nspr $goog
+p1017
+sg6
+S'12:28:08'
+p1018
+sg8
+VMichael Cook
+p1019
+sa(dp1020
+g2
+S'2015-12-08'
+p1021
+sg4
+V$goog $googl $fb is youtube a valid spin-off candidate? google youtube amigobulls URL URL
+p1022
+sg6
+S'12:27:55'
+p1023
+sg8
+VAmigobulls
+p1024
+sa(dp1025
+g2
+S'2015-12-08'
+p1026
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $gps $nspr $goog
+p1027
+sg6
+S'12:25:32'
+p1028
+sg8
+VMichael James
+p1029
+sa(dp1030
+g2
+S'2015-12-08'
+p1031
+sg4
+V$goog $googl can google's recently launched youtube red take on $nflx? google netflix URL URL
+p1032
+sg6
+S'12:18:45'
+p1033
+sg8
+VAmigobulls
+p1034
+sa(dp1035
+g2
+S'2015-12-08'
+p1036
+sg4
+Vthis week\u2019s best deals: bargains from amazon, target, groupon: URL $aapl $goog $pcln $k
+p1037
+sg6
+S'12:15:54'
+p1038
+sg8
+VThe Stock Professor
+p1039
+sa(dp1040
+g2
+S'2015-12-08'
+p1041
+sg4
+V$goog institutional ownership up 2.87% q/q, with 14,877,600 net purchase URL URL
+p1042
+sg6
+S'12:10:06'
+p1043
+sg8
+VWatchTheFunds
+p1044
+sa(dp1045
+g2
+S'2015-12-08'
+p1046
+sg4
+V$goog i'm sure the markets will go green today. why break the 7 year trend now?
+p1047
+sg6
+S'12:08:40'
+p1048
+sg8
+VSarcasm Bot
+p1049
+sa(dp1050
+g2
+S'2015-12-08'
+p1051
+sg4
+Vlest we forget, in the nasdaq 100 $qqq the top four stocks make up 30% of its holdings. $aapl $msft $amzn $goog
+p1052
+sg6
+S'11:40:05'
+p1053
+sg8
+VSerge Berger
+p1054
+sa(dp1055
+g2
+S'2015-12-08'
+p1056
+sg4
+Vrecently launched youtube red could lead to strong monetization; analysis available at URL $goog $googl $fb
+p1057
+sg6
+S'11:38:31'
+p1058
+sg8
+VLior Ronen
+p1059
+sa(dp1060
+g2
+S'2015-12-08'
+p1061
+sg4
+V$kmi $goog $de options have the largest change in open interest. free options screener. URL
+p1062
+sg6
+S'11:02:34'
+p1063
+sg8
+VDan
+p1064
+sa(dp1065
+g2
+S'2015-12-08'
+p1066
+sg4
+Vtop investors' buys during q3, alphabet $goog goog URL
+p1067
+sg6
+S'10:47:39'
+p1068
+sg8
+VTheExtraIncome
+p1069
+sa(dp1070
+g2
+S'2015-12-08'
+p1071
+sg4
+V$aapl $goog $fb 10 things in tech you need to know today URL
+p1072
+sg6
+S'10:46:26'
+p1073
+sg8
+VFonsieTrader
+p1074
+sa(dp1075
+g2
+S'2015-12-08'
+p1076
+sg4
+Vnew verizon lte tech could ruin wi-fi, says google, microsoft and others $vz $goog $msft URL via AT_USER
+p1077
+sg6
+S'10:44:20'
+p1078
+sg8
+VBobby Wilbert
+p1079
+sa(dp1080
+g2
+S'2015-12-08'
+p1081
+sg4
+Vrt AT_USER cirp brings good news for apple's iphone: URL $aapl $goog $pcln $k
+p1082
+sg6
+S'10:26:12'
+p1083
+sg8
+VJames DiPlata
+p1084
+sa(dp1085
+g2
+S'2015-12-08'
+p1086
+sg4
+V$goog apple inc. needs to be good enough, not better than alphabet inc: apple inc. needs to be good enough, n... URL
+p1087
+sg6
+S'10:22:28'
+p1088
+sg8
+VFinancePress
+p1089
+sa(dp1090
+g2
+S'2015-12-08'
+p1091
+sg4
+Vapple inc. needs to be good enough, not better than alphabet inc $aapl $goog URL
+p1092
+sg6
+S'10:19:49'
+p1093
+sg8
+VLearnBonds.com
+p1094
+sa(dp1095
+g2
+S'2015-12-08'
+p1096
+sg4
+Vapple maps is dominating google maps on the iphone $aapl $goog URL
+p1097
+sg6
+S'10:16:39'
+p1098
+sg8
+VBI UK Tech
+p1099
+sa(dp1100
+g2
+S'2015-12-08'
+p1101
+sg4
+Vapple maps is dominating google maps on the iphone $aapl $goog URL
+p1102
+sg6
+S'10:16:39'
+p1103
+sg8
+VBusiness Insider UK
+p1104
+sa(dp1105
+g2
+S'2015-12-08'
+p1106
+sg4
+Vbox: a speculative play; analysis available at URL $box $goog $msft $ibm
+p1107
+sg6
+S'10:06:50'
+p1108
+sg8
+VLior Ronen
+p1109
+sa(dp1110
+g2
+S'2015-12-08'
+p1111
+sg4
+Vthe next bear market may have already begun... $amzn $goog $spy $fb URL
+p1112
+sg6
+S'09:51:25'
+p1113
+sg8
+VTalkMarkets
+p1114
+sa(dp1115
+g2
+S'2015-12-08'
+p1116
+sg4
+Vfacebook opens live streaming video further URL $fb $aapl $goog $twx
+p1117
+sg6
+S'09:48:22'
+p1118
+sg8
+VStockSaints
+p1119
+sa(dp1120
+g2
+S'2015-12-08'
+p1121
+sg4
+Vcirp brings good news for apple's iphone: URL $aapl $goog $pcln $k
+p1122
+sg6
+S'09:35:33'
+p1123
+sg8
+VThe Stock Professor
+p1124
+sa(dp1125
+g2
+S'2015-12-08'
+p1126
+sg4
+Vrt AT_USER finding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb https\u2026
+p1127
+sg6
+S'09:31:46'
+p1128
+sg8
+VJames DiPlata
+p1129
+sa(dp1130
+g2
+S'2015-12-08'
+p1131
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p1132
+sg6
+S'09:25:01'
+p1133
+sg8
+VWarrior Trading News
+p1134
+sa(dp1135
+g2
+S'2015-12-08'
+p1136
+sg4
+Vtrack curated news and tweets for multiple tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1137
+sg6
+S'09:11:38'
+p1138
+sg8
+VFinBuzz
+p1139
+sa(dp1140
+g2
+S'2015-12-08'
+p1141
+sg4
+V$gld update: very interesting. must read URL $uvxy $spy $spx $aapl $goog $nflx $gld $ugaz $ung $nugt $jnug $uwti
+p1142
+sg6
+S'08:06:10'
+p1143
+sg8
+VMark Freeman
+p1144
+sa(dp1145
+g2
+S'2015-12-08'
+p1146
+sg4
+Vtransaction costs for trading $goog with brokers, min: 0.051% max: 0.331% difference: 5.0x URL
+p1147
+sg6
+S'08:03:47'
+p1148
+sg8
+VFinBuzz
+p1149
+sa(dp1150
+g2
+S'2015-12-08'
+p1151
+sg4
+Vwhy access a ticker when you can access a group of tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1152
+sg6
+S'07:34:16'
+p1153
+sg8
+VFinBuzz
+p1154
+sa(dp1155
+g2
+S'2015-12-08'
+p1156
+sg4
+Vapple maps now used three times more than google maps on iphone - mac\u2026 URL google $goog $googl URL
+p1157
+sg6
+S'07:02:17'
+p1158
+sg8
+V#SocialMedia NC
+p1159
+sa(dp1160
+g2
+S'2015-12-08'
+p1161
+sg4
+V$goog: wall street analysts bullish on goog's earnings growth: URL URL
+p1162
+sg6
+S'07:01:03'
+p1163
+sg8
+VTimeForGrowth
+p1164
+sa(dp1165
+g2
+S'2015-12-08'
+p1166
+sg4
+Vrt AT_USER looks like $kdgl.ob moves to nasdaq aug 14. new ticker will be $kitd. peer $ont bought by $goog today for $100mil
+p1167
+sg6
+S'06:49:49'
+p1168
+sg8
+VAlsoThere
+p1169
+sa(dp1170
+g2
+S'2015-12-08'
+p1171
+sg4
+Vapple maps used 3x more often than google maps on ios, logs 5b requests per week URL $aapl $goog
+p1172
+sg6
+S'06:33:06'
+p1173
+sg8
+Vdmackdaddy
+p1174
+sa(dp1175
+g2
+S'2015-12-08'
+p1176
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p1177
+sg6
+S'06:29:47'
+p1178
+sg8
+VVCexp
+p1179
+sa(dp1180
+g2
+S'2015-12-08'
+p1181
+sg4
+Vtickers trending on twtr in last 1 hour $erm $fb $goog $nikkei $sensex URL URL
+p1182
+sg6
+S'06:26:45'
+p1183
+sg8
+VFinBuzz
+p1184
+sa(dp1185
+g2
+S'2015-12-08'
+p1186
+sg4
+Vrt AT_USER monitor your watchlist of assets for tweets - us tech giants URL $aapl $goog $msft $fb $twtr
+p1187
+sg6
+S'06:22:57'
+p1188
+sg8
+VJames DiPlata
+p1189
+sa(dp1190
+g2
+S'2015-12-08'
+p1191
+sg4
+V$goog $googl astounding charts: this is why google is crushing it URL URL
+p1192
+sg6
+S'06:14:38'
+p1193
+sg8
+VCapital Market Labs
+p1194
+sa(dp1195
+g2
+S'2015-12-08'
+p1196
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p1197
+sg6
+S'06:12:05'
+p1198
+sg8
+Vmiateq
+p1199
+sa(dp1200
+g2
+S'2015-12-08'
+p1201
+sg4
+Vapple maps is now used three times as often as google maps on iphone and ipad" $aapl $goog URL
+p1202
+sg6
+S'06:08:36'
+p1203
+sg8
+VJosé Ordoñez
+p1204
+sa(dp1205
+g2
+S'2015-12-08'
+p1206
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1207
+sg6
+S'05:40:14'
+p1208
+sg8
+VJake13
+p1209
+sa(dp1210
+g2
+S'2015-12-08'
+p1211
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1212
+sg6
+S'05:40:13'
+p1213
+sg8
+VJake13
+p1214
+sa(dp1215
+g2
+S'2015-12-08'
+p1216
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1217
+sg6
+S'05:40:13'
+p1218
+sg8
+VJake13
+p1219
+sa(dp1220
+g2
+S'2015-12-08'
+p1221
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1222
+sg6
+S'05:40:12'
+p1223
+sg8
+Vclayton
+p1224
+sa(dp1225
+g2
+S'2015-12-08'
+p1226
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1227
+sg6
+S'05:40:11'
+p1228
+sg8
+Vclayton
+p1229
+sa(dp1230
+g2
+S'2015-12-08'
+p1231
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1232
+sg6
+S'05:40:11'
+p1233
+sg8
+Vclayton
+p1234
+sa(dp1235
+g2
+S'2015-12-08'
+p1236
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1237
+sg6
+S'05:40:10'
+p1238
+sg8
+Vclayton
+p1239
+sa(dp1240
+g2
+S'2015-12-08'
+p1241
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1242
+sg6
+S'05:40:10'
+p1243
+sg8
+Vclayton
+p1244
+sa(dp1245
+g2
+S'2015-12-08'
+p1246
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1247
+sg6
+S'05:40:09'
+p1248
+sg8
+VInvestors Hangout
+p1249
+sa(dp1250
+g2
+S'2015-12-08'
+p1251
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1252
+sg6
+S'05:40:08'
+p1253
+sg8
+VInvestors Hangout
+p1254
+sa(dp1255
+g2
+S'2015-12-08'
+p1256
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1257
+sg6
+S'05:40:08'
+p1258
+sg8
+VInvestors Hangout
+p1259
+sa(dp1260
+g2
+S'2015-12-08'
+p1261
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1262
+sg6
+S'05:40:08'
+p1263
+sg8
+VInvestors Hangout
+p1264
+sa(dp1265
+g2
+S'2015-12-08'
+p1266
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1267
+sg6
+S'05:40:07'
+p1268
+sg8
+VPolgarStocks
+p1269
+sa(dp1270
+g2
+S'2015-12-08'
+p1271
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1272
+sg6
+S'05:40:07'
+p1273
+sg8
+VInvestors Hangout
+p1274
+sa(dp1275
+g2
+S'2015-12-08'
+p1276
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1277
+sg6
+S'05:40:07'
+p1278
+sg8
+VPolgarStocks
+p1279
+sa(dp1280
+g2
+S'2015-12-08'
+p1281
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1282
+sg6
+S'05:40:07'
+p1283
+sg8
+VLucky Jimmy
+p1284
+sa(dp1285
+g2
+S'2015-12-08'
+p1286
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1287
+sg6
+S'05:40:07'
+p1288
+sg8
+VPolgarStocks
+p1289
+sa(dp1290
+g2
+S'2015-12-08'
+p1291
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1292
+sg6
+S'05:40:06'
+p1293
+sg8
+VPolgarStocks
+p1294
+sa(dp1295
+g2
+S'2015-12-08'
+p1296
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1297
+sg6
+S'05:40:06'
+p1298
+sg8
+Vjim50
+p1299
+sa(dp1300
+g2
+S'2015-12-08'
+p1301
+sg4
+Vgmcr keurig green mountain, inc. tick URL $gmcr $goog $mic $erm.to gmcr stockmarket tradeideasgmf spdr s&amp;p\u2026
+p1302
+sg6
+S'05:40:05'
+p1303
+sg8
+Vjim50
+p1304
+sa(dp1305
+g2
+S'2015-12-08'
+p1306
+sg4
+Vfcx freeport-mcmoran, inc. e.p.s. URL $fcx $uga $xlv $goog fcx tradeideas tradeideas
+p1307
+sg6
+S'05:38:04'
+p1308
+sg8
+VJake13
+p1309
+sa(dp1310
+g2
+S'2015-12-08'
+p1311
+sg4
+Vmonitor your watchlist of assets for tweets - us tech giants URL $aapl $goog $msft $fb $twtr
+p1312
+sg6
+S'05:27:50'
+p1313
+sg8
+VFinBuzz
+p1314
+sa(dp1315
+g2
+S'2015-12-08'
+p1316
+sg4
+Vrt AT_USER lnkd linkedin corp. financials URL $lnkd $goog $ibm $tza lnkd stocks finance
+p1317
+sg6
+S'04:58:57'
+p1318
+sg8
+VOptions Answers
+p1319
+sa(dp1320
+g2
+S'2015-12-08'
+p1321
+sg4
+Vvxx ipath s&amp;p 500 vix short-term futures etn ask URL $vxx $dwti $xli $goog vxx nasdaq pennystocks
+p1322
+sg6
+S'04:50:06'
+p1323
+sg8
+VJake13
+p1324
+sa(dp1325
+g2
+S'2015-12-08'
+p1326
+sg4
+Vlnkd linkedin corp. financials URL $lnkd $goog $ibm $tza lnkd stocks finance
+p1327
+sg6
+S'04:44:06'
+p1328
+sg8
+VDennyT
+p1329
+sa(dp1330
+g2
+S'2015-12-08'
+p1331
+sg4
+Vrt AT_USER looks like $kdgl.ob moves to nasdaq aug 14. new ticker will be $kitd. peer $ont bought by $goog today for $100mil
+p1332
+sg6
+S'04:40:23'
+p1333
+sg8
+VChimp
+p1334
+sa(dp1335
+g2
+S'2015-12-08'
+p1336
+sg4
+Vrt AT_USER screen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p1337
+sg6
+S'04:15:09'
+p1338
+sg8
+VJames DiPlata
+p1339
+sa(dp1340
+g2
+S'2015-12-08'
+p1341
+sg4
+Vrt URL tourism places vacation $twtr $goog photography $aapl URL
+p1342
+sg6
+S'04:02:34'
+p1343
+sg8
+VKelly C. Allen
+p1344
+sa(dp1345
+g2
+S'2015-12-08'
+p1346
+sg4
+Vtourism places vacation $twtr $goog photography $aapl URL
+p1347
+sg6
+S'04:01:23'
+p1348
+sg8
+VPSYCHOOO6
+p1349
+sa(dp1350
+g2
+S'2015-12-08'
+p1351
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p1352
+sg6
+S'03:53:41'
+p1353
+sg8
+VFinBuzz
+p1354
+sa(dp1355
+g2
+S'2015-12-08'
+p1356
+sg4
+Vjnk spdr barclays high yield bond etf e.p.s. URL $jnk $anad $ad.to $goog jnk share stockmarket
+p1357
+sg6
+S'03:41:32'
+p1358
+sg8
+VEmylers
+p1359
+sa(dp1360
+g2
+S'2015-12-08'
+p1361
+sg4
+Viyr real estate ishares open URL $iyr $slv $pacb $goog iyr invest stocks
+p1362
+sg6
+S'03:41:32'
+p1363
+sg8
+VInvestors Hangout
+p1364
+sa(dp1365
+g2
+S'2015-12-08'
+p1366
+sg4
+Vcmg chipotle mexican grill inc. day low URL $cmg $aa $oil $goog cmg stocks stockmarket
+p1367
+sg6
+S'03:35:40'
+p1368
+sg8
+VLucky Jimmy
+p1369
+sa(dp1370
+g2
+S'2015-12-08'
+p1371
+sg4
+Vavxl anavex life sciences corp. eod data URL $avxl $tbt $goog $csiq avxl nasdaq nasdaq
+p1372
+sg6
+S'03:34:09'
+p1373
+sg8
+VDennyT
+p1374
+sa(dp1375
+g2
+S'2015-12-08'
+p1376
+sg4
+Vambs amarantus bioscience holdings, inc. quotes URL $ambs $fxi $bac $goog ambs pennystocks stocks
+p1377
+sg6
+S'03:33:35'
+p1378
+sg8
+VRosner Stocks
+p1379
+sa(dp1380
+g2
+S'2015-12-08'
+p1381
+sg4
+V$goog - google life sciences rebrands as verily URL
+p1382
+sg6
+S'03:31:03'
+p1383
+sg8
+VLive Stock News
+p1384
+sa(dp1385
+g2
+S'2015-12-08'
+p1386
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p1387
+sg6
+S'03:15:22'
+p1388
+sg8
+VFinBuzz
+p1389
+sa(dp1390
+g2
+S'2015-12-08'
+p1391
+sg4
+Vrt AT_USER $vrng maybe low price because $zte found some $goog emails that are now available to vringo! boies! right &amp; honest r right by \u2026
+p1392
+sg6
+S'03:10:42'
+p1393
+sg8
+Vamerica lover
+p1394
+sa(dp1395
+g2
+S'2015-12-08'
+p1396
+sg4
+Vtvix twitter, inc. financials URL $tvix $xom $mo $goog tvix tradeideas stock
+p1397
+sg6
+S'02:49:04'
+p1398
+sg8
+Vnasdaqfan
+p1399
+sa(dp1400
+g2
+S'2015-12-08'
+p1401
+sg4
+Vwhy microsoft prefers apple for apps URL $aapl $goog $googl $msft
+p1402
+sg6
+S'02:44:02'
+p1403
+sg8
+VVenAce
+p1404
+sa(dp1405
+g2
+S'2015-12-08'
+p1406
+sg4
+V$ebay $esrx $fast $fb $flir $goog trade long and short positions from the nasdaq, up to 190% since 2011. URL $qqq
+p1407
+sg6
+S'02:42:16'
+p1408
+sg8
+VStock Market Picks
+p1409
+sa(dp1410
+g2
+S'2015-12-08'
+p1411
+sg4
+Vrt URL celg celgene corp. p/e ratio URL $celg $wll $goog $ing celg stocks nasdaq
+p1412
+sg6
+S'02:41:01'
+p1413
+sg8
+VBinary Trader Pro
+p1414
+sa(dp1415
+g2
+S'2015-12-08'
+p1416
+sg4
+Vgoog alphabet inc. - class c market cap URL $goog $vwesx $f $wfc goog pennystocks pennystocks
+p1417
+sg6
+S'02:39:37'
+p1418
+sg8
+VRosner Stocks
+p1419
+sa(dp1420
+g2
+S'2015-12-08'
+p1421
+sg4
+Vdis walt disney co. day high URL $dis $goog $pcln $sune dis finance invest
+p1422
+sg6
+S'02:37:03'
+p1423
+sg8
+VDennyT
+p1424
+sa(dp1425
+g2
+S'2015-12-08'
+p1426
+sg4
+Vcelg celgene corp. p/e ratio URL $celg $wll $goog $ing celg stocks nasdaq
+p1427
+sg6
+S'02:35:33'
+p1428
+sg8
+Vdanrocks
+p1429
+sa(dp1430
+g2
+S'2015-12-08'
+p1431
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p1432
+sg6
+S'02:33:18'
+p1433
+sg8
+VFinBuzz
+p1434
+sa(dp1435
+g2
+S'2015-12-08'
+p1436
+sg4
+V3 apple inc. iphone 7 rumors that are probably bogus: [at motley fool] - a look at why th... URL $aapl $goog $pcln $k
+p1437
+sg6
+S'02:27:55'
+p1438
+sg8
+VThe Stock Professor
+p1439
+sa(dp1440
+g2
+S'2015-12-08'
+p1441
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p1442
+sg6
+S'02:22:55'
+p1443
+sg8
+VPrimo Domain Name
+p1444
+sa(dp1445
+g2
+S'2015-12-08'
+p1446
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p1447
+sg6
+S'02:21:55'
+p1448
+sg8
+VPrimo Brand
+p1449
+sa(dp1450
+g2
+S'2015-12-08'
+p1451
+sg4
+Vrt AT_USER opinion: androidwear presents timely competition for applewatch - $aapl $goog smartwatch wearables URL
+p1452
+sg6
+S'02:04:50'
+p1453
+sg8
+VChris Foo
+p1454
+sa(dp1455
+g2
+S'2015-12-08'
+p1456
+sg4
+V$glog plant a seed here - URL transport stocks oversold $fro $drys .. $gmcr $aapl $p $goog
+p1457
+sg6
+S'01:54:58'
+p1458
+sg8
+VTrader Gang
+p1459
+sa(dp1460
+g2
+S'2015-12-08'
+p1461
+sg4
+Vrt URL photography tourism $aapl $twtr $goog URL
+p1462
+sg6
+S'01:44:48'
+p1463
+sg8
+VJames F. Lauber
+p1464
+sa(dp1465
+g2
+S'2015-12-08'
+p1466
+sg4
+Vrt URL photography tourism $aapl $twtr $goog URL
+p1467
+sg6
+S'01:44:43'
+p1468
+sg8
+VMG Photography
+p1469
+sa(dp1470
+g2
+S'2015-12-08'
+p1471
+sg4
+Vphotography tourism $aapl $twtr $goog URL
+p1472
+sg6
+S'01:43:53'
+p1473
+sg8
+VPSYCHOOO6
+p1474
+sa(dp1475
+g2
+S'2015-12-08'
+p1476
+sg4
+Vambs amarantus bioscience holdings, inc. bid URL $ambs $smh $goog $nugt ambs invest stocks
+p1477
+sg6
+S'01:34:27'
+p1478
+sg8
+VRosner Stocks
+p1479
+sa(dp1480
+g2
+S'2015-12-08'
+p1481
+sg4
+Vrt AT_USER google life sciences debuts a new name, verily - stat URL google $goog $googl URL
+p1482
+sg6
+S'01:25:49'
+p1483
+sg8
+VSyed Afzal Ali
+p1484
+sa(dp1485
+g2
+S'2015-12-08'
+p1486
+sg4
+Vrt AT_USER $cmg live on periscope in 2min. how i traded chipotle $rlyp and $googl $goog today and taking q&amp;a $aapl $spy any others
+p1487
+sg6
+S'01:25:05'
+p1488
+sg8
+VDtrades
+p1489
+sa(dp1490
+g2
+S'2015-12-08'
+p1491
+sg4
+V$cmg live on periscope in 2min. how i traded chipotle $rlyp and $googl $goog today and taking q&amp;a $aapl $spy any others
+p1492
+sg6
+S'01:23:23'
+p1493
+sg8
+VNavi Avatar
+p1494
+sa(dp1495
+g2
+S'2015-12-08'
+p1496
+sg4
+Vrt AT_USER google life sciences debuts a new name, verily - stat URL google $goog $googl URL
+p1497
+sg6
+S'01:17:11'
+p1498
+sg8
+VRYAN DE LEON
+p1499
+sa(dp1500
+g2
+S'2015-12-08'
+p1501
+sg4
+Vhow can $goog help make america more fascist?" --eric 'always doing tehevul' schmidt URL
+p1502
+sg6
+S'01:12:29'
+p1503
+sg8
+VChris Knall
+p1504
+sa(dp1505
+g2
+S'2015-12-08'
+p1506
+sg4
+Vrt AT_USER google life sciences debuts a new name, verily - stat URL google $goog $googl URL
+p1507
+sg6
+S'01:10:25'
+p1508
+sg8
+VLinda Lee King
+p1509
+sa(dp1510
+g2
+S'2015-12-08'
+p1511
+sg4
+Vyoutube seeks streaming rights to tv shows and movies to bolster red subscription service: URL $googl $goog
+p1512
+sg6
+S'01:02:14'
+p1513
+sg8
+VTop Stocks
+p1514
+sa(dp1515
+g2
+S'2015-12-08'
+p1516
+sg4
+Vyoutube seeks streaming rights to tv shows and movies to bolster red subscription service: URL $googl $goog
+p1517
+sg6
+S'01:02:14'
+p1518
+sg8
+VMarketSmith
+p1519
+sa(dp1520
+g2
+S'2015-12-08'
+p1521
+sg4
+Vgoogle life sciences debuts a new name, verily - stat URL google $goog $googl URL
+p1522
+sg6
+S'01:01:08'
+p1523
+sg8
+V#SocialMedia NC
+p1524
+sa(dp1525
+g2
+S'2015-12-08'
+p1526
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p1527
+sg6
+S'00:59:01'
+p1528
+sg8
+VJohn Poole
+p1529
+sa(dp1530
+g2
+S'2015-12-08'
+p1531
+sg4
+Vrt AT_USER nightcap - bigdata bitcoin blockchain sawzall tech distributed systems golang hardware $goog opensource\u2026\u2026 URL
+p1532
+sg6
+S'00:50:38'
+p1533
+sg8
+VBig Data Tweet
+p1534
+sa(dp1535
+g2
+S'2015-12-08'
+p1536
+sg4
+Vrt AT_USER google life sciences has a new name: verily. it also has a new site: URL $goog URL
+p1537
+sg6
+S'00:45:00'
+p1538
+sg8
+VReverse Diabetes
+p1539
+sa(dp1540
+g2
+S'2015-12-08'
+p1541
+sg4
+Vrt AT_USER google life sciences has a new name: verily. it also has a new site: URL $goog URL
+p1542
+sg6
+S'00:44:21'
+p1543
+sg8
+VEllen H Ullman \u24cb
+p1544
+sa(dp1545
+g2
+S'2015-12-08'
+p1546
+sg4
+Vluv southwest airlines co. day high URL $luv $goog $amba $rsp luv stocks finance
+p1547
+sg6
+S'00:43:03'
+p1548
+sg8
+Vnasdaqfan
+p1549
+sa(dp1550
+g2
+S'2015-12-08'
+p1551
+sg4
+Vnightcap - bigdata bitcoin blockchain sawzall tech distributed systems golang hardware $goog opensource\u2026\u2026 URL
+p1552
+sg6
+S'00:42:08'
+p1553
+sg8
+VAlvaro Campos
+p1554
+sa(dp1555
+g2
+S'2015-12-08'
+p1556
+sg4
+Vibb biotech ishares p/e ratio URL $ibb $ste $sbux $goog ibb pennystocks stock
+p1557
+sg6
+S'00:41:21'
+p1558
+sg8
+Vleahanne
+p1559
+sa(dp1560
+g2
+S'2015-12-08'
+p1561
+sg4
+Vrt AT_USER nightcap - bigdata bitcoin blockchain sawzall tech distributed systems golang hardware $goog opensource\u2026 https\u2026
+p1562
+sg6
+S'00:41:01'
+p1563
+sg8
+VBig Data Tweet
+p1564
+sa(dp1565
+g2
+S'2015-12-08'
+p1566
+sg4
+Vgoog alphabet inc. - class c last trade URL $goog $googl $gddy $ssni goog stock stocks
+p1567
+sg6
+S'00:40:34'
+p1568
+sg8
+VStock_Tracker
+p1569
+sa(dp1570
+g2
+S'2015-12-08'
+p1571
+sg4
+Vgild gilead sciences, inc. short sales URL $gild $fnma $blue $goog gild stocks stocks
+p1572
+sg6
+S'00:39:32'
+p1573
+sg8
+Vdanrocks
+p1574
+sa(dp1575
+g2
+S'2015-12-08'
+p1576
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p1577
+sg6
+S'00:35:35'
+p1578
+sg8
+Vsobeq.org
+p1579
+sa(dp1580
+g2
+S'2015-12-08'
+p1581
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p1582
+sg6
+S'00:34:31'
+p1583
+sg8
+VMr. V
+p1584
+sa(dp1585
+g2
+S'2015-12-08'
+p1586
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p1587
+sg6
+S'00:34:22'
+p1588
+sg8
+VMr. V
+p1589
+sa(dp1590
+g2
+S'2015-12-08'
+p1591
+sg4
+Vnightcap - bigdata bitcoin blockchain sawzall tech distributed systems golang hardware $goog opensource\u2026 URL
+p1592
+sg6
+S'00:33:31'
+p1593
+sg8
+VMr. Bytes Blog
+p1594
+sa(dp1595
+g2
+S'2015-12-08'
+p1596
+sg4
+Vhey, do you know everything while trading sp500? $goog $jnj $ge URL URL
+p1597
+sg6
+S'00:19:11'
+p1598
+sg8
+VFinBuzz
+p1599
+sa(dp1600
+g2
+S'2015-12-08'
+p1601
+sg4
+V$goog -held where needed to can watch red to green tomorrow 769/770 the big ones URL
+p1602
+sg6
+S'00:18:05'
+p1603
+sg8
+VKeebler Elf
+p1604
+sa(dp1605
+g2
+S'2015-12-08'
+p1606
+sg4
+Vtrack trending assets in 1 watchlist $amzn $goog $nflx $nke $ry URL URL
+p1607
+sg6
+S'00:12:28'
+p1608
+sg8
+VFinBuzz
+p1609
+sa(dp1610
+g2
+S'2015-12-08'
+p1611
+sg4
+Vrt AT_USER google life sciences has a new name: verily. it also has a new site: URL $goog URL
+p1612
+sg6
+S'00:04:00'
+p1613
+sg8
+VKhader Shameer, Ph.D
+p1614
+sa(dp1615
+g2
+S'2015-12-08'
+p1616
+sg4
+V$fb is trying to bring some of youtube's power over to its own video platform. $goog URL
+p1617
+sg6
+S'00:02:44'
+p1618
+sg8
+VZOG Digital
+p1619
+sa(dp1620
+g2
+S'2015-12-08'
+p1621
+sg4
+Vwhy apple's big expansion in elk grove could be just the start of something bigger: URL $aapl $goog $pcln $k
+p1622
+sg6
+S'00:01:28'
+p1623
+sg8
+VThe Stock Professor
+p1624
+sa.

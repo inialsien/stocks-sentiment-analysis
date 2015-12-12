@@ -1,0 +1,2463 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-06'
+p3
+sS'text'
+p4
+Vrt AT_USER nflx netflix, inc. e.p.s. URL $nflx $fxe $nke $dfs nflx share pennystocks
+p5
+sS'time'
+p6
+S'19:51:26'
+p7
+sS'author'
+p8
+VInvestment - Pfliger
+p9
+sa(dp10
+g2
+S'2015-12-06'
+p11
+sg4
+Vrt AT_USER nflx netflix, inc. e.p.s. URL $nflx $fxe $nke $dfs nflx share pennystocks
+p12
+sg6
+S'19:50:19'
+p13
+sg8
+VPenny Stocks Blog
+p14
+sa(dp15
+g2
+S'2015-12-06'
+p16
+sg4
+Vrt AT_USER $nflx backtest complete. if it can get above 132.20, then next levels will be 136 and 142 to start with. URL
+p17
+sg6
+S'19:48:13'
+p18
+sg8
+Vstockassassin
+p19
+sa(dp20
+g2
+S'2015-12-06'
+p21
+sg4
+Vqld proshares ultra qqq fund tick URL $qld $stz $nflx $_ipg qld stock stock
+p22
+sg6
+S'19:46:23'
+p23
+sg8
+Vlookn4wins
+p24
+sa(dp25
+g2
+S'2015-12-06'
+p26
+sg4
+Vnflx netflix, inc. e.p.s. URL $nflx $fxe $nke $dfs nflx share pennystocks
+p27
+sg6
+S'19:44:33'
+p28
+sg8
+VStock Forums
+p29
+sa(dp30
+g2
+S'2015-12-06'
+p31
+sg4
+Vmomo stock updates - 12/6/2015" $aapl $fb $amzn $nflx $googl $twtr $tsla $ibb $baba URL
+p32
+sg6
+S'19:41:39'
+p33
+sg8
+Vsmtrader StockTrader
+p34
+sa(dp35
+g2
+S'2015-12-06'
+p36
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax
+p37
+sg6
+S'19:28:39'
+p38
+sg8
+VSmallCaps 
+p39
+sa(dp40
+g2
+S'2015-12-06'
+p41
+sg4
+V%stocks&gt;40dma=43.2% more than just another stock market rebound. URL $spy $nflx $aapl $svxy vix t2108
+p42
+sg6
+S'19:27:11'
+p43
+sg8
+VDr. Duru
+p44
+sa(dp45
+g2
+S'2015-12-06'
+p46
+sg4
+Vrt AT_USER nflx novagold resources inc day low URL $nflx $vrx $uup $xlf nflx stockmarket stocks
+p47
+sg6
+S'19:04:05'
+p48
+sg8
+VOptions Answers
+p49
+sa(dp50
+g2
+S'2015-12-06'
+p51
+sg4
+Vyri.to ask URL $yri.to $ogc.to $intc $nflx yri.to stock tradeideas
+p52
+sg6
+S'18:52:24'
+p53
+sg8
+Vjim50
+p54
+sa(dp55
+g2
+S'2015-12-06'
+p56
+sg4
+Vyri.to ask URL $yri.to $ogc.to $intc $nflx yri.to stock tradeideas
+p57
+sg6
+S'18:52:24'
+p58
+sg8
+Vjim50
+p59
+sa(dp60
+g2
+S'2015-12-06'
+p61
+sg4
+Vyri.to ask URL $yri.to $ogc.to $intc $nflx yri.to stock tradeideas
+p62
+sg6
+S'18:52:24'
+p63
+sg8
+Vjim50
+p64
+sa(dp65
+g2
+S'2015-12-06'
+p66
+sg4
+Vqld qunar cayman islands ltd. company info URL $qld $ebay $nwbo $nflx qld stock share
+p67
+sg6
+S'18:47:08'
+p68
+sg8
+VLucky Jimmy
+p69
+sa(dp70
+g2
+S'2015-12-06'
+p71
+sg4
+Vrt URL esl proshares short msci emerging markets company info URL $esl $ebay $ma $nflx esl fin\u2026
+p72
+sg6
+S'18:46:00'
+p73
+sg8
+Vgoieltsdotnet
+p74
+sa(dp75
+g2
+S'2015-12-06'
+p76
+sg4
+Vnflx novagold resources inc day low URL $nflx $vrx $uup $xlf nflx stockmarket stocks
+p77
+sg6
+S'18:45:03'
+p78
+sg8
+VDennyT
+p79
+sa(dp80
+g2
+S'2015-12-06'
+p81
+sg4
+Vford ishares ftse china 25 index fund company info URL $ford $nflx $vrsn $mu ford pennystocks finance
+p82
+sg6
+S'18:40:19'
+p83
+sg8
+Vdanrocks
+p84
+sa(dp85
+g2
+S'2015-12-06'
+p86
+sg4
+Vesl proshares short msci emerging markets company info URL $esl $ebay $ma $nflx esl finance stocks
+p87
+sg6
+S'18:38:34'
+p88
+sg8
+VEmylers
+p89
+sa(dp90
+g2
+S'2015-12-06'
+p91
+sg4
+Vcivi celladon corp. filings URL $civi $nymx $nflx $rnst civi stock tradeideas
+p92
+sg6
+S'18:36:34'
+p93
+sg8
+VLucky Jimmy
+p94
+sa(dp95
+g2
+S'2015-12-06'
+p96
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax $nug
+p97
+sg6
+S'18:28:33'
+p98
+sg8
+VSmallCaps 
+p99
+sa(dp100
+g2
+S'2015-12-06'
+p101
+sg4
+VAT_USER $nflx what a trend - first short term thought is to see if this resistance holds chartsnredzone URL
+p102
+sg6
+S'18:28:13'
+p103
+sg8
+VAaron Jackson
+p104
+sa(dp105
+g2
+S'2015-12-06'
+p106
+sg4
+V10 helpful personal finance tips that won't require drastic lifes... URL $sbux $nflx
+p107
+sg6
+S'18:27:47'
+p108
+sg8
+VStockSaints
+p109
+sa(dp110
+g2
+S'2015-12-06'
+p111
+sg4
+Vrt AT_USER hope everybody has their "flash crash bounce buys" list set up for the holiday season! $gild $aapl $isis $nflx $alny ht\u2026
+p112
+sg6
+S'18:11:54'
+p113
+sg8
+VAlma Dowman
+p114
+sa(dp115
+g2
+S'2015-12-06'
+p116
+sg4
+Vupdate us stocks major news $cp -3.25% $msft +0.33% $yahoo +0.13% $googl +0.37% $gpro -5.23% $lyg +0.11% $nflx +0.51% $pfe +1.08%
+p117
+sg6
+S'18:01:41'
+p118
+sg8
+VJudy Enderson
+p119
+sa(dp120
+g2
+S'2015-12-06'
+p121
+sg4
+V38 "annointed" stocks by cramer include $fb $amzn $nflx $googl $expe $lnkd $panw $crm $amgn $biib $celg $gild $pfe URL
+p122
+sg6
+S'17:53:50'
+p123
+sg8
+VClark Joseph Kent
+p124
+sa(dp125
+g2
+S'2015-12-06'
+p126
+sg4
+V$nflx high open interest range is 120.00 to 130.00 for option expiration 12/11/2015. URL URL
+p127
+sg6
+S'17:45:28'
+p128
+sg8
+VDan
+p129
+sa(dp130
+g2
+S'2015-12-06'
+p131
+sg4
+Vnflx netflix, inc. tick URL $nflx $stz $abx $nwbo nflx nasdaq stocks
+p132
+sg6
+S'17:45:04'
+p133
+sg8
+VEmylers
+p134
+sa(dp135
+g2
+S'2015-12-06'
+p136
+sg4
+Vhnl.to horizon north logistics, inc. short sales URL $hnl.to $xlk $xlb $nflx hnl.to investing stocks
+p137
+sg6
+S'17:41:44'
+p138
+sg8
+VStock Forums
+p139
+sa(dp140
+g2
+S'2015-12-06'
+p141
+sg4
+Vrt AT_USER special $25 trading room offer URL $spy $iwm $qqq $aapl $nflx $gld $fb $fit $tsla $pcln $uso $gdx $ib\u2026
+p142
+sg6
+S'17:41:14'
+p143
+sg8
+VFake Chum Lee
+p144
+sa(dp145
+g2
+S'2015-12-06'
+p146
+sg4
+Vspecial $25 trading room offer URL $spy $iwm $qqq $aapl $nflx $gld $fb $fit $tsla $pcln $uso $gdx $ibb $bac $lnkd $bidu
+p147
+sg6
+S'17:36:02'
+p148
+sg8
+Vtradewithjoe
+p149
+sa(dp150
+g2
+S'2015-12-06'
+p151
+sg4
+V$nflx max pain = 123.00. maturity = 12/11/2015. previous close = 130.93. URL
+p152
+sg6
+S'17:30:33'
+p153
+sg8
+VDan
+p154
+sa(dp155
+g2
+S'2015-12-06'
+p156
+sg4
+V$nflx backtest complete. if it can get above 132.20, then next levels will be 136 and 142 to start with. URL
+p157
+sg6
+S'17:11:34'
+p158
+sg8
+VVenky Srinivasan
+p159
+sa(dp160
+g2
+S'2015-12-06'
+p161
+sg4
+VAT_USER good question. i think $nflx has one more leg up
+p162
+sg6
+S'16:58:50'
+p163
+sg8
+VCory Wurtenberg
+p164
+sa(dp165
+g2
+S'2015-12-06'
+p166
+sg4
+Vshubhlaxmi pivot calculator $uvxy $spy $spx $dia $jcj $djia $cmg $googl $amzn $nflx $aapl $bidu $gs $chk URL
+p167
+sg6
+S'16:56:45'
+p168
+sg8
+VEternity101
+p169
+sa(dp170
+g2
+S'2015-12-06'
+p171
+sg4
+Vrt URL rnst renasant corp. last price URL $rnst $uso $jpm $nflx rnst stocks invest
+p172
+sg6
+S'16:52:53'
+p173
+sg8
+VBinary Trader Pro
+p174
+sa(dp175
+g2
+S'2015-12-06'
+p176
+sg4
+Vstandard pivot points calculation $spx $spy $dia $djia ..etc etc.. $cmg $nflx $googl $amzn $aapl URL
+p177
+sg6
+S'16:52:34'
+p178
+sg8
+VEternity101
+p179
+sa(dp180
+g2
+S'2015-12-06'
+p181
+sg4
+Vrt AT_USER fit fitbit, inc. chart URL $fit $aem $spxl $nflx fit stockmarket invest
+p182
+sg6
+S'16:50:24'
+p183
+sg8
+VZoran Spirov
+p184
+sa(dp185
+g2
+S'2015-12-06'
+p186
+sg4
+Vrnst renasant corp. last price URL $rnst $uso $jpm $nflx rnst stocks invest
+p187
+sg6
+S'16:46:34'
+p188
+sg8
+VDennyT
+p189
+sa(dp190
+g2
+S'2015-12-06'
+p191
+sg4
+Vregn regeneron pharmaceuticals, inc. bid size URL $regn $nete $feye $nflx regn invest stockmarket
+p192
+sg6
+S'16:46:04'
+p193
+sg8
+Vdanrocks
+p194
+sa(dp195
+g2
+S'2015-12-06'
+p196
+sg4
+Vnflx netflix, inc. ask size URL $nflx $p.to $ford $tss nflx invest invest
+p197
+sg6
+S'16:44:33'
+p198
+sg8
+VEmylers
+p199
+sa(dp200
+g2
+S'2015-12-06'
+p201
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p202
+sg6
+S'16:44:06'
+p203
+sg8
+VNASDAQStocks
+p204
+sa(dp205
+g2
+S'2015-12-06'
+p206
+sg4
+V== advanced camarilla intraday calculator == URL $spx $spy $dia $djia .. etc etc.. $cmg $nflx $googl $amzn $aapl
+p207
+sg6
+S'16:43:55'
+p208
+sg8
+VEternity101
+p209
+sa(dp210
+g2
+S'2015-12-06'
+p211
+sg4
+Vfit fitbit, inc. chart URL $fit $aem $spxl $nflx fit stockmarket invest
+p212
+sg6
+S'16:38:33'
+p213
+sg8
+VLucky Jimmy
+p214
+sa(dp215
+g2
+S'2015-12-06'
+p216
+sg4
+V[video repost] weekend us market analysis 12/06/2015 $fb $swn $nflx $xom $p $wfc $rf $key $mu $gfi $orcl $jmp $vips URL
+p217
+sg6
+S'16:24:09'
+p218
+sg8
+VMuathe
+p219
+sa(dp220
+g2
+S'2015-12-06'
+p221
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p222
+sg6
+S'16:15:18'
+p223
+sg8
+VMarijuanacharts
+p224
+sa(dp225
+g2
+S'2015-12-06'
+p226
+sg4
+V$nflx - 3 stocks we're ready to sell URL
+p227
+sg6
+S'16:06:03'
+p228
+sg8
+VHot Stocks&Biotechs
+p229
+sa(dp230
+g2
+S'2015-12-06'
+p231
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p232
+sg6
+S'16:05:34'
+p233
+sg8
+VDenis B
+p234
+sa(dp235
+g2
+S'2015-12-06'
+p236
+sg4
+Vrt AT_USER $nflx is not an easy call from here but looking deep into this chart the odds favor this breakouts out higher when it con\u2026
+p237
+sg6
+S'16:04:39'
+p238
+sg8
+VDenis B
+p239
+sa(dp240
+g2
+S'2015-12-06'
+p241
+sg4
+Vask kevin spacey or reed hastings a 'house of cards' can be a home run ash15 netflix $sgen $nflx URL
+p242
+sg6
+S'15:53:59'
+p243
+sg8
+VNYCDoc29
+p244
+sa(dp245
+g2
+S'2015-12-06'
+p246
+sg4
+Vrt AT_USER weekend video: shaking out the weak hands URL $spy $qqq $nflx $ibkr $crm $iwm
+p247
+sg6
+S'15:53:37'
+p248
+sg8
+VSur Richi Trader
+p249
+sa(dp250
+g2
+S'2015-12-06'
+p251
+sg4
+Vweekend video: shaking out the weak hands URL $spy $qqq $nflx $ibkr $crm $iwm
+p252
+sg6
+S'15:50:46'
+p253
+sg8
+VJoseph Fahmy
+p254
+sa(dp255
+g2
+S'2015-12-06'
+p256
+sg4
+Vuvxy proshares ultra vix short-term futures etf last trade URL $uvxy $nflx $erx $hqy uvxy invest stockmarket
+p257
+sg6
+S'15:49:15'
+p258
+sg8
+VEmylers
+p259
+sa(dp260
+g2
+S'2015-12-06'
+p261
+sg4
+Vnflx netflix, inc. last trade URL $nflx $lmnx $aeis $fdn nflx share stocks
+p262
+sg6
+S'15:44:33'
+p263
+sg8
+Vleahanne
+p264
+sa(dp265
+g2
+S'2015-12-06'
+p266
+sg4
+Vrt AT_USER intc russell 2000 ishares summary URL $intc $nflx $mdt $cnr.to intc stockmarket stockmarket
+p267
+sg6
+S'15:14:54'
+p268
+sg8
+VOptions Answers
+p269
+sa(dp270
+g2
+S'2015-12-06'
+p271
+sg4
+Vrt AT_USER over 100 students in just 2 wks! build, grow, &amp; protect your money (enroll for just $39) URL $nflx $aapl \u2026
+p272
+sg6
+S'15:10:16'
+p273
+sg8
+VChris
+p274
+sa(dp275
+g2
+S'2015-12-06'
+p276
+sg4
+VAT_USER AT_USER AT_USER $myec $sq $fb $pypl $nflx millennials growing market. URL
+p277
+sg6
+S'15:06:27'
+p278
+sg8
+VBUD RANTE
+p279
+sa(dp280
+g2
+S'2015-12-06'
+p281
+sg4
+VAT_USER AT_USER while they $nflx and chill. .
+p282
+sg6
+S'14:55:05'
+p283
+sg8
+Vace
+p284
+sa(dp285
+g2
+S'2015-12-06'
+p286
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p287
+sg6
+S'14:42:40'
+p288
+sg8
+VAA
+p289
+sa(dp290
+g2
+S'2015-12-06'
+p291
+sg4
+Vrt AT_USER over 100 students in just 2 wks! build, grow, &amp; protect your money (enroll for just $39) URL $nflx $aapl \u2026
+p292
+sg6
+S'14:41:46'
+p293
+sg8
+Vjoanna
+p294
+sa(dp295
+g2
+S'2015-12-06'
+p296
+sg4
+Vagg ishares barclays aggregate bond fund quotes URL $agg $nflx $v $avgo agg pennystocks pennystocks
+p297
+sg6
+S'14:34:03'
+p298
+sg8
+VLucky Jimmy
+p299
+sa(dp300
+g2
+S'2015-12-06'
+p301
+sg4
+V$nke want to better understand the upcoming stock split? this uses $nflx as an example to help: URL
+p302
+sg6
+S'14:24:29'
+p303
+sg8
+VDave Kelly
+p304
+sa(dp305
+g2
+S'2015-12-06'
+p306
+sg4
+Vintc russell 2000 ishares summary URL $intc $nflx $mdt $cnr.to intc stockmarket stockmarket
+p307
+sg6
+S'13:42:02'
+p308
+sg8
+VDennyT
+p309
+sa(dp310
+g2
+S'2015-12-06'
+p311
+sg4
+Varwr alimentation couche-tard, inc. quotes URL $arwr $fcx $alk $nflx arwr stock finance
+p312
+sg6
+S'13:35:33'
+p313
+sg8
+Vclayton
+p314
+sa(dp315
+g2
+S'2015-12-06'
+p316
+sg4
+Vmillionaire trading student URL made millions learning to trade from URL $kite $hlf $uwti $nflx $cat
+p317
+sg6
+S'13:29:10'
+p318
+sg8
+VStock_Huntress
+p319
+sa(dp320
+g2
+S'2015-12-06'
+p321
+sg4
+V06 dec 2015: uptrend stocks in services $abc $cah $disca $ebay $fast $gci $kmx $kr $mck $nflx URL
+p322
+sg6
+S'13:21:01'
+p323
+sg8
+VTrading Quotient
+p324
+sa(dp325
+g2
+S'2015-12-06'
+p326
+sg4
+V$nflx vs. $tsla head to head URL URL
+p327
+sg6
+S'13:09:23'
+p328
+sg8
+VCapital Market Labs
+p329
+sa(dp330
+g2
+S'2015-12-06'
+p331
+sg4
+V$nflx following 8 day sma since mid november. getting tight URL
+p332
+sg6
+S'12:53:02'
+p333
+sg8
+VAdam Struzynski
+p334
+sa(dp335
+g2
+S'2015-12-06'
+p336
+sg4
+Vrt AT_USER watch: how to kill AT_USER a.k.a "can netflix be stopped? if not, what should legacy media do?" $nflx URL
+p337
+sg6
+S'12:46:47'
+p338
+sg8
+VDavid Teicher
+p339
+sa(dp340
+g2
+S'2015-12-06'
+p341
+sg4
+Vnflx netflix, inc. message board posts URL $nflx $azo $azo $abx nflx invest stock
+p342
+sg6
+S'12:43:33'
+p343
+sg8
+VInvestors Hangout
+p344
+sa(dp345
+g2
+S'2015-12-06'
+p346
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p347
+sg6
+S'12:39:42'
+p348
+sg8
+Vconstance grisham
+p349
+sa(dp350
+g2
+S'2015-12-06'
+p351
+sg4
+V$nflx watching for breakout URL
+p352
+sg6
+S'12:34:27'
+p353
+sg8
+VFinancialTrader
+p354
+sa(dp355
+g2
+S'2015-12-06'
+p356
+sg4
+Varna arena pharmaceuticals summary URL $arna $nflx $swhc $etp arna stock nasdaq
+p357
+sg6
+S'12:34:15'
+p358
+sg8
+VStock_Tracker
+p359
+sa(dp360
+g2
+S'2015-12-06'
+p361
+sg4
+Vrt AT_USER $nflx you all can thank my dad, he's been "renting" the same 3 dvds for the past 3 years.
+p362
+sg6
+S'11:47:31'
+p363
+sg8
+VEric
+p364
+sa(dp365
+g2
+S'2015-12-06'
+p366
+sg4
+V%stocks&gt;40dma=43.2%. more than just another stock market rebound. URL $spy $svxy vix $nflx $aapl t2108
+p367
+sg6
+S'11:05:56'
+p368
+sg8
+VDr. Duru
+p369
+sa(dp370
+g2
+S'2015-12-06'
+p371
+sg4
+Vrt AT_USER read my speech at URL --thousands of words on what's driving $fb, $googl, $amzn, $nflx URL
+p372
+sg6
+S'10:46:42'
+p373
+sg8
+VJoy Chen
+p374
+sa(dp375
+g2
+S'2015-12-06'
+p376
+sg4
+Vnflx nanotech entertainment inc. quotes URL $nflx $lock $schw $calvf nflx stock invest
+p377
+sg6
+S'10:46:14'
+p378
+sg8
+Vdanrocks
+p379
+sa(dp380
+g2
+S'2015-12-06'
+p381
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p382
+sg6
+S'10:16:27'
+p383
+sg8
+VJames DiPlata
+p384
+sa(dp385
+g2
+S'2015-12-06'
+p386
+sg4
+Vrt AT_USER toptickertweets $gbsn $spy $aapl $asti $nflx fintech finserv URL 20151202-16:00
+p387
+sg6
+S'10:14:05'
+p388
+sg8
+V#SaveTheBees
+p389
+sa(dp390
+g2
+S'2015-12-06'
+p391
+sg4
+Vrt AT_USER should be all $nflx and $amzn since statedept says to stay away from crowds and don't travel. =gdp should be good tom\u2026
+p392
+sg6
+S'10:13:48'
+p393
+sg8
+VEnergy Shots
+p394
+sa(dp395
+g2
+S'2015-12-06'
+p396
+sg4
+Vrt AT_USER $nflx $cx: friday\u2019s trade news report on: netflix, (nasdaq:nflx), cemex \u2026: URL
+p397
+sg6
+S'09:52:19'
+p398
+sg8
+VBull&Bear Trading
+p399
+sa(dp400
+g2
+S'2015-12-06'
+p401
+sg4
+V$nflx $cx: friday\u2019s trade news report on: netflix, (nasdaq:nflx), cemex \u2026: URL
+p402
+sg6
+S'09:50:23'
+p403
+sg8
+VBreakingStocksNews
+p404
+sa(dp405
+g2
+S'2015-12-06'
+p406
+sg4
+Vrt AT_USER netflix's $nflx recent earnings show why the best trades go against the crowd URL URL
+p407
+sg6
+S'09:49:49'
+p408
+sg8
+VBull&Bear Trading
+p409
+sa(dp410
+g2
+S'2015-12-06'
+p411
+sg4
+Vplab photronics, inc. chart URL $plab $hpq $nflx $fsl plab stocks tradeideas
+p412
+sg6
+S'09:46:20'
+p413
+sg8
+VPolgarStocks
+p414
+sa(dp415
+g2
+S'2015-12-06'
+p416
+sg4
+Vnflx netflix, inc. stock forum URL $nflx $siaf $xle $nati nflx share finance
+p417
+sg6
+S'09:44:03'
+p418
+sg8
+VInvestors Hangout
+p419
+sa(dp420
+g2
+S'2015-12-06'
+p421
+sg4
+Vmillionaire trading student URL made millions learning to trade from URL $kite $hlf $uwti $nflx $cat
+p422
+sg6
+S'09:43:57'
+p423
+sg8
+VTradeAlerts
+p424
+sa(dp425
+g2
+S'2015-12-06'
+p426
+sg4
+Vnati national instruments corp. volume URL $nati $aem $swks $nflx nati finance nasdaq
+p427
+sg6
+S'09:43:34'
+p428
+sg8
+VLucky Jimmy
+p429
+sa(dp430
+g2
+S'2015-12-06'
+p431
+sg4
+Vdust direxion daily gold miners bear 3x shares company info URL $dust $jazz $nflx $kite dust stockmarket\u2026
+p432
+sg6
+S'09:37:34'
+p433
+sg8
+VStock Forums
+p434
+sa(dp435
+g2
+S'2015-12-06'
+p436
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p437
+sg6
+S'09:32:11'
+p438
+sg8
+VNASDAQStocks
+p439
+sa(dp440
+g2
+S'2015-12-06'
+p441
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p442
+sg6
+S'09:16:40'
+p443
+sg8
+VMarijuanacharts
+p444
+sa(dp445
+g2
+S'2015-12-06'
+p446
+sg4
+Vrt AT_USER xabcd calculator v1-3 now support xabcd patterns, free for members : URL $spy $es $spx $aapl $fb $a\u2026
+p447
+sg6
+S'09:15:23'
+p448
+sg8
+VJames DiPlata
+p449
+sa(dp450
+g2
+S'2015-12-06'
+p451
+sg4
+Vrt AT_USER xlk technology select sector spdr stock forum URL $xlk $gmcr $xle $nflx xlk pennystocks stockmark\u2026
+p452
+sg6
+S'08:54:58'
+p453
+sg8
+VPenny Stocks Blog
+p454
+sa(dp455
+g2
+S'2015-12-06'
+p456
+sg4
+Vxlk technology select sector spdr stock forum URL $xlk $gmcr $xle $nflx xlk pennystocks stockmarket
+p457
+sg6
+S'08:52:31'
+p458
+sg8
+VStock Forums
+p459
+sa(dp460
+g2
+S'2015-12-06'
+p461
+sg4
+Vnflx netflix, inc. open URL $nflx $xle $v $mux nflx finance tradeideas
+p462
+sg6
+S'08:44:33'
+p463
+sg8
+VJake13
+p464
+sa(dp465
+g2
+S'2015-12-06'
+p466
+sg4
+Veem ishares msci emerging markets shares URL $eem $hban $nflx $cree eem investing investing
+p467
+sg6
+S'08:35:33'
+p468
+sg8
+Vlookn4wins
+p469
+sa(dp470
+g2
+S'2015-12-06'
+p471
+sg4
+Vxabcd calculator v1-3 now support xabcd patterns, free for members : URL $spy $es $spx $aapl $fb $amzn $nflx $tsla $goog
+p472
+sg6
+S'08:17:51'
+p473
+sg8
+VPtheGr8
+p474
+sa(dp475
+g2
+S'2015-12-06'
+p476
+sg4
+VURL &lt;- checkout cameron fous's profitly chart its pretty nice! $jdst $kndi $tlt $king $ugaz $nflx $pwrd
+p477
+sg6
+S'08:04:26'
+p478
+sg8
+VSmallCaps 
+p479
+sa(dp480
+g2
+S'2015-12-06'
+p481
+sg4
+V$nflx and $aapl going to have great moves next week.
+p482
+sg6
+S'07:51:46'
+p483
+sg8
+VDay Trader
+p484
+sa(dp485
+g2
+S'2015-12-06'
+p486
+sg4
+Vtrack trending assets in 1 watchlist $amzn $atd/b $bidu $nflx $pfizer URL URL
+p487
+sg6
+S'07:20:25'
+p488
+sg8
+VFinBuzz
+p489
+sa(dp490
+g2
+S'2015-12-06'
+p491
+sg4
+Vtickers trending on twtr in last 1 hour $amzn $atd/b $bidu $nflx $pfe URL URL
+p492
+sg6
+S'06:58:28'
+p493
+sg8
+VFinBuzz
+p494
+sa(dp495
+g2
+S'2015-12-06'
+p496
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p497
+sg6
+S'06:43:36'
+p498
+sg8
+Vnasdaqfan
+p499
+sa(dp500
+g2
+S'2015-12-06'
+p501
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p502
+sg6
+S'06:43:36'
+p503
+sg8
+Vnasdaqfan
+p504
+sa(dp505
+g2
+S'2015-12-06'
+p506
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p507
+sg6
+S'06:43:35'
+p508
+sg8
+Vnasdaqfan
+p509
+sa(dp510
+g2
+S'2015-12-06'
+p511
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p512
+sg6
+S'06:43:35'
+p513
+sg8
+Vnasdaqfan
+p514
+sa(dp515
+g2
+S'2015-12-06'
+p516
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p517
+sg6
+S'06:43:25'
+p518
+sg8
+VIH NASDAQ OMX
+p519
+sa(dp520
+g2
+S'2015-12-06'
+p521
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p522
+sg6
+S'06:43:25'
+p523
+sg8
+VIH NASDAQ OMX
+p524
+sa(dp525
+g2
+S'2015-12-06'
+p526
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p527
+sg6
+S'06:43:24'
+p528
+sg8
+VIH NASDAQ OMX
+p529
+sa(dp530
+g2
+S'2015-12-06'
+p531
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p532
+sg6
+S'06:43:24'
+p533
+sg8
+VIH NASDAQ OMX
+p534
+sa(dp535
+g2
+S'2015-12-06'
+p536
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p537
+sg6
+S'06:43:23'
+p538
+sg8
+VIH NASDAQ OMX
+p539
+sa(dp540
+g2
+S'2015-12-06'
+p541
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaq
+p542
+sg6
+S'06:43:23'
+p543
+sg8
+VIH NASDAQ OMX
+p544
+sa(dp545
+g2
+S'2015-12-06'
+p546
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p547
+sg6
+S'06:43:17'
+p548
+sg8
+VInvestors Hangout
+p549
+sa(dp550
+g2
+S'2015-12-06'
+p551
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p552
+sg6
+S'06:43:16'
+p553
+sg8
+VInvestors Hangout
+p554
+sa(dp555
+g2
+S'2015-12-06'
+p556
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p557
+sg6
+S'06:43:15'
+p558
+sg8
+VInvestors Hangout
+p559
+sa(dp560
+g2
+S'2015-12-06'
+p561
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p562
+sg6
+S'06:43:13'
+p563
+sg8
+Vleahanne
+p564
+sa(dp565
+g2
+S'2015-12-06'
+p566
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p567
+sg6
+S'06:43:12'
+p568
+sg8
+Vleahanne
+p569
+sa(dp570
+g2
+S'2015-12-06'
+p571
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p572
+sg6
+S'06:43:11'
+p573
+sg8
+Vleahanne
+p574
+sa(dp575
+g2
+S'2015-12-06'
+p576
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p577
+sg6
+S'06:43:11'
+p578
+sg8
+VStock_Tracker
+p579
+sa(dp580
+g2
+S'2015-12-06'
+p581
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p582
+sg6
+S'06:43:10'
+p583
+sg8
+Vleahanne
+p584
+sa(dp585
+g2
+S'2015-12-06'
+p586
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p587
+sg6
+S'06:43:09'
+p588
+sg8
+Vleahanne
+p589
+sa(dp590
+g2
+S'2015-12-06'
+p591
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p592
+sg6
+S'06:43:08'
+p593
+sg8
+VInvestors Hangout
+p594
+sa(dp595
+g2
+S'2015-12-06'
+p596
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p597
+sg6
+S'06:43:08'
+p598
+sg8
+VInvestors Hangout
+p599
+sa(dp600
+g2
+S'2015-12-06'
+p601
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p602
+sg6
+S'06:43:07'
+p603
+sg8
+VInvestors Hangout
+p604
+sa(dp605
+g2
+S'2015-12-06'
+p606
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p607
+sg6
+S'06:43:07'
+p608
+sg8
+VInvestors Hangout
+p609
+sa(dp610
+g2
+S'2015-12-06'
+p611
+sg4
+Vgwb great western bancorp inc. company info URL $gwb $nflx $calm $aks gwb stocks nasdaqhart harvard apparatus\u2026
+p612
+sg6
+S'06:43:06'
+p613
+sg8
+VInvestors Hangout
+p614
+sa(dp615
+g2
+S'2015-12-06'
+p616
+sg4
+Vdxd proshares ultra short dow 30 quotes URL $dxd $calm $nflx $cat dxd share investing
+p617
+sg6
+S'06:38:33'
+p618
+sg8
+VRosner Stocks
+p619
+sa(dp620
+g2
+S'2015-12-06'
+p621
+sg4
+Vis you tube red a real threat to netflix? $nflx URL
+p622
+sg6
+S'06:36:05'
+p623
+sg8
+Vabrahamcn
+p624
+sa(dp625
+g2
+S'2015-12-06'
+p626
+sg4
+Vclgrf claude resources inc. quotes URL $clgrf $nflx $uso $duk clgrf stocks share
+p627
+sg6
+S'06:36:04'
+p628
+sg8
+VEmylers
+p629
+sa(dp630
+g2
+S'2015-12-06'
+p631
+sg4
+VAT_USER AT_USER AT_USER we dont stick to those, but we do stick to the jumbotrons like $nflx, $cmg and king $googl
+p632
+sg6
+S'06:11:59'
+p633
+sg8
+VMalibu Investment
+p634
+sa(dp635
+g2
+S'2015-12-06'
+p636
+sg4
+Vqcom qualcomm inc. company info URL $qcom $fb $nflx $celg qcom pennystocks nasdaq
+p637
+sg6
+S'05:46:10'
+p638
+sg8
+VEmylers
+p639
+sa(dp640
+g2
+S'2015-12-06'
+p641
+sg4
+Vqcom qualcomm inc. company info URL $qcom $fb $nflx $celg qcom pennystocks nasdaq
+p642
+sg6
+S'05:46:09'
+p643
+sg8
+VEmylers
+p644
+sa(dp645
+g2
+S'2015-12-06'
+p646
+sg4
+Vqcom qualcomm inc. company info URL $qcom $fb $nflx $celg qcom pennystocks nasdaq
+p647
+sg6
+S'05:46:09'
+p648
+sg8
+VEmylers
+p649
+sa(dp650
+g2
+S'2015-12-06'
+p651
+sg4
+Vnflx netflix, inc. message board posts URL $nflx $kite $jpm $hgu.to nflx share invest
+p652
+sg6
+S'05:43:33'
+p653
+sg8
+VInvestors Hangout
+p654
+sa(dp655
+g2
+S'2015-12-06'
+p656
+sg4
+Vmcd mcdonalds corp. investor opinions URL $mcd $vxx $myec $nflx mcd finance tradeideas
+p657
+sg6
+S'05:43:07'
+p658
+sg8
+Vlookn4wins
+p659
+sa(dp660
+g2
+S'2015-12-06'
+p661
+sg4
+Vchuy chuy's holdings inc. ask URL $chuy $igm $nflx $goog chuy investing nasdaq
+p662
+sg6
+S'05:34:32'
+p663
+sg8
+VInvestors Hangout
+p664
+sa(dp665
+g2
+S'2015-12-06'
+p666
+sg4
+Vnflx netflix, inc. filings URL $nflx $zsl $jnk $cdii nflx investing investing
+p667
+sg6
+S'04:44:09'
+p668
+sg8
+Vlookn4wins
+p669
+sa(dp670
+g2
+S'2015-12-06'
+p671
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p672
+sg6
+S'04:42:40'
+p673
+sg8
+VBiagio Pugliese
+p674
+sa(dp675
+g2
+S'2015-12-06'
+p676
+sg4
+Vjnj johnson &amp; johnson open URL $jnj $tpk.to $nvda $nflx jnj pennystocks finance
+p677
+sg6
+S'04:41:33'
+p678
+sg8
+VPolgarStocks
+p679
+sa(dp680
+g2
+S'2015-12-06'
+p681
+sg4
+Vis you tube red a real threat to netflix? URL $nflx, $goog, $googl
+p682
+sg6
+S'04:30:02'
+p683
+sg8
+VDaniel Shaw
+p684
+sa(dp685
+g2
+S'2015-12-06'
+p686
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p687
+sg6
+S'04:24:42'
+p688
+sg8
+VMatthew Keefe
+p689
+sa(dp690
+g2
+S'2015-12-06'
+p691
+sg4
+Vrt AT_USER $nflx is not an easy call from here but looking deep into this chart the odds favor this breakouts out higher when it con\u2026
+p692
+sg6
+S'03:56:06'
+p693
+sg8
+VVivian Tan
+p694
+sa(dp695
+g2
+S'2015-12-06'
+p696
+sg4
+Vinteractive chart -&gt; URL $nflx revenue is rising. URL
+p697
+sg6
+S'03:54:17'
+p698
+sg8
+VCapital Market Labs
+p699
+sa(dp700
+g2
+S'2015-12-06'
+p701
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p702
+sg6
+S'03:54:14'
+p703
+sg8
+VVivian Tan
+p704
+sa(dp705
+g2
+S'2015-12-06'
+p706
+sg4
+Vnflx netflix, inc. last price URL $nflx $pkb $tmk $agg nflx nasdaq invest
+p707
+sg6
+S'03:45:02'
+p708
+sg8
+VLucky Jimmy
+p709
+sa(dp710
+g2
+S'2015-12-06'
+p711
+sg4
+Vrt AT_USER $nflx i feel sorry for those shorting this stock they are going to get squeezed hard like a lemon. big money wants this h\u2026
+p712
+sg6
+S'03:40:59'
+p713
+sg8
+VVivian Tan
+p714
+sa(dp715
+g2
+S'2015-12-06'
+p716
+sg4
+Vcfx.to canfor pulp income fund chart URL $cfx.to $russ $fnv $nflx cfx.to stocks investing
+p717
+sg6
+S'03:37:08'
+p718
+sg8
+VInvestors Hangout
+p719
+sa(dp720
+g2
+S'2015-12-06'
+p721
+sg4
+V{video} market recap 12-5-15 $spy $iwm $aapl $nflx $googl URL via AT_USER
+p722
+sg6
+S'03:32:40'
+p723
+sg8
+VEdward Gofsky
+p724
+sa(dp725
+g2
+S'2015-12-06'
+p726
+sg4
+Vrt AT_USER enroll: build, grow, &amp; protect your money: a step-by-step guide URL $nflx $amzn $aapl $qqq URL
+p727
+sg6
+S'03:27:50'
+p728
+sg8
+VSamson
+p729
+sa(dp730
+g2
+S'2015-12-06'
+p731
+sg4
+V$nflx URL
+p732
+sg6
+S'03:09:57'
+p733
+sg8
+VD
+p734
+sa(dp735
+g2
+S'2015-12-06'
+p736
+sg4
+Vrt AT_USER $nflx ... more room to run, but a reversal is likely from the 147 area. URL
+p737
+sg6
+S'03:09:49'
+p738
+sg8
+VMatt K
+p739
+sa(dp740
+g2
+S'2015-12-06'
+p741
+sg4
+Vinteractive chart -&gt; URL $nflx assets are expanding. URL
+p742
+sg6
+S'03:09:18'
+p743
+sg8
+VCapital Market Labs
+p744
+sa(dp745
+g2
+S'2015-12-06'
+p746
+sg4
+Vanother strong jobs report $dow $nflx URL
+p747
+sg6
+S'03:09:02'
+p748
+sg8
+VTalkMarkets
+p749
+sa(dp750
+g2
+S'2015-12-06'
+p751
+sg4
+Vrt AT_USER $nflx is not an easy call from here but looking deep into this chart the odds favor this breakouts out higher when it con\u2026
+p752
+sg6
+S'02:52:58'
+p753
+sg8
+VStockMan81
+p754
+sa(dp755
+g2
+S'2015-12-06'
+p756
+sg4
+Vnext week is going to be action packed best time ever for $sbfm $kbio $aezs $efut $hart $gene $ncty $aezs $nflx $aapl $amzn $baba stocks
+p757
+sg6
+S'02:52:31'
+p758
+sg8
+VVapesMj
+p759
+sa(dp760
+g2
+S'2015-12-06'
+p761
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p762
+sg6
+S'02:52:16'
+p763
+sg8
+VStockMan81
+p764
+sa(dp765
+g2
+S'2015-12-06'
+p766
+sg4
+Vbreakout = 143.18 r2 = 134.46 r1 = 132.70 $nflx pivot = 129.22 s1 = 127.46 s2 = 123.98 breakdown = 116.98
+p767
+sg6
+S'02:52:02'
+p768
+sg8
+VEternity101
+p769
+sa(dp770
+g2
+S'2015-12-06'
+p771
+sg4
+Vkors michael kors holdings ltd. bid URL $kors $chk $nflx $bx kors nasdaq tradeideas
+p772
+sg6
+S'02:43:33'
+p773
+sg8
+VDennyT
+p774
+sa(dp775
+g2
+S'2015-12-06'
+p776
+sg4
+Vsee why these assets are trending in 1 watchlist $cmg $eci $nflx $sonc $tsla URL URL
+p777
+sg6
+S'02:42:40'
+p778
+sg8
+VFinBuzz
+p779
+sa(dp780
+g2
+S'2015-12-06'
+p781
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p782
+sg6
+S'02:26:05'
+p783
+sg8
+VNASDAQStocks
+p784
+sa(dp785
+g2
+S'2015-12-06'
+p786
+sg4
+Vtrack trending assets in 1 watchlist $eci $fb $googl $nflx $tsla URL URL
+p787
+sg6
+S'02:25:37'
+p788
+sg8
+VFinBuzz
+p789
+sa(dp790
+g2
+S'2015-12-06'
+p791
+sg4
+Vnot at first though. afterwards in general, yes. but there are tons of examples where that will kill you $fb $nflx URL
+p792
+sg6
+S'02:17:13'
+p793
+sg8
+VStockMatusow
+p794
+sa(dp795
+g2
+S'2015-12-06'
+p796
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p797
+sg6
+S'02:16:02'
+p798
+sg8
+VMarijuanacharts
+p799
+sa(dp800
+g2
+S'2015-12-06'
+p801
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $fb $googl $nflx $tsla URL URL
+p802
+sg6
+S'02:05:16'
+p803
+sg8
+VFinBuzz
+p804
+sa(dp805
+g2
+S'2015-12-06'
+p806
+sg4
+V$nflx - why netflix, inc. gained 14% in november URL
+p807
+sg6
+S'01:53:21'
+p808
+sg8
+VHot Stocks&Biotechs
+p809
+sa(dp810
+g2
+S'2015-12-06'
+p811
+sg4
+Vtur ishares msci turkey investable market index fund % change URL $tur $emkr $nflx $dis tur stocks stock
+p812
+sg6
+S'01:49:33'
+p813
+sg8
+Vnasdaqfan
+p814
+sa(dp815
+g2
+S'2015-12-06'
+p816
+sg4
+Vsune sunedison, inc. last price URL $sune $xiv $nflx $kr sune finance stock
+p817
+sg6
+S'01:48:33'
+p818
+sg8
+Vlookn4wins
+p819
+sa(dp820
+g2
+S'2015-12-06'
+p821
+sg4
+Vgain from movement in these buzzing assets $gild $googl $halo $nflx $tsla URL URL
+p822
+sg6
+S'01:40:19'
+p823
+sg8
+VFinBuzz
+p824
+sa(dp825
+g2
+S'2015-12-06'
+p826
+sg4
+V$fb $twtr $nflx $amzn $googl $aapl URL
+p827
+sg6
+S'01:36:06'
+p828
+sg8
+V$callspreads
+p829
+sa(dp830
+g2
+S'2015-12-06'
+p831
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p832
+sg6
+S'01:34:07'
+p833
+sg8
+VStock Forums
+p834
+sa(dp835
+g2
+S'2015-12-06'
+p836
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p837
+sg6
+S'01:34:07'
+p838
+sg8
+VLucky Jimmy
+p839
+sa(dp840
+g2
+S'2015-12-06'
+p841
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p842
+sg6
+S'01:34:07'
+p843
+sg8
+VStock Forums
+p844
+sa(dp845
+g2
+S'2015-12-06'
+p846
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p847
+sg6
+S'01:34:07'
+p848
+sg8
+VLucky Jimmy
+p849
+sa(dp850
+g2
+S'2015-12-06'
+p851
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p852
+sg6
+S'01:34:07'
+p853
+sg8
+VStock Forums
+p854
+sa(dp855
+g2
+S'2015-12-06'
+p856
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p857
+sg6
+S'01:34:06'
+p858
+sg8
+VLucky Jimmy
+p859
+sa(dp860
+g2
+S'2015-12-06'
+p861
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p862
+sg6
+S'01:34:06'
+p863
+sg8
+VStock Forums
+p864
+sa(dp865
+g2
+S'2015-12-06'
+p866
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p867
+sg6
+S'01:34:06'
+p868
+sg8
+VDennyT
+p869
+sa(dp870
+g2
+S'2015-12-06'
+p871
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p872
+sg6
+S'01:34:06'
+p873
+sg8
+Vclayton
+p874
+sa(dp875
+g2
+S'2015-12-06'
+p876
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p877
+sg6
+S'01:34:06'
+p878
+sg8
+VDennyT
+p879
+sa(dp880
+g2
+S'2015-12-06'
+p881
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p882
+sg6
+S'01:34:06'
+p883
+sg8
+Vclayton
+p884
+sa(dp885
+g2
+S'2015-12-06'
+p886
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p887
+sg6
+S'01:34:05'
+p888
+sg8
+Vclayton
+p889
+sa(dp890
+g2
+S'2015-12-06'
+p891
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p892
+sg6
+S'01:34:05'
+p893
+sg8
+Vclayton
+p894
+sa(dp895
+g2
+S'2015-12-06'
+p896
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocks
+p897
+sg6
+S'01:34:05'
+p898
+sg8
+Vclayton
+p899
+sa(dp900
+g2
+S'2015-12-06'
+p901
+sg4
+Vaig american intl group, inc. message board posts URL $aig $nflx $tsla $adt aig stockmarket stocksalk alaska air\u2026
+p902
+sg6
+S'01:34:04'
+p903
+sg8
+Vjim50
+p904
+sa(dp905
+g2
+S'2015-12-06'
+p906
+sg4
+Vrt AT_USER $nflx here is a powerplantrades plan for this stock at this point in time. a great runner this year for the bulls. https:\u2026
+p907
+sg6
+S'01:25:36'
+p908
+sg8
+Vkaly
+p909
+sa(dp910
+g2
+S'2015-12-06'
+p911
+sg4
+Vrt AT_USER $nflx ... more room to run, but a reversal is likely from the 147 area. URL
+p912
+sg6
+S'01:20:00'
+p913
+sg8
+Vstockassassin
+p914
+sa(dp915
+g2
+S'2015-12-06'
+p916
+sg4
+Vwhich one of you weirdos got me to put borgman in my $nflx queue? or...was it camiel....?
+p917
+sg6
+S'00:57:13'
+p918
+sg8
+Vmem_somerville
+p919
+sa(dp920
+g2
+S'2015-12-06'
+p921
+sg4
+Vvxx ipath s&amp;p 500 vix short-term futures etn e.p.s. URL $vxx $nflx $rsp $iphi vxx tradeideas investing
+p922
+sg6
+S'00:50:32'
+p923
+sg8
+VIH NASDAQ OMX
+p924
+sa(dp925
+g2
+S'2015-12-06'
+p926
+sg4
+Vrsp guggenheim s&amp;p 500 equal weight etf last trade URL $rsp $vrx $nflx $bk rsp stock nasdaq
+p927
+sg6
+S'00:46:33'
+p928
+sg8
+VIH NASDAQ OMX
+p929
+sa(dp930
+g2
+S'2015-12-06'
+p931
+sg4
+Vnflx netflix, inc. filings URL $nflx $hrl $cboe $sso nflx share finance
+p932
+sg6
+S'00:44:34'
+p933
+sg8
+VPolgarStocks
+p934
+sa(dp935
+g2
+S'2015-12-06'
+p936
+sg4
+Vrt AT_USER whoa! netflix! that's a new all-time high. $nflx just traded at $131.05 per share: URL URL
+p937
+sg6
+S'00:40:31'
+p938
+sg8
+VProp Desk Trader
+p939
+sa(dp940
+g2
+S'2015-12-06'
+p941
+sg4
+Vdis walt disney co. bid size URL $dis $nflx $rsx $aapl dis stock pennystocks
+p942
+sg6
+S'00:37:36'
+p943
+sg8
+VIH NASDAQ OMX
+p944
+sa(dp945
+g2
+S'2015-12-06'
+p946
+sg4
+V$nflx ... more room to run, but a reversal is likely from the 147 area. URL
+p947
+sg6
+S'00:23:19'
+p948
+sg8
+VPeter Ghostine
+p949
+sa.

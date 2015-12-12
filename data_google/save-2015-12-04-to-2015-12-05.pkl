@@ -1,0 +1,3334 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-04'
+p3
+sS'text'
+p4
+Vwmt wal-mart stores, inc. stock message board URL $wmt $wgbs $swks $goog wmt stock stock
+p5
+sS'time'
+p6
+S'20:50:05'
+p7
+sS'author'
+p8
+VDennyT
+p9
+sa(dp10
+g2
+S'2015-12-04'
+p11
+sg4
+Vtrx tanzanian royalty exploration corp. message board posts URL $trx $spxl $xiu.to $goog trx nasdaq pennystocks
+p12
+sg6
+S'20:48:03'
+p13
+sg8
+Vjim50
+p14
+sa(dp15
+g2
+S'2015-12-04'
+p16
+sg4
+Vupdate cierre stocks major news $aapl +3.29% $amzn +0.87% $msft +3.15% $fb +1.75% $goog +1.87% $gpro -5.07% $nsc -1.46%
+p17
+sg6
+S'20:47:58'
+p18
+sg8
+VInvest Huddle
+p19
+sa(dp20
+g2
+S'2015-12-04'
+p21
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p22
+sg6
+S'20:45:01'
+p23
+sg8
+Vkanawut akenopmanee
+p24
+sa(dp25
+g2
+S'2015-12-04'
+p26
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p27
+sg6
+S'20:44:09'
+p28
+sg8
+VMusta.
+p29
+sa(dp30
+g2
+S'2015-12-04'
+p31
+sg4
+Vis youtube red a real threat to netflix? URL $nflx $goog $googl
+p32
+sg6
+S'20:40:36'
+p33
+sg8
+VEric Martin
+p34
+sa(dp35
+g2
+S'2015-12-04'
+p36
+sg4
+Vrt AT_USER is you tube red a real threat to netflix? URL $nflx $goog $googl
+p37
+sg6
+S'20:40:36'
+p38
+sg8
+VCoNimby Fund
+p39
+sa(dp40
+g2
+S'2015-12-04'
+p41
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p42
+sg6
+S'20:34:34'
+p43
+sg8
+Vah god
+p44
+sa(dp45
+g2
+S'2015-12-04'
+p46
+sg4
+Vhere's why ford (f) stock is showing gains today: URL $aapl $goog $pcln $k
+p47
+sg6
+S'20:33:34'
+p48
+sg8
+VThe Stock Professor
+p49
+sa(dp50
+g2
+S'2015-12-04'
+p51
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p52
+sg6
+S'20:30:37'
+p53
+sg8
+Vcdgdf
+p54
+sa(dp55
+g2
+S'2015-12-04'
+p56
+sg4
+Vrt seekingalpha: is you tube red a real threat to netflix? URL $nflx $goog $googl
+p57
+sg6
+S'20:29:12'
+p58
+sg8
+VChina Invest
+p59
+sa(dp60
+g2
+S'2015-12-04'
+p61
+sg4
+V$nflx news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p62
+sg6
+S'20:21:24'
+p63
+sg8
+VQuantpost $NFLX
+p64
+sa(dp65
+g2
+S'2015-12-04'
+p66
+sg4
+V$goog $googl news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p67
+sg6
+S'20:21:20'
+p68
+sg8
+VQuantpost Technology
+p69
+sa(dp70
+g2
+S'2015-12-04'
+p71
+sg4
+V$nflx news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p72
+sg6
+S'20:21:20'
+p73
+sg8
+VQuantpost Service
+p74
+sa(dp75
+g2
+S'2015-12-04'
+p76
+sg4
+Vis you tube red a real threat to netflix? URL $nflx $goog $googl
+p77
+sg6
+S'20:21:20'
+p78
+sg8
+VLong & Short Ideas
+p79
+sa(dp80
+g2
+S'2015-12-04'
+p81
+sg4
+Vis you tube red a real threat to netflix? URL $nflx $goog $googl
+p82
+sg6
+S'20:21:20'
+p83
+sg8
+VSeeking Alpha
+p84
+sa(dp85
+g2
+S'2015-12-04'
+p86
+sg4
+V$mrk $goog $brcm options have the largest change in price. free options screener. URL
+p87
+sg6
+S'20:15:12'
+p88
+sg8
+VDan
+p89
+sa(dp90
+g2
+S'2015-12-04'
+p91
+sg4
+V$goog patent for needle free blood draw hints it is expanding its ambitions around diabetes URL
+p92
+sg6
+S'20:10:11'
+p93
+sg8
+VCassie Arnold
+p94
+sa(dp95
+g2
+S'2015-12-04'
+p96
+sg4
+V$goog gears up to battle $fb and samsung in virtual reality URL URL
+p97
+sg6
+S'20:05:04'
+p98
+sg8
+VMosse Rodbay
+p99
+sa(dp100
+g2
+S'2015-12-04'
+p101
+sg4
+V$goog did not cross back under the pivot point and a nice move today
+p102
+sg6
+S'20:00:39'
+p103
+sg8
+VJohn T
+p104
+sa(dp105
+g2
+S'2015-12-04'
+p106
+sg4
+V10 stock alerts for $9.99 $goog $bby $bbby $cfn $ebay URL
+p107
+sg6
+S'19:56:47'
+p108
+sg8
+Vlego_dragon
+p109
+sa(dp110
+g2
+S'2015-12-04'
+p111
+sg4
+V$spy $aapl $goog $fb $amzn $pcln the power hour is upon us. all systems go! bullish
+p112
+sg6
+S'19:55:00'
+p113
+sg8
+Vdjflowmaster
+p114
+sa(dp115
+g2
+S'2015-12-04'
+p116
+sg4
+Valert: new rsi signal created on $goog - sell at 767.915 - time: 19:50 - strength: 8. powered by URL
+p117
+sg6
+S'19:50:55'
+p118
+sg8
+VTrusted Stocks
+p119
+sa(dp120
+g2
+S'2015-12-04'
+p121
+sg4
+Vafter 10 years, google water is back! URL $goog
+p122
+sg6
+S'19:49:56'
+p123
+sg8
+Vlego_dragon
+p124
+sa(dp125
+g2
+S'2015-12-04'
+p126
+sg4
+Vnotable friday option activity: $goog $fb $ups stockoptions URL
+p127
+sg6
+S'19:48:54'
+p128
+sg8
+VBNK Invest
+p129
+sa(dp130
+g2
+S'2015-12-04'
+p131
+sg4
+Vafter 10 years, google water is back! URL $goog
+p132
+sg6
+S'19:45:06'
+p133
+sg8
+VStrategic News
+p134
+sa(dp135
+g2
+S'2015-12-04'
+p136
+sg4
+Vrt AT_USER goog alphabet inc. - class c day high URL $goog $tsla $vxx $cli goog share nasdaq
+p137
+sg6
+S'19:42:45'
+p138
+sg8
+VHoney Adrian
+p139
+sa(dp140
+g2
+S'2015-12-04'
+p141
+sg4
+V$angi could be the last day ever in double digits.reminds me of when $grpn rejected $goog bid. probably should have taken it
+p142
+sg6
+S'19:40:29'
+p143
+sg8
+VMint Capital
+p144
+sa(dp145
+g2
+S'2015-12-04'
+p146
+sg4
+Vafter 10 years, google water is back! URL $goog
+p147
+sg6
+S'19:39:36'
+p148
+sg8
+Vanita_20022004@yahoo
+p149
+sa(dp150
+g2
+S'2015-12-04'
+p151
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p152
+sg6
+S'19:38:32'
+p153
+sg8
+VMckinley Street Prop
+p154
+sa(dp155
+g2
+S'2015-12-04'
+p156
+sg4
+Vafter 10 years, google water is back! URL $goog
+p157
+sg6
+S'19:35:54'
+p158
+sg8
+VJaiswal prayas
+p159
+sa(dp160
+g2
+S'2015-12-04'
+p161
+sg4
+Vrt AT_USER new best selling products ~~&gt; $hjoe ready to go! $fnma $mjmj $dnrg $cocp $logg $arth $pvsp $nugn $goog $fb $usd $twtr $tsla\u2026
+p162
+sg6
+S'19:35:36'
+p163
+sg8
+VThe Hammer
+p164
+sa(dp165
+g2
+S'2015-12-04'
+p166
+sg4
+Vnew best selling products ~~&gt; $hjoe ready to go! $fnma $mjmj $dnrg $cocp $logg $arth $pvsp $nugn $goog $fb $usd $twtr $tsla $nflx $eaph
+p167
+sg6
+S'19:34:24'
+p168
+sg8
+VCHETRA744_TIGER
+p169
+sa(dp170
+g2
+S'2015-12-04'
+p171
+sg4
+Vmicrosoft's powerapps aim to disrupt enterprise mobile app development market URL by trefis team $msft $goog $ibm
+p172
+sg6
+S'19:32:11'
+p173
+sg8
+VTrefis.com
+p174
+sa(dp175
+g2
+S'2015-12-04'
+p176
+sg4
+V10 stock alerts for $9.99 $goog $bby $bbby $cfn $ebay URL
+p177
+sg6
+S'19:29:51'
+p178
+sg8
+VAshishverma1306@gmai
+p179
+sa(dp180
+g2
+S'2015-12-04'
+p181
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p182
+sg6
+S'19:25:42'
+p183
+sg8
+Vcasa mia
+p184
+sa(dp185
+g2
+S'2015-12-04'
+p186
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p187
+sg6
+S'19:23:51'
+p188
+sg8
+VAble Banana
+p189
+sa(dp190
+g2
+S'2015-12-04'
+p191
+sg4
+Vafter 10 years, google water is back! URL $goog
+p192
+sg6
+S'19:23:03'
+p193
+sg8
+Vavi.bera@gmail.com
+p194
+sa(dp195
+g2
+S'2015-12-04'
+p196
+sg4
+V$fb $goog $twtr $yhoo fake hoaxes keep blaming social media is turning into a prime excuse for obama to shut-down the internet darkness
+p197
+sg6
+S'19:20:55'
+p198
+sg8
+Vmooring871
+p199
+sa(dp200
+g2
+S'2015-12-04'
+p201
+sg4
+Vafter 10 years, google water is back! URL $goog
+p202
+sg6
+S'19:12:36'
+p203
+sg8
+Vpksswaminathan@gmail
+p204
+sa(dp205
+g2
+S'2015-12-04'
+p206
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p207
+sg6
+S'19:12:08'
+p208
+sg8
+Vnerro12345
+p209
+sa(dp210
+g2
+S'2015-12-04'
+p211
+sg4
+Vafter 10 years, google water is back! URL $goog
+p212
+sg6
+S'19:11:08'
+p213
+sg8
+Vpraveenkumar@gmail.c
+p214
+sa(dp215
+g2
+S'2015-12-04'
+p216
+sg4
+Vwhy are investors piling into these surging stocks today?: URL $aapl $goog $pcln $k
+p217
+sg6
+S'19:11:06'
+p218
+sg8
+VThe Stock Professor
+p219
+sa(dp220
+g2
+S'2015-12-04'
+p221
+sg4
+Vafter 10 years, google water is back! URL $goog
+p222
+sg6
+S'19:03:41'
+p223
+sg8
+Vabhilashlavigne@gmai
+p224
+sa(dp225
+g2
+S'2015-12-04'
+p226
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p227
+sg6
+S'19:02:35'
+p228
+sg8
+VBlogsChil.Tk
+p229
+sa(dp230
+g2
+S'2015-12-04'
+p231
+sg4
+Vanyone short the fang? lot of haters. anyone got money against them? $fb $amzn $nflx $goog
+p232
+sg6
+S'19:01:01'
+p233
+sg8
+Vdasan
+p234
+sa(dp235
+g2
+S'2015-12-04'
+p236
+sg4
+Vquarz capital management's open letter (dated nov. 10, 2015) to apple pushing for split of ... URL $aapl $amzn $goog
+p237
+sg6
+S'19:00:04'
+p238
+sg8
+VAAPL Stock Alerts
+p239
+sa(dp240
+g2
+S'2015-12-04'
+p241
+sg4
+Vafter 10 years, google water is back! URL $goog
+p242
+sg6
+S'18:57:39'
+p243
+sg8
+Vdhawan.gaurav786@gma
+p244
+sa(dp245
+g2
+S'2015-12-04'
+p246
+sg4
+Vyour google hangout bubbles just got a major update $goog $googl google wlst URL URL
+p247
+sg6
+S'18:52:37'
+p248
+sg8
+VWLST.com
+p249
+sa(dp250
+g2
+S'2015-12-04'
+p251
+sg4
+Vyour google hangout bubbles just got a major update - huffington post URL google $goog $googl URL
+p252
+sg6
+S'18:52:34'
+p253
+sg8
+V#SocialMedia NC
+p254
+sa(dp255
+g2
+S'2015-12-04'
+p256
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p257
+sg6
+S'18:50:15'
+p258
+sg8
+Vmuntaha akter
+p259
+sa(dp260
+g2
+S'2015-12-04'
+p261
+sg4
+Vafter 10 years, google water is back! URL $goog
+p262
+sg6
+S'18:43:23'
+p263
+sg8
+Vrajni
+p264
+sa(dp265
+g2
+S'2015-12-04'
+p266
+sg4
+Valphabet new cardboard app makes virtual reality free for all - URL - $goog $googl URL
+p267
+sg6
+S'18:40:49'
+p268
+sg8
+VBusinessFinanceNews
+p269
+sa(dp270
+g2
+S'2015-12-04'
+p271
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p272
+sg6
+S'18:39:00'
+p273
+sg8
+VRodrigo
+p274
+sa(dp275
+g2
+S'2015-12-04'
+p276
+sg4
+Vafter 10 years, google water is back! URL $goog
+p277
+sg6
+S'18:38:08'
+p278
+sg8
+Vrohan rawat
+p279
+sa(dp280
+g2
+S'2015-12-04'
+p281
+sg4
+Vafter 10 years, google water is back! URL $goog
+p282
+sg6
+S'18:34:22'
+p283
+sg8
+Vshabaz ahmed
+p284
+sa(dp285
+g2
+S'2015-12-04'
+p286
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p287
+sg6
+S'18:33:16'
+p288
+sg8
+VDeme Hmm
+p289
+sa(dp290
+g2
+S'2015-12-04'
+p291
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p292
+sg6
+S'18:31:35'
+p293
+sg8
+VEla
+p294
+sa(dp295
+g2
+S'2015-12-04'
+p296
+sg4
+V$goog alphabet inc. is crushing apple inc. and URL inc. in this growing market: alphabet in... URL
+p297
+sg6
+S'18:31:09'
+p298
+sg8
+VFinancePress
+p299
+sa(dp300
+g2
+S'2015-12-04'
+p301
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p302
+sg6
+S'18:29:39'
+p303
+sg8
+VMaxMacro
+p304
+sa(dp305
+g2
+S'2015-12-04'
+p306
+sg4
+Vafter 10 years, google water is back! URL $goog
+p307
+sg6
+S'18:28:24'
+p308
+sg8
+Vsamera hakes
+p309
+sa(dp310
+g2
+S'2015-12-04'
+p311
+sg4
+Vafter 10 years, google water is back! URL $goog
+p312
+sg6
+S'18:27:40'
+p313
+sg8
+Vbilal george
+p314
+sa(dp315
+g2
+S'2015-12-04'
+p316
+sg4
+Vrt AT_USER this microcap could spike before xmas! URL $ntip $mara $vhc $spy $aapl $fb $goog $baba $iwc $iwm URL
+p317
+sg6
+S'18:21:54'
+p318
+sg8
+VGraham Jervis
+p319
+sa(dp320
+g2
+S'2015-12-04'
+p321
+sg4
+Vafter 10 years, google water is back! URL $goog
+p322
+sg6
+S'18:21:42'
+p323
+sg8
+Vxain ahmed
+p324
+sa(dp325
+g2
+S'2015-12-04'
+p326
+sg4
+Vthis microcap could spike before xmas! URL $ntip $mara $vhc $spy $aapl $fb $goog $baba $iwc $iwm URL
+p327
+sg6
+S'18:20:14'
+p328
+sg8
+VTom Shaughnessy
+p329
+sa(dp330
+g2
+S'2015-12-04'
+p331
+sg4
+V10 stock alerts for $9.99 $goog $bby $bbby $cfn $ebay URL
+p332
+sg6
+S'18:20:12'
+p333
+sg8
+Vsoni gautam
+p334
+sa(dp335
+g2
+S'2015-12-04'
+p336
+sg4
+Vafter 10 years, google water is back! URL $goog
+p337
+sg6
+S'18:18:43'
+p338
+sg8
+Vgeeta
+p339
+sa(dp340
+g2
+S'2015-12-04'
+p341
+sg4
+Vafter 10 years, google water is back! URL $goog
+p342
+sg6
+S'18:13:36'
+p343
+sg8
+Vxain
+p344
+sa(dp345
+g2
+S'2015-12-04'
+p346
+sg4
+Vrt AT_USER this micro-cap could spike before christmas! learn more here: URL $spy $aapl $fb $goog $baba $iwc
+p347
+sg6
+S'18:12:13'
+p348
+sg8
+VTom Shaughnessy
+p349
+sa(dp350
+g2
+S'2015-12-04'
+p351
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p352
+sg6
+S'18:08:25'
+p353
+sg8
+VJenny James
+p354
+sa(dp355
+g2
+S'2015-12-04'
+p356
+sg4
+Vafter 10 years, google water is back! URL $goog
+p357
+sg6
+S'18:08:22'
+p358
+sg8
+Vmonu
+p359
+sa(dp360
+g2
+S'2015-12-04'
+p361
+sg4
+Vwhy yahoo board might plan to sell its internet business? URL by trefis team $yhoo $goog $msft
+p362
+sg6
+S'18:06:59'
+p363
+sg8
+VTrefis.com
+p364
+sa(dp365
+g2
+S'2015-12-04'
+p366
+sg4
+V$goog $googl at the end of the year no so bad \U0001f64c URL
+p367
+sg6
+S'18:03:39'
+p368
+sg8
+VCucurucho
+p369
+sa(dp370
+g2
+S'2015-12-04'
+p371
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p372
+sg6
+S'18:03:20'
+p373
+sg8
+VSides Hursey
+p374
+sa(dp375
+g2
+S'2015-12-04'
+p376
+sg4
+Vafter 10 years, google water is back! URL $goog
+p377
+sg6
+S'18:01:44'
+p378
+sg8
+Vpemdas
+p379
+sa(dp380
+g2
+S'2015-12-04'
+p381
+sg4
+Vrt AT_USER google's cardboard camera app makes anyone a vr photographer - wired URL google $goog $googl https:\u2026
+p382
+sg6
+S'18:00:28'
+p383
+sg8
+VANDALUCIA DIFERENTE
+p384
+sa(dp385
+g2
+S'2015-12-04'
+p386
+sg4
+Vafter 10 years, google water is back! URL $goog
+p387
+sg6
+S'17:54:59'
+p388
+sg8
+Vpedmas
+p389
+sa(dp390
+g2
+S'2015-12-04'
+p391
+sg4
+VAT_USER $bsqr working on $goog tango not news..but, ara was (to me anyway) explains the inc hiring in mtn view URL
+p392
+sg6
+S'17:53:26'
+p393
+sg8
+Vvaheelfan
+p394
+sa(dp395
+g2
+S'2015-12-04'
+p396
+sg4
+V$bsqr new corp preso....worth reading. pps bullshit here. *says working with $goog on project ara (plus tango) URL
+p397
+sg6
+S'17:51:07'
+p398
+sg8
+Vvaheelfan
+p399
+sa(dp400
+g2
+S'2015-12-04'
+p401
+sg4
+Valphabet inc. is crushing apple inc. and URL inc. in this growing marke... URL $aapl $goog $pcln $k
+p402
+sg6
+S'17:48:15'
+p403
+sg8
+VThe Stock Professor
+p404
+sa(dp405
+g2
+S'2015-12-04'
+p406
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p407
+sg6
+S'17:46:46'
+p408
+sg8
+VFinBuzz
+p409
+sa(dp410
+g2
+S'2015-12-04'
+p411
+sg4
+V$goog - alphabet inc. is crushing apple inc. and URL inc. in this growing market URL
+p412
+sg6
+S'17:41:07'
+p413
+sg8
+VRuben
+p414
+sa(dp415
+g2
+S'2015-12-04'
+p416
+sg4
+V$goog - alphabet inc. is crushing apple inc. and URL inc. in this growing market URL
+p417
+sg6
+S'17:41:03'
+p418
+sg8
+VLive Stock News
+p419
+sa(dp420
+g2
+S'2015-12-04'
+p421
+sg4
+Vrt AT_USER virtual reality to cash $70 billion in real money by 2020 - URL - $fb $ssnlf $goog $amzn URL
+p422
+sg6
+S'17:40:49'
+p423
+sg8
+VEvaBrain
+p424
+sa(dp425
+g2
+S'2015-12-04'
+p426
+sg4
+Vrt AT_USER why apple is best positioned in smartphones, in one chart URL $intc $msft $qcom $ssnlf $goog $googl $aa\u2026
+p427
+sg6
+S'17:33:18'
+p428
+sg8
+VPrivateCapBlogger
+p429
+sa(dp430
+g2
+S'2015-12-04'
+p431
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p432
+sg6
+S'17:21:18'
+p433
+sg8
+VMarkus Heumann
+p434
+sa(dp435
+g2
+S'2015-12-04'
+p436
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p437
+sg6
+S'17:17:41'
+p438
+sg8
+Vrafa
+p439
+sa(dp440
+g2
+S'2015-12-04'
+p441
+sg4
+Vrt AT_USER the secret law of attraction \u2013 so inspiring! URL $dia $qqq $spy $aapl $goog $fb $ba $dia $ibm https:\u2026
+p442
+sg6
+S'17:12:16'
+p443
+sg8
+Vkiss Mila Boutique
+p444
+sa(dp445
+g2
+S'2015-12-04'
+p446
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p447
+sg6
+S'17:11:14'
+p448
+sg8
+VAlvarezFeed
+p449
+sa(dp450
+g2
+S'2015-12-04'
+p451
+sg4
+Vrt AT_USER interested in s&amp;p100 stocks? find out who succeeded here in the last 3 months! $goog fintech URL
+p452
+sg6
+S'17:11:04'
+p453
+sg8
+VGary Thomson
+p454
+sa(dp455
+g2
+S'2015-12-04'
+p456
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p457
+sg6
+S'17:09:55'
+p458
+sg8
+Vomaniking
+p459
+sa(dp460
+g2
+S'2015-12-04'
+p461
+sg4
+Vthis micro-cap could spike before christmas! learn more here: URL $spy $aapl $fb $goog $baba $iwc
+p462
+sg6
+S'17:06:43'
+p463
+sg8
+VSujan Lahiri
+p464
+sa(dp465
+g2
+S'2015-12-04'
+p466
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p467
+sg6
+S'17:05:21'
+p468
+sg8
+Vtarik ramos
+p469
+sa(dp470
+g2
+S'2015-12-04'
+p471
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p472
+sg6
+S'17:02:56'
+p473
+sg8
+VFinBuzz
+p474
+sa(dp475
+g2
+S'2015-12-04'
+p476
+sg4
+Vinvestors buy alphabet inc $goog on weakness URL
+p477
+sg6
+S'16:56:40'
+p478
+sg8
+VThe Legacy News
+p479
+sa(dp480
+g2
+S'2015-12-04'
+p481
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p482
+sg6
+S'16:53:50'
+p483
+sg8
+VFrench
+p484
+sa(dp485
+g2
+S'2015-12-04'
+p486
+sg4
+Vrt AT_USER looks like tim cook is sitting on the apple buy button this morning: URL $aapl $goog $pcln $k
+p487
+sg6
+S'16:52:10'
+p488
+sg8
+VISAAC ALEX
+p489
+sa(dp490
+g2
+S'2015-12-04'
+p491
+sg4
+Vinvestors buy alphabet inc $goog on weakness URL
+p492
+sg6
+S'16:51:33'
+p493
+sg8
+VTicker Report
+p494
+sa(dp495
+g2
+S'2015-12-04'
+p496
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p497
+sg6
+S'16:51:23'
+p498
+sg8
+VSven
+p499
+sa(dp500
+g2
+S'2015-12-04'
+p501
+sg4
+Vrt AT_USER why apple is best positioned in smartphones, in one chart URL $intc $msft $qcom $ssnlf $goog $googl $aa\u2026
+p502
+sg6
+S'16:50:34'
+p503
+sg8
+VISAAC ALEX
+p504
+sa(dp505
+g2
+S'2015-12-04'
+p506
+sg4
+Vbuilding a nice $asti position at these levels $efut $gbsn $biei $kbio $aezs $hart $hemp $nwav $sune $aapl $cdii $gnpt $aapl $goog $ltnc
+p507
+sg6
+S'16:50:18'
+p508
+sg8
+VUptrendz
+p509
+sa(dp510
+g2
+S'2015-12-04'
+p511
+sg4
+Vinvestors buy alphabet inc $goog on weakness URL
+p512
+sg6
+S'16:49:28'
+p513
+sg8
+VUS Banking News
+p514
+sa(dp515
+g2
+S'2015-12-04'
+p516
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p517
+sg6
+S'16:44:04'
+p518
+sg8
+VAmoroso Squier
+p519
+sa(dp520
+g2
+S'2015-12-04'
+p521
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p522
+sg6
+S'16:42:03'
+p523
+sg8
+VKathryn D.Danel
+p524
+sa(dp525
+g2
+S'2015-12-04'
+p526
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p527
+sg6
+S'16:39:09'
+p528
+sg8
+VNRB boron
+p529
+sa(dp530
+g2
+S'2015-12-04'
+p531
+sg4
+Vrt AT_USER $cprx is going good these days URL $mnga $kbio $abio $ibb $spy $tsla $sune $scty $aapl $yhoo $goog $g\u2026
+p532
+sg6
+S'16:36:45'
+p533
+sg8
+Vlizzie winburn
+p534
+sa(dp535
+g2
+S'2015-12-04'
+p536
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p537
+sg6
+S'16:35:50'
+p538
+sg8
+VRafael Oliver Guitar
+p539
+sa(dp540
+g2
+S'2015-12-04'
+p541
+sg4
+Vrt AT_USER virtual reality to cash $70 billion in real money by 2020 - URL - $fb $ssnlf $goog $amzn URL
+p542
+sg6
+S'16:35:03'
+p543
+sg8
+VEmma Whatson
+p544
+sa(dp545
+g2
+S'2015-12-04'
+p546
+sg4
+VAT_USER into the valuation, could still grow rapidly but valuation already pricing in. $goog $amzn $aapl
+p547
+sg6
+S'16:33:13'
+p548
+sg8
+VValue Seeker
+p549
+sa(dp550
+g2
+S'2015-12-04'
+p551
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p552
+sg6
+S'16:31:41'
+p553
+sg8
+VRatarig novin
+p554
+sa(dp555
+g2
+S'2015-12-04'
+p556
+sg4
+V$goog max pain is 760.00 for maturity 12/04/2015. price = 763.57. URL
+p557
+sg6
+S'16:31:28'
+p558
+sg8
+VDan
+p559
+sa(dp560
+g2
+S'2015-12-04'
+p561
+sg4
+Vthe stock market is soaring today! $aapl $goog nasdaq dowj
+p562
+sg6
+S'16:30:11'
+p563
+sg8
+VPrateek K.
+p564
+sa(dp565
+g2
+S'2015-12-04'
+p566
+sg4
+Vwhy apple is best positioned in smartphones, in one chart URL $intc $msft $qcom $ssnlf $goog $googl $aapl
+p567
+sg6
+S'16:30:06'
+p568
+sg8
+VAAPL Stock Alerts
+p569
+sa(dp570
+g2
+S'2015-12-04'
+p571
+sg4
+Vrt AT_USER virtual reality to cash $70 billion in real money by 2020 - URL - $fb $ssnlf $goog $amzn URL
+p572
+sg6
+S'16:28:46'
+p573
+sg8
+VSophia Lophes
+p574
+sa(dp575
+g2
+S'2015-12-04'
+p576
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p577
+sg6
+S'16:27:17'
+p578
+sg8
+Vgjiogjq3 jogj3
+p579
+sa(dp580
+g2
+S'2015-12-04'
+p581
+sg4
+Vrt AT_USER looks like tim cook is sitting on the apple buy button this morning: URL $aapl $goog $pcln $k
+p582
+sg6
+S'16:26:54'
+p583
+sg8
+Vpg
+p584
+sa(dp585
+g2
+S'2015-12-04'
+p586
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p587
+sg6
+S'16:26:27'
+p588
+sg8
+VMahfoudh
+p589
+sa(dp590
+g2
+S'2015-12-04'
+p591
+sg4
+Vlooks like tim cook is sitting on the apple buy button this morning: URL $aapl $goog $pcln $k
+p592
+sg6
+S'16:23:46'
+p593
+sg8
+VThe Stock Professor
+p594
+sa(dp595
+g2
+S'2015-12-04'
+p596
+sg4
+Vvirtual reality to cash $70 billion in real money by 2020 - URL - $fb $ssnlf $goog $amzn URL
+p597
+sg6
+S'16:21:27'
+p598
+sg8
+VBidness Etc
+p599
+sa(dp600
+g2
+S'2015-12-04'
+p601
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p602
+sg6
+S'16:21:25'
+p603
+sg8
+VFinBuzz
+p604
+sa(dp605
+g2
+S'2015-12-04'
+p606
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p607
+sg6
+S'16:19:29'
+p608
+sg8
+Vjuan
+p609
+sa(dp610
+g2
+S'2015-12-04'
+p611
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p612
+sg6
+S'16:17:11'
+p613
+sg8
+VPekSosyal
+p614
+sa(dp615
+g2
+S'2015-12-04'
+p616
+sg4
+Valphabet inc (goog) steals important market from apple and microsoft $msft $goog $aapl alphabet URL
+p617
+sg6
+S'16:14:54'
+p618
+sg8
+VLearnBonds.com
+p619
+sa(dp620
+g2
+S'2015-12-04'
+p621
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p622
+sg6
+S'16:13:51'
+p623
+sg8
+Vjeremy carpentier
+p624
+sa(dp625
+g2
+S'2015-12-04'
+p626
+sg4
+Vinteresting: google's chromebooks make up half of classroom devices - $goog education URL
+p627
+sg6
+S'16:11:55'
+p628
+sg8
+VMobile Potpurri
+p629
+sa(dp630
+g2
+S'2015-12-04'
+p631
+sg4
+Vanalysts defend proofpoint after muddy short call $pfpt $goog $googl $msft $intc: full story URL
+p632
+sg6
+S'16:07:58'
+p633
+sg8
+VThe Fly
+p634
+sa(dp635
+g2
+S'2015-12-04'
+p636
+sg4
+V34 users on vetr are bearish on alphabet inc., indicating a hold rating (3 stars) for $goog URL
+p637
+sg6
+S'16:06:20'
+p638
+sg8
+VVetr Ratings
+p639
+sa(dp640
+g2
+S'2015-12-04'
+p641
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p642
+sg6
+S'15:56:56'
+p643
+sg8
+Vlaragarcia
+p644
+sa(dp645
+g2
+S'2015-12-04'
+p646
+sg4
+Vwho is the $goog expert? or wants to try to answer a stupid question?
+p647
+sg6
+S'15:56:53'
+p648
+sg8
+VYoenis Cespedes
+p649
+sa(dp650
+g2
+S'2015-12-04'
+p651
+sg4
+Vrt AT_USER $nflx aware of problems watching in chrome $goog
+p652
+sg6
+S'15:52:25'
+p653
+sg8
+VOptions Answers
+p654
+sa(dp655
+g2
+S'2015-12-04'
+p656
+sg4
+Vfacebook opens live streaming video further URL $fb $aapl $goog $twx
+p657
+sg6
+S'15:48:53'
+p658
+sg8
+VStockSaints
+p659
+sa(dp660
+g2
+S'2015-12-04'
+p661
+sg4
+Vrt AT_USER hopefully works better than theranos $goog URL
+p662
+sg6
+S'15:39:59'
+p663
+sg8
+VM
+p664
+sa(dp665
+g2
+S'2015-12-04'
+p666
+sg4
+V$goog trying to say yesterday never happened
+p667
+sg6
+S'15:39:25'
+p668
+sg8
+VDtrades
+p669
+sa(dp670
+g2
+S'2015-12-04'
+p671
+sg4
+V$nflx aware of problems watching in chrome $goog
+p672
+sg6
+S'15:34:15'
+p673
+sg8
+VOpen Outcrier
+p674
+sa(dp675
+g2
+S'2015-12-04'
+p676
+sg4
+VAT_USER either am i -feels like they need an addtl push. even $goog trading weak
+p677
+sg6
+S'15:34:04'
+p678
+sg8
+VRagingBull
+p679
+sa(dp680
+g2
+S'2015-12-04'
+p681
+sg4
+Vfacebook opens live streaming video further URL $fb $aapl $goog $twx
+p682
+sg6
+S'15:28:22'
+p683
+sg8
+VRobert Weinstein
+p684
+sa(dp685
+g2
+S'2015-12-04'
+p686
+sg4
+Vhopefully works better than theranos $goog URL
+p687
+sg6
+S'15:27:38'
+p688
+sg8
+VHipster
+p689
+sa(dp690
+g2
+S'2015-12-04'
+p691
+sg4
+Vinsider selling: alphabet inc $goog major shareholder sells $25,222,043.40 in stock URL
+p692
+sg6
+S'15:19:37'
+p693
+sg8
+VUS Banking News
+p694
+sa(dp695
+g2
+S'2015-12-04'
+p696
+sg4
+Valphabet inc $goog major shareholder sells $25,349,652.64 in stock URL
+p697
+sg6
+S'15:19:36'
+p698
+sg8
+VUS Banking News
+p699
+sa(dp700
+g2
+S'2015-12-04'
+p701
+sg4
+V.AT_USER ups ante, nearly doubles bet on renewableenergy URL $goog
+p702
+sg6
+S'15:15:56'
+p703
+sg8
+VFossil Free Indexes
+p704
+sa(dp705
+g2
+S'2015-12-04'
+p706
+sg4
+Vfacebook begins testing live streaming video URL $fb $aapl $goog $twx
+p707
+sg6
+S'15:12:57'
+p708
+sg8
+VStockSaints
+p709
+sa(dp710
+g2
+S'2015-12-04'
+p711
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $trx $aapl $goog
+p712
+sg6
+S'15:10:35'
+p713
+sg8
+VMichael Cook
+p714
+sa(dp715
+g2
+S'2015-12-04'
+p716
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $trx $aapl $goog
+p717
+sg6
+S'15:08:37'
+p718
+sg8
+VPaul Henry
+p719
+sa(dp720
+g2
+S'2015-12-04'
+p721
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $trx $aapl $goog
+p722
+sg6
+S'15:08:19'
+p723
+sg8
+VMichael James
+p724
+sa(dp725
+g2
+S'2015-12-04'
+p726
+sg4
+Valphabet\u2019s $goog \u201cbuy\u201d rating reaffirmed at evercore isi URL
+p727
+sg6
+S'15:08:03'
+p728
+sg8
+VSleek Money
+p729
+sa(dp730
+g2
+S'2015-12-04'
+p731
+sg4
+Valphabet\u2019s $goog \u201cbuy\u201d rating reaffirmed at evercore isi URL
+p732
+sg6
+S'15:07:14'
+p733
+sg8
+VWKRB News
+p734
+sa(dp735
+g2
+S'2015-12-04'
+p736
+sg4
+V$spy - call me skeptical, but w fang underperfoming, not sure this rally has legs today $fb $amzn $nflx $goog
+p737
+sg6
+S'15:06:12'
+p738
+sg8
+VResearch First
+p739
+sa(dp740
+g2
+S'2015-12-04'
+p741
+sg4
+V$yhoo $baba spinoff, sell-off, or restructuring--market struggling with valuing what yahoo is--does mgmt struggle too? $goog $googl $fb
+p742
+sg6
+S'15:04:49'
+p743
+sg8
+VZolio
+p744
+sa(dp745
+g2
+S'2015-12-04'
+p746
+sg4
+Vthe morning dump - $fb charity $goog $aapl uber vc uk hacker lyft coldplay streaming payment URL
+p747
+sg6
+S'15:02:02'
+p748
+sg8
+VMr. Bytes Blog
+p749
+sa(dp750
+g2
+S'2015-12-04'
+p751
+sg4
+Vupdate us stocks major news $aapl +0.70% $nsc -6.89% $goog +0.25% $amzn -0.32% $avp +8.77% $fb +0.10% $big -5.93%
+p752
+sg6
+S'15:01:20'
+p753
+sg8
+VInvest Huddle
+p754
+sa(dp755
+g2
+S'2015-12-04'
+p756
+sg4
+Vrt AT_USER leader stocks holding up so far. $nflx $goog $amzn.
+p757
+sg6
+S'14:56:07'
+p758
+sg8
+VCraig Howard
+p759
+sa(dp760
+g2
+S'2015-12-04'
+p761
+sg4
+Va startup backed by a record-breaking fundraising round wants to become your finance, car... URL $aapl $goog $pcln $k
+p762
+sg6
+S'14:55:32'
+p763
+sg8
+VThe Stock Professor
+p764
+sa(dp765
+g2
+S'2015-12-04'
+p766
+sg4
+Vrt AT_USER leader stocks holding up so far. $nflx $goog $amzn.
+p767
+sg6
+S'14:53:03'
+p768
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p769
+sa(dp770
+g2
+S'2015-12-04'
+p771
+sg4
+Vhey, do you know everything while trading sp500? $goog $jnj $ge URL URL
+p772
+sg6
+S'14:51:22'
+p773
+sg8
+VFinBuzz
+p774
+sa(dp775
+g2
+S'2015-12-04'
+p776
+sg4
+V2015 holiday shopping guide: the 5 best smartphones to buy ($aapl, $goog ...) URL URL
+p777
+sg6
+S'14:50:42'
+p778
+sg8
+VInvestorPlace
+p779
+sa(dp780
+g2
+S'2015-12-04'
+p781
+sg4
+Vapple and google hold on to first and second rankings this year. 50mostinnovative $aapl $goog URL
+p782
+sg6
+S'14:50:39'
+p783
+sg8
+VEugene La Branch
+p784
+sa(dp785
+g2
+S'2015-12-04'
+p786
+sg4
+Vleader stocks holding up so far. $nflx $goog $amzn.
+p787
+sg6
+S'14:49:58'
+p788
+sg8
+VNYC Trader
+p789
+sa(dp790
+g2
+S'2015-12-04'
+p791
+sg4
+Vin 1997, yahoo turned down the option of buying google for only $1 million. according to the google story, by david a. vise $goog $yhoo
+p792
+sg6
+S'14:48:12'
+p793
+sg8
+VDavid Gorg\u265e
+p794
+sa(dp795
+g2
+S'2015-12-04'
+p796
+sg4
+Vcellphone can be a hacker gateway to your gmail URL $goog $msft $yhoo
+p797
+sg6
+S'14:48:09'
+p798
+sg8
+VRobert Weinstein
+p799
+sa(dp800
+g2
+S'2015-12-04'
+p801
+sg4
+Vlot's of chatter about fang underperforming $fb $amzn $nflx $goog - come on people, what do you want them to be up 3% every day?
+p802
+sg6
+S'14:45:53'
+p803
+sg8
+VVlad Mazek
+p804
+sa(dp805
+g2
+S'2015-12-04'
+p806
+sg4
+Valphabet inc (goog) steals important market from apple and microsoft $msft $goog $aapl alphabet URL
+p807
+sg6
+S'14:44:53'
+p808
+sg8
+VLearnBonds.com
+p809
+sa(dp810
+g2
+S'2015-12-04'
+p811
+sg4
+V$goog dec 4 iron condor $740/$770 inners on a $2.50 spread at 25c URL
+p812
+sg6
+S'14:32:42'
+p813
+sg8
+V\u24d7\u24d0\u24e8\u24d4\u24da
+p814
+sa(dp815
+g2
+S'2015-12-04'
+p816
+sg4
+Vrt AT_USER aggressive new $goog advertising campaign taking direct aim $aapl siri benefits via touting AT_USER voice features AT_USER
+p817
+sg6
+S'14:27:51'
+p818
+sg8
+VOptions Answers
+p819
+sa(dp820
+g2
+S'2015-12-04'
+p821
+sg4
+Vaggressive new $goog advertising campaign taking direct aim $aapl siri benefits via touting AT_USER voice features AT_USER AT_USER
+p822
+sg6
+S'14:21:08'
+p823
+sg8
+VZero Filter
+p824
+sa(dp825
+g2
+S'2015-12-04'
+p826
+sg4
+V$goog are alphabet inc's "moonshots" spiraling out of control?: are alphabet inc's "moonshots" spiraling out ... URL
+p827
+sg6
+S'14:15:29'
+p828
+sg8
+VFinancePress
+p829
+sa(dp830
+g2
+S'2015-12-04'
+p831
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p832
+sg6
+S'14:15:05'
+p833
+sg8
+Vlocoroco
+p834
+sa(dp835
+g2
+S'2015-12-04'
+p836
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p837
+sg6
+S'14:09:48'
+p838
+sg8
+Vsggsahgdjhsahdjsadha
+p839
+sa(dp840
+g2
+S'2015-12-04'
+p841
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p842
+sg6
+S'14:01:34'
+p843
+sg8
+Vaddmefast198
+p844
+sa(dp845
+g2
+S'2015-12-04'
+p846
+sg4
+Vrt AT_USER wsj: youtube in talks with hollywood to license content for subscription service $goog URL
+p847
+sg6
+S'13:56:56'
+p848
+sg8
+VEd Schlesinger
+p849
+sa(dp850
+g2
+S'2015-12-04'
+p851
+sg4
+V$goog - are alphabet inc's "moonshots" spiraling out of control? URL
+p852
+sg6
+S'13:56:06'
+p853
+sg8
+VRuben
+p854
+sa(dp855
+g2
+S'2015-12-04'
+p856
+sg4
+Vare alphabet incs $goog URL URL URL
+p857
+sg6
+S'13:56:05'
+p858
+sg8
+VWLST.com
+p859
+sa(dp860
+g2
+S'2015-12-04'
+p861
+sg4
+V$goog - are alphabet inc's "moonshots" spiraling out of control? URL
+p862
+sg6
+S'13:56:03'
+p863
+sg8
+VLive Stock News
+p864
+sa(dp865
+g2
+S'2015-12-04'
+p866
+sg4
+Vbingo!! "AT_USER $spy bought the dip at 205. long $goog $googl $fb $amzn $twtr $msft letem rip
+p867
+sg6
+S'13:47:26'
+p868
+sg8
+VNavi Avatar
+p869
+sa(dp870
+g2
+S'2015-12-04'
+p871
+sg4
+Vduke energy renewables, google announce separate deals for three oklahoma wind power projects. URL $duk $goog
+p872
+sg6
+S'13:44:37'
+p873
+sg8
+VPaul
+p874
+sa(dp875
+g2
+S'2015-12-04'
+p876
+sg4
+Vgoog top news - dec 4th, 2015 $goog URL
+p877
+sg6
+S'13:42:20'
+p878
+sg8
+VSweet Platform
+p879
+sa(dp880
+g2
+S'2015-12-04'
+p881
+sg4
+Vrt AT_USER good morning traders and welcome new followers. nfp report is in u.s creates 211k jobs in nov futures ripping higher $goog\u2026
+p882
+sg6
+S'13:39:11'
+p883
+sg8
+VDtrades
+p884
+sa(dp885
+g2
+S'2015-12-04'
+p886
+sg4
+Vgood morning traders and welcome new followers. nfp report is in u.s creates 211k jobs in nov futures ripping higher $goog $fb $rlyp $amzn
+p887
+sg6
+S'13:37:47'
+p888
+sg8
+VNavi Avatar
+p889
+sa(dp890
+g2
+S'2015-12-04'
+p891
+sg4
+Vgoogle is beating microsoft and apple in the school pc market $goog $aapl $msft URL
+p892
+sg6
+S'13:32:52'
+p893
+sg8
+VBI UK Tech
+p894
+sa(dp895
+g2
+S'2015-12-04'
+p896
+sg4
+Vgoogle is beating microsoft and apple in the school pc market $goog $aapl $msft URL
+p897
+sg6
+S'13:32:52'
+p898
+sg8
+VBusiness Insider UK
+p899
+sa(dp900
+g2
+S'2015-12-04'
+p901
+sg4
+Vrt AT_USER google ceo sundar pichai to visit india this month, likely to meet pm\u2026 URL google $goog $googl http\u2026
+p902
+sg6
+S'13:32:15'
+p903
+sg8
+VTripp Braden
+p904
+sa(dp905
+g2
+S'2015-12-04'
+p906
+sg4
+Vapple, inc. breached its 50 day moving average in a bearish manner : december 4, 2015: URL $aapl $goog $pcln $k
+p907
+sg6
+S'13:32:13'
+p908
+sg8
+VThe Stock Professor
+p909
+sa(dp910
+g2
+S'2015-12-04'
+p911
+sg4
+V04 dec 2015: uptrend stocks in technology $adbe $adsk $amat $amd $aph $brcm $flir $fslr $goog $hrs URL
+p912
+sg6
+S'13:20:54'
+p913
+sg8
+VTrading Quotient
+p914
+sa(dp915
+g2
+S'2015-12-04'
+p916
+sg4
+Vrt AT_USER alphabet inc (goog) steals important market from apple and microsoft $msft $goog $aapl alphabet URL
+p917
+sg6
+S'13:18:28'
+p918
+sg8
+VJohn W. Green JW
+p919
+sa(dp920
+g2
+S'2015-12-04'
+p921
+sg4
+Vgoogle increases stake in renewables URL $goog $googl
+p922
+sg6
+S'13:16:43'
+p923
+sg8
+VRickLejeune
+p924
+sa(dp925
+g2
+S'2015-12-04'
+p926
+sg4
+Valphabet inc (goog) steals important market from apple and microsoft $msft $goog $aapl alphabet URL
+p927
+sg6
+S'13:14:56'
+p928
+sg8
+VLearnBonds.com
+p929
+sa(dp930
+g2
+S'2015-12-04'
+p931
+sg4
+Vapple inc., alphabet and tesla top 2015 bcg most innovative company ranking $aapl $goog $googl $tsla URL
+p932
+sg6
+S'13:11:17'
+p933
+sg8
+Vinvest correctly
+p934
+sa(dp935
+g2
+S'2015-12-04'
+p936
+sg4
+Valphabet inc is working on driverless cars ability to communicate $goog $googl URL
+p937
+sg6
+S'13:07:28'
+p938
+sg8
+Vinvest correctly
+p939
+sa(dp940
+g2
+S'2015-12-04'
+p941
+sg4
+Vrt AT_USER with $goog near fully integrating AT_USER into AT_USER &amp; $aapl having applemusic - eyes on $fb losing ad dollars \u2026
+p942
+sg6
+S'12:59:28'
+p943
+sg8
+VOptions Answers
+p944
+sa(dp945
+g2
+S'2015-12-04'
+p946
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p947
+sg6
+S'12:58:54'
+p948
+sg8
+VBambi King
+p949
+sa(dp950
+g2
+S'2015-12-04'
+p951
+sg4
+V$goog alphabet inc (goog) rating increased to hold at vetr inc.: alphabet inc (goog) rating increased to hold... URL
+p952
+sg6
+S'12:52:46'
+p953
+sg8
+VFinancePress
+p954
+sa(dp955
+g2
+S'2015-12-04'
+p956
+sg4
+Vgoogle ceo sundar pichai to visit india this month, likely to meet pm\u2026 URL google $goog $googl URL
+p957
+sg6
+S'12:52:16'
+p958
+sg8
+V#SocialMedia NC
+p959
+sa(dp960
+g2
+S'2015-12-04'
+p961
+sg4
+V$goog
+p962
+sg6
+S'12:41:10'
+p963
+sg8
+V\u3046\u306b\u3083²
+p964
+sa(dp965
+g2
+S'2015-12-04'
+p966
+sg4
+Vwith $goog near fully integrating AT_USER into AT_USER &amp; $aapl having applemusic - eyes on $fb losing ad dollars to others - $p cure it
+p967
+sg6
+S'12:36:41'
+p968
+sg8
+VZero Filter
+p969
+sa(dp970
+g2
+S'2015-12-04'
+p971
+sg4
+V94.5% avg gain 100% unbiased small/micro-caps URL for $hain, $wwav, $aapl, and $goog.
+p972
+sg6
+S'12:35:40'
+p973
+sg8
+VFalcon's PennyStocks
+p974
+sa(dp975
+g2
+S'2015-12-04'
+p976
+sg4
+Vwsj: youtube in talks with hollywood to license content for subscription service URL $goog, $googl goog googl
+p977
+sg6
+S'12:35:34'
+p978
+sg8
+VKiloCrox
+p979
+sa(dp980
+g2
+S'2015-12-04'
+p981
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p982
+sg6
+S'12:34:39'
+p983
+sg8
+Vkobirahasanas
+p984
+sa(dp985
+g2
+S'2015-12-04'
+p986
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p987
+sg6
+S'12:33:08'
+p988
+sg8
+VLucia Marquez
+p989
+sa(dp990
+g2
+S'2015-12-04'
+p991
+sg4
+Vrt AT_USER $dis $goog $amzn $fb the dgaf portfolio
+p992
+sg6
+S'12:26:39'
+p993
+sg8
+VTodd
+p994
+sa(dp995
+g2
+S'2015-12-04'
+p996
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $amzn $mcox $goog
+p997
+sg6
+S'12:18:12'
+p998
+sg8
+VMichael Cook
+p999
+sa(dp1000
+g2
+S'2015-12-04'
+p1001
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $amzn $mcox $goog
+p1002
+sg6
+S'12:17:21'
+p1003
+sg8
+VPaul Henry
+p1004
+sa(dp1005
+g2
+S'2015-12-04'
+p1006
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $amzn $mcox $goog
+p1007
+sg6
+S'12:16:15'
+p1008
+sg8
+VMichael James
+p1009
+sa(dp1010
+g2
+S'2015-12-04'
+p1011
+sg4
+Vthe wearables market has now come down to three players: URL $aapl $goog $pcln $k
+p1012
+sg6
+S'12:11:26'
+p1013
+sg8
+VThe Stock Professor
+p1014
+sa(dp1015
+g2
+S'2015-12-04'
+p1016
+sg4
+Vrt AT_USER now at $199 with hopefully some effective $gpro advertising hero4session should move &amp; clear decks for 2016 // $fb $g\u2026
+p1017
+sg6
+S'12:02:55'
+p1018
+sg8
+VOptions Answers
+p1019
+sa(dp1020
+g2
+S'2015-12-04'
+p1021
+sg4
+Vlooking for a company with low debt? check $goog: URL URL
+p1022
+sg6
+S'12:01:20'
+p1023
+sg8
+VWarren of Wall St
+p1024
+sa(dp1025
+g2
+S'2015-12-04'
+p1026
+sg4
+Vrt AT_USER $goog $aapl $fb 10 things in tech you need to know today URL
+p1027
+sg6
+S'11:59:18'
+p1028
+sg8
+V@cassandraKGnyc
+p1029
+sa(dp1030
+g2
+S'2015-12-04'
+p1031
+sg4
+Vnow at $199 with hopefully some effective $gpro advertising hero4session should move &amp; clear decks for 2016 // $fb $goog $aapl $sne
+p1032
+sg6
+S'11:57:49'
+p1033
+sg8
+VZero Filter
+p1034
+sa(dp1035
+g2
+S'2015-12-04'
+p1036
+sg4
+Vrt AT_USER when we get first u/g $twtr as sleepy sellside wakes-up to surging ad use, depth, &amp; load? $goog $fb $yhoo $aapl AT_USER
+p1037
+sg6
+S'11:56:59'
+p1038
+sg8
+VOptions Answers
+p1039
+sa(dp1040
+g2
+S'2015-12-04'
+p1041
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1042
+sg6
+S'11:52:19'
+p1043
+sg8
+Vkimberlee sear
+p1044
+sa(dp1045
+g2
+S'2015-12-04'
+p1046
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1047
+sg6
+S'11:52:05'
+p1048
+sg8
+VOdephaultK
+p1049
+sa(dp1050
+g2
+S'2015-12-04'
+p1051
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1052
+sg6
+S'11:51:02'
+p1053
+sg8
+VLucas
+p1054
+sa(dp1055
+g2
+S'2015-12-04'
+p1056
+sg4
+VAT_USER and AT_USER hold on to first and second rankings this year. 50mostinnovative $aapl $goog URL
+p1057
+sg6
+S'11:48:44'
+p1058
+sg8
+VFrits de Vroet
+p1059
+sa(dp1060
+g2
+S'2015-12-04'
+p1061
+sg4
+Valphabet inc (goog) steals important market from apple and microsoft $msft $goog $aapl alphabet URL
+p1062
+sg6
+S'11:44:53'
+p1063
+sg8
+VLearnBonds.com
+p1064
+sa(dp1065
+g2
+S'2015-12-04'
+p1066
+sg4
+Vrt AT_USER in 2012 i predicted that apple would make a 3d printer URL $aapl $amzn $goog $ddd 3dprinting 3dp
+p1067
+sg6
+S'11:44:02'
+p1068
+sg8
+VHWB LAW
+p1069
+sa(dp1070
+g2
+S'2015-12-04'
+p1071
+sg4
+Vwhen we get first u/g $twtr as sleepy sellside wakes-up to surging ad use, depth, &amp; load? $goog $fb $yhoo $aapl AT_USER AT_USER
+p1072
+sg6
+S'11:42:59'
+p1073
+sg8
+VZero Filter
+p1074
+sa(dp1075
+g2
+S'2015-12-04'
+p1076
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1077
+sg6
+S'11:40:39'
+p1078
+sg8
+VJulie Burns
+p1079
+sa(dp1080
+g2
+S'2015-12-04'
+p1081
+sg4
+Vrt AT_USER wsj: youtube in talks with hollywood to license content for subscription service $goog URL
+p1082
+sg6
+S'11:39:24'
+p1083
+sg8
+VRob Adlers
+p1084
+sa(dp1085
+g2
+S'2015-12-04'
+p1086
+sg4
+Vwsj: youtube in talks with hollywood to license content for subscription service $goog URL
+p1087
+sg6
+S'11:37:22'
+p1088
+sg8
+VJoanne Moretti
+p1089
+sa(dp1090
+g2
+S'2015-12-04'
+p1091
+sg4
+Vopec meeting and november jobs 5 things to know today $goog energy features 5things URL URL
+p1092
+sg6
+S'11:34:54'
+p1093
+sg8
+VWLST.com
+p1094
+sa(dp1095
+g2
+S'2015-12-04'
+p1096
+sg4
+V$goog opec meeting and november jobs \u2014 5 things to know today URL
+p1097
+sg6
+S'11:34:51'
+p1098
+sg8
+VFonsieTrader
+p1099
+sa(dp1100
+g2
+S'2015-12-04'
+p1101
+sg4
+V$goog $aapl $fb 10 things in tech you need to know today URL
+p1102
+sg6
+S'11:33:09'
+p1103
+sg8
+VFonsieTrader
+p1104
+sa(dp1105
+g2
+S'2015-12-04'
+p1106
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $erbb $bbda $goog
+p1107
+sg6
+S'11:30:40'
+p1108
+sg8
+VMichael Cook
+p1109
+sa(dp1110
+g2
+S'2015-12-04'
+p1111
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $erbb $bbda $goog
+p1112
+sg6
+S'11:30:01'
+p1113
+sg8
+VPaul Henry
+p1114
+sa(dp1115
+g2
+S'2015-12-04'
+p1116
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $erbb $bbda $goog
+p1117
+sg6
+S'11:28:56'
+p1118
+sg8
+VMichael James
+p1119
+sa(dp1120
+g2
+S'2015-12-04'
+p1121
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1122
+sg6
+S'11:19:36'
+p1123
+sg8
+Vyusifim ureyim
+p1124
+sa(dp1125
+g2
+S'2015-12-04'
+p1126
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1127
+sg6
+S'11:15:17'
+p1128
+sg8
+Vder der da
+p1129
+sa(dp1130
+g2
+S'2015-12-04'
+p1131
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1132
+sg6
+S'11:12:13'
+p1133
+sg8
+VVallada Reswai
+p1134
+sa(dp1135
+g2
+S'2015-12-04'
+p1136
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $ibm $goog $aapl
+p1137
+sg6
+S'10:49:54'
+p1138
+sg8
+VMichael Cook
+p1139
+sa(dp1140
+g2
+S'2015-12-04'
+p1141
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $ibm $goog $aapl
+p1142
+sg6
+S'10:49:17'
+p1143
+sg8
+VPaul Henry
+p1144
+sa(dp1145
+g2
+S'2015-12-04'
+p1146
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $ibm $goog $aapl
+p1147
+sg6
+S'10:48:33'
+p1148
+sg8
+VMichael James
+p1149
+sa(dp1150
+g2
+S'2015-12-04'
+p1151
+sg4
+Vapple watch in focus: holiday sales, a user survey, and market share: URL $aapl $goog $pcln $k
+p1152
+sg6
+S'10:47:06'
+p1153
+sg8
+VThe Stock Professor
+p1154
+sa(dp1155
+g2
+S'2015-12-04'
+p1156
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1157
+sg6
+S'10:39:09'
+p1158
+sg8
+VAsuncion
+p1159
+sa(dp1160
+g2
+S'2015-12-04'
+p1161
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1162
+sg6
+S'10:35:20'
+p1163
+sg8
+VParis Crespino
+p1164
+sa(dp1165
+g2
+S'2015-12-04'
+p1166
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1167
+sg6
+S'10:27:42'
+p1168
+sg8
+Vasma akter
+p1169
+sa(dp1170
+g2
+S'2015-12-04'
+p1171
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1172
+sg6
+S'10:19:14'
+p1173
+sg8
+VAleksander Szadr
+p1174
+sa(dp1175
+g2
+S'2015-12-04'
+p1176
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1177
+sg6
+S'10:08:19'
+p1178
+sg8
+Vahmed
+p1179
+sa(dp1180
+g2
+S'2015-12-04'
+p1181
+sg4
+V3,500% gains on stock picks in 5 months and an amazing new pick is coming soon! get it early: URL $cbl $goog $bll
+p1182
+sg6
+S'10:01:34'
+p1183
+sg8
+VMichael Cook
+p1184
+sa(dp1185
+g2
+S'2015-12-04'
+p1186
+sg4
+Vsubscribers have seen powerful gains on our stock alerts! subscribe for our new picks: URL $cbl $goog $bll
+p1187
+sg6
+S'10:01:28'
+p1188
+sg8
+VPaul Henry
+p1189
+sa(dp1190
+g2
+S'2015-12-04'
+p1191
+sg4
+V3,500% gains in 5 months &amp; a huge new pick is on the way! get an exclusive first look: URL $cbl $goog $bll
+p1192
+sg6
+S'10:00:51'
+p1193
+sg8
+VMichael James
+p1194
+sa(dp1195
+g2
+S'2015-12-04'
+p1196
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1197
+sg6
+S'09:53:39'
+p1198
+sg8
+VEmiliaEDavis
+p1199
+sa(dp1200
+g2
+S'2015-12-04'
+p1201
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1202
+sg6
+S'09:53:07'
+p1203
+sg8
+VRick Sanders
+p1204
+sa(dp1205
+g2
+S'2015-12-04'
+p1206
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1207
+sg6
+S'09:48:52'
+p1208
+sg8
+Vlymanhhieu
+p1209
+sa(dp1210
+g2
+S'2015-12-04'
+p1211
+sg4
+Vrt AT_USER $dks stock message board updated friday, december 4, 2015 04:07:21 am $slv $gdxj $avxl $goog URL
+p1212
+sg6
+S'09:38:34'
+p1213
+sg8
+VOptions Answers
+p1214
+sa(dp1215
+g2
+S'2015-12-04'
+p1216
+sg4
+V$dks stock message board updated friday, december 4, 2015 04:07:21 am $slv $gdxj $avxl $goog URL
+p1217
+sg6
+S'09:32:10'
+p1218
+sg8
+VPolgarStocks
+p1219
+sa(dp1220
+g2
+S'2015-12-04'
+p1221
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1222
+sg6
+S'09:19:36'
+p1223
+sg8
+Vchenxiaoya
+p1224
+sa(dp1225
+g2
+S'2015-12-04'
+p1226
+sg4
+Vrt AT_USER $goog youtube attempting to get rights for streaming tv &amp; movies for its $9.99/month sub - $aapl $nflx $cmcsa $twc $t $dtv $b\u2026
+p1227
+sg6
+S'09:04:59'
+p1228
+sg8
+VJames DiPlata
+p1229
+sa(dp1230
+g2
+S'2015-12-04'
+p1231
+sg4
+Vrt AT_USER \u2190\u2190download bokep asdasdhya6s5ft2 rt centertrading: tips on saving money $dia $spy $qqq $aapl $fb $goog mark zuckerberg
+p1232
+sg6
+S'09:04:59'
+p1233
+sg8
+VJames DiPlata
+p1234
+sa(dp1235
+g2
+S'2015-12-04'
+p1236
+sg4
+Vwhy access a ticker when you can access a group of tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1237
+sg6
+S'09:03:55'
+p1238
+sg8
+VFinBuzz
+p1239
+sa(dp1240
+g2
+S'2015-12-04'
+p1241
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1242
+sg6
+S'09:02:44'
+p1243
+sg8
+VSam Stokke
+p1244
+sa(dp1245
+g2
+S'2015-12-04'
+p1246
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1247
+sg6
+S'08:59:49'
+p1248
+sg8
+Vsabalsingh bori
+p1249
+sa(dp1250
+g2
+S'2015-12-04'
+p1251
+sg4
+Vgoog alphabet inc. - class c day high URL $goog $tsla $vxx $cli goog share nasdaq
+p1252
+sg6
+S'08:43:19'
+p1253
+sg8
+VIH NASDAQ OMX
+p1254
+sa(dp1255
+g2
+S'2015-12-04'
+p1256
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1257
+sg6
+S'08:41:45'
+p1258
+sg8
+VMAS GUITAR
+p1259
+sa(dp1260
+g2
+S'2015-12-04'
+p1261
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1262
+sg6
+S'08:39:17'
+p1263
+sg8
+VGet Followers
+p1264
+sa(dp1265
+g2
+S'2015-12-04'
+p1266
+sg4
+Vtrack curated news and tweets for multiple tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1267
+sg6
+S'08:36:56'
+p1268
+sg8
+VFinBuzz
+p1269
+sa(dp1270
+g2
+S'2015-12-04'
+p1271
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1272
+sg6
+S'08:31:33'
+p1273
+sg8
+VFunnyUsXyz
+p1274
+sa(dp1275
+g2
+S'2015-12-04'
+p1276
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p1277
+sg6
+S'08:29:58'
+p1278
+sg8
+Vkimstudios
+p1279
+sa(dp1280
+g2
+S'2015-12-04'
+p1281
+sg4
+V$spy bought the dip at 205. long $goog $googl $fb $amzn $twtr $msft letem rip
+p1282
+sg6
+S'08:27:58'
+p1283
+sg8
+VNavi Avatar
+p1284
+sa.

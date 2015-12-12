@@ -1,0 +1,10029 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-06'
+p3
+sS'text'
+p4
+Vwhy apple $aapl wants to get into the unprofitable world of payments between friends URL fintech payments
+p5
+sS'time'
+p6
+S'22:40:35'
+p7
+sS'author'
+p8
+VDiego D'Aquilio
+p9
+sa(dp10
+g2
+S'2015-12-06'
+p11
+sg4
+V. AT_USER out of your mind. no comparison $msft $aapl
+p12
+sg6
+S'22:39:54'
+p13
+sg8
+VLouisLouie
+p14
+sa(dp15
+g2
+S'2015-12-06'
+p16
+sg4
+Vfcx freeport-mcmoran, inc. stock message board URL $fcx $aapl $kbl.to $aal fcx tradeideas share
+p17
+sg6
+S'22:38:33'
+p18
+sg8
+VIH NASDAQ OMX
+p19
+sa(dp20
+g2
+S'2015-12-06'
+p21
+sg4
+Vlong $aapl and $goog in my roth, still having fun, basically gambling, in my individual with fun ones like $emes and options. tedbeneski
+p22
+sg6
+S'22:38:20'
+p23
+sg8
+VMichael Manos
+p24
+sa(dp25
+g2
+S'2015-12-06'
+p26
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p27
+sg6
+S'22:37:19'
+p28
+sg8
+VJulia 
+p29
+sa(dp30
+g2
+S'2015-12-06'
+p31
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p32
+sg6
+S'22:36:41'
+p33
+sg8
+Vbiz521
+p34
+sa(dp35
+g2
+S'2015-12-06'
+p36
+sg4
+Vrt AT_USER weekend review video 12/6: $fxi $baba $ibb $gild $spy $iwm $qqq $aapl $amzn $amba $gpro $cmg $fb $feye $googl $nflx ht\u2026
+p37
+sg6
+S'22:34:06'
+p38
+sg8
+VWynner Trader
+p39
+sa(dp40
+g2
+S'2015-12-06'
+p41
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p42
+sg6
+S'22:33:49'
+p43
+sg8
+V$B
+p44
+sa(dp45
+g2
+S'2015-12-06'
+p46
+sg4
+Vaapl apple, inc. shares URL $aapl $adbe $baba $uso aapl investing stock
+p47
+sg6
+S'22:33:03'
+p48
+sg8
+Vnasdaqfan
+p49
+sa(dp50
+g2
+S'2015-12-06'
+p51
+sg4
+Vnews for investors: facebook inc (nasdaq:fb), apple inc. (nasdaq:aapl), twitter inc\u2026 URL $aapl
+p52
+sg6
+S'22:32:42'
+p53
+sg8
+VTickerLens Apple
+p54
+sa(dp55
+g2
+S'2015-12-06'
+p56
+sg4
+V\U0001f34e $aapl cheat sheet: URL
+p57
+sg6
+S'22:32:41'
+p58
+sg8
+VJE$US
+p59
+sa(dp60
+g2
+S'2015-12-06'
+p61
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p62
+sg6
+S'22:31:17'
+p63
+sg8
+VDon Tripper
+p64
+sa(dp65
+g2
+S'2015-12-06'
+p66
+sg4
+V$aapl briefly: canada starbucks app takes apple pay, apple tv gains shuffle URL AT_USER
+p67
+sg6
+S'22:30:07'
+p68
+sg8
+VApple News $AAPL
+p69
+sa(dp70
+g2
+S'2015-12-06'
+p71
+sg4
+Vchayton falke\ufffd youtube channel URL trading startups stock $aapl money investor angel investoreducation capital
+p72
+sg6
+S'22:30:06'
+p73
+sg8
+VChayton Falke
+p74
+sa(dp75
+g2
+S'2015-12-06'
+p76
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p77
+sg6
+S'22:20:05'
+p78
+sg8
+VWarrior Trading News
+p79
+sa(dp80
+g2
+S'2015-12-06'
+p81
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p82
+sg6
+S'22:19:59'
+p83
+sg8
+VManuel Martinez
+p84
+sa(dp85
+g2
+S'2015-12-06'
+p86
+sg4
+Vrt AT_USER weekend review video 12/6: $fxi $baba $ibb $gild $spy $iwm $qqq $aapl $amzn $amba $gpro $cmg $fb $feye $googl $nflx ht\u2026
+p87
+sg6
+S'22:19:56'
+p88
+sg8
+VLevels
+p89
+sa(dp90
+g2
+S'2015-12-06'
+p91
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p92
+sg6
+S'22:18:56'
+p93
+sg8
+Vcampbecc
+p94
+sa(dp95
+g2
+S'2015-12-06'
+p96
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p97
+sg6
+S'22:16:00'
+p98
+sg8
+VSebastian Rojas
+p99
+sa(dp100
+g2
+S'2015-12-06'
+p101
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p102
+sg6
+S'22:15:36'
+p103
+sg8
+VAmr AlGain\u0639\u0645\u0631\u0648 \u0627\u0644\u0642\u064a\u0646
+p104
+sa(dp105
+g2
+S'2015-12-06'
+p106
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p107
+sg6
+S'22:15:09'
+p108
+sg8
+VVicenteVaro
+p109
+sa(dp110
+g2
+S'2015-12-06'
+p111
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p112
+sg6
+S'22:14:11'
+p113
+sg8
+VMatt Sheffield
+p114
+sa(dp115
+g2
+S'2015-12-06'
+p116
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p117
+sg6
+S'22:11:36'
+p118
+sg8
+VThe Machine
+p119
+sa(dp120
+g2
+S'2015-12-06'
+p121
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p122
+sg6
+S'22:10:33'
+p123
+sg8
+VZaid Karus
+p124
+sa(dp125
+g2
+S'2015-12-06'
+p126
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p127
+sg6
+S'22:10:13'
+p128
+sg8
+VPLANETWEBCAMS
+p129
+sa(dp130
+g2
+S'2015-12-06'
+p131
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p132
+sg6
+S'22:09:36'
+p133
+sg8
+VMichael Manos
+p134
+sa(dp135
+g2
+S'2015-12-06'
+p136
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p137
+sg6
+S'22:08:58'
+p138
+sg8
+VRyan Morse, CMT CFP®
+p139
+sa(dp140
+g2
+S'2015-12-06'
+p141
+sg4
+Vrt AT_USER weekend review video 12/6: $fxi $baba $ibb $gild $spy $iwm $qqq $aapl $amzn $amba $gpro $cmg $fb $feye $googl $nflx ht\u2026
+p142
+sg6
+S'22:06:44'
+p143
+sg8
+VJake Catskill
+p144
+sa(dp145
+g2
+S'2015-12-06'
+p146
+sg4
+VAT_USER AT_USER AT_USER \U0001f473\U0001f3feshort $tgt, $shld, $gild, $aapl \U0001f34e swami dip
+p147
+sg6
+S'22:04:33'
+p148
+sg8
+Vchristopherbair
+p149
+sa(dp150
+g2
+S'2015-12-06'
+p151
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p152
+sg6
+S'22:04:15'
+p153
+sg8
+VHorizon Investment
+p154
+sa(dp155
+g2
+S'2015-12-06'
+p156
+sg4
+V$aapl top ten 12/18 calls by most open int options. download nasdaq100 analytics free: URL URL
+p157
+sg6
+S'22:03:32'
+p158
+sg8
+VServAnalytics
+p159
+sa(dp160
+g2
+S'2015-12-06'
+p161
+sg4
+Vweekend review video 12/6: $fxi $baba $ibb $gild $spy $iwm $qqq $aapl $amzn $amba $gpro $cmg $fb $feye $googl $nflx URL
+p162
+sg6
+S'22:02:36'
+p163
+sg8
+VJustin Pulitzer
+p164
+sa(dp165
+g2
+S'2015-12-06'
+p166
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p167
+sg6
+S'22:02:29'
+p168
+sg8
+VRaman Sharma
+p169
+sa(dp170
+g2
+S'2015-12-06'
+p171
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p172
+sg6
+S'21:58:00'
+p173
+sg8
+Vthirdcoastmk
+p174
+sa(dp175
+g2
+S'2015-12-06'
+p176
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p177
+sg6
+S'21:55:27'
+p178
+sg8
+VShoveltusk
+p179
+sa(dp180
+g2
+S'2015-12-06'
+p181
+sg4
+Vimagine the disruption to cable and broadcast tv if $aapl, $googl or $amzn buys nfl rights for streaming only. URL
+p182
+sg6
+S'21:55:03'
+p183
+sg8
+VErwin Eichmann
+p184
+sa(dp185
+g2
+S'2015-12-06'
+p186
+sg4
+Vrt AT_USER if you go back to 2004 $mnst+11,717%! $aapl +5,726% $nflx +5,683% $amzn 1.641% $googl 1,451% URL
+p187
+sg6
+S'21:54:52'
+p188
+sg8
+VBart
+p189
+sa(dp190
+g2
+S'2015-12-06'
+p191
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p192
+sg6
+S'21:54:24'
+p193
+sg8
+VHugo Faithful
+p194
+sa(dp195
+g2
+S'2015-12-06'
+p196
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p197
+sg6
+S'21:52:56'
+p198
+sg8
+Vjdgutierrez
+p199
+sa(dp200
+g2
+S'2015-12-06'
+p201
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p202
+sg6
+S'21:52:49'
+p203
+sg8
+VShoveltusk
+p204
+sa(dp205
+g2
+S'2015-12-06'
+p206
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p207
+sg6
+S'21:52:30'
+p208
+sg8
+VAlex P. Wong
+p209
+sa(dp210
+g2
+S'2015-12-06'
+p211
+sg4
+V$aapl - can pandora bounce back from last week's 11% drop? URL
+p212
+sg6
+S'21:51:08'
+p213
+sg8
+VLive Stock News
+p214
+sa(dp215
+g2
+S'2015-12-06'
+p216
+sg4
+V$aapl - can pandora bounce back from last week's 11% drop? URL
+p217
+sg6
+S'21:51:07'
+p218
+sg8
+Vmatt collom
+p219
+sa(dp220
+g2
+S'2015-12-06'
+p221
+sg4
+Vcan pandora bounce back from last weeks 11% drop? -- the motley fool $aapl wlst URL URL
+p222
+sg6
+S'21:51:06'
+p223
+sg8
+VWLST.com
+p224
+sa(dp225
+g2
+S'2015-12-06'
+p226
+sg4
+V$aapl close above 120 will be nice.. merry xmas
+p227
+sg6
+S'21:50:43'
+p228
+sg8
+VFinancialTrader
+p229
+sa(dp230
+g2
+S'2015-12-06'
+p231
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p232
+sg6
+S'21:50:06'
+p233
+sg8
+Vspencer philpott
+p234
+sa(dp235
+g2
+S'2015-12-06'
+p236
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p237
+sg6
+S'21:49:56'
+p238
+sg8
+VStock Geek
+p239
+sa(dp240
+g2
+S'2015-12-06'
+p241
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p242
+sg6
+S'21:49:12'
+p243
+sg8
+VEdgar Villegas
+p244
+sa(dp245
+g2
+S'2015-12-06'
+p246
+sg4
+Vso at least they know it's coming. but will they be able to out-innovate? autotech $goog $aapl $tsla URL
+p247
+sg6
+S'21:47:42'
+p248
+sg8
+VStephen Thorne
+p249
+sa(dp250
+g2
+S'2015-12-06'
+p251
+sg4
+Vstocktwits: remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +20\u2026 URL
+p252
+sg6
+S'21:47:42'
+p253
+sg8
+VInvesting Insight
+p254
+sa(dp255
+g2
+S'2015-12-06'
+p256
+sg4
+Vrt AT_USER jk: our millennial clients tend to invest in co.'s they know, which is why we\u2019ve seen surge in stocks like facebook $f\u2026
+p257
+sg6
+S'21:46:53'
+p258
+sg8
+VMathias Paulsson
+p259
+sa(dp260
+g2
+S'2015-12-06'
+p261
+sg4
+Vrt AT_USER cityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p262
+sg6
+S'21:46:38'
+p263
+sg8
+VJames DiPlata
+p264
+sa(dp265
+g2
+S'2015-12-06'
+p266
+sg4
+Vrt AT_USER aapl apple, inc. current price URL $aapl $baba $fcx $sco aapl stockmarket stock
+p267
+sg6
+S'21:46:35'
+p268
+sg8
+VJames DiPlata
+p269
+sa(dp270
+g2
+S'2015-12-06'
+p271
+sg4
+Vthe osxdaily holiday gift guide for 2015 URL osxdaily $aapl
+p272
+sg6
+S'21:46:26'
+p273
+sg8
+VMacHash
+p274
+sa(dp275
+g2
+S'2015-12-06'
+p276
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p277
+sg6
+S'21:44:21'
+p278
+sg8
+VA Ross
+p279
+sa(dp280
+g2
+S'2015-12-06'
+p281
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p282
+sg6
+S'21:43:33'
+p283
+sg8
+VPeter J. Clark
+p284
+sa(dp285
+g2
+S'2015-12-06'
+p286
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p287
+sg6
+S'21:41:57'
+p288
+sg8
+VCharlie Monson
+p289
+sa(dp290
+g2
+S'2015-12-06'
+p291
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p292
+sg6
+S'21:41:45'
+p293
+sg8
+VMARZ
+p294
+sa(dp295
+g2
+S'2015-12-06'
+p296
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p297
+sg6
+S'21:41:43'
+p298
+sg8
+ViPhone6 FREE FOR ALL
+p299
+sa(dp300
+g2
+S'2015-12-06'
+p301
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p302
+sg6
+S'21:41:42'
+p303
+sg8
+VMr. Somebody
+p304
+sa(dp305
+g2
+S'2015-12-06'
+p306
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p307
+sg6
+S'21:41:41'
+p308
+sg8
+V(NOT official)
+p309
+sa(dp310
+g2
+S'2015-12-06'
+p311
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p312
+sg6
+S'21:41:26'
+p313
+sg8
+VStefan Cheplick
+p314
+sa(dp315
+g2
+S'2015-12-06'
+p316
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p317
+sg6
+S'21:41:13'
+p318
+sg8
+VMoniker
+p319
+sa(dp320
+g2
+S'2015-12-06'
+p321
+sg4
+Vcan pandora bounce back from last week's 11% drop?: URL $aapl $goog $pcln $k
+p322
+sg6
+S'21:41:01'
+p323
+sg8
+VThe Stock Professor
+p324
+sa(dp325
+g2
+S'2015-12-06'
+p326
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p327
+sg6
+S'21:40:59'
+p328
+sg8
+VSharif Muhammad, CPA
+p329
+sa(dp330
+g2
+S'2015-12-06'
+p331
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p332
+sg6
+S'21:40:58'
+p333
+sg8
+VOz
+p334
+sa(dp335
+g2
+S'2015-12-06'
+p336
+sg4
+Vgequ global equity intl, inc. % change URL $gequ $aapl $gnl $avgo gequ finance stock
+p337
+sg6
+S'21:40:33'
+p338
+sg8
+VLucky Jimmy
+p339
+sa(dp340
+g2
+S'2015-12-06'
+p341
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p342
+sg6
+S'21:40:26'
+p343
+sg8
+VJoseph
+p344
+sa(dp345
+g2
+S'2015-12-06'
+p346
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p347
+sg6
+S'21:39:46'
+p348
+sg8
+VBeirne White
+p349
+sa(dp350
+g2
+S'2015-12-06'
+p351
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p352
+sg6
+S'21:38:20'
+p353
+sg8
+VStocks & Trades
+p354
+sa(dp355
+g2
+S'2015-12-06'
+p356
+sg4
+Vrt AT_USER insidertrading report: notable buys and sales $blk $kmi $nlsn $oln $cbpo $aapl $hway $spy $fb $now $axdx URL
+p357
+sg6
+S'21:37:47'
+p358
+sg8
+VAdelaide Croftoon
+p359
+sa(dp360
+g2
+S'2015-12-06'
+p361
+sg4
+Vremember the financialcrisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p362
+sg6
+S'21:37:37'
+p363
+sg8
+VMicaela Osella
+p364
+sa(dp365
+g2
+S'2015-12-06'
+p366
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p367
+sg6
+S'21:37:12'
+p368
+sg8
+VDanilo
+p369
+sa(dp370
+g2
+S'2015-12-06'
+p371
+sg4
+Vrt AT_USER clvs clovis oncology, inc. change URL $clvs $uso $t $aapl clvs invest invest
+p372
+sg6
+S'21:36:28'
+p373
+sg8
+VJavellas Treasures
+p374
+sa(dp375
+g2
+S'2015-12-06'
+p376
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p377
+sg6
+S'21:36:09'
+p378
+sg8
+VPaul
+p379
+sa(dp380
+g2
+S'2015-12-06'
+p381
+sg4
+Vclvs clovis oncology, inc. change URL $clvs $uso $t $aapl clvs invest invest
+p382
+sg6
+S'21:36:03'
+p383
+sg8
+VIH News Desk
+p384
+sa(dp385
+g2
+S'2015-12-06'
+p386
+sg4
+Vrt AT_USER remember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p387
+sg6
+S'21:36:02'
+p388
+sg8
+VJohn Bonini
+p389
+sa(dp390
+g2
+S'2015-12-06'
+p391
+sg4
+Vremember the financial crisis? big tech stocks since $nflx +2,800% $amzn +900% $aapl +600% $googl +200% chart: URL
+p392
+sg6
+S'21:35:52'
+p393
+sg8
+VStockTwits
+p394
+sa(dp395
+g2
+S'2015-12-06'
+p396
+sg4
+Vjk: our millennial clients tend to invest in co.'s they know, which is why we\u2019ve seen surge in stocks like facebook $fb &amp; apple $aapl wsw
+p397
+sg6
+S'21:35:04'
+p398
+sg8
+VWall Street Week
+p399
+sa(dp400
+g2
+S'2015-12-06'
+p401
+sg4
+Vanfi amira nature foods ltd. financials URL $anfi $gdx $aapl $dcac anfi stocks stockmarket
+p402
+sg6
+S'21:34:06'
+p403
+sg8
+Vdanrocks
+p404
+sa(dp405
+g2
+S'2015-12-06'
+p406
+sg4
+Vaapl apple, inc. current price URL $aapl $baba $fcx $sco aapl stockmarket stock
+p407
+sg6
+S'21:33:06'
+p408
+sg8
+Vlookn4wins
+p409
+sa(dp410
+g2
+S'2015-12-06'
+p411
+sg4
+Vsign in URL $aapl
+p412
+sg6
+S'21:31:45'
+p413
+sg8
+VTickerLens Apple
+p414
+sa(dp415
+g2
+S'2015-12-06'
+p416
+sg4
+Vrt AT_USER $aapl friday stick took out 3 down days. 120ish still the level a lot of eyes on this one URL
+p417
+sg6
+S'21:30:51'
+p418
+sg8
+VOsmar Morales
+p419
+sa(dp420
+g2
+S'2015-12-06'
+p421
+sg4
+VAT_USER another iphone! $aapl
+p422
+sg6
+S'21:28:16'
+p423
+sg8
+VSaud
+p424
+sa(dp425
+g2
+S'2015-12-06'
+p426
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p427
+sg6
+S'21:19:13'
+p428
+sg8
+VNell Kane
+p429
+sa(dp430
+g2
+S'2015-12-06'
+p431
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p432
+sg6
+S'21:12:14'
+p433
+sg8
+VBrendan Ghag
+p434
+sa(dp435
+g2
+S'2015-12-06'
+p436
+sg4
+Vrt AT_USER 3 of barron\u2019s faves 4 2016 ( $aapl $celg $ea) have been faves of ours for years now! others we like $dis $nvda $mnkd https:\u2026
+p437
+sg6
+S'21:09:54'
+p438
+sg8
+VLeAnne Rooks
+p439
+sa(dp440
+g2
+S'2015-12-06'
+p441
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p442
+sg6
+S'21:09:47'
+p443
+sg8
+VFinBuzz
+p444
+sa(dp445
+g2
+S'2015-12-06'
+p446
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p447
+sg6
+S'21:08:13'
+p448
+sg8
+VDave Laming
+p449
+sa(dp450
+g2
+S'2015-12-06'
+p451
+sg4
+Vrt AT_USER $aapl friday stick took out 3 down days. 120ish still the level a lot of eyes on this one URL
+p452
+sg6
+S'21:07:41'
+p453
+sg8
+VJavier Restrepo
+p454
+sa(dp455
+g2
+S'2015-12-06'
+p456
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p457
+sg6
+S'21:07:06'
+p458
+sg8
+VStr8razors
+p459
+sa(dp460
+g2
+S'2015-12-06'
+p461
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p462
+sg6
+S'21:06:34'
+p463
+sg8
+VFalcon's PennyStocks
+p464
+sa(dp465
+g2
+S'2015-12-06'
+p466
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p467
+sg6
+S'21:05:15'
+p468
+sg8
+VDavidoff
+p469
+sa(dp470
+g2
+S'2015-12-06'
+p471
+sg4
+V3 of barron\u2019s faves 4 2016 ( $aapl $celg $ea) have been faves of ours for years now! others we like $dis $nvda $mnkd URL
+p472
+sg6
+S'21:04:53'
+p473
+sg8
+VNate's Notes
+p474
+sa(dp475
+g2
+S'2015-12-06'
+p476
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p477
+sg6
+S'21:04:28'
+p478
+sg8
+VPaul
+p479
+sa(dp480
+g2
+S'2015-12-06'
+p481
+sg4
+V$spy $aapl $nflx $goog $crm $qqq URL
+p482
+sg6
+S'21:04:27'
+p483
+sg8
+VKeebler Elf
+p484
+sa(dp485
+g2
+S'2015-12-06'
+p486
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p487
+sg6
+S'21:04:06'
+p488
+sg8
+VShane
+p489
+sa(dp490
+g2
+S'2015-12-06'
+p491
+sg4
+V$p $aapl: can pandora bounce back from last week\u2019s 11% drop?: URL
+p492
+sg6
+S'21:03:41'
+p493
+sg8
+VStockNewsWires
+p494
+sa(dp495
+g2
+S'2015-12-06'
+p496
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p497
+sg6
+S'21:01:04'
+p498
+sg8
+VChris Willcox
+p499
+sa(dp500
+g2
+S'2015-12-06'
+p501
+sg4
+Vfree video: understanding single stock data metrics URL trading startups stock $aapl money investor angel
+p502
+sg6
+S'21:00:07'
+p503
+sg8
+VChayton Falke
+p504
+sa(dp505
+g2
+S'2015-12-06'
+p506
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p507
+sg6
+S'20:59:15'
+p508
+sg8
+VJ.Yearwood
+p509
+sa(dp510
+g2
+S'2015-12-06'
+p511
+sg4
+V$aapl friday stick took out 3 down days. 120ish still the level a lot of eyes on this one URL
+p512
+sg6
+S'20:53:34'
+p513
+sg8
+VSunrise Trader
+p514
+sa(dp515
+g2
+S'2015-12-06'
+p516
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p517
+sg6
+S'20:51:54'
+p518
+sg8
+VRyan Man
+p519
+sa(dp520
+g2
+S'2015-12-06'
+p521
+sg4
+Vrt AT_USER cityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p522
+sg6
+S'20:51:00'
+p523
+sg8
+VBig Data Tweet
+p524
+sa(dp525
+g2
+S'2015-12-06'
+p526
+sg4
+Vrt AT_USER if you go back to 2004 $mnst+11,717%! $aapl +5,726% $nflx +5,683% $amzn 1.641% $googl 1,451% URL
+p527
+sg6
+S'20:49:50'
+p528
+sg8
+Vradarthis
+p529
+sa(dp530
+g2
+S'2015-12-06'
+p531
+sg4
+Vrt AT_USER invest stocks why did apple inc. buy this "star wars"-related company?: apple recently ... URL $fb\u2026
+p532
+sg6
+S'20:49:41'
+p533
+sg8
+VJose Esteves
+p534
+sa(dp535
+g2
+S'2015-12-06'
+p536
+sg4
+Vflex: innovating for growth and longevity URL URL stocks trading investing $fb $aapl
+p537
+sg6
+S'20:46:18'
+p538
+sg8
+VJohn Lee
+p539
+sa(dp540
+g2
+S'2015-12-06'
+p541
+sg4
+Vyingli's prospects continue to look grim URL URL stocks trading investing $fb $aapl
+p542
+sg6
+S'20:46:18'
+p543
+sg8
+VJohn Lee
+p544
+sa(dp545
+g2
+S'2015-12-06'
+p546
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p547
+sg6
+S'20:46:03'
+p548
+sg8
+VFinBuzz
+p549
+sa(dp550
+g2
+S'2015-12-06'
+p551
+sg4
+Vrt AT_USER the eric jackson tech &amp; media email: nfl rights could be worth a quarter of a trillion to apple (or amazon) URL
+p552
+sg6
+S'20:45:41'
+p553
+sg8
+VJames DiPlata
+p554
+sa(dp555
+g2
+S'2015-12-06'
+p556
+sg4
+Vrt AT_USER monitor your watchlist of assets for tweets - us tech giants URL $aapl $googl $msft $fb $twtr
+p557
+sg6
+S'20:45:41'
+p558
+sg8
+VJames DiPlata
+p559
+sa(dp560
+g2
+S'2015-12-06'
+p561
+sg4
+Vrt AT_USER sifting the apple rumors: a new 4-inch iphone URL $aapl, $tsm
+p562
+sg6
+S'20:45:41'
+p563
+sg8
+VJames DiPlata
+p564
+sa(dp565
+g2
+S'2015-12-06'
+p566
+sg4
+Vrt AT_USER see our past unbiased penny picks &amp; a sample report: URL $aapl or $fb, $tsla &amp; $gpro today URL
+p567
+sg6
+S'20:45:41'
+p568
+sg8
+VJames DiPlata
+p569
+sa(dp570
+g2
+S'2015-12-06'
+p571
+sg4
+Vrt AT_USER invest stocks why did apple inc. buy this "star wars"-related company?: apple recently ... URL $fb\u2026
+p572
+sg6
+S'20:45:13'
+p573
+sg8
+VMathias Paulsson
+p574
+sa(dp575
+g2
+S'2015-12-06'
+p576
+sg4
+Vinvest stocks why did apple inc. buy this "star wars"-related company?: apple recently ... URL $fb $aapl $baba $ibm
+p577
+sg6
+S'20:43:49'
+p578
+sg8
+VThe Stock Professor
+p579
+sa(dp580
+g2
+S'2015-12-06'
+p581
+sg4
+Vieo ishares dow jones u.s. oil &amp; gas exploration &amp; production p/e ratio URL $ieo $uso $aapl $ac.to ieo stocks\u2026
+p582
+sg6
+S'20:43:13'
+p583
+sg8
+Vnasdaqfan
+p584
+sa(dp585
+g2
+S'2015-12-06'
+p586
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p587
+sg6
+S'20:41:21'
+p588
+sg8
+VBenCasey1
+p589
+sa(dp590
+g2
+S'2015-12-06'
+p591
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p592
+sg6
+S'20:41:08'
+p593
+sg8
+VMattBurns
+p594
+sa(dp595
+g2
+S'2015-12-06'
+p596
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p597
+sg6
+S'20:40:57'
+p598
+sg8
+VDavid Taylor
+p599
+sa(dp600
+g2
+S'2015-12-06'
+p601
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p602
+sg6
+S'20:40:47'
+p603
+sg8
+VDon Right
+p604
+sa(dp605
+g2
+S'2015-12-06'
+p606
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p607
+sg6
+S'20:40:38'
+p608
+sg8
+VGunthorn Supatadarut
+p609
+sa(dp610
+g2
+S'2015-12-06'
+p611
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p612
+sg6
+S'20:40:33'
+p613
+sg8
+VGary Thomson
+p614
+sa(dp615
+g2
+S'2015-12-06'
+p616
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p617
+sg6
+S'20:40:26'
+p618
+sg8
+VNicolas Staszak
+p619
+sa(dp620
+g2
+S'2015-12-06'
+p621
+sg4
+Valgorithmic trading, top 20 stocks, stock picking: URL $spy $aapl $nflx $tsla $f $amzn $srpt $fold
+p622
+sg6
+S'20:40:20'
+p623
+sg8
+VGary Thomson
+p624
+sa(dp625
+g2
+S'2015-12-06'
+p626
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p627
+sg6
+S'20:38:22'
+p628
+sg8
+Voscar camara
+p629
+sa(dp630
+g2
+S'2015-12-06'
+p631
+sg4
+Vd/un.to dream office real estate investment trust market cap URL $d/un.to $abc $aapl $egrx d/un.to share stocks
+p632
+sg6
+S'20:37:32'
+p633
+sg8
+VLucky Jimmy
+p634
+sa(dp635
+g2
+S'2015-12-06'
+p636
+sg4
+Vrt AT_USER from march low $nflx +2600% $amzn +977% $mnst +672% $aapl +635% $googl +240%
+p637
+sg6
+S'20:36:05'
+p638
+sg8
+VCraig Pratt
+p639
+sa(dp640
+g2
+S'2015-12-06'
+p641
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p642
+sg6
+S'20:35:59'
+p643
+sg8
+VMarvoo
+p644
+sa(dp645
+g2
+S'2015-12-06'
+p646
+sg4
+Vrt AT_USER if you go back to 2004 $mnst+11,717%! $aapl +5,726% $nflx +5,683% $amzn 1.641% $googl 1,451% URL
+p647
+sg6
+S'20:35:42'
+p648
+sg8
+VCraig Pratt
+p649
+sa(dp650
+g2
+S'2015-12-06'
+p651
+sg4
+Vrt AT_USER chart from march 08 low $nflx $amzn $mnst $aapl $googl URL
+p652
+sg6
+S'20:35:39'
+p653
+sg8
+VCraig Pratt
+p654
+sa(dp655
+g2
+S'2015-12-06'
+p656
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p657
+sg6
+S'20:35:06'
+p658
+sg8
+Vmartin thuesen
+p659
+sa(dp660
+g2
+S'2015-12-06'
+p661
+sg4
+Vaapl apple, inc. ideas URL $aapl $pg $bhi $uup aapl invest invest
+p662
+sg6
+S'20:33:03'
+p663
+sg8
+VInvestors Hangout
+p664
+sa(dp665
+g2
+S'2015-12-06'
+p666
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p667
+sg6
+S'20:32:43'
+p668
+sg8
+VMike Boese
+p669
+sa(dp670
+g2
+S'2015-12-06'
+p671
+sg4
+Vsign in URL $aapl
+p672
+sg6
+S'20:31:02'
+p673
+sg8
+VTickerLens Apple
+p674
+sa(dp675
+g2
+S'2015-12-06'
+p676
+sg4
+Vpotential smartphone shipment cuts lie ahead asserts idc report URL $aapl
+p677
+sg6
+S'20:31:00'
+p678
+sg8
+VTickerLens Apple
+p679
+sa(dp680
+g2
+S'2015-12-06'
+p681
+sg4
+Vfree video: one day range leaders URL trading startups stock $aapl money investor angel
+p682
+sg6
+S'20:30:06'
+p683
+sg8
+VChayton Falke
+p684
+sa(dp685
+g2
+S'2015-12-06'
+p686
+sg4
+Vrt AT_USER from march low $nflx +2600% $amzn +977% $mnst +672% $aapl +635% $googl +240%
+p687
+sg6
+S'20:30:02'
+p688
+sg8
+Vjose kathynez
+p689
+sa(dp690
+g2
+S'2015-12-06'
+p691
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p692
+sg6
+S'20:29:44'
+p693
+sg8
+VDicktxtion
+p694
+sa(dp695
+g2
+S'2015-12-06'
+p696
+sg4
+V$aapl received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 40
+p697
+sg6
+S'20:28:54'
+p698
+sg8
+VMedia Sentiment
+p699
+sa(dp700
+g2
+S'2015-12-06'
+p701
+sg4
+V$mnst $aapl $nflx $amzn $googl URL
+p702
+sg6
+S'20:26:30'
+p703
+sg8
+VMichael Hurt
+p704
+sa(dp705
+g2
+S'2015-12-06'
+p706
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p707
+sg6
+S'20:25:37'
+p708
+sg8
+VLuke77
+p709
+sa(dp710
+g2
+S'2015-12-06'
+p711
+sg4
+Vrt AT_USER from march low $nflx +2600% $amzn +977% $mnst +672% $aapl +635% $googl +240%
+p712
+sg6
+S'20:24:08'
+p713
+sg8
+VLuis Alfredo
+p714
+sa(dp715
+g2
+S'2015-12-06'
+p716
+sg4
+Vfor 5 dollars up stocks and options $aapl $spls $jcp $ulta $low $amgn $cag $ing $mmm nice bottom
+p717
+sg6
+S'20:23:31'
+p718
+sg8
+Vdeafdaytrader
+p719
+sa(dp720
+g2
+S'2015-12-06'
+p721
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p722
+sg6
+S'20:17:24'
+p723
+sg8
+VBill McLean
+p724
+sa(dp725
+g2
+S'2015-12-06'
+p726
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p727
+sg6
+S'20:16:47'
+p728
+sg8
+VHebron Stock Club
+p729
+sa(dp730
+g2
+S'2015-12-06'
+p731
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p732
+sg6
+S'20:15:49'
+p733
+sg8
+VUHS Investment Club
+p734
+sa(dp735
+g2
+S'2015-12-06'
+p736
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p737
+sg6
+S'20:15:30'
+p738
+sg8
+VMarcos Mar
+p739
+sa(dp740
+g2
+S'2015-12-06'
+p741
+sg4
+V$nflx $amzn $mnst $aapl $googl URL
+p742
+sg6
+S'20:15:28'
+p743
+sg8
+VMichael Hurt
+p744
+sa(dp745
+g2
+S'2015-12-06'
+p746
+sg4
+Vsmartphone sales are expected to stay hybrid in china, while they are globally expected to expand. $aapl $ssnlf URL
+p747
+sg6
+S'20:15:06'
+p748
+sg8
+VL. Honders
+p749
+sa(dp750
+g2
+S'2015-12-06'
+p751
+sg4
+Vif you go back to 2004 $mnst+11,717%! $aapl +5,726% $nflx +5,683% $amzn 1.641% $googl 1,451% URL
+p752
+sg6
+S'20:15:02'
+p753
+sg8
+VBrian Shannon
+p754
+sa(dp755
+g2
+S'2015-12-06'
+p756
+sg4
+Vchart from march 08 low $nflx $amzn $mnst $aapl $googl URL
+p757
+sg6
+S'20:14:12'
+p758
+sg8
+VBrian Shannon
+p759
+sa(dp760
+g2
+S'2015-12-06'
+p761
+sg4
+Vrt AT_USER from march low $nflx +2600% $amzn +977% $mnst +672% $aapl +635% $googl +240%
+p762
+sg6
+S'20:12:55'
+p763
+sg8
+Vmoderneconomist.com
+p764
+sa(dp765
+g2
+S'2015-12-06'
+p766
+sg4
+Vfrom march low $nflx +2600% $amzn +977% $mnst +672% $aapl +635% $googl +240%
+p767
+sg6
+S'20:12:42'
+p768
+sg8
+VBrian Shannon
+p769
+sa(dp770
+g2
+S'2015-12-06'
+p771
+sg4
+V$aapl $fb $googl: taking stock for the holidays: a gift card for company shares: URL
+p772
+sg6
+S'20:12:02'
+p773
+sg8
+VBreaking News Now
+p774
+sa(dp775
+g2
+S'2015-12-06'
+p776
+sg4
+Vsamsung half billion settlement to $aapl bodes well for the stock. on watch for holiday upside.
+p777
+sg6
+S'20:07:14'
+p778
+sg8
+VNavi Avatar
+p779
+sa(dp780
+g2
+S'2015-12-06'
+p781
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p782
+sg6
+S'20:06:49'
+p783
+sg8
+VStalin Carlo Gambino
+p784
+sa(dp785
+g2
+S'2015-12-06'
+p786
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p787
+sg6
+S'20:04:06'
+p788
+sg8
+VEva Lopat
+p789
+sa(dp790
+g2
+S'2015-12-06'
+p791
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p792
+sg6
+S'20:03:41'
+p793
+sg8
+VDavid Sobek
+p794
+sa(dp795
+g2
+S'2015-12-06'
+p796
+sg4
+Vthe eric jackson tech &amp; media email: nfl rights could be worth a quarter of a trillion to apple (or amazon) URL $aapl
+p797
+sg6
+S'20:01:36'
+p798
+sg8
+VNereida Diesen
+p799
+sa(dp800
+g2
+S'2015-12-06'
+p801
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p802
+sg6
+S'20:00:09'
+p803
+sg8
+VZach Flowers
+p804
+sa(dp805
+g2
+S'2015-12-06'
+p806
+sg4
+Vrt AT_USER new video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; m\u2026
+p807
+sg6
+S'19:57:08'
+p808
+sg8
+VKaren Gage
+p809
+sa(dp810
+g2
+S'2015-12-06'
+p811
+sg4
+Vmonitor your watchlist of assets for tweets - us tech giants URL $aapl $googl $msft $fb $twtr
+p812
+sg6
+S'19:56:44'
+p813
+sg8
+VFinBuzz
+p814
+sa(dp815
+g2
+S'2015-12-06'
+p816
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p817
+sg6
+S'19:56:30'
+p818
+sg8
+VDan Robertson
+p819
+sa(dp820
+g2
+S'2015-12-06'
+p821
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p822
+sg6
+S'19:48:34'
+p823
+sg8
+VRobert Piorkowski
+p824
+sa(dp825
+g2
+S'2015-12-06'
+p826
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p827
+sg6
+S'19:47:55'
+p828
+sg8
+VGEORGE  TRIO
+p829
+sa(dp830
+g2
+S'2015-12-06'
+p831
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $aapl, $tsm
+p832
+sg6
+S'19:47:04'
+p833
+sg8
+VLecorb
+p834
+sa(dp835
+g2
+S'2015-12-06'
+p836
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p837
+sg6
+S'19:47:01'
+p838
+sg8
+VHumbleBioTrader
+p839
+sa(dp840
+g2
+S'2015-12-06'
+p841
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p842
+sg6
+S'19:46:15'
+p843
+sg8
+VHenry Bradley
+p844
+sa(dp845
+g2
+S'2015-12-06'
+p846
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p847
+sg6
+S'19:45:25'
+p848
+sg8
+VJames DiPlata
+p849
+sa(dp850
+g2
+S'2015-12-06'
+p851
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p852
+sg6
+S'19:45:24'
+p853
+sg8
+VJames DiPlata
+p854
+sa(dp855
+g2
+S'2015-12-06'
+p856
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p857
+sg6
+S'19:45:24'
+p858
+sg8
+VJames DiPlata
+p859
+sa(dp860
+g2
+S'2015-12-06'
+p861
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p862
+sg6
+S'19:45:19'
+p863
+sg8
+VAlexandre Mottard
+p864
+sa(dp865
+g2
+S'2015-12-06'
+p866
+sg4
+Vsee our past unbiased penny picks &amp; a sample report: URL $aapl or $fb, $tsla &amp; $gpro today URL
+p867
+sg6
+S'19:45:14'
+p868
+sg8
+VFalcon's PennyStocks
+p869
+sa(dp870
+g2
+S'2015-12-06'
+p871
+sg4
+Vrt AT_USER important stocks to track: apple (nasdaq:aapl), yahoo! (nasdaq:yhoo), brookdale senior\u2026 URL $aapl
+p872
+sg6
+S'19:45:12'
+p873
+sg8
+VMathias Paulsson
+p874
+sa(dp875
+g2
+S'2015-12-06'
+p876
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p877
+sg6
+S'19:44:46'
+p878
+sg8
+VBruce Shipper
+p879
+sa(dp880
+g2
+S'2015-12-06'
+p881
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p882
+sg6
+S'19:42:39'
+p883
+sg8
+VBrian Geary
+p884
+sa(dp885
+g2
+S'2015-12-06'
+p886
+sg4
+Vmomo stock updates - 12/6/2015" $aapl $fb $amzn $nflx $googl $twtr $tsla $ibb $baba URL
+p887
+sg6
+S'19:41:39'
+p888
+sg8
+Vsmtrader StockTrader
+p889
+sa(dp890
+g2
+S'2015-12-06'
+p891
+sg4
+Vrt AT_USER the eric jackson tech &amp; media email: nfl rights could be worth a quarter of a trillion to apple (or amazon) URL
+p892
+sg6
+S'19:39:28'
+p893
+sg8
+VRob
+p894
+sa(dp895
+g2
+S'2015-12-06'
+p896
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p897
+sg6
+S'19:37:03'
+p898
+sg8
+Vsoona
+p899
+sa(dp900
+g2
+S'2015-12-06'
+p901
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p902
+sg6
+S'19:34:49'
+p903
+sg8
+VSenio Fernandez
+p904
+sa(dp905
+g2
+S'2015-12-06'
+p906
+sg4
+Vimportant stocks to track: apple (nasdaq:aapl), yahoo! (nasdaq:yhoo), brookdale senior\u2026 URL $aapl
+p907
+sg6
+S'19:34:00'
+p908
+sg8
+VTickerLens Apple
+p909
+sa(dp910
+g2
+S'2015-12-06'
+p911
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p912
+sg6
+S'19:33:53'
+p913
+sg8
+VKyle
+p914
+sa(dp915
+g2
+S'2015-12-06'
+p916
+sg4
+Vaapl apple, inc. stock message board URL $aapl $gs $ur.to $hvu.to aapl nasdaq finance
+p917
+sg6
+S'19:33:03'
+p918
+sg8
+Vjim50
+p919
+sa(dp920
+g2
+S'2015-12-06'
+p921
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p922
+sg6
+S'19:31:15'
+p923
+sg8
+VArne Arnason
+p924
+sa(dp925
+g2
+S'2015-12-06'
+p926
+sg4
+Vtwitter stock buzz: $aapl $blue $fb $spy $ntek (02:31 pm) stocks finance stockmarket stockpicks
+p927
+sg6
+S'19:31:07'
+p928
+sg8
+VBoardCentral
+p929
+sa(dp930
+g2
+S'2015-12-06'
+p931
+sg4
+Vtop stock searches on message boards and twitter: $spy $aapl $tlt $vti $qqq (02:30 pm) stocks finance stockmarket stockpicks
+p932
+sg6
+S'19:30:48'
+p933
+sg8
+VBoardCentral
+p934
+sa(dp935
+g2
+S'2015-12-06'
+p936
+sg4
+Vthe eric jackson tech &amp; media email: nfl rights could be worth a quarter of a trillion to apple (or amazon) URL $aapl
+p937
+sg6
+S'19:30:42'
+p938
+sg8
+VEric Jackson
+p939
+sa(dp940
+g2
+S'2015-12-06'
+p941
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p942
+sg6
+S'19:29:57'
+p943
+sg8
+VMatheus Ravazzi
+p944
+sa(dp945
+g2
+S'2015-12-06'
+p946
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p947
+sg6
+S'19:29:25'
+p948
+sg8
+VTimothy Michael
+p949
+sa(dp950
+g2
+S'2015-12-06'
+p951
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p952
+sg6
+S'19:28:52'
+p953
+sg8
+VAnand Adiga
+p954
+sa(dp955
+g2
+S'2015-12-06'
+p956
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p957
+sg6
+S'19:27:30'
+p958
+sg8
+Vajay bhudia
+p959
+sa(dp960
+g2
+S'2015-12-06'
+p961
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p962
+sg6
+S'19:27:20'
+p963
+sg8
+VStocks & Trades
+p964
+sa(dp965
+g2
+S'2015-12-06'
+p966
+sg4
+V%stocks&gt;40dma=43.2% more than just another stock market rebound. URL $spy $nflx $aapl $svxy vix t2108
+p967
+sg6
+S'19:27:11'
+p968
+sg8
+VDr. Duru
+p969
+sa(dp970
+g2
+S'2015-12-06'
+p971
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p972
+sg6
+S'19:26:47'
+p973
+sg8
+VHilary Chan
+p974
+sa(dp975
+g2
+S'2015-12-06'
+p976
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p977
+sg6
+S'19:25:21'
+p978
+sg8
+VSimon
+p979
+sa(dp980
+g2
+S'2015-12-06'
+p981
+sg4
+Vaccess curated tweets- high relevancy, less spam - us tech giants URL $aapl $goog $msft $fb $twtr
+p982
+sg6
+S'19:24:10'
+p983
+sg8
+VFinBuzz
+p984
+sa(dp985
+g2
+S'2015-12-06'
+p986
+sg4
+Vrt AT_USER happy sunday, welcome new followers. off the charts week!! private twitter alerts 199/mo. $cmg $rlyp $goog $aapl URL
+p987
+sg6
+S'19:21:41'
+p988
+sg8
+VDtrades
+p989
+sa(dp990
+g2
+S'2015-12-06'
+p991
+sg4
+Vart stopmotion loopingvine drawing $aapl $goog $twtr art sketch URL
+p992
+sg6
+S'19:21:29'
+p993
+sg8
+VPSYCHOOO6
+p994
+sa(dp995
+g2
+S'2015-12-06'
+p996
+sg4
+Vrt AT_USER china\u2019s slowdown won\u2019t deter $aapl URL via AT_USER "china\u2019s smartphone shipments are on pace to gr\u2026
+p997
+sg6
+S'19:21:03'
+p998
+sg8
+VSam Sasson
+p999
+sa(dp1000
+g2
+S'2015-12-06'
+p1001
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1002
+sg6
+S'19:20:44'
+p1003
+sg8
+Vlvgs
+p1004
+sa(dp1005
+g2
+S'2015-12-06'
+p1006
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1007
+sg6
+S'19:20:42'
+p1008
+sg8
+Vtoko
+p1009
+sa(dp1010
+g2
+S'2015-12-06'
+p1011
+sg4
+Vhappy sunday, welcome new followers. off the charts week!! private twitter alerts 199/mo. $cmg $rlyp $goog $aapl URL
+p1012
+sg6
+S'19:20:33'
+p1013
+sg8
+VNavi Avatar
+p1014
+sa(dp1015
+g2
+S'2015-12-06'
+p1016
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $db $goog $rjf $usdcad URL URL
+p1017
+sg6
+S'19:20:06'
+p1018
+sg8
+VFinBuzz
+p1019
+sa(dp1020
+g2
+S'2015-12-06'
+p1021
+sg4
+Vrt AT_USER china\u2019s slowdown won\u2019t deter $aapl URL via AT_USER "china\u2019s smartphone shipments are on pace to gr\u2026
+p1022
+sg6
+S'19:19:57'
+p1023
+sg8
+Vsherlok
+p1024
+sa(dp1025
+g2
+S'2015-12-06'
+p1026
+sg4
+Vrt AT_USER new video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; m\u2026
+p1027
+sg6
+S'19:19:06'
+p1028
+sg8
+VAmy
+p1029
+sa(dp1030
+g2
+S'2015-12-06'
+p1031
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1032
+sg6
+S'19:18:43'
+p1033
+sg8
+VMatthew Wilkinson
+p1034
+sa(dp1035
+g2
+S'2015-12-06'
+p1036
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1037
+sg6
+S'19:18:28'
+p1038
+sg8
+VArun Aggarwal
+p1039
+sa(dp1040
+g2
+S'2015-12-06'
+p1041
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1042
+sg6
+S'19:17:52'
+p1043
+sg8
+VBog
+p1044
+sa(dp1045
+g2
+S'2015-12-06'
+p1046
+sg4
+Vstocktwits: wow. a stunning share and find from sjosephburns: URL $aapl URL
+p1047
+sg6
+S'19:17:50'
+p1048
+sg8
+VInvesting Insight
+p1049
+sa(dp1050
+g2
+S'2015-12-06'
+p1051
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1052
+sg6
+S'19:16:36'
+p1053
+sg8
+VChinmay
+p1054
+sa(dp1055
+g2
+S'2015-12-06'
+p1056
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1057
+sg6
+S'19:16:26'
+p1058
+sg8
+VBruce Almich
+p1059
+sa(dp1060
+g2
+S'2015-12-06'
+p1061
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1062
+sg6
+S'19:16:04'
+p1063
+sg8
+VAudi
+p1064
+sa(dp1065
+g2
+S'2015-12-06'
+p1066
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1067
+sg6
+S'19:16:00'
+p1068
+sg8
+VAppleDistilled
+p1069
+sa(dp1070
+g2
+S'2015-12-06'
+p1071
+sg4
+Vrt AT_USER $aapl $bkd: important stocks to track: apple (nasdaq:aapl), yahoo \u2026: URL
+p1072
+sg6
+S'19:15:47'
+p1073
+sg8
+VMathias Paulsson
+p1074
+sa(dp1075
+g2
+S'2015-12-06'
+p1076
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1077
+sg6
+S'19:15:19'
+p1078
+sg8
+VJohnny310X
+p1079
+sa(dp1080
+g2
+S'2015-12-06'
+p1081
+sg4
+V$aapl the most absurd dominance ever URL URL
+p1082
+sg6
+S'19:14:36'
+p1083
+sg8
+VCapital Market Labs
+p1084
+sa(dp1085
+g2
+S'2015-12-06'
+p1086
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1087
+sg6
+S'19:14:03'
+p1088
+sg8
+VRY
+p1089
+sa(dp1090
+g2
+S'2015-12-06'
+p1091
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1092
+sg6
+S'19:13:45'
+p1093
+sg8
+VJoshua Miller
+p1094
+sa(dp1095
+g2
+S'2015-12-06'
+p1096
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1097
+sg6
+S'19:13:39'
+p1098
+sg8
+VROLANDO ALVAREZ
+p1099
+sa(dp1100
+g2
+S'2015-12-06'
+p1101
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1102
+sg6
+S'19:12:40'
+p1103
+sg8
+VKevin Otolski \u2615\ufe0f
+p1104
+sa(dp1105
+g2
+S'2015-12-06'
+p1106
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1107
+sg6
+S'19:12:36'
+p1108
+sg8
+VRob Jackson
+p1109
+sa(dp1110
+g2
+S'2015-12-06'
+p1111
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p1112
+sg6
+S'19:11:18'
+p1113
+sg8
+VElishaManning
+p1114
+sa(dp1115
+g2
+S'2015-12-06'
+p1116
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p1117
+sg6
+S'19:11:16'
+p1118
+sg8
+VBull&Bear Trading
+p1119
+sa(dp1120
+g2
+S'2015-12-06'
+p1121
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p1122
+sg6
+S'19:10:51'
+p1123
+sg8
+VTheBankDirectory
+p1124
+sa(dp1125
+g2
+S'2015-12-06'
+p1126
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1127
+sg6
+S'19:10:40'
+p1128
+sg8
+VMaxime Bourque
+p1129
+sa(dp1130
+g2
+S'2015-12-06'
+p1131
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1132
+sg6
+S'19:10:33'
+p1133
+sg8
+VUllrich Moser
+p1134
+sa(dp1135
+g2
+S'2015-12-06'
+p1136
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1137
+sg6
+S'19:10:31'
+p1138
+sg8
+VMaximiliano Olguín
+p1139
+sa(dp1140
+g2
+S'2015-12-06'
+p1141
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1142
+sg6
+S'19:10:15'
+p1143
+sg8
+VJeff Black
+p1144
+sa(dp1145
+g2
+S'2015-12-06'
+p1146
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1147
+sg6
+S'19:10:15'
+p1148
+sg8
+VStephen Roman
+p1149
+sa(dp1150
+g2
+S'2015-12-06'
+p1151
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1152
+sg6
+S'19:10:14'
+p1153
+sg8
+Vsafak araz
+p1154
+sa(dp1155
+g2
+S'2015-12-06'
+p1156
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1157
+sg6
+S'19:10:03'
+p1158
+sg8
+VLS1015
+p1159
+sa(dp1160
+g2
+S'2015-12-06'
+p1161
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1162
+sg6
+S'19:09:51'
+p1163
+sg8
+VPatrick Ellis
+p1164
+sa(dp1165
+g2
+S'2015-12-06'
+p1166
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1167
+sg6
+S'19:09:33'
+p1168
+sg8
+VZach Cratty
+p1169
+sa(dp1170
+g2
+S'2015-12-06'
+p1171
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1172
+sg6
+S'19:09:28'
+p1173
+sg8
+VJoao Paulo Pires
+p1174
+sa(dp1175
+g2
+S'2015-12-06'
+p1176
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1177
+sg6
+S'19:09:09'
+p1178
+sg8
+Vmyself
+p1179
+sa(dp1180
+g2
+S'2015-12-06'
+p1181
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p1182
+sg6
+S'19:08:56'
+p1183
+sg8
+VGuildry Santana
+p1184
+sa(dp1185
+g2
+S'2015-12-06'
+p1186
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1187
+sg6
+S'19:08:43'
+p1188
+sg8
+VMatt Markham
+p1189
+sa(dp1190
+g2
+S'2015-12-06'
+p1191
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1192
+sg6
+S'19:08:38'
+p1193
+sg8
+VApp Creation
+p1194
+sa(dp1195
+g2
+S'2015-12-06'
+p1196
+sg4
+Vrt AT_USER apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $d\u2026
+p1197
+sg6
+S'19:08:26'
+p1198
+sg8
+VMikael
+p1199
+sa(dp1200
+g2
+S'2015-12-06'
+p1201
+sg4
+Vrt AT_USER why is samsung writing a massive check to apple? URL $ssnlf $aapl
+p1202
+sg6
+S'19:08:24'
+p1203
+sg8
+Voswald kendy
+p1204
+sa(dp1205
+g2
+S'2015-12-06'
+p1206
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1207
+sg6
+S'19:08:15'
+p1208
+sg8
+ViPhone 6 FREE 4 ALL!
+p1209
+sa(dp1210
+g2
+S'2015-12-06'
+p1211
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1212
+sg6
+S'19:08:04'
+p1213
+sg8
+VMARZ
+p1214
+sa(dp1215
+g2
+S'2015-12-06'
+p1216
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1217
+sg6
+S'19:07:36'
+p1218
+sg8
+VBobby Salam
+p1219
+sa(dp1220
+g2
+S'2015-12-06'
+p1221
+sg4
+V$aapl $fit: fitbit\u2019s game: survival of the fittest: URL
+p1222
+sg6
+S'19:07:02'
+p1223
+sg8
+VBreaking News
+p1224
+sa(dp1225
+g2
+S'2015-12-06'
+p1226
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1227
+sg6
+S'19:06:43'
+p1228
+sg8
+VJIMISTOTLE
+p1229
+sa(dp1230
+g2
+S'2015-12-06'
+p1231
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1232
+sg6
+S'19:06:36'
+p1233
+sg8
+VBlake Brown
+p1234
+sa(dp1235
+g2
+S'2015-12-06'
+p1236
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1237
+sg6
+S'19:06:32'
+p1238
+sg8
+VPushkar Ranade
+p1239
+sa(dp1240
+g2
+S'2015-12-06'
+p1241
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1242
+sg6
+S'19:06:09'
+p1243
+sg8
+VGabriel Peña Biazik
+p1244
+sa(dp1245
+g2
+S'2015-12-06'
+p1246
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1247
+sg6
+S'19:05:47'
+p1248
+sg8
+VEric Block
+p1249
+sa(dp1250
+g2
+S'2015-12-06'
+p1251
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1252
+sg6
+S'19:05:21'
+p1253
+sg8
+Vtraderstewie
+p1254
+sa(dp1255
+g2
+S'2015-12-06'
+p1256
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1257
+sg6
+S'19:05:20'
+p1258
+sg8
+VDaniel T
+p1259
+sa(dp1260
+g2
+S'2015-12-06'
+p1261
+sg4
+Vbarronsonline: apple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $dfs \u2026
+p1262
+sg6
+S'19:05:15'
+p1263
+sg8
+VInvesting Insight
+p1264
+sa(dp1265
+g2
+S'2015-12-06'
+p1266
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1267
+sg6
+S'19:04:40'
+p1268
+sg8
+VAmar Rama
+p1269
+sa(dp1270
+g2
+S'2015-12-06'
+p1271
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1272
+sg6
+S'19:04:34'
+p1273
+sg8
+VTRENDWAVERS
+p1274
+sa(dp1275
+g2
+S'2015-12-06'
+p1276
+sg4
+Vrt AT_USER wow. a stunning share and find from AT_USER URL $aapl URL
+p1277
+sg6
+S'19:03:48'
+p1278
+sg8
+VLinda
+p1279
+sa(dp1280
+g2
+S'2015-12-06'
+p1281
+sg4
+V$aapl $bkd: important stocks to track: apple (nasdaq:aapl), yahoo \u2026: URL
+p1282
+sg6
+S'19:03:07'
+p1283
+sg8
+VBreaking News Now
+p1284
+sa(dp1285
+g2
+S'2015-12-06'
+p1286
+sg4
+Vwow. a stunning share and find from AT_USER URL $aapl URL
+p1287
+sg6
+S'19:03:03'
+p1288
+sg8
+VStockTwits
+p1289
+sa(dp1290
+g2
+S'2015-12-06'
+p1291
+sg4
+Vapple, cvs, delta, celgene, and other best bets for the new year: URL $aapl $amcx $celg $cvs $dal $dfs $ea $fl $gm $mhk
+p1292
+sg6
+S'19:02:06'
+p1293
+sg8
+VBarron's 
+p1294
+sa(dp1295
+g2
+S'2015-12-06'
+p1296
+sg4
+Vtrack trending assets in 1 watchlist $aapl $fb $googl $rjf URL URL
+p1297
+sg6
+S'19:01:57'
+p1298
+sg8
+VFinBuzz
+p1299
+sa(dp1300
+g2
+S'2015-12-06'
+p1301
+sg4
+Vwhy is samsung writing a massive check to apple? URL $ssnlf $aapl
+p1302
+sg6
+S'19:01:08'
+p1303
+sg8
+VTheStreet
+p1304
+sa(dp1305
+g2
+S'2015-12-06'
+p1306
+sg4
+V$aapl $aapl bounced right off the lower bollinger band, and then right off the 50sma. use ch... URL
+p1307
+sg6
+S'18:54:01'
+p1308
+sg8
+VSKS1586
+p1309
+sa(dp1310
+g2
+S'2015-12-06'
+p1311
+sg4
+Vcommented on stocktwits: $aapl - if you liked this video &amp; want to learn more please checkout our youtube channel... URL
+p1312
+sg6
+S'18:47:55'
+p1313
+sg8
+VOspreyeye
+p1314
+sa(dp1315
+g2
+S'2015-12-06'
+p1316
+sg4
+V$aapl bounced right off the lower bollinger band, and then right off the 50sma. use charts to make $$$ folks! apple URL
+p1317
+sg6
+S'18:46:57'
+p1318
+sg8
+VDavid Moadel
+p1319
+sa(dp1320
+g2
+S'2015-12-06'
+p1321
+sg4
+Vorig primero mining corp. news URL $orig $ntes $sbux $aapl orig nasdaq stocks
+p1322
+sg6
+S'18:46:33'
+p1323
+sg8
+Vjim50
+p1324
+sa(dp1325
+g2
+S'2015-12-06'
+p1326
+sg4
+Vrt AT_USER iphone6c launch unlikely to affect apple inc stock: piper jaffray - URL - $aapl URL
+p1327
+sg6
+S'18:45:33'
+p1328
+sg8
+V_Bilalotelli
+p1329
+sa(dp1330
+g2
+S'2015-12-06'
+p1331
+sg4
+Vthese wallpapers will match your apple leather case URL idownloadblog $aapl URL
+p1332
+sg6
+S'18:43:37'
+p1333
+sg8
+VMacHash
+p1334
+sa(dp1335
+g2
+S'2015-12-06'
+p1336
+sg4
+V$aapl mick: yes , i do agree, one could give: mick URL
+p1337
+sg6
+S'18:42:13'
+p1338
+sg8
+VNASDAQStocks
+p1339
+sa(dp1340
+g2
+S'2015-12-06'
+p1341
+sg4
+V$aapl mick: yes , i do agree, one could give: mick URL
+p1342
+sg6
+S'18:42:12'
+p1343
+sg8
+V528InvestorRelations
+p1344
+sa(dp1345
+g2
+S'2015-12-06'
+p1346
+sg4
+Vrt AT_USER tweaks of the week: splitify, 3dnotifications, and more URL idownloadblog $aapl URL
+p1347
+sg6
+S'18:39:55'
+p1348
+sg8
+VJames DiPlata
+p1349
+sa(dp1350
+g2
+S'2015-12-06'
+p1351
+sg4
+Vrt AT_USER having 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p1352
+sg6
+S'18:39:54'
+p1353
+sg8
+VJames DiPlata
+p1354
+sa(dp1355
+g2
+S'2015-12-06'
+p1356
+sg4
+Vrt AT_USER gain from movement in these buzzing assets $aal $aapl $panw $pg $rjf URL URL
+p1357
+sg6
+S'18:39:54'
+p1358
+sg8
+VJames DiPlata
+p1359
+sa(dp1360
+g2
+S'2015-12-06'
+p1361
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $fb $googl $rjf URL URL
+p1362
+sg6
+S'18:39:08'
+p1363
+sg8
+VFinBuzz
+p1364
+sa(dp1365
+g2
+S'2015-12-06'
+p1366
+sg4
+Vapple inc. iphone 7 specs defined as leaks keep springing $aapl apple URL
+p1367
+sg6
+S'18:37:38'
+p1368
+sg8
+VLearnBonds.com
+p1369
+sa(dp1370
+g2
+S'2015-12-06'
+p1371
+sg4
+Varyc ascent solar technologies, inc. % change URL $aryc $sbux $avgo $aapl aryc investing tradeideas
+p1372
+sg6
+S'18:34:34'
+p1373
+sg8
+VStock_Tracker
+p1374
+sa(dp1375
+g2
+S'2015-12-06'
+p1376
+sg4
+Vrt AT_USER cityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p1377
+sg6
+S'18:32:46'
+p1378
+sg8
+VBritney Salvato
+p1379
+sa(dp1380
+g2
+S'2015-12-06'
+p1381
+sg4
+Vtop 6 tech companies news announce: facebook (fb), alphabet (googl), microsoft \u2026 URL $aapl
+p1382
+sg6
+S'18:32:19'
+p1383
+sg8
+VTickerLens Apple
+p1384
+sa(dp1385
+g2
+S'2015-12-06'
+p1386
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $aapl
+p1387
+sg6
+S'18:32:19'
+p1388
+sg8
+VTickerLens Apple
+p1389
+sa(dp1390
+g2
+S'2015-12-06'
+p1391
+sg4
+Vfree video: trading psychology series: ignorance URL trading startups stock $aapl money investor angel
+p1392
+sg6
+S'18:30:10'
+p1393
+sg8
+VChayton Falke
+p1394
+sa(dp1395
+g2
+S'2015-12-06'
+p1396
+sg4
+Vsifting the apple rumors: a new 4-inch iphone - seeking alpha URL apple \u2022 $aapl URL
+p1397
+sg6
+S'18:25:10'
+p1398
+sg8
+V#SocialMedia NC
+p1399
+sa(dp1400
+g2
+S'2015-12-06'
+p1401
+sg4
+V$adbe absolutely changed my way of designing early on...with the help of $aapl. URL
+p1402
+sg6
+S'18:24:34'
+p1403
+sg8
+VJeezTrades
+p1404
+sa(dp1405
+g2
+S'2015-12-06'
+p1406
+sg4
+V$aapl charts - technical analysis video - URL
+p1407
+sg6
+S'18:22:17'
+p1408
+sg8
+VOspreyeye
+p1409
+sa(dp1410
+g2
+S'2015-12-06'
+p1411
+sg4
+Vgain from movement in these buzzing assets $aapl $fb $goog $rjf URL URL
+p1412
+sg6
+S'18:21:53'
+p1413
+sg8
+VFinBuzz
+p1414
+sa(dp1415
+g2
+S'2015-12-06'
+p1416
+sg4
+Vrt AT_USER china\u2019s slowdown won\u2019t deter $aapl URL via AT_USER "china\u2019s smartphone shipments are on pace to gr\u2026
+p1417
+sg6
+S'18:16:24'
+p1418
+sg8
+VLSM
+p1419
+sa(dp1420
+g2
+S'2015-12-06'
+p1421
+sg4
+Vrt AT_USER hope everybody has their "flash crash bounce buys" list set up for the holiday season! $gild $aapl $isis $nflx $alny ht\u2026
+p1422
+sg6
+S'18:11:54'
+p1423
+sg8
+VAlma Dowman
+p1424
+sa(dp1425
+g2
+S'2015-12-06'
+p1426
+sg4
+V$wtw zacks investment research upgraded weight watchers intl. to a zacks rank 1 (strong buy) URL $aapl $twtr $amzn $fb
+p1427
+sg6
+S'18:11:51'
+p1428
+sg8
+VDAlcan
+p1429
+sa(dp1430
+g2
+S'2015-12-06'
+p1431
+sg4
+Vroguelike i wanna be a hero storms onto the app store URL appadvice $aapl URL
+p1432
+sg6
+S'18:11:34'
+p1433
+sg8
+VMacHash
+p1434
+sa(dp1435
+g2
+S'2015-12-06'
+p1436
+sg4
+Vchina\u2019s slowdown won\u2019t deter $aapl URL via AT_USER "china\u2019s smartphone shipments are on pace to grow ~1% this year
+p1437
+sg6
+S'18:11:26'
+p1438
+sg8
+VDan Nathan
+p1439
+sa(dp1440
+g2
+S'2015-12-06'
+p1441
+sg4
+Vrt AT_USER new video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; m\u2026
+p1442
+sg6
+S'18:08:17'
+p1443
+sg8
+VMichael Sanzo
+p1444
+sa(dp1445
+g2
+S'2015-12-06'
+p1446
+sg4
+Vi beat 93% of people trading $aapl, ranking 69. the trading game: URL
+p1447
+sg6
+S'18:05:13'
+p1448
+sg8
+VAaron | \u05d0\u05d4\u05e8\u05df
+p1449
+sa(dp1450
+g2
+S'2015-12-06'
+p1451
+sg4
+Vdaily and weekly charts for $cvs $tpac $idgc $aapl $eltp $evti $ttcm are available on URL
+p1452
+sg6
+S'18:00:01'
+p1453
+sg8
+VDD Notes Maker
+p1454
+sa(dp1455
+g2
+S'2015-12-06'
+p1456
+sg4
+Vthese assets are seeing a jump in tweets $aapl $fb $googl $rjf URL URL
+p1457
+sg6
+S'17:58:05'
+p1458
+sg8
+VFinBuzz
+p1459
+sa(dp1460
+g2
+S'2015-12-06'
+p1461
+sg4
+Vtop 100 ranked stocks | momentum trading with ragincajun URL $aapl $c $wfc $jpm $dow $v $jnj $txn $ma $dal
+p1462
+sg6
+S'17:56:23'
+p1463
+sg8
+VRC
+p1464
+sa(dp1465
+g2
+S'2015-12-06'
+p1466
+sg4
+Vfive minute trades - URL $aapl $iwm $v ibb $gpro $bbry $tsla $fb $xlf $jpm $goog $twtr $fit $shak $uso $gdx $dwti $uwti
+p1467
+sg6
+S'17:55:28'
+p1468
+sg8
+Vtradewithjoe
+p1469
+sa(dp1470
+g2
+S'2015-12-06'
+p1471
+sg4
+Vthe grand unified theory of apple products URL $aapl
+p1472
+sg6
+S'17:50:55'
+p1473
+sg8
+Vdavidovich
+p1474
+sa(dp1475
+g2
+S'2015-12-06'
+p1476
+sg4
+Vwhat every millennial can learn from steve jobs about success $aapl $goog $pcln $k wlst URL URL
+p1477
+sg6
+S'17:50:31'
+p1478
+sg8
+VWLST.com
+p1479
+sa(dp1480
+g2
+S'2015-12-06'
+p1481
+sg4
+Vwhat every millennial can learn from steve jobs about success: URL $aapl $goog $pcln $k
+p1482
+sg6
+S'17:50:28'
+p1483
+sg8
+VThe Stock Professor
+p1484
+sa(dp1485
+g2
+S'2015-12-06'
+p1486
+sg4
+Vorbital atk: a stock ready to explode into space URL URL stocks trading investing $fb $aapl
+p1487
+sg6
+S'17:47:58'
+p1488
+sg8
+VJohn Lee
+p1489
+sa(dp1490
+g2
+S'2015-12-06'
+p1491
+sg4
+Vparness, the art of trend trading URL URL stocks trading investing $fb $aapl
+p1492
+sg6
+S'17:47:57'
+p1493
+sg8
+VJohn Lee
+p1494
+sa(dp1495
+g2
+S'2015-12-06'
+p1496
+sg4
+Vmega cap stocks driving market returns URL URL stocks trading investing $fb $aapl
+p1497
+sg6
+S'17:47:57'
+p1498
+sg8
+VJohn Lee
+p1499
+sa(dp1500
+g2
+S'2015-12-06'
+p1501
+sg4
+Vgood employment numbers and the fed (video) URL URL stocks trading investing $fb $aapl
+p1502
+sg6
+S'17:47:57'
+p1503
+sg8
+VJohn Lee
+p1504
+sa(dp1505
+g2
+S'2015-12-06'
+p1506
+sg4
+Vexciting future for bgc partners URL URL stocks trading investing $fb $aapl
+p1507
+sg6
+S'17:47:56'
+p1508
+sg8
+VJohn Lee
+p1509
+sa(dp1510
+g2
+S'2015-12-06'
+p1511
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL URL stocks trading investing $fb $aapl
+p1512
+sg6
+S'17:47:55'
+p1513
+sg8
+VJohn Lee
+p1514
+sa(dp1515
+g2
+S'2015-12-06'
+p1516
+sg4
+V10 investing books to consider URL URL stocks trading investing $fb $aapl
+p1517
+sg6
+S'17:47:55'
+p1518
+sg8
+VJohn Lee
+p1519
+sa(dp1520
+g2
+S'2015-12-06'
+p1521
+sg4
+Vfriday funnies URL URL stocks trading investing $fb $aapl
+p1522
+sg6
+S'17:47:55'
+p1523
+sg8
+VJohn Lee
+p1524
+sa(dp1525
+g2
+S'2015-12-06'
+p1526
+sg4
+Vthe gold market URL URL stocks trading investing $fb $aapl
+p1527
+sg6
+S'17:47:54'
+p1528
+sg8
+VJohn Lee
+p1529
+sa(dp1530
+g2
+S'2015-12-06'
+p1531
+sg4
+Vfriday's jobs report seals the deal on rate lift-off URL URL stocks trading investing $fb $aapl
+p1532
+sg6
+S'17:47:54'
+p1533
+sg8
+VJohn Lee
+p1534
+sa(dp1535
+g2
+S'2015-12-06'
+p1536
+sg4
+Valbemarle: m&amp;a confusion drives ~60% upside URL URL stocks trading investing $fb $aapl
+p1537
+sg6
+S'17:47:53'
+p1538
+sg8
+VJohn Lee
+p1539
+sa(dp1540
+g2
+S'2015-12-06'
+p1541
+sg4
+Vtweaks of the week: splitify, 3dnotifications, and more URL idownloadblog $aapl URL
+p1542
+sg6
+S'17:41:38'
+p1543
+sg8
+VMacHash
+p1544
+sa(dp1545
+g2
+S'2015-12-06'
+p1546
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p1547
+sg6
+S'17:41:19'
+p1548
+sg8
+VFinBuzz
+p1549
+sa(dp1550
+g2
+S'2015-12-06'
+p1551
+sg4
+Vrt AT_USER special $25 trading room offer URL $spy $iwm $qqq $aapl $nflx $gld $fb $fit $tsla $pcln $uso $gdx $ib\u2026
+p1552
+sg6
+S'17:41:14'
+p1553
+sg8
+VFake Chum Lee
+p1554
+sa(dp1555
+g2
+S'2015-12-06'
+p1556
+sg4
+Vrt AT_USER cityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p1557
+sg6
+S'17:40:34'
+p1558
+sg8
+VBig Data Tweet
+p1559
+sa(dp1560
+g2
+S'2015-12-06'
+p1561
+sg4
+Vrt AT_USER sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1562
+sg6
+S'17:36:39'
+p1563
+sg8
+VJames DiPlata
+p1564
+sa(dp1565
+g2
+S'2015-12-06'
+p1566
+sg4
+Vrt AT_USER $aapl news: "sifting the apple rumors: a new 4-inch iphone $tsm $aapl" URL analyze: URL
+p1567
+sg6
+S'17:36:39'
+p1568
+sg8
+VJames DiPlata
+p1569
+sa(dp1570
+g2
+S'2015-12-06'
+p1571
+sg4
+Vrt AT_USER sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1572
+sg6
+S'17:36:39'
+p1573
+sg8
+VJames DiPlata
+p1574
+sa(dp1575
+g2
+S'2015-12-06'
+p1576
+sg4
+Vrt AT_USER sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1577
+sg6
+S'17:36:39'
+p1578
+sg8
+VJames DiPlata
+p1579
+sa(dp1580
+g2
+S'2015-12-06'
+p1581
+sg4
+Vgain from movement in these buzzing assets $aal $aapl $panw $pg $rjf URL URL
+p1582
+sg6
+S'17:36:30'
+p1583
+sg8
+VFinBuzz
+p1584
+sa(dp1585
+g2
+S'2015-12-06'
+p1586
+sg4
+Vspecial $25 trading room offer URL $spy $iwm $qqq $aapl $nflx $gld $fb $fit $tsla $pcln $uso $gdx $ibb $bac $lnkd $bidu
+p1587
+sg6
+S'17:36:02'
+p1588
+sg8
+Vtradewithjoe
+p1589
+sa(dp1590
+g2
+S'2015-12-06'
+p1591
+sg4
+Vwhy access a ticker when you can access a group of tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1592
+sg6
+S'17:35:58'
+p1593
+sg8
+VFinBuzz
+p1594
+sa(dp1595
+g2
+S'2015-12-06'
+p1596
+sg4
+Vaapl apple, inc. company info URL $aapl $dis $zsph $etsy aapl stocks stocks
+p1597
+sg6
+S'17:33:04'
+p1598
+sg8
+Vlookn4wins
+p1599
+sa(dp1600
+g2
+S'2015-12-06'
+p1601
+sg4
+Vnew technologies news update: apple inc (nasdaq:aapl), looks set to move to a new\u2026 URL $aapl
+p1602
+sg6
+S'17:31:52'
+p1603
+sg8
+VTickerLens Apple
+p1604
+sa(dp1605
+g2
+S'2015-12-06'
+p1606
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p1607
+sg6
+S'17:31:18'
+p1608
+sg8
+VFinBuzz
+p1609
+sa(dp1610
+g2
+S'2015-12-06'
+p1611
+sg4
+Vsifting the apple rumors: a new 4-inch iphone $aapl URL
+p1612
+sg6
+S'17:31:05'
+p1613
+sg8
+VThe one mic show
+p1614
+sa(dp1615
+g2
+S'2015-12-06'
+p1616
+sg4
+V$aapl mick: up smartly friday. 'apple inc. ($aapl)': mick URL
+p1617
+sg6
+S'17:26:09'
+p1618
+sg8
+VNASDAQStocks
+p1619
+sa(dp1620
+g2
+S'2015-12-06'
+p1621
+sg4
+V$aapl b ry: loved apple pullback to $105 range mick!(awesome buy) ;*): b ry URL
+p1622
+sg6
+S'17:26:08'
+p1623
+sg8
+VNASDAQStocks
+p1624
+sa(dp1625
+g2
+S'2015-12-06'
+p1626
+sg4
+V$aapl mick: up smartly friday. 'apple inc. ($aapl)': mick URL
+p1627
+sg6
+S'17:26:08'
+p1628
+sg8
+V528InvestorRelations
+p1629
+sa(dp1630
+g2
+S'2015-12-06'
+p1631
+sg4
+Vthe current ios music app has to be the worst music app ever. apple $aapl URL
+p1632
+sg6
+S'17:24:12'
+p1633
+sg8
+VNonie Batra
+p1634
+sa(dp1635
+g2
+S'2015-12-06'
+p1636
+sg4
+Vfous4x2 daytrading dvd review: URL $aapl $fxcm $himx $asps $aal
+p1637
+sg6
+S'17:23:03'
+p1638
+sg8
+VStock_Huntress
+p1639
+sa(dp1640
+g2
+S'2015-12-06'
+p1641
+sg4
+Vthese assets are seeing a jump in tweets $aapl $cm $panw $pg $rjf URL URL
+p1642
+sg6
+S'17:16:58'
+p1643
+sg8
+VFinBuzz
+p1644
+sa(dp1645
+g2
+S'2015-12-06'
+p1646
+sg4
+Vwhy $aapl is most profitable &amp; has largest moat @ smartphone market swot analysis $intc $goog ict mobile URL
+p1647
+sg6
+S'17:15:49'
+p1648
+sg8
+VRichard Labelle
+p1649
+sa(dp1650
+g2
+S'2015-12-06'
+p1651
+sg4
+Vsifting the apple rumors: a new 4-inch iphone $aapl URL
+p1652
+sg6
+S'17:15:27'
+p1653
+sg8
+VBonnie Gortler
+p1654
+sa(dp1655
+g2
+S'2015-12-06'
+p1656
+sg4
+Vidb holiday gift guide: cody's picks URL idownloadblog $aapl URL
+p1657
+sg6
+S'17:10:13'
+p1658
+sg8
+VMacHash
+p1659
+sa(dp1660
+g2
+S'2015-12-06'
+p1661
+sg4
+Vapple inc. iphone 7 specs defined as leaks keep springing $aapl apple URL
+p1662
+sg6
+S'17:07:36'
+p1663
+sg8
+VLearnBonds.com
+p1664
+sa(dp1665
+g2
+S'2015-12-06'
+p1666
+sg4
+V$aapl: what every millennial can learn from steve jobs about success: URL
+p1667
+sg6
+S'17:07:01'
+p1668
+sg8
+VBreaking News Now
+p1669
+sa(dp1670
+g2
+S'2015-12-06'
+p1671
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1672
+sg6
+S'17:04:34'
+p1673
+sg8
+Vlacrossecampfinder
+p1674
+sa(dp1675
+g2
+S'2015-12-06'
+p1676
+sg4
+Vtrack curated news and tweets for multiple tickers - us tech giants URL $aapl $goog $msft $fb $twtr
+p1677
+sg6
+S'17:02:33'
+p1678
+sg8
+VFinBuzz
+p1679
+sa(dp1680
+g2
+S'2015-12-06'
+p1681
+sg4
+Vfree video: trading psychology series: greed URL trading startups stock $aapl money investor angel
+p1682
+sg6
+S'17:00:09'
+p1683
+sg8
+VChayton Falke
+p1684
+sa(dp1685
+g2
+S'2015-12-06'
+p1686
+sg4
+Vshubhlaxmi pivot calculator $uvxy $spy $spx $dia $jcj $djia $cmg $googl $amzn $nflx $aapl $bidu $gs $chk URL
+p1687
+sg6
+S'16:56:45'
+p1688
+sg8
+VEternity101
+p1689
+sa(dp1690
+g2
+S'2015-12-06'
+p1691
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $fb $panw $pg $rjf URL URL
+p1692
+sg6
+S'16:56:25'
+p1693
+sg8
+VFinBuzz
+p1694
+sa(dp1695
+g2
+S'2015-12-06'
+p1696
+sg4
+Vrt URL $aapl - buy signal at 119.03 on dec 04, 15 by URL trading signals robot stock trading t\u2026
+p1697
+sg6
+S'16:52:52'
+p1698
+sg8
+VBinary Trader Pro
+p1699
+sa(dp1700
+g2
+S'2015-12-06'
+p1701
+sg4
+VAT_USER 10 $spy and 80 $aapl.
+p1702
+sg6
+S'16:52:48'
+p1703
+sg8
+VZombie Bombie
+p1704
+sa(dp1705
+g2
+S'2015-12-06'
+p1706
+sg4
+Vstandard pivot points calculation $spx $spy $dia $djia ..etc etc.. $cmg $nflx $googl $amzn $aapl URL
+p1707
+sg6
+S'16:52:34'
+p1708
+sg8
+VEternity101
+p1709
+sa(dp1710
+g2
+S'2015-12-06'
+p1711
+sg4
+VAT_USER $aapl 118 calls.
+p1712
+sg6
+S'16:52:06'
+p1713
+sg8
+VZombie Bombie
+p1714
+sa(dp1715
+g2
+S'2015-12-06'
+p1716
+sg4
+VAT_USER yep. $spy 206 calls at 96c and $aapl calls at sub 30c i think.
+p1717
+sg6
+S'16:51:55'
+p1718
+sg8
+VZombie Bombie
+p1719
+sa(dp1720
+g2
+S'2015-12-06'
+p1721
+sg4
+Vsome longs i am looking to add on monday if we get a followthru $msft $avgo $aapl bidu baba on watch. biotechs still not look good
+p1722
+sg6
+S'16:51:34'
+p1723
+sg8
+Vbulls killer
+p1724
+sa(dp1725
+g2
+S'2015-12-06'
+p1726
+sg4
+VAT_USER glad to hear that you modest sob. lol. $aapl and $spy saved my ass too because i loaded on thursday right before close.
+p1727
+sg6
+S'16:50:13'
+p1728
+sg8
+VZombie Bombie
+p1729
+sa(dp1730
+g2
+S'2015-12-06'
+p1731
+sg4
+Vvxx ipath s&amp;p 500 vix short-term futures etn open URL $vxx $aapl $aa $fru.to vxx invest stockmarket
+p1732
+sg6
+S'16:50:03'
+p1733
+sg8
+VEmylers
+p1734
+sa(dp1735
+g2
+S'2015-12-06'
+p1736
+sg4
+V$aapl - buy signal at 119.03 on dec 04, 15 by URL trading signals robot stock trading trade investing
+p1737
+sg6
+S'16:50:00'
+p1738
+sg8
+VYamasuta
+p1739
+sa(dp1740
+g2
+S'2015-12-06'
+p1741
+sg4
+Vrt AT_USER $aapl some ta thoughts: URL
+p1742
+sg6
+S'16:48:09'
+p1743
+sg8
+VDavid Gruberg
+p1744
+sa(dp1745
+g2
+S'2015-12-06'
+p1746
+sg4
+Vsifting the apple rumors: a new 4-inch iphone $aapl URL
+p1747
+sg6
+S'16:47:53'
+p1748
+sg8
+VPrivateCapBlogger
+p1749
+sa(dp1750
+g2
+S'2015-12-06'
+p1751
+sg4
+V$iwm market update ({video} URL $spy $dia $uso $pcln $googl $goog $aapl $fb $fit $tsla $lnkd $gs $xom $ibm $jpm
+p1752
+sg6
+S'16:47:09'
+p1753
+sg8
+Vtradewithjoe
+p1754
+sa(dp1755
+g2
+S'2015-12-06'
+p1756
+sg4
+Vrt AT_USER apple upgraded by piper jaffray to buy. URL $aapl aapl
+p1757
+sg6
+S'16:45:12'
+p1758
+sg8
+VMathias Paulsson
+p1759
+sa(dp1760
+g2
+S'2015-12-06'
+p1761
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p1762
+sg6
+S'16:44:06'
+p1763
+sg8
+VNASDAQStocks
+p1764
+sa(dp1765
+g2
+S'2015-12-06'
+p1766
+sg4
+V== advanced camarilla intraday calculator == URL $spx $spy $dia $djia .. etc etc.. $cmg $nflx $googl $amzn $aapl
+p1767
+sg6
+S'16:43:55'
+p1768
+sg8
+VEternity101
+p1769
+sa(dp1770
+g2
+S'2015-12-06'
+p1771
+sg4
+Vrt seekingalpha: sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1772
+sg6
+S'16:43:44'
+p1773
+sg8
+VChina Invest
+p1774
+sa(dp1775
+g2
+S'2015-12-06'
+p1776
+sg4
+Vrt AT_USER sifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1777
+sg6
+S'16:43:15'
+p1778
+sg8
+VChristos A
+p1779
+sa(dp1780
+g2
+S'2015-12-06'
+p1781
+sg4
+Vgain from movement in these buzzing assets $aapl $kr $rjf $tck.a URL URL
+p1782
+sg6
+S'16:40:50'
+p1783
+sg8
+VFinBuzz
+p1784
+sa(dp1785
+g2
+S'2015-12-06'
+p1786
+sg4
+Vsunday's 'clash of clans' town hall 11 reveal shows the grand warden on defense URL toucharcade $aapl
+p1787
+sg6
+S'16:40:09'
+p1788
+sg8
+VMacHash
+p1789
+sa(dp1790
+g2
+S'2015-12-06'
+p1791
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1792
+sg6
+S'16:36:15'
+p1793
+sg8
+VTech Stocks
+p1794
+sa(dp1795
+g2
+S'2015-12-06'
+p1796
+sg4
+V$aapl news: "sifting the apple rumors: a new 4-inch iphone $tsm $aapl" URL analyze: URL
+p1797
+sg6
+S'16:36:15'
+p1798
+sg8
+VQuantpost Cnsmr Good
+p1799
+sa(dp1800
+g2
+S'2015-12-06'
+p1801
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1802
+sg6
+S'16:36:15'
+p1803
+sg8
+VLong & Short Ideas
+p1804
+sa(dp1805
+g2
+S'2015-12-06'
+p1806
+sg4
+Vsifting the apple rumors: a new 4-inch iphone URL $tsm $aapl
+p1807
+sg6
+S'16:36:15'
+p1808
+sg8
+VSeeking Alpha
+p1809
+sa(dp1810
+g2
+S'2015-12-06'
+p1811
+sg4
+V4 weird tricks companies use to boost the bottom line -- the motley fool $aapl wlst URL URL
+p1812
+sg6
+S'16:36:05'
+p1813
+sg8
+VWLST.com
+p1814
+sa(dp1815
+g2
+S'2015-12-06'
+p1816
+sg4
+V$aapl - 4 weird tricks companies use to boost the bottom line URL
+p1817
+sg6
+S'16:36:04'
+p1818
+sg8
+VLive Stock News
+p1819
+sa(dp1820
+g2
+S'2015-12-06'
+p1821
+sg4
+V$aapl - 4 weird tricks companies use to boost the bottom line URL
+p1822
+sg6
+S'16:36:04'
+p1823
+sg8
+Vmatt collom
+p1824
+sa(dp1825
+g2
+S'2015-12-06'
+p1826
+sg4
+Vrt AT_USER our latest thoughts on $aapl on AT_USER "apple may be better off returning cash to investors" URL
+p1827
+sg6
+S'16:33:25'
+p1828
+sg8
+VJames DiPlata
+p1829
+sa(dp1830
+g2
+S'2015-12-06'
+p1831
+sg4
+Vaapl apple, inc. shares URL $aapl $vustx $cde $kmi aapl investing nasdaq
+p1832
+sg6
+S'16:33:04'
+p1833
+sg8
+Vlookn4wins
+p1834
+sa(dp1835
+g2
+S'2015-12-06'
+p1836
+sg4
+V$pg $aapl: 4 weird tricks companies use to boost the bottom line: URL
+p1837
+sg6
+S'16:33:02'
+p1838
+sg8
+VStockNewsWires
+p1839
+sa(dp1840
+g2
+S'2015-12-06'
+p1841
+sg4
+V$aapl max pain = 116.00. maturity = 12/11/2015. previous close = 119.03. URL
+p1842
+sg6
+S'16:30:41'
+p1843
+sg8
+VDan
+p1844
+sa(dp1845
+g2
+S'2015-12-06'
+p1846
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p1847
+sg6
+S'16:24:24'
+p1848
+sg8
+VFinBuzz
+p1849
+sa(dp1850
+g2
+S'2015-12-06'
+p1851
+sg4
+Vrt AT_USER apple upgraded by piper jaffray to buy. URL $aapl aapl
+p1852
+sg6
+S'16:19:14'
+p1853
+sg8
+VChristos A
+p1854
+sa(dp1855
+g2
+S'2015-12-06'
+p1856
+sg4
+V$aapl high open interest range is 110.00 to 125.00 for option expiration 12/11/2015. URL URL
+p1857
+sg6
+S'16:15:50'
+p1858
+sg8
+VDan
+p1859
+sa(dp1860
+g2
+S'2015-12-06'
+p1861
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p1862
+sg6
+S'16:15:18'
+p1863
+sg8
+VMarijuanacharts
+p1864
+sa(dp1865
+g2
+S'2015-12-06'
+p1866
+sg4
+Visis beware $qqq $uvxy URL AT_USER AT_USER AT_USER AT_USER stocks $aapl $fit AT_USER $spy
+p1867
+sg6
+S'16:14:39'
+p1868
+sg8
+VHeath Sterling
+p1869
+sa(dp1870
+g2
+S'2015-12-06'
+p1871
+sg4
+Vrt AT_USER $aapl call 115 next weeks options @ 1.70 to 1.80 ( trying) stop ~ 1.50
+p1872
+sg6
+S'16:13:09'
+p1873
+sg8
+VDusty
+p1874
+sa(dp1875
+g2
+S'2015-12-06'
+p1876
+sg4
+Vapple takes 94% of smartphone industry profit $aapl | URL
+p1877
+sg6
+S'16:11:49'
+p1878
+sg8
+VHedge AccordingLy
+p1879
+sa(dp1880
+g2
+S'2015-12-06'
+p1881
+sg4
+Vtoday's apps gone free: hypelight, shark puzzles, music healing and more URL appadvice $aapl URL
+p1882
+sg6
+S'16:08:04'
+p1883
+sg8
+VMacHash
+p1884
+sa(dp1885
+g2
+S'2015-12-06'
+p1886
+sg4
+V$aapl kick1: squeeze them! $aapl: kick1 URL
+p1887
+sg6
+S'16:06:33'
+p1888
+sg8
+VNASDAQStocks
+p1889
+sa(dp1890
+g2
+S'2015-12-06'
+p1891
+sg4
+V$aapl alanc: there should be lots of institutional buying between: alanc URL
+p1892
+sg6
+S'16:06:33'
+p1893
+sg8
+VNASDAQStocks
+p1894
+sa(dp1895
+g2
+S'2015-12-06'
+p1896
+sg4
+Vfree video: 30-minute market update URL trading startups stock $aapl money investor angel
+p1897
+sg6
+S'16:00:06'
+p1898
+sg8
+VChayton Falke
+p1899
+sa(dp1900
+g2
+S'2015-12-06'
+p1901
+sg4
+V$aapl - apple inc. iphone 7 specs: here's what to expect URL
+p1902
+sg6
+S'15:55:56'
+p1903
+sg8
+Vmatt collom
+p1904
+sa(dp1905
+g2
+S'2015-12-06'
+p1906
+sg4
+V$aapl - apple inc. iphone 7 specs: here's what to expect URL
+p1907
+sg6
+S'15:55:36'
+p1908
+sg8
+VLive Stock News
+p1909
+sa(dp1910
+g2
+S'2015-12-06'
+p1911
+sg4
+Vapple inc. iphone 7 specs defined as leaks keep springing $aapl apple URL
+p1912
+sg6
+S'15:54:44'
+p1913
+sg8
+VNereida Diesen
+p1914
+sa(dp1915
+g2
+S'2015-12-06'
+p1916
+sg4
+Vtrack trending assets in 1 watchlist $aapl $db $pphm $sndk $usdcad URL URL
+p1917
+sg6
+S'15:40:27'
+p1918
+sg8
+VFinBuzz
+p1919
+sa(dp1920
+g2
+S'2015-12-06'
+p1921
+sg4
+Vthe appadvice tech week in review: a new iphone in february? URL appadvice $aapl URL
+p1922
+sg6
+S'15:38:06'
+p1923
+sg8
+VMacHash
+p1924
+sa(dp1925
+g2
+S'2015-12-06'
+p1926
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p1927
+sg6
+S'15:37:59'
+p1928
+sg8
+VFinBuzz
+p1929
+sa(dp1930
+g2
+S'2015-12-06'
+p1931
+sg4
+Vapple inc. iphone 7 specs defined as leaks keep springing $aapl apple URL
+p1932
+sg6
+S'15:37:36'
+p1933
+sg8
+VLearnBonds.com
+p1934
+sa(dp1935
+g2
+S'2015-12-06'
+p1936
+sg4
+V$aapl some ta thoughts: URL
+p1937
+sg6
+S'15:35:56'
+p1938
+sg8
+VHenry J Costanzo
+p1939
+sa(dp1940
+g2
+S'2015-12-06'
+p1941
+sg4
+Vour latest thoughts on $aapl on AT_USER "apple may be better off returning cash to investors" URL $msft dividends
+p1942
+sg6
+S'15:34:07'
+p1943
+sg8
+VReality Shares, Inc.
+p1944
+sa(dp1945
+g2
+S'2015-12-06'
+p1946
+sg4
+Vrt AT_USER five stocks in s&amp;p 500 have generated &gt; 100% of 2015 return. narrow markets = danger... $fb $amzn $aapl $msft googl URL
+p1947
+sg6
+S'15:31:31'
+p1948
+sg8
+VGoldfinger
+p1949
+sa(dp1950
+g2
+S'2015-12-06'
+p1951
+sg4
+Vtop stock searches on message boards and twitter: $spy $tlt $vti $aapl $qqq (10:30 am) stocks finance stockmarket stockpicks
+p1952
+sg6
+S'15:30:39'
+p1953
+sg8
+VBoardCentral
+p1954
+sa(dp1955
+g2
+S'2015-12-06'
+p1956
+sg4
+Vrt AT_USER aapl apple, inc. company info URL $aapl $goog $dis $imsc aapl nasdaq stocks
+p1957
+sg6
+S'15:28:59'
+p1958
+sg8
+VJames DiPlata
+p1959
+sa(dp1960
+g2
+S'2015-12-06'
+p1961
+sg4
+Vrt AT_USER iphone 6c rumors: 4-inch $400 phone for small hands AT_USER itbw $aapl URL _ URL
+p1962
+sg6
+S'15:28:58'
+p1963
+sg8
+VJames DiPlata
+p1964
+sa(dp1965
+g2
+S'2015-12-06'
+p1966
+sg4
+Vfacebook opens live streaming video further URL $fb $aapl $goog $twx
+p1967
+sg6
+S'15:28:01'
+p1968
+sg8
+VRobert Weinstein
+p1969
+sa(dp1970
+g2
+S'2015-12-06'
+p1971
+sg4
+Vbarron's saturday summary $amcx $aapl $celg $cvs $dal $dfs $ea $fl $gm $mhk $aa $fit $kmi URL
+p1972
+sg6
+S'15:26:10'
+p1973
+sg8
+VMarketGlance
+p1974
+sa(dp1975
+g2
+S'2015-12-06'
+p1976
+sg4
+Vmonitor your watchlist of assets for tweets - us tech giants URL $aapl $goog $msft $fb $twtr
+p1977
+sg6
+S'15:24:34'
+p1978
+sg8
+VFinBuzz
+p1979
+sa(dp1980
+g2
+S'2015-12-06'
+p1981
+sg4
+VAT_USER AT_USER AT_USER evolution of innovation; things get left behind. started w/ ipod, but mobile (&amp; saas) changed all. AT_USER $aapl
+p1982
+sg6
+S'15:23:04'
+p1983
+sg8
+VIan Gertler
+p1984
+sa(dp1985
+g2
+S'2015-12-06'
+p1986
+sg4
+Vthe truth about corporate america's biggest tax dodgers via AT_USER $ge $pfe $aapl
+p1987
+sg6
+S'15:21:42'
+p1988
+sg8
+VBharat Manghnani
+p1989
+sa(dp1990
+g2
+S'2015-12-06'
+p1991
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $db $pphm $stt $usdcad URL URL
+p1992
+sg6
+S'15:15:43'
+p1993
+sg8
+VFinBuzz
+p1994
+sa(dp1995
+g2
+S'2015-12-06'
+p1996
+sg4
+Vnew video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; more
+p1997
+sg6
+S'15:15:35'
+p1998
+sg8
+VEvan Medeiros
+p1999
+sa(dp2000
+g2
+S'2015-12-06'
+p2001
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p2002
+sg6
+S'15:11:14'
+p2003
+sg8
+VFinBuzz
+p2004
+sa(dp2005
+g2
+S'2015-12-06'
+p2006
+sg4
+Vrt AT_USER over 100 students in just 2 wks! build, grow, &amp; protect your money (enroll for just $39) URL $nflx $aapl \u2026
+p2007
+sg6
+S'15:10:16'
+p2008
+sg8
+VChris
+p2009
+sa(dp2010
+g2
+S'2015-12-06'
+p2011
+sg4
+Vthe popular airattack spawns a next-gen sequel URL appadvice $aapl URL
+p2012
+sg6
+S'15:07:09'
+p2013
+sg8
+VMacHash
+p2014
+sa(dp2015
+g2
+S'2015-12-06'
+p2016
+sg4
+Vequities currently tagged cheap by the closingbell community: $gild $aapl $ahgp $amat $amcf URL
+p2017
+sg6
+S'15:00:02'
+p2018
+sg8
+VClosingBell
+p2019
+sa(dp2020
+g2
+S'2015-12-06'
+p2021
+sg4
+Vgain from movement in these buzzing assets $aapl $db $fb $googl $pphm URL URL
+p2022
+sg6
+S'14:56:58'
+p2023
+sg8
+VFinBuzz
+p2024
+sa(dp2025
+g2
+S'2015-12-06'
+p2026
+sg4
+Vibm z systems is involved in all the 5 tech trends to watch in 2016 $aapl $amzn $csco URL via AT_USER
+p2027
+sg6
+S'14:56:38'
+p2028
+sg8
+VMaria Boonie
+p2029
+sa(dp2030
+g2
+S'2015-12-06'
+p2031
+sg4
+Vinteractive chart -&gt; URL $aapl earnings are improving. URL
+p2032
+sg6
+S'14:53:19'
+p2033
+sg8
+VCapital Market Labs
+p2034
+sa(dp2035
+g2
+S'2015-12-06'
+p2036
+sg4
+V$aapl - samsung to pay apple during patent dispute URL
+p2037
+sg6
+S'14:51:06'
+p2038
+sg8
+Vmatt collom
+p2039
+sa(dp2040
+g2
+S'2015-12-06'
+p2041
+sg4
+V$aapl - hybrids, windows 10 may finally push tablet sales to microsoft URL
+p2042
+sg6
+S'14:49:58'
+p2043
+sg8
+VLive Stock News
+p2044
+sa(dp2045
+g2
+S'2015-12-06'
+p2046
+sg4
+Vunh unitedhealth group, inc. market cap URL $unh $russ $aezs $aapl unh pennystocks stock
+p2047
+sg6
+S'14:49:54'
+p2048
+sg8
+Vdanrocks
+p2049
+sa(dp2050
+g2
+S'2015-12-06'
+p2051
+sg4
+Vrt AT_USER aapl apple, inc. company info URL $aapl $goog $dis $imsc aapl nasdaq stocks
+p2052
+sg6
+S'14:48:33'
+p2053
+sg8
+VOptions Answers
+p2054
+sa(dp2055
+g2
+S'2015-12-06'
+p2056
+sg4
+V$aapl kick1: congrats! welcome, or should i say welcome back!: kick1 URL
+p2057
+sg6
+S'14:48:28'
+p2058
+sg8
+VNASDAQStocks
+p2059
+sa(dp2060
+g2
+S'2015-12-06'
+p2061
+sg4
+V$aapl kick1: congrats! welcome, or should i say welcome back!: kick1 URL
+p2062
+sg6
+S'14:48:26'
+p2063
+sg8
+V528InvestorRelations
+p2064
+sa(dp2065
+g2
+S'2015-12-06'
+p2066
+sg4
+Vis china positioned for an economic turnaround? URL URL stocks trading investing $fb $aapl
+p2067
+sg6
+S'14:47:18'
+p2068
+sg8
+VJohn Lee
+p2069
+sa(dp2070
+g2
+S'2015-12-06'
+p2071
+sg4
+Vcan nike continue its winning streak? URL URL stocks trading investing $fb $aapl
+p2072
+sg6
+S'14:47:18'
+p2073
+sg8
+VJohn Lee
+p2074
+sa(dp2075
+g2
+S'2015-12-06'
+p2076
+sg4
+Vkinder morgan will not cut its dividend URL URL stocks trading investing $fb $aapl
+p2077
+sg6
+S'14:47:17'
+p2078
+sg8
+VJohn Lee
+p2079
+sa(dp2080
+g2
+S'2015-12-06'
+p2081
+sg4
+Vis this why gold rose on friday? URL URL stocks trading investing $fb $aapl
+p2082
+sg6
+S'14:47:16'
+p2083
+sg8
+VJohn Lee
+p2084
+sa(dp2085
+g2
+S'2015-12-06'
+p2086
+sg4
+Vanother strong jobs report URL URL stocks trading investing $fb $aapl
+p2087
+sg6
+S'14:47:15'
+p2088
+sg8
+VJohn Lee
+p2089
+sa(dp2090
+g2
+S'2015-12-06'
+p2091
+sg4
+Vwhip it 2 URL URL stocks trading investing $fb $aapl
+p2092
+sg6
+S'14:47:14'
+p2093
+sg8
+VJohn Lee
+p2094
+sa(dp2095
+g2
+S'2015-12-06'
+p2096
+sg4
+Vspxl direxion daily s&amp;p 500 bull 3x shares 52wk low URL $spxl $aapl $pypl $gdx spxl nasdaq nasdaq
+p2097
+sg6
+S'14:47:03'
+p2098
+sg8
+Vdanrocks
+p2099
+sa(dp2100
+g2
+S'2015-12-06'
+p2101
+sg4
+Vrt AT_USER aapl apple, inc. summary URL $aapl $cost $eum $xom aapl pennystocks stocks
+p2102
+sg6
+S'14:46:39'
+p2103
+sg8
+VMathias Paulsson
+p2104
+sa(dp2105
+g2
+S'2015-12-06'
+p2106
+sg4
+Vhealthcare and the internet of things URL $aapl $adi $armh $bdx $cern $crm $ekso $fsl $ibm $jnj $mdt $nvs $sap $ssnlf
+p2107
+sg6
+S'14:46:01'
+p2108
+sg8
+VRod
+p2109
+sa(dp2110
+g2
+S'2015-12-06'
+p2111
+sg4
+Vrt AT_USER aapl apple, inc. company info URL $aapl $goog $dis $imsc aapl nasdaq stocks
+p2112
+sg6
+S'14:45:12'
+p2113
+sg8
+VMathias Paulsson
+p2114
+sa(dp2115
+g2
+S'2015-12-06'
+p2116
+sg4
+Vrt AT_USER over 100 students in just 2 wks! build, grow, &amp; protect your money (enroll for just $39) URL $nflx $aapl \u2026
+p2117
+sg6
+S'14:41:46'
+p2118
+sg8
+Vjoanna
+p2119
+sa(dp2120
+g2
+S'2015-12-06'
+p2121
+sg4
+VAT_USER way too bearish on $msft - hardware &amp; software. that's from an $aapl guy on the personal side (100% aapl devices for personal)
+p2122
+sg6
+S'14:35:33'
+p2123
+sg8
+VXXXTHE DIVINEXXX
+p2124
+sa(dp2125
+g2
+S'2015-12-06'
+p2126
+sg4
+Vthese assets are seeing a jump in tweets $aapl $db $fb $goog $pphm URL URL
+p2127
+sg6
+S'14:34:55'
+p2128
+sg8
+VFinBuzz
+p2129
+sa(dp2130
+g2
+S'2015-12-06'
+p2131
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p2132
+sg6
+S'14:33:36'
+p2133
+sg8
+VFinBuzz
+p2134
+sa(dp2135
+g2
+S'2015-12-06'
+p2136
+sg4
+Vaapl apple, inc. company info URL $aapl $goog $dis $imsc aapl nasdaq stocks
+p2137
+sg6
+S'14:33:34'
+p2138
+sg8
+VDennyT
+p2139
+sa(dp2140
+g2
+S'2015-12-06'
+p2141
+sg4
+Vfree video: understanding the musclemonitor(tm) URL trading startups stock $aapl money investor angel
+p2142
+sg6
+S'14:30:06'
+p2143
+sg8
+VChayton Falke
+p2144
+sa(dp2145
+g2
+S'2015-12-06'
+p2146
+sg4
+Viphone 6c rumors: 4-inch $400 phone for small hands AT_USER itbw $aapl URL _ URL
+p2147
+sg6
+S'14:28:38'
+p2148
+sg8
+VComputer Times
+p2149
+sa(dp2150
+g2
+S'2015-12-06'
+p2151
+sg4
+Vrt AT_USER apple boosts the song match limit for both itunes match and apple music URL appadvice $aapl URL
+p2152
+sg6
+S'14:25:43'
+p2153
+sg8
+VJames DiPlata
+p2154
+sa(dp2155
+g2
+S'2015-12-06'
+p2156
+sg4
+Vrt AT_USER aapl apple, inc. summary URL $aapl $cost $eum $xom aapl pennystocks stocks
+p2157
+sg6
+S'14:25:43'
+p2158
+sg8
+VJames DiPlata
+p2159
+sa(dp2160
+g2
+S'2015-12-06'
+p2161
+sg4
+Vrt AT_USER aapl stock: can apple inc. hit $200? it\u2019s possible URL $aapl
+p2162
+sg6
+S'14:25:42'
+p2163
+sg8
+VJames DiPlata
+p2164
+sa(dp2165
+g2
+S'2015-12-06'
+p2166
+sg4
+V%-wise, $aapl ranks only 8th for foreign ire according to AT_USER URL
+p2167
+sg6
+S'14:21:47'
+p2168
+sg8
+VBosco
+p2169
+sa(dp2170
+g2
+S'2015-12-06'
+p2171
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p2172
+sg6
+S'14:21:37'
+p2173
+sg8
+VFinBuzz
+p2174
+sa(dp2175
+g2
+S'2015-12-06'
+p2176
+sg4
+Vreal audio and video luxury @ URL - luxurylifestyle, nyc, shopping, $aapl URL
+p2177
+sg6
+S'14:16:44'
+p2178
+sg8
+VNYC Luxury
+p2179
+sa(dp2180
+g2
+S'2015-12-06'
+p2181
+sg4
+VURL &lt;-- choose freedom from pump-and-dump scams! article on my blog $gpro $tube $halo $aapl
+p2182
+sg6
+S'14:16:18'
+p2183
+sg8
+VRussell Barbour
+p2184
+sa(dp2185
+g2
+S'2015-12-06'
+p2186
+sg4
+Vtalk $aapl with us here: URL
+p2187
+sg6
+S'14:15:30'
+p2188
+sg8
+VBrian Joseph
+p2189
+sa(dp2190
+g2
+S'2015-12-06'
+p2191
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $db $fb $goog $pphm URL URL
+p2192
+sg6
+S'14:11:30'
+p2193
+sg8
+VFinBuzz
+p2194
+sa(dp2195
+g2
+S'2015-12-06'
+p2196
+sg4
+Vapple inc. iphone 7 specs defined as leaks keep springing $aapl apple URL
+p2197
+sg6
+S'14:07:35'
+p2198
+sg8
+VLearnBonds.com
+p2199
+sa(dp2200
+g2
+S'2015-12-06'
+p2201
+sg4
+V5 tech trends to watch in 2016 $aapl $amzn $csco URL via AT_USER
+p2202
+sg6
+S'14:02:06'
+p2203
+sg8
+VEx IBMer
+p2204
+sa(dp2205
+g2
+S'2015-12-06'
+p2206
+sg4
+Vhighest scoring stories for sp500 under one watchlist $aapl $wfc $xom URL URL
+p2207
+sg6
+S'14:00:05'
+p2208
+sg8
+VFinBuzz
+p2209
+sa(dp2210
+g2
+S'2015-12-06'
+p2211
+sg4
+Vgift this, not that: apple ipad pro vs. microsoft surface pro 4: [at forbes] - in forbes ... URL $aapl $goog $pcln $k
+p2212
+sg6
+S'13:58:48'
+p2213
+sg8
+VThe Stock Professor
+p2214
+sa(dp2215
+g2
+S'2015-12-06'
+p2216
+sg4
+Vxtc.to zs pharma, inc. % change URL $xtc.to $oxm $aapl $oxm xtc.to stockmarket nasdaq
+p2217
+sg6
+S'13:52:03'
+p2218
+sg8
+Vdanrocks
+p2219
+sa(dp2220
+g2
+S'2015-12-06'
+p2221
+sg4
+Vewq united kingdom ishares dividend URL $ewq $wmt $aapl $cod.l ewq nasdaq invest
+p2222
+sg6
+S'13:40:15'
+p2223
+sg8
+VEmylers
+p2224
+sa(dp2225
+g2
+S'2015-12-06'
+p2226
+sg4
+Vapple boosts the song match limit for both itunes match and apple music URL appadvice $aapl URL
+p2227
+sg6
+S'13:34:08'
+p2228
+sg8
+VMacHash
+p2229
+sa(dp2230
+g2
+S'2015-12-06'
+p2231
+sg4
+Vaapl apple, inc. summary URL $aapl $cost $eum $xom aapl pennystocks stocks
+p2232
+sg6
+S'13:33:35'
+p2233
+sg8
+VIH News Desk
+p2234
+sa(dp2235
+g2
+S'2015-12-06'
+p2236
+sg4
+Vrt URL rt ihposts: aapl apple, inc. change URL $aapl $ryrhx $dgc.to $ryhix aapl finance stocks
+p2237
+sg6
+S'13:32:02'
+p2238
+sg8
+VBinary Trader Pro
+p2239
+sa(dp2240
+g2
+S'2015-12-06'
+p2241
+sg4
+Vaapl stock: can apple inc. hit $200? it\u2019s possible URL $aapl
+p2242
+sg6
+S'13:31:58'
+p2243
+sg8
+VTickerLens Apple
+p2244
+sa(dp2245
+g2
+S'2015-12-06'
+p2246
+sg4
+Vrt AT_USER why apple inc. (aapl), five below inc. (five) and dollar tree, inc. (dltr) rated as\u2026 URL $aapl
+p2247
+sg6
+S'13:24:28'
+p2248
+sg8
+VJames DiPlata
+p2249
+sa(dp2250
+g2
+S'2015-12-06'
+p2251
+sg4
+Vrt AT_USER top stories of the week on idb URL idownloadblog $aapl URL
+p2252
+sg6
+S'13:24:27'
+p2253
+sg8
+VJames DiPlata
+p2254
+sa(dp2255
+g2
+S'2015-12-06'
+p2256
+sg4
+Vrt AT_USER samsung will actually pay apple the $548 million it owes for infringement - stuff URL apple \u2022 $aapl
+p2257
+sg6
+S'13:24:27'
+p2258
+sg8
+VJames DiPlata
+p2259
+sa(dp2260
+g2
+S'2015-12-06'
+p2261
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2262
+sg6
+S'13:24:01'
+p2263
+sg8
+VMichael  Hynes
+p2264
+sa(dp2265
+g2
+S'2015-12-06'
+p2266
+sg4
+Vtransaction costs for trading $aapl with brokers, min: 0.039% max: 0.254% difference: 6.0x URL
+p2267
+sg6
+S'13:23:55'
+p2268
+sg8
+VFinBuzz
+p2269
+sa(dp2270
+g2
+S'2015-12-06'
+p2271
+sg4
+V06 dec 2015: uptrend stocks in consumer goods $aapl $avp $avy $bll $bms $clx $dps $gt $mkc $nke URL
+p2272
+sg6
+S'13:20:48'
+p2273
+sg8
+VTrading Quotient
+p2274
+sa(dp2275
+g2
+S'2015-12-06'
+p2276
+sg4
+Vaggress $aapl retailer 2yr contract deals this w/e incl: $1 - 6 / $99 - 6s / $199 - 6s+ @ $bby &amp; $149 ipmini2 @ $vz AT_USER AT_USER
+p2277
+sg6
+S'13:20:48'
+p2278
+sg8
+VZero Filter
+p2279
+sa(dp2280
+g2
+S'2015-12-06'
+p2281
+sg4
+Vwhy did apple inc. buy this $aapl URL URL URL
+p2282
+sg6
+S'13:19:49'
+p2283
+sg8
+VWLST.com
+p2284
+sa(dp2285
+g2
+S'2015-12-06'
+p2286
+sg4
+Vmost important steps for beginners to get started daytrading URL $spy $dia $tsla $fb $aapl $iwm URL
+p2287
+sg6
+S'13:09:04'
+p2288
+sg8
+VMike H
+p2289
+sa(dp2290
+g2
+S'2015-12-06'
+p2291
+sg4
+V$aapl - why did apple inc. buy this "star wars"-related company? URL
+p2292
+sg6
+S'13:06:11'
+p2293
+sg8
+VLive Stock News
+p2294
+sa(dp2295
+g2
+S'2015-12-06'
+p2296
+sg4
+V$aapl - why did apple inc. buy this "star wars"-related company? URL
+p2297
+sg6
+S'13:06:07'
+p2298
+sg8
+Vmatt collom
+p2299
+sa(dp2300
+g2
+S'2015-12-06'
+p2301
+sg4
+V$aapl: why did apple inc. buy this \u201cstar wars\u201d-related company?: URL
+p2302
+sg6
+S'13:06:03'
+p2303
+sg8
+VBreakingStocksNews
+p2304
+sa(dp2305
+g2
+S'2015-12-06'
+p2306
+sg4
+Vfree video: trading psychology series: fear URL trading startups stock $aapl money investor angel
+p2307
+sg6
+S'13:00:07'
+p2308
+sg8
+VChayton Falke
+p2309
+sa(dp2310
+g2
+S'2015-12-06'
+p2311
+sg4
+Vwhat if $aapl ends up being the buyer of $yhoo core business
+p2312
+sg6
+S'12:59:21'
+p2313
+sg8
+VMr. Nice Guy \u270a
+p2314
+sa(dp2315
+g2
+S'2015-12-06'
+p2316
+sg4
+Vrt AT_USER stocks worthy of your wish list: $aapl $amcx $celg $cvs $dal $dfs $ea $fl $gm $mhk URL URL
+p2317
+sg6
+S'12:54:20'
+p2318
+sg8
+VBiashara_mtu
+p2319
+sa(dp2320
+g2
+S'2015-12-06'
+p2321
+sg4
+Vnem newmont mining corp. ex-div date URL $nem $fsdax $kr $aapl nem investing investing
+p2322
+sg6
+S'12:43:06'
+p2323
+sg8
+Vlookn4wins
+p2324
+sa(dp2325
+g2
+S'2015-12-06'
+p2326
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2327
+sg6
+S'12:39:42'
+p2328
+sg8
+Vconstance grisham
+p2329
+sa(dp2330
+g2
+S'2015-12-06'
+p2331
+sg4
+Vwhy apple inc. (aapl), five below inc. (five) and dollar tree, inc. (dltr) rated as\u2026 URL $aapl
+p2332
+sg6
+S'12:31:34'
+p2333
+sg8
+VTickerLens Apple
+p2334
+sa(dp2335
+g2
+S'2015-12-06'
+p2336
+sg4
+Vtop stories of the week on idb URL idownloadblog $aapl URL
+p2337
+sg6
+S'12:31:33'
+p2338
+sg8
+VMacHash
+p2339
+sa(dp2340
+g2
+S'2015-12-06'
+p2341
+sg4
+Vfree video: trading psychology series: hope URL trading startups stock $aapl money investor angel
+p2342
+sg6
+S'12:30:06'
+p2343
+sg8
+VChayton Falke
+p2344
+sa(dp2345
+g2
+S'2015-12-06'
+p2346
+sg4
+Vsamsung will actually pay apple the $548 million it owes for infringement - stuff URL apple \u2022 $aapl
+p2347
+sg6
+S'12:25:25'
+p2348
+sg8
+V#SocialMedia NC
+p2349
+sa(dp2350
+g2
+S'2015-12-06'
+p2351
+sg4
+Vrt AT_USER viacom: lots of questions here URL URL stocks trading investing $fb $aapl
+p2352
+sg6
+S'12:21:10'
+p2353
+sg8
+VJames DiPlata
+p2354
+sa(dp2355
+g2
+S'2015-12-06'
+p2356
+sg4
+Vrt AT_USER aapl apple, inc. current price URL $aapl $tlt $fnma $glng aapl nasdaq finance
+p2357
+sg6
+S'12:21:09'
+p2358
+sg8
+VJames DiPlata
+p2359
+sa(dp2360
+g2
+S'2015-12-06'
+p2361
+sg4
+Vrt AT_USER having 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p2362
+sg6
+S'12:21:09'
+p2363
+sg8
+VJames DiPlata
+p2364
+sa(dp2365
+g2
+S'2015-12-06'
+p2366
+sg4
+Vtrack trending assets in 1 watchlist $aapl $fb $googl $paa $usdjpy URL URL
+p2367
+sg6
+S'12:17:25'
+p2368
+sg8
+VFinBuzz
+p2369
+sa(dp2370
+g2
+S'2015-12-06'
+p2371
+sg4
+Vrt AT_USER do you want to own the best handset maker $aapl after it dropped 30% or the worst $rimm after it went up 200%
+p2372
+sg6
+S'12:14:21'
+p2373
+sg8
+VAlex
+p2374
+sa(dp2375
+g2
+S'2015-12-06'
+p2376
+sg4
+Vrt AT_USER new video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; m\u2026
+p2377
+sg6
+S'12:04:04'
+p2378
+sg8
+VBrent Gaynor
+p2379
+sa(dp2380
+g2
+S'2015-12-06'
+p2381
+sg4
+Vrt AT_USER AT_USER $aapl is showing a $31 expected move 514+31=545 not that far away from 550, could go down but im thinking upsi\u2026
+p2382
+sg6
+S'12:03:43'
+p2383
+sg8
+VProfessional Muppet
+p2384
+sa(dp2385
+g2
+S'2015-12-06'
+p2386
+sg4
+Vthese assets are seeing a jump in tweets $aapl $fb $goog $paa $usdjpy URL URL
+p2387
+sg6
+S'12:00:36'
+p2388
+sg8
+VFinBuzz
+p2389
+sa(dp2390
+g2
+S'2015-12-06'
+p2391
+sg4
+Vrt AT_USER it's 1:00 pm and $aapl has already traded it's average daily volume
+p2392
+sg6
+S'12:00:29'
+p2393
+sg8
+VAll the Minutes
+p2394
+sa(dp2395
+g2
+S'2015-12-06'
+p2396
+sg4
+Vrt AT_USER $aapl just need 1min after market open...we got dec.04 call 117 at 0.7s AT_USER now trading 4s printing $$$ URL
+p2397
+sg6
+S'11:55:37'
+p2398
+sg8
+VSam
+p2399
+sa(dp2400
+g2
+S'2015-12-06'
+p2401
+sg4
+Vrt AT_USER $aapl after posted my levels, some traders said i was crazy calling 119s... well...printing $$$... URL
+p2402
+sg6
+S'11:54:56'
+p2403
+sg8
+VBlueSky
+p2404
+sa(dp2405
+g2
+S'2015-12-06'
+p2406
+sg4
+Vunh unitedhealth group, inc. quotes URL $unh $cbai $aapl $intc unh pennystocks share
+p2407
+sg6
+S'11:50:05'
+p2408
+sg8
+Vdanrocks
+p2409
+sa(dp2410
+g2
+S'2015-12-06'
+p2411
+sg4
+Vrecent buy: hcp, inc. URL URL stocks trading investing $fb $aapl
+p2412
+sg6
+S'11:49:43'
+p2413
+sg8
+VJohn Lee
+p2414
+sa(dp2415
+g2
+S'2015-12-06'
+p2416
+sg4
+Vweek ahead: an australian tech unicorn is all alone URL URL stocks trading investing $fb $aapl
+p2417
+sg6
+S'11:49:42'
+p2418
+sg8
+VJohn Lee
+p2419
+sa(dp2420
+g2
+S'2015-12-06'
+p2421
+sg4
+Vtd bank: growth at a reasonable price URL URL stocks trading investing $fb $aapl
+p2422
+sg6
+S'11:49:42'
+p2423
+sg8
+VJohn Lee
+p2424
+sa(dp2425
+g2
+S'2015-12-06'
+p2426
+sg4
+Vvolatility like it's the 1930s URL URL stocks trading investing $fb $aapl
+p2427
+sg6
+S'11:49:40'
+p2428
+sg8
+VJohn Lee
+p2429
+sa(dp2430
+g2
+S'2015-12-06'
+p2431
+sg4
+Vdanaher: is the split enough URL URL stocks trading investing $fb $aapl
+p2432
+sg6
+S'11:49:40'
+p2433
+sg8
+VJohn Lee
+p2434
+sa(dp2435
+g2
+S'2015-12-06'
+p2436
+sg4
+Vwhich is the best hp? URL URL stocks trading investing $fb $aapl
+p2437
+sg6
+S'11:49:39'
+p2438
+sg8
+VJohn Lee
+p2439
+sa(dp2440
+g2
+S'2015-12-06'
+p2441
+sg4
+Vstop fixating on revenue when analyzing blackberry URL URL stocks trading investing $fb $aapl
+p2442
+sg6
+S'11:49:39'
+p2443
+sg8
+VJohn Lee
+p2444
+sa(dp2445
+g2
+S'2015-12-06'
+p2446
+sg4
+Vfx week ahead: usd going on vacation? URL URL stocks trading investing $fb $aapl
+p2447
+sg6
+S'11:49:39'
+p2448
+sg8
+VJohn Lee
+p2449
+sa(dp2450
+g2
+S'2015-12-06'
+p2451
+sg4
+Vviacom: lots of questions here URL URL stocks trading investing $fb $aapl
+p2452
+sg6
+S'11:49:38'
+p2453
+sg8
+VJohn Lee
+p2454
+sa(dp2455
+g2
+S'2015-12-06'
+p2456
+sg4
+Vrt AT_USER conference call was a bit underwhelming, but my belief in $aapl s ability to continue to make huge profits has not been s\u2026
+p2457
+sg6
+S'11:41:59'
+p2458
+sg8
+VKevin
+p2459
+sa(dp2460
+g2
+S'2015-12-06'
+p2461
+sg4
+Vrt AT_USER $aapl 2min after market open jump in calls at 0.77$ AT_USER and hit 4.2$ intraday on huge run up to print $$$ https:\u2026
+p2462
+sg6
+S'11:40:30'
+p2463
+sg8
+VJeff Ki
+p2464
+sa(dp2465
+g2
+S'2015-12-06'
+p2466
+sg4
+Vaapl apple, inc. current price URL $aapl $tlt $fnma $glng aapl nasdaq finance
+p2467
+sg6
+S'11:32:34'
+p2468
+sg8
+Vlookn4wins
+p2469
+sa(dp2470
+g2
+S'2015-12-06'
+p2471
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p2472
+sg6
+S'11:25:55'
+p2473
+sg8
+VFinBuzz
+p2474
+sa(dp2475
+g2
+S'2015-12-06'
+p2476
+sg4
+Vrt AT_USER track trending assets in 1 watchlist $aapl $goog $paa $usdcad $usdjpy URL URL
+p2477
+sg6
+S'11:17:58'
+p2478
+sg8
+VJames DiPlata
+p2479
+sa(dp2480
+g2
+S'2015-12-06'
+p2481
+sg4
+Vrt AT_USER the grand unified theory of apple products URL $aapl
+p2482
+sg6
+S'11:17:58'
+p2483
+sg8
+VJames DiPlata
+p2484
+sa(dp2485
+g2
+S'2015-12-06'
+p2486
+sg4
+Vrt AT_USER tickers trending on twtr in last 1 hour greferendum $aapl $googl $paa $usdjpy URL URL
+p2487
+sg6
+S'11:17:58'
+p2488
+sg8
+VJames DiPlata
+p2489
+sa(dp2490
+g2
+S'2015-12-06'
+p2491
+sg4
+Vrt AT_USER how to make a living daytrading URL $spy $twtr $gpro $aapl $fb $tsla URL
+p2492
+sg6
+S'11:17:57'
+p2493
+sg8
+VJames DiPlata
+p2494
+sa(dp2495
+g2
+S'2015-12-06'
+p2496
+sg4
+Vrt AT_USER key pocket pivot point signals in high-quality stocks following friday's session: $schw $swhc $c $aapl $ba $lea $away $\u2026
+p2497
+sg6
+S'11:06:45'
+p2498
+sg8
+Vodette schaad
+p2499
+sa(dp2500
+g2
+S'2015-12-06'
+p2501
+sg4
+V%stocks&gt;40dma=43.2%. more than just another stock market rebound. URL $spy $svxy vix $nflx $aapl t2108
+p2502
+sg6
+S'11:05:56'
+p2503
+sg8
+VDr. Duru
+p2504
+sa(dp2505
+g2
+S'2015-12-06'
+p2506
+sg4
+Vart stopmotion loopingvine $twtr $goog $aapl sketch URL
+p2507
+sg6
+S'11:05:02'
+p2508
+sg8
+VPSYCHOOO6
+p2509
+sa(dp2510
+g2
+S'2015-12-06'
+p2511
+sg4
+Vrt AT_USER my portfolio compared to the dow jones, nasdaq &amp; s&amp;p500 $twtr , $aapl, $bud, $abbv, $dis, $glncy, $ryaay, $bmw ;) URL
+p2512
+sg6
+S'11:03:53'
+p2513
+sg8
+VEnergy Shots
+p2514
+sa(dp2515
+g2
+S'2015-12-06'
+p2516
+sg4
+Vrt AT_USER video URL stock market analysis for 12/4/15 $spy $gpro $twtr $aapl $amzn $ibb URL
+p2517
+sg6
+S'11:02:57'
+p2518
+sg8
+VDamian Baker
+p2519
+sa(dp2520
+g2
+S'2015-12-06'
+p2521
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p2522
+sg6
+S'11:02:09'
+p2523
+sg8
+VFinBuzz
+p2524
+sa(dp2525
+g2
+S'2015-12-06'
+p2526
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2527
+sg6
+S'10:59:39'
+p2528
+sg8
+VMathieu Buffenoir
+p2529
+sa(dp2530
+g2
+S'2015-12-06'
+p2531
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $fb $paa $usdcad $usdjpy URL URL
+p2532
+sg6
+S'10:57:02'
+p2533
+sg8
+VFinBuzz
+p2534
+sa(dp2535
+g2
+S'2015-12-06'
+p2536
+sg4
+Vrt AT_USER video URL stock market analysis for 12/4/15 $spy $gpro $twtr $aapl $amzn $ibb URL
+p2537
+sg6
+S'10:54:20'
+p2538
+sg8
+VAlex K
+p2539
+sa(dp2540
+g2
+S'2015-12-06'
+p2541
+sg4
+Vnuan nvidia corp. stock forum URL $nuan $jblu $aapl $dis nuan finance finance
+p2542
+sg6
+S'10:46:07'
+p2543
+sg8
+Vnasdaqfan
+p2544
+sa(dp2545
+g2
+S'2015-12-06'
+p2546
+sg4
+Vrt AT_USER video URL stock market analysis for 12/4/15 $spy $gpro $twtr $aapl $amzn $ibb URL
+p2547
+sg6
+S'10:42:49'
+p2548
+sg8
+VTammy Freville
+p2549
+sa(dp2550
+g2
+S'2015-12-06'
+p2551
+sg4
+Vdba db commodities tracking index fund current price URL $dba $swi $aapl $nuan dba stocks stocks
+p2552
+sg6
+S'10:37:14'
+p2553
+sg8
+Vnasdaqfan
+p2554
+sa(dp2555
+g2
+S'2015-12-06'
+p2556
+sg4
+Vtrack trending assets in 1 watchlist $aapl $goog $paa $usdcad $usdjpy URL URL
+p2557
+sg6
+S'10:37:03'
+p2558
+sg8
+VFinBuzz
+p2559
+sa(dp2560
+g2
+S'2015-12-06'
+p2561
+sg4
+Vthe grand unified theory of apple products URL $aapl
+p2562
+sg6
+S'10:34:17'
+p2563
+sg8
+VVintage Allies
+p2564
+sa(dp2565
+g2
+S'2015-12-06'
+p2566
+sg4
+Vrt AT_USER $aapl i think the options i mentioned i would look for 1.60 to 1.70 if you don't already have a position. look to add ~2pm \u2026
+p2567
+sg6
+S'10:27:19'
+p2568
+sg8
+VGet R Dun
+p2569
+sa(dp2570
+g2
+S'2015-12-06'
+p2571
+sg4
+Vrt AT_USER why you shouldn't hold a grudge against a stock | shareplanner URL stocks trading $spx $upro $aapl\u2026
+p2572
+sg6
+S'10:24:07'
+p2573
+sg8
+VTrading Derivatives
+p2574
+sa(dp2575
+g2
+S'2015-12-06'
+p2576
+sg4
+Vtickers trending on twtr in last 1 hour greferendum $aapl $googl $paa $usdjpy URL URL
+p2577
+sg6
+S'10:18:42'
+p2578
+sg8
+VFinBuzz
+p2579
+sa(dp2580
+g2
+S'2015-12-06'
+p2581
+sg4
+Vhow to make a living daytrading URL $spy $twtr $gpro $aapl $fb $tsla URL
+p2582
+sg6
+S'10:16:50'
+p2583
+sg8
+VZona Harrison
+p2584
+sa(dp2585
+g2
+S'2015-12-06'
+p2586
+sg4
+Vrt AT_USER now if $aapl doesn't lift with the market, i will toss that play.
+p2587
+sg6
+S'10:16:37'
+p2588
+sg8
+VParksani
+p2589
+sa(dp2590
+g2
+S'2015-12-06'
+p2591
+sg4
+Vrt AT_USER with all the money $aapl have, do you think they sould buy $tsla?
+p2592
+sg6
+S'10:16:27'
+p2593
+sg8
+VJames DiPlata
+p2594
+sa(dp2595
+g2
+S'2015-12-06'
+p2596
+sg4
+Vrt AT_USER $aapl: why apple (nasdaq:aapl) had such a great friday: URL
+p2597
+sg6
+S'10:16:27'
+p2598
+sg8
+VJames DiPlata
+p2599
+sa(dp2600
+g2
+S'2015-12-06'
+p2601
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2602
+sg6
+S'10:16:27'
+p2603
+sg8
+VJames DiPlata
+p2604
+sa(dp2605
+g2
+S'2015-12-06'
+p2606
+sg4
+Vrt AT_USER why you shouldn't hold a grudge against a stock | shareplanner URL stocks trading $spx $upro $aapl\u2026
+p2607
+sg6
+S'10:16:16'
+p2608
+sg8
+VCalifornia 
+p2609
+sa(dp2610
+g2
+S'2015-12-06'
+p2611
+sg4
+Vrt AT_USER $aapl $cx: stocks news analysis: apple inc. (nasdaq:aapl), cemex sab de \u2026: URL
+p2612
+sg6
+S'10:15:25'
+p2613
+sg8
+VMathias Paulsson
+p2614
+sa(dp2615
+g2
+S'2015-12-06'
+p2616
+sg4
+V$aapl the most absurd dominance ever URL URL
+p2617
+sg6
+S'10:14:31'
+p2618
+sg8
+VCapital Market Labs
+p2619
+sa(dp2620
+g2
+S'2015-12-06'
+p2621
+sg4
+Vrt AT_USER toptickertweets $gbsn $spy $aapl $asti $nflx fintech finserv URL 20151202-16:00
+p2622
+sg6
+S'10:14:05'
+p2623
+sg8
+V#SaveTheBees
+p2624
+sa(dp2625
+g2
+S'2015-12-06'
+p2626
+sg4
+Vrt AT_USER $aapl $cx: stocks news analysis: apple inc. (nasdaq:aapl), cemex sab de \u2026: URL
+p2627
+sg6
+S'10:13:50'
+p2628
+sg8
+VSandro Piancone
+p2629
+sa(dp2630
+g2
+S'2015-12-06'
+p2631
+sg4
+Vrt AT_USER $aapl selling 2/3 of the position here on the calls from yesterday. will hold the rest until eod. incredible move!
+p2632
+sg6
+S'10:13:00'
+p2633
+sg8
+VPensive
+p2634
+sa(dp2635
+g2
+S'2015-12-06'
+p2636
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2637
+sg6
+S'10:09:24'
+p2638
+sg8
+VGary
+p2639
+sa(dp2640
+g2
+S'2015-12-06'
+p2641
+sg4
+Vtrack curated news and tweets for multiple tickers - us tech giants URL $aapl $googl $msft $fb $twtr
+p2642
+sg6
+S'10:09:13'
+p2643
+sg8
+VFinBuzz
+p2644
+sa(dp2645
+g2
+S'2015-12-06'
+p2646
+sg4
+Vover the next 10 years, fortunes will be made $aapl $fb URL
+p2647
+sg6
+S'10:09:03'
+p2648
+sg8
+VTalkMarkets
+p2649
+sa(dp2650
+g2
+S'2015-12-06'
+p2651
+sg4
+Vrt AT_USER noah noah holdings ltd. 52wk high URL $noah $aapl $lly $fdn noah stockmarket stockmarket
+p2652
+sg6
+S'10:06:45'
+p2653
+sg8
+VZona Harrison
+p2654
+sa(dp2655
+g2
+S'2015-12-06'
+p2656
+sg4
+Vfree video: one day range leaders URL trading startups stock $aapl money investor angel
+p2657
+sg6
+S'10:00:08'
+p2658
+sg8
+VChayton Falke
+p2659
+sa(dp2660
+g2
+S'2015-12-06'
+p2661
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2662
+sg6
+S'09:58:21'
+p2663
+sg8
+VRodrigues, DN
+p2664
+sa(dp2665
+g2
+S'2015-12-06'
+p2666
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2667
+sg6
+S'09:57:57'
+p2668
+sg8
+VSnowripper1106
+p2669
+sa(dp2670
+g2
+S'2015-12-06'
+p2671
+sg4
+Vgain from movement in these buzzing assets greececrisis $aapl $googl $paa $usdjpy URL URL
+p2672
+sg6
+S'09:57:18'
+p2673
+sg8
+VFinBuzz
+p2674
+sa(dp2675
+g2
+S'2015-12-06'
+p2676
+sg4
+Vrt AT_USER most important steps for beginners to get started daytrading URL $spy $dia $tsla $fb $aapl $iwm http\u2026
+p2677
+sg6
+S'09:55:54'
+p2678
+sg8
+VMercantile Global
+p2679
+sa(dp2680
+g2
+S'2015-12-06'
+p2681
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2682
+sg6
+S'09:55:12'
+p2683
+sg8
+Veric addison
+p2684
+sa(dp2685
+g2
+S'2015-12-06'
+p2686
+sg4
+Vrt AT_USER most important steps for beginners to get started daytrading URL $spy $dia $tsla $fb $aapl $iwm http\u2026
+p2687
+sg6
+S'09:52:44'
+p2688
+sg8
+ViTaz
+p2689
+sa(dp2690
+g2
+S'2015-12-06'
+p2691
+sg4
+Vrt AT_USER is mediocre overhyped apple really worth 700 billion? $aapl $msft $sne $amzn URL AT_USER URL
+p2692
+sg6
+S'09:51:35'
+p2693
+sg8
+VAndreas Andersen
+p2694
+sa(dp2695
+g2
+S'2015-12-06'
+p2696
+sg4
+Vmost important steps for beginners to get started daytrading URL $spy $dia $tsla $fb $aapl $iwm URL
+p2697
+sg6
+S'09:51:05'
+p2698
+sg8
+VSwing Trade Warrior
+p2699
+sa(dp2700
+g2
+S'2015-12-06'
+p2701
+sg4
+Vwen wmi holdings corp. day high URL $wen $cod.l $gdxj $aapl wen invest investing
+p2702
+sg6
+S'09:50:33'
+p2703
+sg8
+VIH News Desk
+p2704
+sa(dp2705
+g2
+S'2015-12-06'
+p2706
+sg4
+V$aapl - samsung to pay apple during patent dispute URL
+p2707
+sg6
+S'09:49:10'
+p2708
+sg8
+VLive Stock News
+p2709
+sa(dp2710
+g2
+S'2015-12-06'
+p2711
+sg4
+V$aapl - will the iphone 7 ditch a headphone jack? URL
+p2712
+sg6
+S'09:49:04'
+p2713
+sg8
+VLive Stock News
+p2714
+sa(dp2715
+g2
+S'2015-12-06'
+p2716
+sg4
+V$aapl - will the iphone 7 ditch a headphone jack? URL
+p2717
+sg6
+S'09:49:00'
+p2718
+sg8
+Vmatt collom
+p2719
+sa(dp2720
+g2
+S'2015-12-06'
+p2721
+sg4
+Vrt AT_USER rt AT_USER insider weekends - november 6, 2015 URL $hway $oln $kmi $axdx $nlsn $fb $aapl $now $bl\u2026
+p2722
+sg6
+S'09:45:44'
+p2723
+sg8
+Varnette baine
+p2724
+sa(dp2725
+g2
+S'2015-12-06'
+p2726
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2727
+sg6
+S'09:44:46'
+p2728
+sg8
+VCulture, Tech & Asia
+p2729
+sa(dp2730
+g2
+S'2015-12-06'
+p2731
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2732
+sg6
+S'09:37:44'
+p2733
+sg8
+VRey Poullard
+p2734
+sa(dp2735
+g2
+S'2015-12-06'
+p2736
+sg4
+Vis mediocre overhyped apple really worth 700 billion? $aapl $msft $sne $amzn URL AT_USER URL
+p2737
+sg6
+S'09:35:53'
+p2738
+sg8
+VAndreas Cseh
+p2739
+sa(dp2740
+g2
+S'2015-12-06'
+p2741
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2742
+sg6
+S'09:32:11'
+p2743
+sg8
+VNASDAQStocks
+p2744
+sa(dp2745
+g2
+S'2015-12-06'
+p2746
+sg4
+Vwhy apple (nasdaq:aapl) had such a great friday URL $aapl
+p2747
+sg6
+S'09:30:57'
+p2748
+sg8
+VTickerLens Apple
+p2749
+sa(dp2750
+g2
+S'2015-12-06'
+p2751
+sg4
+Vapple inc. (aapl)\u2019s launch of smartphone 2016- iphone 7 rumors URL $aapl
+p2752
+sg6
+S'09:30:57'
+p2753
+sg8
+VTickerLens Apple
+p2754
+sa(dp2755
+g2
+S'2015-12-06'
+p2756
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2757
+sg6
+S'09:30:00'
+p2758
+sg8
+VAppleDistilled
+p2759
+sa(dp2760
+g2
+S'2015-12-06'
+p2761
+sg4
+Vrt AT_USER most important steps to daytrading! stocks $spy $dia $tsla $aapl $grpn $fb $uso $gpro $iwm URL h\u2026
+p2762
+sg6
+S'09:29:53'
+p2763
+sg8
+VBull&Bear Trading
+p2764
+sa(dp2765
+g2
+S'2015-12-06'
+p2766
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2767
+sg6
+S'09:29:29'
+p2768
+sg8
+VQore
+p2769
+sa(dp2770
+g2
+S'2015-12-06'
+p2771
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2772
+sg6
+S'09:28:45'
+p2773
+sg8
+VMax Keiser
+p2774
+sa(dp2775
+g2
+S'2015-12-06'
+p2776
+sg4
+Vmost important steps to daytrading! stocks $spy $dia $tsla $aapl $grpn $fb $uso $gpro $iwm URL URL
+p2777
+sg6
+S'09:25:01'
+p2778
+sg8
+VWarrior Trading News
+p2779
+sa(dp2780
+g2
+S'2015-12-06'
+p2781
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2782
+sg6
+S'09:23:22'
+p2783
+sg8
+VHarry D. Bean
+p2784
+sa(dp2785
+g2
+S'2015-12-06'
+p2786
+sg4
+Vrt AT_USER awesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2787
+sg6
+S'09:22:36'
+p2788
+sg8
+VAndreas Andersen
+p2789
+sa(dp2790
+g2
+S'2015-12-06'
+p2791
+sg4
+Vawesome applepay is showing signs, it could be a flop $aapl URL AT_USER AT_USER URL
+p2792
+sg6
+S'09:22:01'
+p2793
+sg8
+VAndreas Cseh
+p2794
+sa(dp2795
+g2
+S'2015-12-06'
+p2796
+sg4
+Vwith all the money $aapl have, do you think they sould buy $tsla?
+p2797
+sg6
+S'09:18:01'
+p2798
+sg8
+VRami Alnajjar \u265e
+p2799
+sa(dp2800
+g2
+S'2015-12-06'
+p2801
+sg4
+V$aapl: why apple (nasdaq:aapl) had such a great friday: URL
+p2802
+sg6
+S'09:17:02'
+p2803
+sg8
+VBreaking News
+p2804
+sa(dp2805
+g2
+S'2015-12-06'
+p2806
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2807
+sg6
+S'09:16:40'
+p2808
+sg8
+VMarijuanacharts
+p2809
+sa(dp2810
+g2
+S'2015-12-06'
+p2811
+sg4
+Vrt AT_USER the future of smartwatches, they all gonna end up in cheap stores for $10 applewatch androidwear $googl $aapl URL
+p2812
+sg6
+S'09:15:51'
+p2813
+sg8
+VAndreas Andersen
+p2814
+sa(dp2815
+g2
+S'2015-12-06'
+p2816
+sg4
+Vrt AT_USER gain from movement in these buzzing assets $aapl $expe $googl $mat URL URL
+p2817
+sg6
+S'09:15:24'
+p2818
+sg8
+VJames DiPlata
+p2819
+sa(dp2820
+g2
+S'2015-12-06'
+p2821
+sg4
+Vrt AT_USER xabcd calculator v1-3 now support xabcd patterns, free for members : URL $spy $es $spx $aapl $fb $a\u2026
+p2822
+sg6
+S'09:15:23'
+p2823
+sg8
+VJames DiPlata
+p2824
+sa(dp2825
+g2
+S'2015-12-06'
+p2826
+sg4
+Vrt AT_USER millionaire trading student URL made millions learning to trade from URL $aapl $c\u2026
+p2827
+sg6
+S'09:15:23'
+p2828
+sg8
+VJames DiPlata
+p2829
+sa(dp2830
+g2
+S'2015-12-06'
+p2831
+sg4
+Vrt AT_USER microsoft beats apple in online tablet sales $msft $aapl ipadpro surfacepro4 URL AT_USER https\u2026
+p2832
+sg6
+S'09:14:54'
+p2833
+sg8
+VAndreas Andersen
+p2834
+sa(dp2835
+g2
+S'2015-12-06'
+p2836
+sg4
+Vtrack trending assets in 1 watchlist $aapl $expe $goog URL URL
+p2837
+sg6
+S'09:01:01'
+p2838
+sg8
+VFinBuzz
+p2839
+sa(dp2840
+g2
+S'2015-12-06'
+p2841
+sg4
+Vmicrosoft beats apple in online tablet sales $msft $aapl ipadpro surfacepro4 URL AT_USER URL
+p2842
+sg6
+S'09:00:22'
+p2843
+sg8
+VAndreas Cseh
+p2844
+sa(dp2845
+g2
+S'2015-12-06'
+p2846
+sg4
+Vtriforcetrader interview: see how he is on track to a million $$ in profits first year trading!: URL $aapl $xoma $visn
+p2847
+sg6
+S'08:58:15'
+p2848
+sg8
+VTrader4Life83
+p2849
+sa(dp2850
+g2
+S'2015-12-06'
+p2851
+sg4
+Vrt AT_USER my $aapl update video from friday: URL
+p2852
+sg6
+S'08:51:53'
+p2853
+sg8
+VTraders Club
+p2854
+sa(dp2855
+g2
+S'2015-12-06'
+p2856
+sg4
+Vit's a ceo 'thang' URL URL stocks trading investing $fb $aapl
+p2857
+sg6
+S'08:49:36'
+p2858
+sg8
+VJohn Lee
+p2859
+sa(dp2860
+g2
+S'2015-12-06'
+p2861
+sg4
+Vkinder morgan: what to make of last week's carnage URL URL stocks trading investing $fb $aapl
+p2862
+sg6
+S'08:49:34'
+p2863
+sg8
+VJohn Lee
+p2864
+sa(dp2865
+g2
+S'2015-12-06'
+p2866
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $expe $goog $mat URL URL
+p2867
+sg6
+S'08:36:45'
+p2868
+sg8
+VFinBuzz
+p2869
+sa(dp2870
+g2
+S'2015-12-06'
+p2871
+sg4
+Vaapl apple, inc. stock message board URL $aapl $fru.to $nrz $mhk aapl share share
+p2872
+sg6
+S'08:32:32'
+p2873
+sg8
+Vleahanne
+p2874
+sa(dp2875
+g2
+S'2015-12-06'
+p2876
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p2877
+sg6
+S'08:24:01'
+p2878
+sg8
+VFinBuzz
+p2879
+sa(dp2880
+g2
+S'2015-12-06'
+p2881
+sg4
+Vgain from movement in these buzzing assets $aapl $expe $googl $mat URL URL
+p2882
+sg6
+S'08:19:10'
+p2883
+sg8
+VFinBuzz
+p2884
+sa(dp2885
+g2
+S'2015-12-06'
+p2886
+sg4
+Vxabcd calculator v1-3 now support xabcd patterns, free for members : URL $spy $es $spx $aapl $fb $amzn $nflx $tsla $goog
+p2887
+sg6
+S'08:17:51'
+p2888
+sg8
+VPtheGr8
+p2889
+sa(dp2890
+g2
+S'2015-12-06'
+p2891
+sg4
+Vmillionaire trading student URL made millions learning to trade from URL $aapl $cnat $icpt
+p2892
+sg6
+S'08:16:12'
+p2893
+sg8
+VRussell Barbour
+p2894
+sa(dp2895
+g2
+S'2015-12-06'
+p2896
+sg4
+Vrt AT_USER $aapl - 1 slideshow apple investors should see right now URL
+p2897
+sg6
+S'08:08:40'
+p2898
+sg8
+VJames DiPlata
+p2899
+sa(dp2900
+g2
+S'2015-12-06'
+p2901
+sg4
+Vrt AT_USER $aapl - hybrids, windows 10 may finally push tablet sales to microsoft URL
+p2902
+sg6
+S'08:08:40'
+p2903
+sg8
+VJames DiPlata
+p2904
+sa(dp2905
+g2
+S'2015-12-06'
+p2906
+sg4
+Vrt AT_USER $aapl - here's what avago just told us about apple iphone 6s/6s plus demand URL
+p2907
+sg6
+S'08:08:39'
+p2908
+sg8
+VJames DiPlata
+p2909
+sa(dp2910
+g2
+S'2015-12-06'
+p2911
+sg4
+Vrt AT_USER $aapl - 1 slideshow apple investors should see right now URL
+p2912
+sg6
+S'08:08:39'
+p2913
+sg8
+VJames DiPlata
+p2914
+sa(dp2915
+g2
+S'2015-12-06'
+p2916
+sg4
+Vrt AT_USER $aapl - hybrids, windows 10 may finally push tablet sales to microsoft URL
+p2917
+sg6
+S'08:08:39'
+p2918
+sg8
+VJames DiPlata
+p2919
+sa(dp2920
+g2
+S'2015-12-06'
+p2921
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p2922
+sg6
+S'08:05:35'
+p2923
+sg8
+VFinBuzz
+p2924
+sa(dp2925
+g2
+S'2015-12-06'
+p2926
+sg4
+Vaccess curated tweets- high relevancy, less spam - us tech giants URL $aapl $googl $msft $fb $twtr
+p2927
+sg6
+S'08:02:29'
+p2928
+sg8
+VFinBuzz
+p2929
+sa(dp2930
+g2
+S'2015-12-06'
+p2931
+sg4
+Vthese assets are seeing a jump in tweets $aapl $expe $hban $mat URL URL
+p2932
+sg6
+S'07:56:03'
+p2933
+sg8
+VFinBuzz
+p2934
+sa(dp2935
+g2
+S'2015-12-06'
+p2936
+sg4
+Vgamestop supports apple pay. cowboys with horses alongside trains. $gme $aapl
+p2937
+sg6
+S'07:55:31'
+p2938
+sg8
+Vinnerscorecard
+p2939
+sa(dp2940
+g2
+S'2015-12-06'
+p2941
+sg4
+V$nflx and $aapl going to have great moves next week.
+p2942
+sg6
+S'07:51:46'
+p2943
+sg8
+VDay Trader
+p2944
+sa(dp2945
+g2
+S'2015-12-06'
+p2946
+sg4
+Vsmartphone growth is slowing. that\u2019s great news for apple URL $aapl business iphone6s URL
+p2947
+sg6
+S'07:47:06'
+p2948
+sg8
+VPlanetOption
+p2949
+sa(dp2950
+g2
+S'2015-12-06'
+p2951
+sg4
+Vimsc implant sciences corp. ideas URL $imsc $ibm $aapl $gmrinfra.in imsc tradeideas invest
+p2952
+sg6
+S'07:43:10'
+p2953
+sg8
+Vlookn4wins
+p2954
+sa(dp2955
+g2
+S'2015-12-06'
+p2956
+sg4
+Vaapl apple, inc. summary URL $aapl $rai $sap.to $ryf aapl investing stockmarket
+p2957
+sg6
+S'07:33:03'
+p2958
+sg8
+Vclayton
+p2959
+sa(dp2960
+g2
+S'2015-12-06'
+p2961
+sg4
+Vcan you heat a cup of water in the microwave? then you can learn to trade $aapl for free URL
+p2962
+sg6
+S'07:30:08'
+p2963
+sg8
+VChayton Falke
+p2964
+sa(dp2965
+g2
+S'2015-12-06'
+p2966
+sg4
+Vis google about to steal apple\u2019s best new iphone 6s feature? URL via AT_USER $aapl $goog
+p2967
+sg6
+S'07:29:54'
+p2968
+sg8
+Vluckypete
+p2969
+sa(dp2970
+g2
+S'2015-12-06'
+p2971
+sg4
+V$aapl 867moneytime: proud owner of 489 shares as of this: 867moneytime URL
+p2972
+sg6
+S'07:26:58'
+p2973
+sg8
+VNASDAQStocks
+p2974
+sa(dp2975
+g2
+S'2015-12-06'
+p2976
+sg4
+V$aapl 867moneytime: proud owner of 489 shares as of this: 867moneytime URL
+p2977
+sg6
+S'07:26:58'
+p2978
+sg8
+V528InvestorRelations
+p2979
+sa(dp2980
+g2
+S'2015-12-06'
+p2981
+sg4
+V$aapl - here's what avago just told us about apple iphone 6s/6s plus demand URL
+p2982
+sg6
+S'07:05:13'
+p2983
+sg8
+VLive Stock News
+p2984
+sa(dp2985
+g2
+S'2015-12-06'
+p2986
+sg4
+V$aapl - 1 slideshow apple investors should see right now URL
+p2987
+sg6
+S'07:05:13'
+p2988
+sg8
+VLive Stock News
+p2989
+sa(dp2990
+g2
+S'2015-12-06'
+p2991
+sg4
+V$aapl - hybrids, windows 10 may finally push tablet sales to microsoft URL
+p2992
+sg6
+S'07:05:09'
+p2993
+sg8
+VLive Stock News
+p2994
+sa(dp2995
+g2
+S'2015-12-06'
+p2996
+sg4
+V$aapl - here's what avago just told us about apple iphone 6s/6s plus demand URL
+p2997
+sg6
+S'07:05:04'
+p2998
+sg8
+Vmatt collom
+p2999
+sa(dp3000
+g2
+S'2015-12-06'
+p3001
+sg4
+V$aapl - 1 slideshow apple investors should see right now URL
+p3002
+sg6
+S'07:05:04'
+p3003
+sg8
+Vmatt collom
+p3004
+sa(dp3005
+g2
+S'2015-12-06'
+p3006
+sg4
+V$aapl - hybrids, windows 10 may finally push tablet sales to microsoft URL
+p3007
+sg6
+S'07:05:01'
+p3008
+sg8
+Vmatt collom
+p3009
+sa(dp3010
+g2
+S'2015-12-06'
+p3011
+sg4
+Vrt AT_USER the closing bell is out! URL $eurusd $gbpusd $usdjpy $audusd $spy $twtr $gpro $yhoo $lnkd $fb $aapl $brd $ca\u2026
+p3012
+sg6
+S'07:02:08'
+p3013
+sg8
+VJames DiPlata
+p3014
+sa(dp3015
+g2
+S'2015-12-06'
+p3016
+sg4
+Vrt AT_USER users once again say itunes match/apple music upload limits raised over\u2026 URL apple \u2022 $aapl URL
+p3017
+sg6
+S'07:02:08'
+p3018
+sg8
+VJames DiPlata
+p3019
+sa(dp3020
+g2
+S'2015-12-06'
+p3021
+sg4
+Vrt AT_USER for the nightowls doing research on $aapl... see why next leg for all time highs could be around the corner URL
+p3022
+sg6
+S'07:02:08'
+p3023
+sg8
+VJames DiPlata
+p3024
+sa(dp3025
+g2
+S'2015-12-06'
+p3026
+sg4
+Vrt AT_USER see why these assets are trending in 1 watchlist $aapl $dal $googl $igm $pep URL URL
+p3027
+sg6
+S'07:02:08'
+p3028
+sg8
+VJames DiPlata
+p3029
+sa(dp3030
+g2
+S'2015-12-06'
+p3031
+sg4
+Vrt AT_USER users once again say itunes match/apple music upload limits raised over\u2026 URL apple \u2022 $aapl URL
+p3032
+sg6
+S'06:59:27'
+p3033
+sg8
+VBaduna
+p3034
+sa(dp3035
+g2
+S'2015-12-06'
+p3036
+sg4
+Vsamsung to finally pay apple $548m in patent dispute URL patent business $aapl URL
+p3037
+sg6
+S'06:55:08'
+p3038
+sg8
+VPlanetOption
+p3039
+sa(dp3040
+g2
+S'2015-12-06'
+p3041
+sg4
+Vzsl proshares ultrashort silver ask URL $zsl $xlv $aapl $frme zsl share pennystocks
+p3042
+sg6
+S'06:52:39'
+p3043
+sg8
+VInvestors Hangout
+p3044
+sa(dp3045
+g2
+S'2015-12-06'
+p3046
+sg4
+Vzsl proshares ultrashort silver ask URL $zsl $xlv $aapl $frme zsl share pennystocks
+p3047
+sg6
+S'06:52:39'
+p3048
+sg8
+VInvestors Hangout
+p3049
+sa(dp3050
+g2
+S'2015-12-06'
+p3051
+sg4
+Vfree video: understanding the 30-minute market update URL trading startups stock $aapl money investor angel
+p3052
+sg6
+S'06:30:09'
+p3053
+sg8
+VChayton Falke
+p3054
+sa(dp3055
+g2
+S'2015-12-06'
+p3056
+sg4
+Vjust keep swinging in the flappy bird-like arcade game spider square URL appadvice $aapl URL
+p3057
+sg6
+S'06:30:07'
+p3058
+sg8
+VMacHash
+p3059
+sa(dp3060
+g2
+S'2015-12-06'
+p3061
+sg4
+Vthe closing bell is out! URL $eurusd $gbpusd $usdjpy $audusd $spy $twtr $gpro $yhoo $lnkd $fb $aapl $brd $cat $wlt $lnkd
+p3062
+sg6
+S'06:27:03'
+p3063
+sg8
+VTheClosingBell
+p3064
+sa(dp3065
+g2
+S'2015-12-06'
+p3066
+sg4
+Vusers once again say itunes match/apple music upload limits raised over\u2026 URL apple \u2022 $aapl URL
+p3067
+sg6
+S'06:24:07'
+p3068
+sg8
+V#SocialMedia NC
+p3069
+sa(dp3070
+g2
+S'2015-12-06'
+p3071
+sg4
+Vrt AT_USER $msft $aapl $sne $has $mat top sellers on black friday: samsung tv, ipad air 2, xbox, star wars lego, shop kin dolls, barb\u2026
+p3072
+sg6
+S'06:19:11'
+p3073
+sg8
+VSharitarcxw
+p3074
+sa(dp3075
+g2
+S'2015-12-06'
+p3076
+sg4
+Vrt AT_USER five stocks in s&amp;p 500 have generated &gt; 100% of 2015 return. narrow markets = danger... $fb $amzn $aapl $msft googl URL
+p3077
+sg6
+S'06:18:05'
+p3078
+sg8
+VVictor Zhao
+p3079
+sa(dp3080
+g2
+S'2015-12-06'
+p3081
+sg4
+Vfor the nightowls doing research on $aapl... see why next leg for all time highs could be around the corner URL
+p3082
+sg6
+S'06:13:22'
+p3083
+sg8
+VAll Day Holds
+p3084
+sa(dp3085
+g2
+S'2015-12-06'
+p3086
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $dal $googl $igm $pep URL URL
+p3087
+sg6
+S'06:02:43'
+p3088
+sg8
+VFinBuzz
+p3089
+sa(dp3090
+g2
+S'2015-12-06'
+p3091
+sg4
+Vrt AT_USER $aapl kick1: i'm buying more! $aapl ;): kick1 URL
+p3092
+sg6
+S'05:59:54'
+p3093
+sg8
+VJames DiPlata
+p3094
+sa(dp3095
+g2
+S'2015-12-06'
+p3096
+sg4
+Vrt AT_USER get the latest information for $all $vtcq $gbsn $ltnc $aapl $lqmt $cmgo on URL
+p3097
+sg6
+S'05:59:54'
+p3098
+sg8
+VJames DiPlata
+p3099
+sa(dp3100
+g2
+S'2015-12-06'
+p3101
+sg4
+Vrt AT_USER users once again say itunes match/apple music upload limits raised over\u2026 URL appleinsider $aapl https\u2026
+p3102
+sg6
+S'05:59:54'
+p3103
+sg8
+VJames DiPlata
+p3104
+sa(dp3105
+g2
+S'2015-12-06'
+p3106
+sg4
+Vthe average joes of the dow URL URL stocks trading investing $fb $aapl
+p3107
+sg6
+S'05:49:29'
+p3108
+sg8
+VJohn Lee
+p3109
+sa(dp3110
+g2
+S'2015-12-06'
+p3111
+sg4
+Vrt AT_USER i drew this $aapl line weeks ago. proof that nothing has changed. trade a thesis not sentiment. URL
+p3112
+sg6
+S'05:39:42'
+p3113
+sg8
+Vsam
+p3114
+sa(dp3115
+g2
+S'2015-12-06'
+p3116
+sg4
+Vthe grand unified theory of apple products $aapl URL
+p3117
+sg6
+S'05:37:38'
+p3118
+sg8
+VMarko V
+p3119
+sa(dp3120
+g2
+S'2015-12-06'
+p3121
+sg4
+V$aapl $twtr $fit and 20,000+ other symbol streams on URL the discovery engine, social network for investors. stocks
+p3122
+sg6
+S'05:36:38'
+p3123
+sg8
+VSpeculatingStocks
+p3124
+sa(dp3125
+g2
+S'2015-12-06'
+p3126
+sg4
+Vsamsung to finally pay apple $548 million in patent dispute URL $aapl
+p3127
+sg6
+S'05:28:55'
+p3128
+sg8
+Vstockerblog
+p3129
+sa(dp3130
+g2
+S'2015-12-06'
+p3131
+sg4
+Vamazon's comixology now lets you read comics from your kindle library URL appadvice $aapl URL
+p3132
+sg6
+S'05:28:35'
+p3133
+sg8
+VMacHash
+p3134
+sa(dp3135
+g2
+S'2015-12-06'
+p3136
+sg4
+V$aapl &amp; social media URL
+p3137
+sg6
+S'05:24:56'
+p3138
+sg8
+VEternity101
+p3139
+sa(dp3140
+g2
+S'2015-12-06'
+p3141
+sg4
+Vwill $aapl approve of the name of my next game: "adam fell because of apple"? joking gamedev
+p3142
+sg6
+S'05:24:52'
+p3143
+sg8
+V.t
+p3144
+sa(dp3145
+g2
+S'2015-12-06'
+p3146
+sg4
+Vrt AT_USER cityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p3147
+sg6
+S'05:20:53'
+p3148
+sg8
+VBig Data Tweet
+p3149
+sa(dp3150
+g2
+S'2015-12-06'
+p3151
+sg4
+Vrt AT_USER why you shouldn't hold a grudge against a stock | shareplanner URL stocks trading $spx $upro $aapl\u2026
+p3152
+sg6
+S'05:20:34'
+p3153
+sg8
+VEdgar
+p3154
+sa(dp3155
+g2
+S'2015-12-06'
+p3156
+sg4
+Vrt AT_USER $aapl i think the options i mentioned i would look for 1.60 to 1.70 if you don't already have a position. look to add ~2pm \u2026
+p3157
+sg6
+S'05:16:33'
+p3158
+sg8
+VHenry R.
+p3159
+sa(dp3160
+g2
+S'2015-12-06'
+p3161
+sg4
+V$aapl the most absurd dominance ever URL URL
+p3162
+sg6
+S'05:14:34'
+p3163
+sg8
+VCapital Market Labs
+p3164
+sa(dp3165
+g2
+S'2015-12-06'
+p3166
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p3167
+sg6
+S'05:13:33'
+p3168
+sg8
+VFinBuzz
+p3169
+sa(dp3170
+g2
+S'2015-12-06'
+p3171
+sg4
+Vhere's a better chart showing the small cap december model. $spy $aapl $qqq $iwm URL URL
+p3172
+sg6
+S'05:10:13'
+p3173
+sg8
+VSKS1586
+p3174
+sa(dp3175
+g2
+S'2015-12-06'
+p3176
+sg4
+V$aapl kick1: i'm buying more! $aapl ;): kick1 URL
+p3177
+sg6
+S'05:10:07'
+p3178
+sg8
+VNASDAQStocks
+p3179
+sa(dp3180
+g2
+S'2015-12-06'
+p3181
+sg4
+V$aapl fletch: did you say $aapl up ......lol,: fletch URL
+p3182
+sg6
+S'05:10:07'
+p3183
+sg8
+VNASDAQStocks
+p3184
+sa(dp3185
+g2
+S'2015-12-06'
+p3186
+sg4
+V$aapl bakovic: sorry bag holder aapl is a great: bakovic URL
+p3187
+sg6
+S'05:10:06'
+p3188
+sg8
+VNASDAQStocks
+p3189
+sa(dp3190
+g2
+S'2015-12-06'
+p3191
+sg4
+V$aapl kick1: i'm buying more! $aapl ;): kick1 URL
+p3192
+sg6
+S'05:10:05'
+p3193
+sg8
+V528InvestorRelations
+p3194
+sa(dp3195
+g2
+S'2015-12-06'
+p3196
+sg4
+Vget the latest information for $all $vtcq $gbsn $ltnc $aapl $lqmt $cmgo on URL
+p3197
+sg6
+S'05:00:02'
+p3198
+sg8
+VDD Notes Maker
+p3199
+sa(dp3200
+g2
+S'2015-12-06'
+p3201
+sg4
+Vusers once again say itunes match/apple music upload limits raised over\u2026 URL appleinsider $aapl URL
+p3202
+sg6
+S'04:58:08'
+p3203
+sg8
+VMacHash
+p3204
+sa(dp3205
+g2
+S'2015-12-06'
+p3206
+sg4
+Vrt AT_USER fit fitbit, inc. change URL $fit $aapl $amzn $vti fit stockmarket stock
+p3207
+sg6
+S'04:57:51'
+p3208
+sg8
+VZoran Spirov
+p3209
+sa(dp3210
+g2
+S'2015-12-06'
+p3211
+sg4
+Vrt AT_USER [score] AT_USER via AT_USER $aapl $amzn $sne URL
+p3212
+sg6
+S'04:57:42'
+p3213
+sg8
+VRoku Rocks
+p3214
+sa(dp3215
+g2
+S'2015-12-06'
+p3216
+sg4
+Vrt AT_USER screen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p3217
+sg6
+S'04:57:33'
+p3218
+sg8
+VJames DiPlata
+p3219
+sa(dp3220
+g2
+S'2015-12-06'
+p3221
+sg4
+Vrt AT_USER find profitable stocks to trade with URL $aapl $avxl +74% URL $kbio $zumz $\u2026
+p3222
+sg6
+S'04:57:32'
+p3223
+sg8
+VJames DiPlata
+p3224
+sa(dp3225
+g2
+S'2015-12-06'
+p3226
+sg4
+Vrt AT_USER track trending assets in 1 watchlist $aapl $usdjpy URL
+p3227
+sg6
+S'04:57:32'
+p3228
+sg8
+VJames DiPlata
+p3229
+sa(dp3230
+g2
+S'2015-12-06'
+p3231
+sg4
+Vrt AT_USER [score] AT_USER via AT_USER $aapl $amzn $sne URL
+p3232
+sg6
+S'04:57:32'
+p3233
+sg8
+VJames DiPlata
+p3234
+sa(dp3235
+g2
+S'2015-12-06'
+p3236
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p3237
+sg6
+S'04:50:14'
+p3238
+sg8
+VFinBuzz
+p3239
+sa(dp3240
+g2
+S'2015-12-06'
+p3241
+sg4
+Vfinding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb URL
+p3242
+sg6
+S'04:49:01'
+p3243
+sg8
+VMike H
+p3244
+sa(dp3245
+g2
+S'2015-12-06'
+p3246
+sg4
+V$aapl charts - technical analysis video - URL $
+p3247
+sg6
+S'04:47:24'
+p3248
+sg8
+VOspreyeye
+p3249
+sa(dp3250
+g2
+S'2015-12-06'
+p3251
+sg4
+Vwhat is it ahead for us tech giants? check what analysts have to say $goog $twtr $aapl URL URL
+p3252
+sg6
+S'04:46:57'
+p3253
+sg8
+VFinBuzz
+p3254
+sa(dp3255
+g2
+S'2015-12-06'
+p3256
+sg4
+Vrt AT_USER my number one pick for short and longer term is $snr.11%+ yield,$100 million buyback announced and earning dividend. $\u2026
+p3257
+sg6
+S'04:39:55'
+p3258
+sg8
+VAngry trader
+p3259
+sa(dp3260
+g2
+S'2015-12-06'
+p3261
+sg4
+Vfxe currency shares euro trust dividend URL $fxe $qld $cree $aapl fxe stock invest
+p3262
+sg6
+S'04:38:35'
+p3263
+sg8
+Vlookn4wins
+p3264
+sa(dp3265
+g2
+S'2015-12-06'
+p3266
+sg4
+Vfit fitbit, inc. change URL $fit $aapl $amzn $vti fit stockmarket stock
+p3267
+sg6
+S'04:38:05'
+p3268
+sg8
+VPolgarStocks
+p3269
+sa(dp3270
+g2
+S'2015-12-06'
+p3271
+sg4
+Vthese assets are seeing a jump in tweets $aapl $fb $googl $msft URL URL
+p3272
+sg6
+S'04:37:04'
+p3273
+sg8
+VFinBuzz
+p3274
+sa(dp3275
+g2
+S'2015-12-06'
+p3276
+sg4
+Vd/un.to dream office real estate investment trust last price URL $d/un.to $pfe $aapl $eqix d/un.to invest nasdaq
+p3277
+sg6
+S'04:36:04'
+p3278
+sg8
+VInvestors Hangout
+p3279
+sa(dp3280
+g2
+S'2015-12-06'
+p3281
+sg4
+Vaig american intl group, inc. message board posts URL $aig $3iinfotech.in $blta $aapl aig nasdaq tradeideas
+p3282
+sg6
+S'04:33:08'
+p3283
+sg8
+Vlookn4wins
+p3284
+sa(dp3285
+g2
+S'2015-12-06'
+p3286
+sg4
+Vaapl apple, inc. day low URL $aapl $ua $gig $apa aapl invest stock
+p3287
+sg6
+S'04:33:03'
+p3288
+sg8
+VEmylers
+p3289
+sa(dp3290
+g2
+S'2015-12-06'
+p3291
+sg4
+Vtrade $aapl free nightly updates are posted here on twitter, or you can visit the trade aapl free website here URL
+p3292
+sg6
+S'04:30:07'
+p3293
+sg8
+VChayton Falke
+p3294
+sa(dp3295
+g2
+S'2015-12-06'
+p3296
+sg4
+Vlast chance: to use $150 coupons on all of apple's 2015 imac 4k and\u2026 URL appleinsider $aapl URL
+p3297
+sg6
+S'04:27:35'
+p3298
+sg8
+VMacHash
+p3299
+sa(dp3300
+g2
+S'2015-12-06'
+p3301
+sg4
+V.AT_USER AT_USER AT_USER AT_USER made an $aapl prediction at $580 in 2013 before split \U0001f440 price\u2026\U0001f612\U0001f44d URL
+p3302
+sg6
+S'04:21:30'
+p3303
+sg8
+VKazonomics
+p3304
+sa(dp3305
+g2
+S'2015-12-06'
+p3306
+sg4
+Vrt URL rt stocksthatdoubl: find profitable stocks to trade with URL $aapl $avxl +74% \u2026
+p3307
+sg6
+S'04:16:41'
+p3308
+sg8
+VBinary Trader Pro
+p3309
+sa(dp3310
+g2
+S'2015-12-06'
+p3311
+sg4
+Vreal audio and video luxury @ URL - luxurylifestyle, nyc, shopping, $aapl URL
+p3312
+sg6
+S'04:16:20'
+p3313
+sg8
+VNYC Luxury
+p3314
+sa(dp3315
+g2
+S'2015-12-06'
+p3316
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $fb $googl $msft URL URL
+p3317
+sg6
+S'04:15:07'
+p3318
+sg8
+VFinBuzz
+p3319
+sa(dp3320
+g2
+S'2015-12-06'
+p3321
+sg4
+Vrt AT_USER find profitable stocks to trade with URL $aapl $avxl +74% URL $kbio $zumz $\u2026
+p3322
+sg6
+S'04:13:16'
+p3323
+sg8
+VTrading Derivatives
+p3324
+sa(dp3325
+g2
+S'2015-12-06'
+p3326
+sg4
+Vrt AT_USER $intc $msft news: "can microsoft compete with apple in devices? $aapl apple\u2026" URL analyze: https:/\u2026
+p3327
+sg6
+S'04:11:02'
+p3328
+sg8
+VGerald Tuel
+p3329
+sa(dp3330
+g2
+S'2015-12-06'
+p3331
+sg4
+V[score] AT_USER via AT_USER $aapl $goog $mot URL
+p3332
+sg6
+S'04:10:35'
+p3333
+sg8
+VAlphavisor
+p3334
+sa(dp3335
+g2
+S'2015-12-06'
+p3336
+sg4
+Vmonitor your watchlist of assets for tweets - us tech giants URL $aapl $googl $msft $fb $twtr
+p3337
+sg6
+S'04:09:13'
+p3338
+sg8
+VFinBuzz
+p3339
+sa(dp3340
+g2
+S'2015-12-06'
+p3341
+sg4
+Vover the next 10 years, fortunes will be made $aapl $fb URL
+p3342
+sg6
+S'04:09:02'
+p3343
+sg8
+VTalkMarkets Recap
+p3344
+sa(dp3345
+g2
+S'2015-12-06'
+p3346
+sg4
+Vrt AT_USER here's what donald trump tweeted about apple URL fortune $aapl
+p3347
+sg6
+S'04:05:36'
+p3348
+sg8
+VNew IPOs
+p3349
+sa(dp3350
+g2
+S'2015-12-06'
+p3351
+sg4
+V.AT_USER AT_USER AT_USER ummm\u2026dude u are wrong $aapl split 7/1 its technically $833 right now wtf are u talking about $89?\U0001f648
+p3352
+sg6
+S'04:03:59'
+p3353
+sg8
+VKazonomics
+p3354
+sa(dp3355
+g2
+S'2015-12-06'
+p3356
+sg4
+Vscreen through high rated articles for us tech kings at once $aapl $goog $fb URL URL
+p3357
+sg6
+S'04:02:15'
+p3358
+sg8
+VFinBuzz
+p3359
+sa(dp3360
+g2
+S'2015-12-06'
+p3361
+sg4
+Vfind profitable stocks to trade with URL $aapl $avxl +74% URL $kbio $zumz $live $atv $fro $gnvc
+p3362
+sg6
+S'04:01:23'
+p3363
+sg8
+VBilo Selhi
+p3364
+sa(dp3365
+g2
+S'2015-12-06'
+p3366
+sg4
+Vchayton falke\ufffd youtube channel URL trading startups stock $aapl money investor angel investoreducation capital
+p3367
+sg6
+S'04:00:11'
+p3368
+sg8
+VChayton Falke
+p3369
+sa(dp3370
+g2
+S'2015-12-06'
+p3371
+sg4
+Vtrack trending assets in 1 watchlist $aapl $usdjpy URL
+p3372
+sg6
+S'03:58:59'
+p3373
+sg8
+VFinBuzz
+p3374
+sa(dp3375
+g2
+S'2015-12-06'
+p3376
+sg4
+V[score] AT_USER via AT_USER $aapl $amzn $sne URL
+p3377
+sg6
+S'03:57:51'
+p3378
+sg8
+VAlphavisor
+p3379
+sa(dp3380
+g2
+S'2015-12-06'
+p3381
+sg4
+Vrt AT_USER URL &lt;&lt; test out jason bond stock picks for free! $fb $twtr $aapl $tsla
+p3382
+sg6
+S'03:56:05'
+p3383
+sg8
+VJames DiPlata
+p3384
+sa(dp3385
+g2
+S'2015-12-06'
+p3386
+sg4
+Vrt AT_USER tbt proshares ultrashort 20+ year treasury volume URL $tbt $sap.to $gdxj $aapl tbt stocks pennys\u2026
+p3387
+sg6
+S'03:48:49'
+p3388
+sg8
+VPenny Stocks Blog
+p3389
+sa(dp3390
+g2
+S'2015-12-06'
+p3391
+sg4
+Vtbt proshares ultrashort 20+ year treasury volume URL $tbt $sap.to $gdxj $aapl tbt stocks pennystocks
+p3392
+sg6
+S'03:47:33'
+p3393
+sg8
+VStock Forums
+p3394
+sa(dp3395
+g2
+S'2015-12-06'
+p3396
+sg4
+Vrt AT_USER aapl apple, inc. filings URL $aapl $cbds $alk $urty aapl tradeideas stocks
+p3397
+sg6
+S'03:45:12'
+p3398
+sg8
+VMathias Paulsson
+p3399
+sa(dp3400
+g2
+S'2015-12-06'
+p3401
+sg4
+Vaccess curated tweets- high relevancy, less spam - us tech giants URL $aapl $goog $msft $fb $twtr
+p3402
+sg6
+S'03:42:03'
+p3403
+sg8
+VFinBuzz
+p3404
+sa(dp3405
+g2
+S'2015-12-06'
+p3406
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $cmg $gmcr $nem $usdjpy URL URL
+p3407
+sg6
+S'03:39:02'
+p3408
+sg8
+VFinBuzz
+p3409
+sa(dp3410
+g2
+S'2015-12-06'
+p3411
+sg4
+Vaapl apple, inc. filings URL $aapl $cbds $alk $urty aapl tradeideas stocks
+p3412
+sg6
+S'03:33:03'
+p3413
+sg8
+VJake13
+p3414
+sa(dp3415
+g2
+S'2015-12-06'
+p3416
+sg4
+V{video} market recap 12-5-15 $spy $iwm $aapl $nflx $googl URL via AT_USER
+p3417
+sg6
+S'03:32:40'
+p3418
+sg8
+VEdward Gofsky
+p3419
+sa(dp3420
+g2
+S'2015-12-06'
+p3421
+sg4
+Vrt AT_USER enroll: build, grow, &amp; protect your money: a step-by-step guide URL $nflx $amzn $aapl $qqq URL
+p3422
+sg6
+S'03:27:50'
+p3423
+sg8
+VSamson
+p3424
+sa(dp3425
+g2
+S'2015-12-06'
+p3426
+sg4
+V$aapl traders cheat sheet URL
+p3427
+sg6
+S'03:26:30'
+p3428
+sg8
+VandrosForm
+p3429
+sa(dp3430
+g2
+S'2015-12-06'
+p3431
+sg4
+V$aapl - here's what avago just told us about apple iphone 6s/6s plus demand URL
+p3432
+sg6
+S'03:21:15'
+p3433
+sg8
+VLive Stock News
+p3434
+sa(dp3435
+g2
+S'2015-12-06'
+p3436
+sg4
+V$aapl - apple inc. iphone 7 specs: here's what to expect URL
+p3437
+sg6
+S'03:21:13'
+p3438
+sg8
+VLive Stock News
+p3439
+sa(dp3440
+g2
+S'2015-12-06'
+p3441
+sg4
+V$aapl - apple inc. iphone 7 specs: here's what to expect URL
+p3442
+sg6
+S'03:21:06'
+p3443
+sg8
+Vmatt collom
+p3444
+sa(dp3445
+g2
+S'2015-12-06'
+p3446
+sg4
+Vrt AT_USER finding the road to success in daytrading | URL rt $spy stocks $aapl $vrx $goog $twtr $fb https\u2026
+p3447
+sg6
+S'03:17:57'
+p3448
+sg8
+VFour Investimentos
+p3449
+sa(dp3450
+g2
+S'2015-12-06'
+p3451
+sg4
+Vstay ahead with nasdaq 100 news, views &amp; analysis $msft $aapl $goog URL URL
+p3452
+sg6
+S'03:17:57'
+p3453
+sg8
+VFinBuzz
+p3454
+sa(dp3455
+g2
+S'2015-12-06'
+p3456
+sg4
+Vrt AT_USER $aapl ... 119.40, 119.90. and then the open gap at 120.57. if an ab = cd is underway, the ~123 high will be tested. http\u2026
+p3457
+sg6
+S'03:09:47'
+p3458
+sg8
+VMatt K
+p3459
+sa(dp3460
+g2
+S'2015-12-06'
+p3461
+sg4
+Vetf update: a look back at november and 9 funds to kick off december: by sa editor caroly... URL $aapl invest apple
+p3462
+sg6
+S'03:02:40'
+p3463
+sg8
+VThe Stock Professor
+p3464
+sa(dp3465
+g2
+S'2015-12-06'
+p3466
+sg4
+VURL &lt;&lt; test out jason bond stock picks for free! $fb $twtr $aapl $tsla
+p3467
+sg6
+S'02:58:08'
+p3468
+sg8
+VRussell Barbour
+p3469
+sa(dp3470
+g2
+S'2015-12-06'
+p3471
+sg4
+Vrt AT_USER $aapl the cardiac kid: i seen this too: the cardiac kid URL
+p3472
+sg6
+S'02:54:17'
+p3473
+sg8
+VJames DiPlata
+p3474
+sa(dp3475
+g2
+S'2015-12-06'
+p3476
+sg4
+Vrt AT_USER $aapl dischino: i'm glad apple won.: dischino URL
+p3477
+sg6
+S'02:54:17'
+p3478
+sg8
+VJames DiPlata
+p3479
+sa(dp3480
+g2
+S'2015-12-06'
+p3481
+sg4
+Vrt AT_USER attractive pe (12.8x), peg and pb ratios for $aapl URL URL
+p3482
+sg6
+S'02:54:16'
+p3483
+sg8
+VJames DiPlata
+p3484
+sa(dp3485
+g2
+S'2015-12-06'
+p3486
+sg4
+Vrt AT_USER trq turquoise hill resources ltd. bid URL $trq $xle $blta $aapl trq pennystocks pennystocks
+p3487
+sg6
+S'02:54:16'
+p3488
+sg8
+VJames DiPlata
+p3489
+sa(dp3490
+g2
+S'2015-12-06'
+p3491
+sg4
+Vnext week is going to be action packed best time ever for $sbfm $kbio $aezs $efut $hart $gene $ncty $aezs $nflx $aapl $amzn $baba stocks
+p3492
+sg6
+S'02:52:31'
+p3493
+sg8
+VVapesMj
+p3494
+sa(dp3495
+g2
+S'2015-12-06'
+p3496
+sg4
+Vrt AT_USER video URL stock market analysis for 12/4/15 $spy $gpro $twtr $aapl $amzn $ibb URL
+p3497
+sg6
+S'02:50:58'
+p3498
+sg8
+VTrader Steve
+p3499
+sa(dp3500
+g2
+S'2015-12-06'
+p3501
+sg4
+Vbreakout = 128.76 r2 = 121.94 r1 = 120.48 $aapl pivot = 117.80 s1 = 116.34 s2 = 113.66 breakdown = 108.06
+p3502
+sg6
+S'02:47:45'
+p3503
+sg8
+VEternity101
+p3504
+sa(dp3505
+g2
+S'2015-12-06'
+p3506
+sg4
+Vrt AT_USER psw october top trade review: portfolio trading $aapl $wfm $chl $uso optionoppotunities -- URL ht\u2026
+p3507
+sg6
+S'02:43:18'
+p3508
+sg8
+VAgent Bertram
+p3509
+sa(dp3510
+g2
+S'2015-12-06'
+p3511
+sg4
+Vfacebook dives into live streaming video URL $aapl $goog $fb $cbs
+p3512
+sg6
+S'02:40:31'
+p3513
+sg8
+VStockSaints-Alerts
+p3514
+sa(dp3515
+g2
+S'2015-12-06'
+p3516
+sg4
+Vfdn first trust dow jones internet index fund bid size URL $fdn $gs $d/un.to $aapl fdn pennystocks tradeideas
+p3517
+sg6
+S'02:40:13'
+p3518
+sg8
+VJake13
+p3519
+sa(dp3520
+g2
+S'2015-12-06'
+p3521
+sg4
+Va b o v e average volume $djia $spx $ndx $iwm $vti $dia $spy $qqq $dju $djt $gld $slv $gs $tlt $hyg $jnk $aapl $uvxy $vxx $xiv $uso $fxe
+p3522
+sg6
+S'02:33:59'
+p3523
+sg8
+VEternity101
+p3524
+sa(dp3525
+g2
+S'2015-12-06'
+p3526
+sg4
+Vrt AT_USER $aapl why apple pay is going to be a colossal success URL URL
+p3527
+sg6
+S'02:33:32'
+p3528
+sg8
+VGovBuc
+p3529
+sa(dp3530
+g2
+S'2015-12-06'
+p3531
+sg4
+Vaapl apple, inc. open URL $aapl $tbt $ur.to $gdxj aapl share share
+p3532
+sg6
+S'02:33:03'
+p3533
+sg8
+VPolgarStocks
+p3534
+sa(dp3535
+g2
+S'2015-12-06'
+p3536
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p3537
+sg6
+S'02:26:05'
+p3538
+sg8
+VNASDAQStocks
+p3539
+sa(dp3540
+g2
+S'2015-12-06'
+p3541
+sg4
+Vapple appears to have upped the itunes match track limit URL idownloadblog $aapl URL
+p3542
+sg6
+S'02:24:06'
+p3543
+sg8
+VMacHash
+p3544
+sa(dp3545
+g2
+S'2015-12-06'
+p3546
+sg4
+V$aapl why apple pay is going to be a colossal success URL URL
+p3547
+sg6
+S'02:22:04'
+p3548
+sg8
+VOphir Gottlieb
+p3549
+sa(dp3550
+g2
+S'2015-12-06'
+p3551
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p3552
+sg6
+S'02:16:02'
+p3553
+sg8
+VMarijuanacharts
+p3554
+sa(dp3555
+g2
+S'2015-12-06'
+p3556
+sg4
+Vrt AT_USER $aapl just need 1min after market open...we got dec.04 call 117 at 0.7s AT_USER now trading 4s printing $$$ URL
+p3557
+sg6
+S'02:11:49'
+p3558
+sg8
+V\u0627\u0648\u0628\u0634\u0646
+p3559
+sa(dp3560
+g2
+S'2015-12-06'
+p3561
+sg4
+Vrt AT_USER $aapl 2min after market open jump in calls at 0.77$ AT_USER and hit 4.2$ intraday on huge run up to print $$$ https:\u2026
+p3562
+sg6
+S'02:11:19'
+p3563
+sg8
+V\u0627\u0648\u0628\u0634\u0646
+p3564
+sa(dp3565
+g2
+S'2015-12-06'
+p3566
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $fb $googl $nflx $tsla URL URL
+p3567
+sg6
+S'02:05:16'
+p3568
+sg8
+VFinBuzz
+p3569
+sa(dp3570
+g2
+S'2015-12-06'
+p3571
+sg4
+Vhighest scoring stories for sp500 under one watchlist $aapl $wfc $xom URL URL
+p3572
+sg6
+S'01:56:41'
+p3573
+sg8
+VFinBuzz
+p3574
+sa(dp3575
+g2
+S'2015-12-06'
+p3576
+sg4
+V$aapl dischino: i'm glad apple won.: dischino URL
+p3577
+sg6
+S'01:53:41'
+p3578
+sg8
+VNASDAQStocks
+p3579
+sa(dp3580
+g2
+S'2015-12-06'
+p3581
+sg4
+V$aapl the cardiac kid: i seen this too: the cardiac kid URL
+p3582
+sg6
+S'01:53:41'
+p3583
+sg8
+VNASDAQStocks
+p3584
+sa(dp3585
+g2
+S'2015-12-06'
+p3586
+sg4
+V$aapl dischino: i'm glad apple won.: dischino URL
+p3587
+sg6
+S'01:53:40'
+p3588
+sg8
+V528InvestorRelations
+p3589
+sa(dp3590
+g2
+S'2015-12-06'
+p3591
+sg4
+Vattractive pe (12.8x), peg and pb ratios for $aapl URL URL
+p3592
+sg6
+S'01:50:59'
+p3593
+sg8
+VWarren of Wall St
+p3594
+sa(dp3595
+g2
+S'2015-12-06'
+p3596
+sg4
+Vrt AT_USER xlf financials select sector spdr change URL $xlf $aten $gld $aapl xlf pennystocks stock
+p3597
+sg6
+S'01:49:10'
+p3598
+sg8
+VJames DiPlata
+p3599
+sa(dp3600
+g2
+S'2015-12-06'
+p3601
+sg4
+Vrt AT_USER new video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; m\u2026
+p3602
+sg6
+S'01:49:10'
+p3603
+sg8
+VJames DiPlata
+p3604
+sa(dp3605
+g2
+S'2015-12-06'
+p3606
+sg4
+Vrt AT_USER interested in the future of mobile + socialmedia? companies like $aapl, $fb, $goog some good opensource researc\u2026 URL
+p3607
+sg6
+S'01:49:10'
+p3608
+sg8
+VJames DiPlata
+p3609
+sa(dp3610
+g2
+S'2015-12-06'
+p3611
+sg4
+Vtrq turquoise hill resources ltd. bid URL $trq $xle $blta $aapl trq pennystocks pennystocks
+p3612
+sg6
+S'01:49:07'
+p3613
+sg8
+Vleahanne
+p3614
+sa(dp3615
+g2
+S'2015-12-06'
+p3616
+sg4
+Vrt URL free video: understanding single stock data metrics URL trading startups stock $aapl m\u2026
+p3617
+sg6
+S'01:45:32'
+p3618
+sg8
+VBinary Trader Pro
+p3619
+sa(dp3620
+g2
+S'2015-12-06'
+p3621
+sg4
+Vrt AT_USER tips on saving money URL $dia $spy $qqq $aapl $fb $goog mark zuckerberg URL
+p3622
+sg6
+S'01:44:02'
+p3623
+sg8
+Vjoa coma
+p3624
+sa(dp3625
+g2
+S'2015-12-06'
+p3626
+sg4
+Vrt AT_USER now if $aapl doesn't lift with the market, i will toss that play.
+p3627
+sg6
+S'01:42:35'
+p3628
+sg8
+VSunset
+p3629
+sa(dp3630
+g2
+S'2015-12-06'
+p3631
+sg4
+Vrt AT_USER $aapl selling 2/3 of the position here on the calls from yesterday. will hold the rest until eod. incredible move!
+p3632
+sg6
+S'01:38:10'
+p3633
+sg8
+VSideways
+p3634
+sa(dp3635
+g2
+S'2015-12-06'
+p3636
+sg4
+Vhaving 10 different news tabs open for $aapl $db $bp? we give you 1 URL URL
+p3637
+sg6
+S'01:37:44'
+p3638
+sg8
+VFinBuzz
+p3639
+sa(dp3640
+g2
+S'2015-12-06'
+p3641
+sg4
+Vits amazing that $cvx has the balancesheet that it has.. on some metrics better than $aapl.. how do they do it ?
+p3642
+sg6
+S'01:37:32'
+p3643
+sg8
+VTradeTherapAnalytics
+p3644
+sa(dp3645
+g2
+S'2015-12-06'
+p3646
+sg4
+V$fb $twtr $nflx $amzn $googl $aapl URL
+p3647
+sg6
+S'01:36:06'
+p3648
+sg8
+V$callspreads
+p3649
+sa(dp3650
+g2
+S'2015-12-06'
+p3651
+sg4
+Vfree video: understanding single stock data metrics URL trading startups stock $aapl money investor angel
+p3652
+sg6
+S'01:30:12'
+p3653
+sg8
+VChayton Falke
+p3654
+sa(dp3655
+g2
+S'2015-12-06'
+p3656
+sg4
+Vcityfalcon score gives top rated news for free bigdata $aapl $tsla URL URL
+p3657
+sg6
+S'01:24:36'
+p3658
+sg8
+VFinBuzz
+p3659
+sa(dp3660
+g2
+S'2015-12-06'
+p3661
+sg4
+Vthese assets are seeing a jump in tweets $aapl $fb $gild $googl URL URL
+p3662
+sg6
+S'01:22:54'
+p3663
+sg8
+VFinBuzz
+p3664
+sa(dp3665
+g2
+S'2015-12-06'
+p3666
+sg4
+Vapple may announce iphone 7c in feb: 4" device with a9 soc - $aapl ios URL
+p3667
+sg6
+S'01:12:04'
+p3668
+sg8
+VMobile Potpurri
+p3669
+sa(dp3670
+g2
+S'2015-12-06'
+p3671
+sg4
+Vrt AT_USER $sbux $aapl starbucks tests support, will roll out apple pay URL $cost $cmg
+p3672
+sg6
+S'01:11:52'
+p3673
+sg8
+VAriel XXV
+p3674
+sa(dp3675
+g2
+S'2015-12-06'
+p3676
+sg4
+Vday trading strategies | we teach you how to trade: URL $aapl $twtr $fb $gpro $tsla $grpn $spy URL
+p3677
+sg6
+S'01:09:00'
+p3678
+sg8
+VMike H
+p3679
+sa(dp3680
+g2
+S'2015-12-06'
+p3681
+sg4
+V$sbux $aapl starbucks tests support, will roll out apple pay URL $cost $cmg
+p3682
+sg6
+S'01:07:04'
+p3683
+sg8
+VLeilani Pips\u2122
+p3684
+sa(dp3685
+g2
+S'2015-12-06'
+p3686
+sg4
+V$aapl ... 119.40, 119.90. and then the open gap at 120.57. if an ab = cd is underway, the ~123 high will be tested. URL
+p3687
+sg6
+S'01:06:15'
+p3688
+sg8
+VPeter Ghostine
+p3689
+sa(dp3690
+g2
+S'2015-12-06'
+p3691
+sg4
+V$aapl ... last week's downside reached the green circle, just below $115. URL
+p3692
+sg6
+S'01:03:48'
+p3693
+sg8
+VPeter Ghostine
+p3694
+sa(dp3695
+g2
+S'2015-12-06'
+p3696
+sg4
+Vinside the curious mind of john malone - the zen of investing URL $lbtya $fb $aapl johnmalone
+p3697
+sg6
+S'01:02:02'
+p3698
+sg8
+VThe Zen of Investing
+p3699
+sa(dp3700
+g2
+S'2015-12-06'
+p3701
+sg4
+Vsee why these assets are trending in 1 watchlist $aapl $ca $fb $gild $googl URL URL
+p3702
+sg6
+S'00:59:56'
+p3703
+sg8
+VFinBuzz
+p3704
+sa(dp3705
+g2
+S'2015-12-06'
+p3706
+sg4
+Vxlf financials select sector spdr change URL $xlf $aten $gld $aapl xlf pennystocks stock
+p3707
+sg6
+S'00:51:05'
+p3708
+sg8
+VEmylers
+p3709
+sa(dp3710
+g2
+S'2015-12-06'
+p3711
+sg4
+Vrt AT_USER video URL stock market analysis for 12/4/15 $spy $gpro $twtr $aapl $amzn $ibb URL
+p3712
+sg6
+S'00:48:35'
+p3713
+sg8
+Vguillermo parra
+p3714
+sa(dp3715
+g2
+S'2015-12-06'
+p3716
+sg4
+Vnew video: weekend market analysis with trade ideas URL $spy $qqq $aapl $googl $amzn $fb $crm $sq &amp; more
+p3717
+sg6
+S'00:47:22'
+p3718
+sg8
+VEvan Medeiros
+p3719
+sa(dp3720
+g2
+S'2015-12-06'
+p3721
+sg4
+Vinterested in the future of mobile + socialmedia? companies like $aapl, $fb, $goog some good opensource researc\u2026 URL
+p3722
+sg6
+S'00:47:06'
+p3723
+sg8
+VAlvaro Campos
+p3724
+sa(dp3725
+g2
+S'2015-12-06'
+p3726
+sg4
+Vrt AT_USER stocks worthy of your wish list: $aapl $amcx $celg $cvs $dal $dfs $ea $fl $gm $mhk URL URL
+p3727
+sg6
+S'00:46:49'
+p3728
+sg8
+VOsmar Morales
+p3729
+sa(dp3730
+g2
+S'2015-12-06'
+p3731
+sg4
+Vrt AT_USER once unleashed, corrective forces dominate URL URL stocks trading investing $fb \u2026
+p3732
+sg6
+S'00:44:56'
+p3733
+sg8
+VJames DiPlata
+p3734
+sa(dp3735
+g2
+S'2015-12-06'
+p3736
+sg4
+Vrt AT_USER equity one: a shopping center reit for 2017? URL URL stocks trading investing $f\u2026
+p3737
+sg6
+S'00:44:56'
+p3738
+sg8
+VJames DiPlata
+p3739
+sa(dp3740
+g2
+S'2015-12-06'
+p3741
+sg4
+Vrt AT_USER these assets are seeing a jump in tweets $aapl $fb $googl URL URL
+p3742
+sg6
+S'00:44:56'
+p3743
+sg8
+VJames DiPlata
+p3744
+sa(dp3745
+g2
+S'2015-12-06'
+p3746
+sg4
+Vinterested in the future of mobile + socialmedia? companies like $aapl, $fb, $goog some good opensource research: URL
+p3747
+sg6
+S'00:43:01'
+p3748
+sg8
+VARK Web x.0
+p3749
+sa(dp3750
+g2
+S'2015-12-06'
+p3751
+sg4
+Vtrack trending assets in 1 watchlist $aapl $ca $fb $googl URL URL
+p3752
+sg6
+S'00:40:56'
+p3753
+sg8
+VFinBuzz
+p3754
+sa(dp3755
+g2
+S'2015-12-06'
+p3756
+sg4
+Vdis walt disney co. bid size URL $dis $nflx $rsx $aapl dis stock pennystocks
+p3757
+sg6
+S'00:37:36'
+p3758
+sg8
+VIH NASDAQ OMX
+p3759
+sa(dp3760
+g2
+S'2015-12-06'
+p3761
+sg4
+Vrt AT_USER week trade review more than $7.9k profits with 500$ per trade - losers and winners - $scty $aapl $fb $gs and more https:\u2026
+p3762
+sg6
+S'00:35:39'
+p3763
+sg8
+VDtrades
+p3764
+sa(dp3765
+g2
+S'2015-12-06'
+p3766
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p3767
+sg6
+S'00:27:41'
+p3768
+sg8
+Vexpri.net
+p3769
+sa(dp3770
+g2
+S'2015-12-06'
+p3771
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3772
+sg6
+S'00:27:39'
+p3773
+sg8
+Vexpri.net
+p3774
+sa(dp3775
+g2
+S'2015-12-06'
+p3776
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p3777
+sg6
+S'00:26:44'
+p3778
+sg8
+Vexpri
+p3779
+sa(dp3780
+g2
+S'2015-12-06'
+p3781
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3782
+sg6
+S'00:26:42'
+p3783
+sg8
+Vexpri
+p3784
+sa(dp3785
+g2
+S'2015-12-06'
+p3786
+sg4
+Vrt AT_USER apple ipad pro review: apple's giant tablet is simply superb but there's a\u2026 URL apple \u2022 $aapl https\u2026
+p3787
+sg6
+S'00:23:53'
+p3788
+sg8
+VEver Gamer Luiz \uf8ff
+p3789
+sa(dp3790
+g2
+S'2015-12-06'
+p3791
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3792
+sg6
+S'00:23:43'
+p3793
+sg8
+VJohn Crowd
+p3794
+sa(dp3795
+g2
+S'2015-12-06'
+p3796
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p3797
+sg6
+S'00:23:40'
+p3798
+sg8
+VJohn Crowd
+p3799
+sa(dp3800
+g2
+S'2015-12-06'
+p3801
+sg4
+Vapple raises itunes match and apple music library matching limits - mac\u2026 URL apple \u2022 $aapl URL
+p3802
+sg6
+S'00:23:09'
+p3803
+sg8
+V#SocialMedia NC
+p3804
+sa(dp3805
+g2
+S'2015-12-06'
+p3806
+sg4
+V5 stock picks for 2016: $aapl $twtr $celg $plki $kmx
+p3807
+sg6
+S'00:21:15'
+p3808
+sg8
+VCalculatedbets
+p3809
+sa(dp3810
+g2
+S'2015-12-06'
+p3811
+sg4
+Vrt AT_USER apple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus io\u2026
+p3812
+sg6
+S'00:18:35'
+p3813
+sg8
+VDomain Mondo
+p3814
+sa(dp3815
+g2
+S'2015-12-06'
+p3816
+sg4
+Vapple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog android iphone6splus ios
+p3817
+sg6
+S'00:17:57'
+p3818
+sg8
+Vieeuu.us
+p3819
+sa(dp3820
+g2
+S'2015-12-06'
+p3821
+sg4
+Vwith swift open sourced, $aapl tries to play catch-up for influence in the cloud. URL
+p3822
+sg6
+S'00:17:29'
+p3823
+sg8
+VSomerset Trader
+p3824
+sa(dp3825
+g2
+S'2015-12-06'
+p3826
+sg4
+Vrt AT_USER apple ipad pro review: apple's giant tablet is simply superb but there's a\u2026 URL apple \u2022 $aapl https\u2026
+p3827
+sg6
+S'00:17:18'
+p3828
+sg8
+V\uf8ff iPhone & iPad.
+p3829
+sa(dp3830
+g2
+S'2015-12-06'
+p3831
+sg4
+Vapple mobile smartphone os marketshare 2015-2019 declines says idc URL $aapl $goog iphone6splus ios android
+p3832
+sg6
+S'00:16:44'
+p3833
+sg8
+VDrivingTheDay
+p3834
+sa(dp3835
+g2
+S'2015-12-06'
+p3836
+sg4
+Vtickers trending on twtr in last 1 hour $aapl $ca $fb $goog URL URL
+p3837
+sg6
+S'00:16:14'
+p3838
+sg8
+VFinBuzz
+p3839
+sa(dp3840
+g2
+S'2015-12-06'
+p3841
+sg4
+V$aapl the most absurd dominance ever URL URL
+p3842
+sg6
+S'00:14:34'
+p3843
+sg8
+VCapital Market Labs
+p3844
+sa(dp3845
+g2
+S'2015-12-06'
+p3846
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3847
+sg6
+S'00:13:12'
+p3848
+sg8
+VDrivingTheDay
+p3849
+sa(dp3850
+g2
+S'2015-12-06'
+p3851
+sg4
+Vrt AT_USER worldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3852
+sg6
+S'00:09:04'
+p3853
+sg8
+VexpVC
+p3854
+sa(dp3855
+g2
+S'2015-12-06'
+p3856
+sg4
+Vworldwide smartphone marketshare by geography, os, 2015-2019 URL $aapl $goog iphone ios android
+p3857
+sg6
+S'00:07:58'
+p3858
+sg8
+VDomain Mondo
+p3859
+sa.

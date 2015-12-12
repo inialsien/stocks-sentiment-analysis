@@ -1,0 +1,11834 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-03'
+p3
+sS'text'
+p4
+Vbeen away, just looked at screen after several hours. where'd all the $nflx bulls go?
+p5
+sS'time'
+p6
+S'20:17:34'
+p7
+sS'author'
+p8
+VThomas Rice
+p9
+sa(dp10
+g2
+S'2015-12-03'
+p11
+sg4
+V$nflx todays candle (if it closes in this range) resembles the two candle setup on aug 16th and 17th before a massive decline
+p12
+sg6
+S'20:17:25'
+p13
+sg8
+VTy Reamer
+p14
+sa(dp15
+g2
+S'2015-12-03'
+p16
+sg4
+V$nflx appears to be at an important juncture
+p17
+sg6
+S'20:14:01'
+p18
+sg8
+VMeta Syn
+p19
+sa(dp20
+g2
+S'2015-12-03'
+p21
+sg4
+Vrt AT_USER $sne sony is a buy pt $55. these stocks are a sell: $lgf $gpro $fit $fb $aapl $twtr $amzn $nflx $dis $via $msft
+p22
+sg6
+S'20:12:03'
+p23
+sg8
+VSonyValentine
+p24
+sa(dp25
+g2
+S'2015-12-03'
+p26
+sg4
+V$nflx --a combo of bull and pig roast
+p27
+sg6
+S'20:11:33'
+p28
+sg8
+Veddy hooks
+p29
+sa(dp30
+g2
+S'2015-12-03'
+p31
+sg4
+Vrt AT_USER what an awesome day in the chat room trading live w/ my members! $nflx $gs $fb $spy $aapl $kr $cvx $cat huge winners https\u2026
+p32
+sg6
+S'20:11:11'
+p33
+sg8
+VCutlass
+p34
+sa(dp35
+g2
+S'2015-12-03'
+p36
+sg4
+Vwhat an awesome day in the chat room trading live w/ my members! $nflx $gs $fb $spy $aapl $kr $cvx $cat huge winners URL
+p37
+sg6
+S'20:09:19'
+p38
+sg8
+VWinningStockCoach
+p39
+sa(dp40
+g2
+S'2015-12-03'
+p41
+sg4
+Vrt AT_USER 70% of investors made money in november, thanks to stocks like: \u2713 $nflx \u2713 $amzn \u2713 $tsla URL URL
+p42
+sg6
+S'20:08:42'
+p43
+sg8
+VNiitsiipoaahsin
+p44
+sa(dp45
+g2
+S'2015-12-03'
+p46
+sg4
+Vtook small pos in $nflx 129 calls at .72
+p47
+sg6
+S'20:08:00'
+p48
+sg8
+VHadjPadjjjjjjjjjjjj
+p49
+sa(dp50
+g2
+S'2015-12-03'
+p51
+sg4
+Vpopular: $gild, $nflx, $sbux, $xon, $pfpt, $bac, $fold, $bis, $labd, $upro, $aria, $jblu, $vrtx
+p52
+sg6
+S'20:00:08'
+p53
+sg8
+VLarge Void Bot
+p54
+sa(dp55
+g2
+S'2015-12-03'
+p56
+sg4
+Vrt AT_USER [wavescan] updated look at the 4 horseman 12.03.15 \u2013 $amzn $aapl $fb $nflx - URL
+p57
+sg6
+S'19:55:19'
+p58
+sg8
+VStock Geek
+p59
+sa(dp60
+g2
+S'2015-12-03'
+p61
+sg4
+V[wavescan] updated look at the 4 horseman 12.03.15 \u2013 $amzn $aapl $fb $nflx - URL
+p62
+sg6
+S'19:54:25'
+p63
+sg8
+VTed Aguhob
+p64
+sa(dp65
+g2
+S'2015-12-03'
+p66
+sg4
+Vupdated elliott wave analysis article of $amzn $fb $nflx $aapl 2:52pm URL
+p67
+sg6
+S'19:52:46'
+p68
+sg8
+VIntraday Updates
+p69
+sa(dp70
+g2
+S'2015-12-03'
+p71
+sg4
+Vxlv consumer discretionary select sector spdr p/e ratio URL $xlv $dia $nflx $upro xlv investing nasdaq
+p72
+sg6
+S'19:52:15'
+p73
+sg8
+VIH NASDAQ OMX
+p74
+sa(dp75
+g2
+S'2015-12-03'
+p76
+sg4
+Vthe swings/shakeouts on this $nflx $tsla and $googl today have been brutal.
+p77
+sg6
+S'19:49:51'
+p78
+sg8
+VBustaTrades
+p79
+sa(dp80
+g2
+S'2015-12-03'
+p81
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p82
+sg6
+S'19:49:15'
+p83
+sg8
+VJennifer Sellers
+p84
+sa(dp85
+g2
+S'2015-12-03'
+p86
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p87
+sg6
+S'19:49:09'
+p88
+sg8
+VLogan
+p89
+sa(dp90
+g2
+S'2015-12-03'
+p91
+sg4
+V$yhoo breaking down through support levels - falling knife $fb $googl $amzn $nflx $spy
+p92
+sg6
+S'19:48:27'
+p93
+sg8
+VTerri G
+p94
+sa(dp95
+g2
+S'2015-12-03'
+p96
+sg4
+V$nflx went red @ 1:00 pm est... $es_f has fallen from 2060 to 2040 over that span
+p97
+sg6
+S'19:47:29'
+p98
+sg8
+VWatchhimtrade.com
+p99
+sa(dp100
+g2
+S'2015-12-03'
+p101
+sg4
+Vdec 03 thursday, $nflx new low is $126.70 and hit my bearish target $126.90\U0001f37a\U0001f6ac\U0001f4b0\U0001f64c
+p102
+sg6
+S'19:46:31'
+p103
+sg8
+VCutlass
+p104
+sa(dp105
+g2
+S'2015-12-03'
+p106
+sg4
+VAT_USER if that's true, uber is now 'valued' higher than $yhoo x2, more than $crm $adbe and $8b more than $nflx AT_USER
+p107
+sg6
+S'19:45:53'
+p108
+sg8
+VBrad Tonoff
+p109
+sa(dp110
+g2
+S'2015-12-03'
+p111
+sg4
+V$fb $amzn $scty $nflx $goog oh boy thoze top chaserz r gettin their 1st life lesson in thu art uv bagholding! so fun...
+p112
+sg6
+S'19:43:48'
+p113
+sg8
+Vnobullshytrading
+p114
+sa(dp115
+g2
+S'2015-12-03'
+p116
+sg4
+Vlnkd lowes companies, inc. volume URL $lnkd $nflx $pg.to $cmg lnkd investing stock
+p117
+sg6
+S'19:43:34'
+p118
+sg8
+VIH NASDAQ OMX
+p119
+sa(dp120
+g2
+S'2015-12-03'
+p121
+sg4
+V$nflx did pullback just like AT_USER called it. hoped someone put up on this and put cash n their pockets?\U0001f483\U0001f6ac URL
+p122
+sg6
+S'19:43:26'
+p123
+sg8
+VCutlass
+p124
+sa(dp125
+g2
+S'2015-12-03'
+p126
+sg4
+Vnflx novagold resources inc yield URL $nflx $hvu.to $sgen $nete nflx stocks stock
+p127
+sg6
+S'19:43:15'
+p128
+sg8
+VStock_Tracker
+p129
+sa(dp130
+g2
+S'2015-12-03'
+p131
+sg4
+Vkre direxion daily s&amp;p biotech bear 3x shares ask size URL $kre $nke $nflx $xle kre stocks investing
+p132
+sg6
+S'19:42:12'
+p133
+sg8
+Vleahanne
+p134
+sa(dp135
+g2
+S'2015-12-03'
+p136
+sg4
+Vout of my $nflx 127 puts @ $1.33 from $1.12
+p137
+sg6
+S'19:41:43'
+p138
+sg8
+VJay Miller
+p139
+sa(dp140
+g2
+S'2015-12-03'
+p141
+sg4
+Vintc itc holdings corp. dividend URL $intc $xlb $euo $nflx intc tradeideas stockmarket
+p142
+sg6
+S'19:41:05'
+p143
+sg8
+VInvestors Hangout
+p144
+sa(dp145
+g2
+S'2015-12-03'
+p146
+sg4
+Vrt AT_USER another 100% winner on $nflx way to go thecoachsroster join us trading live at URL
+p147
+sg6
+S'19:40:46'
+p148
+sg8
+VCutlass
+p149
+sa(dp150
+g2
+S'2015-12-03'
+p151
+sg4
+Vwe calculated 63-day expected return of $nflx for you: 25.56% URL
+p152
+sg6
+S'19:39:01'
+p153
+sg8
+VUnicornBay
+p154
+sa(dp155
+g2
+S'2015-12-03'
+p156
+sg4
+V$nflx investors should learn some math: URL the company is going downhill. the only thing that saves it - more equity
+p157
+sg6
+S'19:37:01'
+p158
+sg8
+VSociete Financiers
+p159
+sa(dp160
+g2
+S'2015-12-03'
+p161
+sg4
+V$nflx if reverses and holds 127.5, might be good to go for another run.
+p162
+sg6
+S'19:36:35'
+p163
+sg8
+VCarolyn Marshall
+p164
+sa(dp165
+g2
+S'2015-12-03'
+p166
+sg4
+V$nflx under 127.5 it is vulnerable to testing the 10-day at 124.6's, below that it is vulnerable t test the low on the week, 122.42
+p167
+sg6
+S'19:36:02'
+p168
+sg8
+VCarolyn Marshall
+p169
+sa(dp170
+g2
+S'2015-12-03'
+p171
+sg4
+Vrt AT_USER new post: from super mario to duck hunt URL $ibb $iwm $nflx $qqq $spy
+p172
+sg6
+S'19:35:43'
+p173
+sg8
+VAdam Struzynski
+p174
+sa(dp175
+g2
+S'2015-12-03'
+p176
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p177
+sg6
+S'19:34:57'
+p178
+sg8
+VP. Dick Dickinson
+p179
+sa(dp180
+g2
+S'2015-12-03'
+p181
+sg4
+V$tsla couldn't get a borrow all day. ended in $nflx, went ok but harder to hold over night
+p182
+sg6
+S'19:34:52'
+p183
+sg8
+VDart
+p184
+sa(dp185
+g2
+S'2015-12-03'
+p186
+sg4
+Vbei/un.to baidu, inc. summary URL $bei/un.to $nflx $blue $jnk bei/un.to tradeideas investing
+p187
+sg6
+S'19:34:33'
+p188
+sg8
+VRosner Stocks
+p189
+sa(dp190
+g2
+S'2015-12-03'
+p191
+sg4
+V$nflx massive buying climax fallowed by weak demand later on (strong sign of weakness).we may see re-test of 122.50$ URL
+p192
+sg6
+S'19:32:43'
+p193
+sg8
+VP.Jacimovic
+p194
+sa(dp195
+g2
+S'2015-12-03'
+p196
+sg4
+Vnew post: from super mario to duck hunt URL $ibb $iwm $nflx $qqq $spy
+p197
+sg6
+S'19:31:48'
+p198
+sg8
+VChess
+p199
+sa(dp200
+g2
+S'2015-12-03'
+p201
+sg4
+Vgrab your shorts! $nflx URL URL
+p202
+sg6
+S'19:30:30'
+p203
+sg8
+VTrend Prophet
+p204
+sa(dp205
+g2
+S'2015-12-03'
+p206
+sg4
+V$nflx --have to give it it--one tough pig
+p207
+sg6
+S'19:29:17'
+p208
+sg8
+Veddy hooks
+p209
+sa(dp210
+g2
+S'2015-12-03'
+p211
+sg4
+Vi really wasn't worried until $nflx turned red.... now i'm thinking we need the return of "markets in turmoil"! AT_USER AT_USER
+p212
+sg6
+S'19:28:51'
+p213
+sg8
+VGene Shmunster
+p214
+sa(dp215
+g2
+S'2015-12-03'
+p216
+sg4
+VAT_USER innovative stocks $aapl $tsla $ua $gild $nflx $crm $amzn $celg $wday $cmg $fb $sbux $mnst $hain $mbly $regn $data $tmus
+p217
+sg6
+S'19:28:10'
+p218
+sg8
+VDavid
+p219
+sa(dp220
+g2
+S'2015-12-03'
+p221
+sg4
+Vok team, get out of any $nflx spread for the weekly plays recently posted. this is why we went debit!
+p222
+sg6
+S'19:27:39'
+p223
+sg8
+VWall St Bully Max $$
+p224
+sa(dp225
+g2
+S'2015-12-03'
+p226
+sg4
+V$nflx this thing make illusion that its strong stock \U0001f61c\U0001f61d
+p227
+sg6
+S'19:26:48'
+p228
+sg8
+VHarry Bid
+p229
+sa(dp230
+g2
+S'2015-12-03'
+p231
+sg4
+V$goog news updated thursday, december 3, 2015 1:59:24 pm $fxc $ctrp $uwti $nflx URL
+p232
+sg6
+S'19:23:35'
+p233
+sg8
+VRosner Stocks
+p234
+sa(dp235
+g2
+S'2015-12-03'
+p236
+sg4
+VAT_USER AT_USER who cares just buy the dip, $fang it up throw some $$s at it. $pcln $aapl $googl $fb $nflx its is all made up
+p237
+sg6
+S'19:21:48'
+p238
+sg8
+Vmallie giddings
+p239
+sa(dp240
+g2
+S'2015-12-03'
+p241
+sg4
+Vbig reversals in fang stocks. $nflx &amp; $amzn have long way to fall once this stupid trade comes to an end. see $cmg for example.
+p242
+sg6
+S'19:21:30'
+p243
+sg8
+VCapCube Sez
+p244
+sa(dp245
+g2
+S'2015-12-03'
+p246
+sg4
+VAT_USER does the $nflx breakout also count? im calling a double top here.
+p247
+sg6
+S'19:20:33'
+p248
+sg8
+VGeronimoFaria
+p249
+sa(dp250
+g2
+S'2015-12-03'
+p251
+sg4
+V$nflx first cover target $106
+p252
+sg6
+S'19:20:02'
+p253
+sg8
+VMe My Selfie & I
+p254
+sa(dp255
+g2
+S'2015-12-03'
+p256
+sg4
+V$nflx nflx did the kobe's pump fake move this morning ;)
+p257
+sg6
+S'19:18:32'
+p258
+sg8
+VMachi
+p259
+sa(dp260
+g2
+S'2015-12-03'
+p261
+sg4
+VAT_USER over $9 in 2 days out of $nflx so dont be dissin the flix northy ! bankitbuyshoes \U0001f460
+p262
+sg6
+S'19:17:11'
+p263
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p264
+sa(dp265
+g2
+S'2015-12-03'
+p266
+sg4
+Vis $gpro the next $nflx?? URL
+p267
+sg6
+S'19:16:00'
+p268
+sg8
+VStock007
+p269
+sa(dp270
+g2
+S'2015-12-03'
+p271
+sg4
+Vanother 100% winner on $nflx way to go thecoachsroster join us trading live at URL
+p272
+sg6
+S'19:15:34'
+p273
+sg8
+VWinningStockCoach
+p274
+sa(dp275
+g2
+S'2015-12-03'
+p276
+sg4
+Vcommented on stocktwits: don't you think that the company is overvalued? $nflx URL URL
+p277
+sg6
+S'19:14:02'
+p278
+sg8
+VWhoTrades
+p279
+sa(dp280
+g2
+S'2015-12-03'
+p281
+sg4
+V$nflx jan $100 puts look very appetizing at $1. $nflx was at $102 2 weeks ago. it can go back there before you can say "theta".
+p282
+sg6
+S'19:11:39'
+p283
+sg8
+VQuantitude Capital
+p284
+sa(dp285
+g2
+S'2015-12-03'
+p286
+sg4
+Vrt AT_USER $nflx breaking out to all-time high. URL
+p287
+sg6
+S'19:10:54'
+p288
+sg8
+Vmozell renell
+p289
+sa(dp290
+g2
+S'2015-12-03'
+p291
+sg4
+Vwant automatic email alerts for $kbr $mmm $nee $nflx $oii? subscribe to marketbeat daily URL
+p292
+sg6
+S'19:10:47'
+p293
+sg8
+VMarketBeatCom
+p294
+sa(dp295
+g2
+S'2015-12-03'
+p296
+sg4
+V$nflx is going down today. don't you think that the company is overvalued? URL
+p297
+sg6
+S'19:10:39'
+p298
+sg8
+VWhoTrades
+p299
+sa(dp300
+g2
+S'2015-12-03'
+p301
+sg4
+Vcybercriminals are selling stolen streaming-video-service logins $cmcsa $dis $nflx URL
+p302
+sg6
+S'19:09:56'
+p303
+sg8
+VCalConfidence
+p304
+sa(dp305
+g2
+S'2015-12-03'
+p306
+sg4
+Vnflx 128.94 netflix inc $nflx added to my watch list. right now with nflx i am watching the last price 128.94 URL
+p307
+sg6
+S'19:09:18'
+p308
+sg8
+Vclayton
+p309
+sa(dp310
+g2
+S'2015-12-03'
+p311
+sg4
+Vbooya... pealing off the $nflx short as it drops like a rock. 5/7 profitable trades on it today. pays to focus on a name and its programs.
+p312
+sg6
+S'19:07:31'
+p313
+sg8
+VVlad Mazek
+p314
+sa(dp315
+g2
+S'2015-12-03'
+p316
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p317
+sg6
+S'19:05:19'
+p318
+sg8
+Vmike barch
+p319
+sa(dp320
+g2
+S'2015-12-03'
+p321
+sg4
+Vconsumer discretionary sector led the s&amp;p, up 12%. top 5 stocks were $nflx 120%, $amzn 102%, $expe 58%, $cvc 57% $sbux 51% 2015stocksperf
+p322
+sg6
+S'19:05:13'
+p323
+sg8
+VBurly Capital
+p324
+sa(dp325
+g2
+S'2015-12-03'
+p326
+sg4
+V$nflx setting new lows
+p327
+sg6
+S'19:04:52'
+p328
+sg8
+Vjcocin
+p329
+sa(dp330
+g2
+S'2015-12-03'
+p331
+sg4
+V$nflx won't even lose a buck in this spooked market. says a lot
+p332
+sg6
+S'19:01:55'
+p333
+sg8
+VIrie South Beach
+p334
+sa(dp335
+g2
+S'2015-12-03'
+p336
+sg4
+Vtoptickertweets $spy $aapl $gbsn $spx $nflx fintech finserv URL 20151203-14:00
+p337
+sg6
+S'18:59:57'
+p338
+sg8
+VSentiQuant
+p339
+sa(dp340
+g2
+S'2015-12-03'
+p341
+sg4
+Vsacrilege: i shorted $nflx ;-)
+p342
+sg6
+S'18:59:01'
+p343
+sg8
+VNic
+p344
+sa(dp345
+g2
+S'2015-12-03'
+p346
+sg4
+Vnetflix, inc. (nasdaq:nflx) invisible viewer data \u2013 even hollywood has no clue $nflx netflix URL
+p347
+sg6
+S'18:58:54'
+p348
+sg8
+VLearnBonds.com
+p349
+sa(dp350
+g2
+S'2015-12-03'
+p351
+sg4
+V$vrx haven't touched this today. choppy trading $nflx today may call it a day couple of hours +1100 after fees. glta
+p352
+sg6
+S'18:58:33'
+p353
+sg8
+Vjcocin
+p354
+sa(dp355
+g2
+S'2015-12-03'
+p356
+sg4
+V$nflx maybe it profits taking time? been a good run
+p357
+sg6
+S'18:57:33'
+p358
+sg8
+V$$$ Money $$$
+p359
+sa(dp360
+g2
+S'2015-12-03'
+p361
+sg4
+V$nflx scalped another .47 off this choppy market.
+p362
+sg6
+S'18:55:29'
+p363
+sg8
+Vjcocin
+p364
+sa(dp365
+g2
+S'2015-12-03'
+p366
+sg4
+V$nflx swings making bears and bulls $$$ \U0001f911
+p367
+sg6
+S'18:52:19'
+p368
+sg8
+VXav
+p369
+sa(dp370
+g2
+S'2015-12-03'
+p371
+sg4
+Vrt AT_USER $nflx red. all hope is lost.
+p372
+sg6
+S'18:50:28'
+p373
+sg8
+VFinancial Buzz
+p374
+sa(dp375
+g2
+S'2015-12-03'
+p376
+sg4
+Vraising my $nflx price target URL
+p377
+sg6
+S'18:50:08'
+p378
+sg8
+VCaeX
+p379
+sa(dp380
+g2
+S'2015-12-03'
+p381
+sg4
+Vrt AT_USER $nflx next 10 days URL
+p382
+sg6
+S'18:48:57'
+p383
+sg8
+VShark Trading
+p384
+sa(dp385
+g2
+S'2015-12-03'
+p386
+sg4
+V$nflx next 10 days URL
+p387
+sg6
+S'18:48:23'
+p388
+sg8
+VFORECASTIS
+p389
+sa(dp390
+g2
+S'2015-12-03'
+p391
+sg4
+V$nflx red. all hope is lost.
+p392
+sg6
+S'18:46:34'
+p393
+sg8
+VAlan Farley
+p394
+sa(dp395
+g2
+S'2015-12-03'
+p396
+sg4
+Vsh proshares short s&amp;p 500 fund company info URL $sh $nflx $kmi $uwti sh pennystocks pennystocks
+p397
+sg6
+S'18:46:07'
+p398
+sg8
+VJake13
+p399
+sa(dp400
+g2
+S'2015-12-03'
+p401
+sg4
+Vcovered all my shorts and bought some dec 11 206 calls in $spy. also nibbled some $nflx playing for a bounce back to 208.50 resistance
+p402
+sg6
+S'18:44:40'
+p403
+sg8
+VSteve Wakelin
+p404
+sa(dp405
+g2
+S'2015-12-03'
+p406
+sg4
+Vrt AT_USER market is still weak and very little progress yet some leading stocks are acting very healthy $nuan $nflx $ntes $amzn $bidu \u2026
+p407
+sg6
+S'18:41:41'
+p408
+sg8
+VSanjay
+p409
+sa(dp410
+g2
+S'2015-12-03'
+p411
+sg4
+V$nflx trying to go red, needs to make new lows to get me looking lower
+p412
+sg6
+S'18:40:20'
+p413
+sg8
+VWatchhimtrade.com
+p414
+sa(dp415
+g2
+S'2015-12-03'
+p416
+sg4
+Vbtw, estimated earnings per share for $nflx is $0.03 it's 0.02% of the current price URL
+p417
+sg6
+S'18:39:01'
+p418
+sg8
+VUnicornBay
+p419
+sa(dp420
+g2
+S'2015-12-03'
+p421
+sg4
+VAT_USER some of my favourites are $ua $sbux $regn $hon $jpm $nflx $crm $dis $wfc $dpz
+p422
+sg6
+S'18:38:43'
+p423
+sg8
+VJanie Tracey
+p424
+sa(dp425
+g2
+S'2015-12-03'
+p426
+sg4
+V$nflx can trade higher &amp; higher. no, not short. but it's not a stock joe friday would buy: "just the facts, ma'am" URL
+p427
+sg6
+S'18:37:12'
+p428
+sg8
+VKate's Dad
+p429
+sa(dp430
+g2
+S'2015-12-03'
+p431
+sg4
+V$amzn $fb $nflx on sayllllllllllllllllle!
+p432
+sg6
+S'18:37:06'
+p433
+sg8
+Vnobullshytrading
+p434
+sa(dp435
+g2
+S'2015-12-03'
+p436
+sg4
+V$sne sony is a buy pt $55. these stocks are a sell: $lgf $gpro $fit $fb $aapl $twtr $amzn $nflx $dis $via $msft
+p437
+sg6
+S'18:35:49'
+p438
+sg8
+VFlorent Capital
+p439
+sa(dp440
+g2
+S'2015-12-03'
+p441
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p442
+sg6
+S'18:34:34'
+p443
+sg8
+VACE
+p444
+sa(dp445
+g2
+S'2015-12-03'
+p446
+sg4
+Vrt AT_USER new video - live trade on $nflx URL battling a losing trade
+p447
+sg6
+S'18:33:18'
+p448
+sg8
+VDaTrader
+p449
+sa(dp450
+g2
+S'2015-12-03'
+p451
+sg4
+Vcybercriminals are selling stolen streaming-video-service logins $cmcsa $dis $nflx $twx URL
+p452
+sg6
+S'18:32:36'
+p453
+sg8
+VFaris Sleem
+p454
+sa(dp455
+g2
+S'2015-12-03'
+p456
+sg4
+V$nflx news: "cybercriminals are selling stolen streaming-video-service logins\u2026" URL analyze: URL
+p457
+sg6
+S'18:30:16'
+p458
+sg8
+VQuantpost $NFLX
+p459
+sa(dp460
+g2
+S'2015-12-03'
+p461
+sg4
+V$cmcsa $dis $nflx $twx news: "cybercriminals are selling stolen\u2026" URL analyze: URL
+p462
+sg6
+S'18:30:16'
+p463
+sg8
+VQuantpost Service
+p464
+sa(dp465
+g2
+S'2015-12-03'
+p466
+sg4
+Vcybercriminals are selling stolen streaming-video-service logins $cmcsa $dis $nflx $twx URL
+p467
+sg6
+S'18:30:15'
+p468
+sg8
+VBenzinga.com
+p469
+sa(dp470
+g2
+S'2015-12-03'
+p471
+sg4
+Vtesla motors inc joins apple inc and alphabet inc in bcg\u2019s top innovative companies URL $nflx\u2026 URL
+p472
+sg6
+S'18:28:02'
+p473
+sg8
+VStock Monitor
+p474
+sa(dp475
+g2
+S'2015-12-03'
+p476
+sg4
+V$nflx green again...may see liftoff back to over 130+
+p477
+sg6
+S'18:28:00'
+p478
+sg8
+VIan Nelson
+p479
+sa(dp480
+g2
+S'2015-12-03'
+p481
+sg4
+V10 helpful personal finance tips that won't require drastic lifes... URL $sbux $nflx
+p482
+sg6
+S'18:27:56'
+p483
+sg8
+VStockSaints
+p484
+sa(dp485
+g2
+S'2015-12-03'
+p486
+sg4
+V$nflx as always.....the illegal run up just to steal the put buyer premiums.
+p487
+sg6
+S'18:27:41'
+p488
+sg8
+VSarcasm Bot
+p489
+sa(dp490
+g2
+S'2015-12-03'
+p491
+sg4
+Vwhy are investors so excited to throw in with the blood bank when they could be invested with the vampire? ha! URL $nflx
+p492
+sg6
+S'18:26:38'
+p493
+sg8
+Vtollevin
+p494
+sa(dp495
+g2
+S'2015-12-03'
+p496
+sg4
+Vdec 03 thursday, $nflx low is $127.60 and hit my 1st bearish target $127.80\U0001f37a\U0001f6ac\U0001f4b0\U0001f64c
+p497
+sg6
+S'18:26:27'
+p498
+sg8
+VCutlass
+p499
+sa(dp500
+g2
+S'2015-12-03'
+p501
+sg4
+Vamazon also has an ecosystem to defend, and it's working." $amzn $aapl $googl $nflx URL
+p502
+sg6
+S'18:26:14'
+p503
+sg8
+V$callspreads
+p504
+sa(dp505
+g2
+S'2015-12-03'
+p506
+sg4
+Voption millionaires: truman321: sold 1/2 $nflx 129 puts at 2.20 from 1.28 URL
+p507
+sg6
+S'18:26:09'
+p508
+sg8
+VMani Ohli
+p509
+sa(dp510
+g2
+S'2015-12-03'
+p511
+sg4
+Voption millionaires: truman321: sold 1/2 $nflx 129 puts at 2.20 from 1.28 URL
+p512
+sg6
+S'18:26:07'
+p513
+sg8
+VPerfor Mance
+p514
+sa(dp515
+g2
+S'2015-12-03'
+p516
+sg4
+V94.5% avg peak gain small/micro-caps 100% unbiased URL $nflx, $avp $aapl, $zfgn, $spex. URL
+p517
+sg6
+S'18:24:41'
+p518
+sg8
+VFalcon's PennyStocks
+p519
+sa(dp520
+g2
+S'2015-12-03'
+p521
+sg4
+Vcan we call youtube a real competitor of $nflx and $amzn if we speak about the streaming?
+p522
+sg6
+S'18:24:07'
+p523
+sg8
+VAbbotTrading
+p524
+sa(dp525
+g2
+S'2015-12-03'
+p526
+sg4
+V$nflx might be a beautiful entry here, but i have to sit this one out and manage my $spx and $amzn
+p527
+sg6
+S'18:21:42'
+p528
+sg8
+VCarolyn Marshall
+p529
+sa(dp530
+g2
+S'2015-12-03'
+p531
+sg4
+Vrt AT_USER added to $nflx short at 131. i like the company, but it's quite simply overbought.
+p532
+sg6
+S'18:19:49'
+p533
+sg8
+VFinancial Buzz
+p534
+sa(dp535
+g2
+S'2015-12-03'
+p536
+sg4
+Vrt AT_USER $nflx short working well.
+p537
+sg6
+S'18:19:35'
+p538
+sg8
+VFinancial Buzz
+p539
+sa(dp540
+g2
+S'2015-12-03'
+p541
+sg4
+V$nflx hwb of the whole week's range 127.55, symmetry again! so that "support" zone mentioned at 127.5-65, also means holds hwb.
+p542
+sg6
+S'18:19:27'
+p543
+sg8
+VCarolyn Marshall
+p544
+sa(dp545
+g2
+S'2015-12-03'
+p546
+sg4
+V$nflx short working well.
+p547
+sg6
+S'18:18:20'
+p548
+sg8
+VPatrick Mayer
+p549
+sa(dp550
+g2
+S'2015-12-03'
+p551
+sg4
+VAT_USER ty for the idea on $nflx calls! like clock work. i bought your book. now i just need to read it..
+p552
+sg6
+S'18:17:24'
+p553
+sg8
+Vjay mats
+p554
+sa(dp555
+g2
+S'2015-12-03'
+p556
+sg4
+Vadded to $nflx short at 131. i like the company, but it's quite simply overbought.
+p557
+sg6
+S'18:14:50'
+p558
+sg8
+VMarbulous
+p559
+sa(dp560
+g2
+S'2015-12-03'
+p561
+sg4
+V&amp; which momos were carrying the indices.. hmmm? $amzn $googl $nflx $fb $lnkd so yea.. no rocket science here -- they went up fast -now down
+p562
+sg6
+S'18:14:25'
+p563
+sg8
+VEternity101
+p564
+sa(dp565
+g2
+S'2015-12-03'
+p566
+sg4
+Vout $nflx +22%
+p567
+sg6
+S'18:09:51'
+p568
+sg8
+VMB
+p569
+sa(dp570
+g2
+S'2015-12-03'
+p571
+sg4
+V$nflx is red!! the market is f**ked!!
+p572
+sg6
+S'18:09:30'
+p573
+sg8
+VIan Nelson
+p574
+sa(dp575
+g2
+S'2015-12-03'
+p576
+sg4
+V$nflx in the process of making a nasty candle. lets see how fang closes.
+p577
+sg6
+S'18:08:55'
+p578
+sg8
+VFettyOp
+p579
+sa(dp580
+g2
+S'2015-12-03'
+p581
+sg4
+Vrt AT_USER using our earnings report database, check out these crazy $nflx earnings stats: URL
+p582
+sg6
+S'18:08:35'
+p583
+sg8
+VKESIGAN PADAYACHEE
+p584
+sa(dp585
+g2
+S'2015-12-03'
+p586
+sg4
+Voverall market bloody euro going up dollar down means gold up $nugt the cali killers indicated radical fear sets in $fb $nflx $googl $amzn
+p587
+sg6
+S'18:07:39'
+p588
+sg8
+VFinancial Buzz
+p589
+sa(dp590
+g2
+S'2015-12-03'
+p591
+sg4
+Vrt AT_USER $nflx that got ugly fast.
+p592
+sg6
+S'18:07:28'
+p593
+sg8
+VDon
+p594
+sa(dp595
+g2
+S'2015-12-03'
+p596
+sg4
+Vunicorn bay rating for $nflx is 1.84 out of 5. URL
+p597
+sg6
+S'18:07:00'
+p598
+sg8
+VUnicornBay
+p599
+sa(dp600
+g2
+S'2015-12-03'
+p601
+sg4
+V$nflx back to back topping tails look a lot like the last top. careful chasing long until they clear! URL
+p602
+sg6
+S'18:05:01'
+p603
+sg8
+VJustin Pulitzer
+p604
+sa(dp605
+g2
+S'2015-12-03'
+p606
+sg4
+VAT_USER $nflx wash out approaching $nflx here comes the blood, this has been an amazing run clap the hands!
+p607
+sg6
+S'18:04:26'
+p608
+sg8
+VFinancial Buzz
+p609
+sa(dp610
+g2
+S'2015-12-03'
+p611
+sg4
+V$nflx wash out approaching $nflx here comes the blood, this has been an amazing run clap the hands! URL
+p612
+sg6
+S'18:04:05'
+p613
+sg8
+VFinancial Buzz
+p614
+sa(dp615
+g2
+S'2015-12-03'
+p616
+sg4
+V$nflx that got ugly fast.
+p617
+sg6
+S'18:03:59'
+p618
+sg8
+VNYC Trader
+p619
+sa(dp620
+g2
+S'2015-12-03'
+p621
+sg4
+V$nflx 129 put options URL
+p622
+sg6
+S'18:03:04'
+p623
+sg8
+Voptionstrader
+p624
+sa(dp625
+g2
+S'2015-12-03'
+p626
+sg4
+V$nflx while under 129.29, support has come in 3 times 127.5-127.65
+p627
+sg6
+S'18:02:19'
+p628
+sg8
+VCarolyn Marshall
+p629
+sa(dp630
+g2
+S'2015-12-03'
+p631
+sg4
+Vso why is $nflx trading at a 350 p/e ratio again?
+p632
+sg6
+S'18:00:54'
+p633
+sg8
+VJ Hunter Investments
+p634
+sa(dp635
+g2
+S'2015-12-03'
+p636
+sg4
+V$nflx this is daytrader's heaven lol
+p637
+sg6
+S'17:59:58'
+p638
+sg8
+VMachi
+p639
+sa(dp640
+g2
+S'2015-12-03'
+p641
+sg4
+VAT_USER $nflx with respect, who can afford to buy it at that price? or do you just buy the options instead?
+p642
+sg6
+S'17:59:55'
+p643
+sg8
+VSimple Trader
+p644
+sa(dp645
+g2
+S'2015-12-03'
+p646
+sg4
+V$nflx moves happen after i exit a position lol
+p647
+sg6
+S'17:58:47'
+p648
+sg8
+Vjcocin
+p649
+sa(dp650
+g2
+S'2015-12-03'
+p651
+sg4
+V$nflx --i smell bacon-hmmmm
+p652
+sg6
+S'17:58:06'
+p653
+sg8
+Veddy hooks
+p654
+sa(dp655
+g2
+S'2015-12-03'
+p656
+sg4
+Vgunna b like this prik and post 1 minute million dolla paper tradez and charge memberz 4 it $amzn $vrx $nflx URL
+p657
+sg6
+S'17:57:51'
+p658
+sg8
+Vnobullshytrading
+p659
+sa(dp660
+g2
+S'2015-12-03'
+p661
+sg4
+V$nflx scalping +.30 range bound for now
+p662
+sg6
+S'17:57:17'
+p663
+sg8
+Vjcocin
+p664
+sa(dp665
+g2
+S'2015-12-03'
+p666
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p667
+sg6
+S'17:57:05'
+p668
+sg8
+Vjanine
+p669
+sa(dp670
+g2
+S'2015-12-03'
+p671
+sg4
+V$nflx on the 120 for all of those who understand what they're looking at URL
+p672
+sg6
+S'17:56:50'
+p673
+sg8
+VTraderMentality
+p674
+sa(dp675
+g2
+S'2015-12-03'
+p676
+sg4
+V$nflx has no chill
+p677
+sg6
+S'17:55:56'
+p678
+sg8
+VJ
+p679
+sa(dp680
+g2
+S'2015-12-03'
+p681
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p682
+sg6
+S'17:55:35'
+p683
+sg8
+VRomey Rome
+p684
+sa(dp685
+g2
+S'2015-12-03'
+p686
+sg4
+Vtop 5 most popular stocks among financial advisors last week $xom, $fb, $gild, $nflx, $aapl URL
+p687
+sg6
+S'17:55:14'
+p688
+sg8
+VInsider Monkey
+p689
+sa(dp690
+g2
+S'2015-12-03'
+p691
+sg4
+Vtop 5 most popular stocks among financial advisors last week $xom, $fb, $gild, $nflx, $aapl URL
+p692
+sg6
+S'17:54:51'
+p693
+sg8
+VInsider Monkey News
+p694
+sa(dp695
+g2
+S'2015-12-03'
+p696
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p697
+sg6
+S'17:52:31'
+p698
+sg8
+VJason Clark
+p699
+sa(dp700
+g2
+S'2015-12-03'
+p701
+sg4
+V$nflx is defying reality now
+p702
+sg6
+S'17:52:03'
+p703
+sg8
+VMe My Selfie & I
+p704
+sa(dp705
+g2
+S'2015-12-03'
+p706
+sg4
+VAT_USER you see how strong $nflx still is? you still fighting it. sorry to hear u lost ur job at the factory brother
+p707
+sg6
+S'17:51:35'
+p708
+sg8
+ViLostMoneyTrading
+p709
+sa(dp710
+g2
+S'2015-12-03'
+p711
+sg4
+Vrt AT_USER my $nflx indicator is proprietary and highly complex if the stock is green, then it's not as bad as it seems.
+p712
+sg6
+S'17:49:04'
+p713
+sg8
+VJermaine
+p714
+sa(dp715
+g2
+S'2015-12-03'
+p716
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p717
+sg6
+S'17:48:37'
+p718
+sg8
+VMichael Phillips
+p719
+sa(dp720
+g2
+S'2015-12-03'
+p721
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p722
+sg6
+S'17:47:54'
+p723
+sg8
+VShaan Puri
+p724
+sa(dp725
+g2
+S'2015-12-03'
+p726
+sg4
+Vmy $nflx indicator is proprietary and highly complex if the stock is green, then it's not as bad as it seems.
+p727
+sg6
+S'17:44:06'
+p728
+sg8
+VWatchhimtrade.com
+p729
+sa(dp730
+g2
+S'2015-12-03'
+p731
+sg4
+Vnflx netflix, inc. filings URL $nflx $mcd $rxmd $tv.to nflx invest pennystocks
+p732
+sg6
+S'17:43:32'
+p733
+sg8
+VJake13
+p734
+sa(dp735
+g2
+S'2015-12-03'
+p736
+sg4
+Vmy $nflx indicator says the sky is not falling
+p737
+sg6
+S'17:43:05'
+p738
+sg8
+VWatchhimtrade.com
+p739
+sa(dp740
+g2
+S'2015-12-03'
+p741
+sg4
+V$nflx still in the honey badger mode. can't believe it didn't crack 129 on that slide.
+p742
+sg6
+S'17:41:45'
+p743
+sg8
+VVlad Mazek
+p744
+sa(dp745
+g2
+S'2015-12-03'
+p746
+sg4
+V$nflx flip flopped. i'm on the buy side now.
+p747
+sg6
+S'17:41:08'
+p748
+sg8
+VJai Patel
+p749
+sa(dp750
+g2
+S'2015-12-03'
+p751
+sg4
+VAT_USER careful bro trading $nflx today $vrx very manipulated
+p752
+sg6
+S'17:39:00'
+p753
+sg8
+Vjcocin
+p754
+sa(dp755
+g2
+S'2015-12-03'
+p756
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p757
+sg6
+S'17:36:13'
+p758
+sg8
+VJ2R
+p759
+sa(dp760
+g2
+S'2015-12-03'
+p761
+sg4
+Vrt AT_USER market is still weak and very little progress yet some leading stocks are acting very healthy $nuan $nflx $ntes $amzn $bidu \u2026
+p762
+sg6
+S'17:33:15'
+p763
+sg8
+VStock Geek
+p764
+sa(dp765
+g2
+S'2015-12-03'
+p766
+sg4
+V$nflx bounce at 2 week trend line or just bust through?
+p767
+sg6
+S'17:31:19'
+p768
+sg8
+VRamsel Ruiz
+p769
+sa(dp770
+g2
+S'2015-12-03'
+p771
+sg4
+Vautomate your trading of $nflx, $tsla, $gs stocks URL
+p772
+sg6
+S'17:31:02'
+p773
+sg8
+VSureSignals
+p774
+sa(dp775
+g2
+S'2015-12-03'
+p776
+sg4
+V94.5% avg gain 100% unbiased small/micro-caps URL $nflx, $avp $aapl, $zfgn, $spex. URL
+p777
+sg6
+S'17:30:02'
+p778
+sg8
+VFalcon's PennyStocks
+p779
+sa(dp780
+g2
+S'2015-12-03'
+p781
+sg4
+Vnetflix, inc. (nasdaq:nflx) invisible viewer data \u2013 even hollywood has no clue $nflx netflix URL
+p782
+sg6
+S'17:28:53'
+p783
+sg8
+VLearnBonds.com
+p784
+sa(dp785
+g2
+S'2015-12-03'
+p786
+sg4
+Vbespokeinvest: using our earnings report database, check out these crazy $nflx earnings stats: URL
+p787
+sg6
+S'17:25:48'
+p788
+sg8
+VInvesting Insight
+p789
+sa(dp790
+g2
+S'2015-12-03'
+p791
+sg4
+Vmy honey badger $nflx don't care. where those 80's at putz boy. but he a pro. bs all over $twtr
+p792
+sg6
+S'17:24:56'
+p793
+sg8
+VLouisLouie
+p794
+sa(dp795
+g2
+S'2015-12-03'
+p796
+sg4
+Vstocktwits trending alert: trading recent interest in netflix $nflx URL
+p797
+sg6
+S'17:24:21'
+p798
+sg8
+VQuantcha
+p799
+sa(dp800
+g2
+S'2015-12-03'
+p801
+sg4
+Vrt AT_USER market is still weak and very little progress yet some leading stocks are acting very healthy $nuan $nflx $ntes $amzn $bidu \u2026
+p802
+sg6
+S'17:22:45'
+p803
+sg8
+VBenny Hill
+p804
+sa(dp805
+g2
+S'2015-12-03'
+p806
+sg4
+Vone of our past unbiased small/micro-cap stock reports: URL $nflx, $avp $aapl, $zfgn, $spex. URL
+p807
+sg6
+S'17:22:11'
+p808
+sg8
+VFalcon's PennyStocks
+p809
+sa(dp810
+g2
+S'2015-12-03'
+p811
+sg4
+V$nflx back to testing 129.29 again, the old ath.
+p812
+sg6
+S'17:21:17'
+p813
+sg8
+VCarolyn Marshall
+p814
+sa(dp815
+g2
+S'2015-12-03'
+p816
+sg4
+Vnetflix stock forecast and analysis 2016 stock market live tv URL $nflx stocks trading URL
+p817
+sg6
+S'17:20:40'
+p818
+sg8
+Vstockmarketlive.tv
+p819
+sa(dp820
+g2
+S'2015-12-03'
+p821
+sg4
+V$nflx get this fukin bullshyt red alredeey
+p822
+sg6
+S'17:20:12'
+p823
+sg8
+Vnobullshytrading
+p824
+sa(dp825
+g2
+S'2015-12-03'
+p826
+sg4
+V&gt; even ever bullish $nflx cracked
+p827
+sg6
+S'17:20:04'
+p828
+sg8
+VJoyBiz
+p829
+sa(dp830
+g2
+S'2015-12-03'
+p831
+sg4
+Vboom! $nflx URL
+p832
+sg6
+S'17:19:45'
+p833
+sg8
+Vtradewithjoe
+p834
+sa(dp835
+g2
+S'2015-12-03'
+p836
+sg4
+V$nflx 2 failed breaks
+p837
+sg6
+S'17:19:43'
+p838
+sg8
+VTy Reamer
+p839
+sa(dp840
+g2
+S'2015-12-03'
+p841
+sg4
+Vboom! $nflx URL
+p842
+sg6
+S'17:19:35'
+p843
+sg8
+Vtradewithjoe
+p844
+sa(dp845
+g2
+S'2015-12-03'
+p846
+sg4
+Vrt AT_USER using our earnings report database, check out these crazy $nflx earnings stats: URL
+p847
+sg6
+S'17:19:19'
+p848
+sg8
+VFinanzLinksUSA
+p849
+sa(dp850
+g2
+S'2015-12-03'
+p851
+sg4
+Vback to watching if $nflx breaks. it was the strongest back in august.
+p852
+sg6
+S'17:19:15'
+p853
+sg8
+VAlan Farley
+p854
+sa(dp855
+g2
+S'2015-12-03'
+p856
+sg4
+Vnetflix stock forecast and analysis 2016 stock market live tv URL $nflx stocks trading URL
+p857
+sg6
+S'17:19:14'
+p858
+sg8
+VAlex Vieira
+p859
+sa(dp860
+g2
+S'2015-12-03'
+p861
+sg4
+Vrt AT_USER using our earnings report database, check out these crazy $nflx earnings stats: URL
+p862
+sg6
+S'17:15:45'
+p863
+sg8
+VChristine/fx
+p864
+sa(dp865
+g2
+S'2015-12-03'
+p866
+sg4
+V$nflx p strike 130 target128.61
+p867
+sg6
+S'17:15:22'
+p868
+sg8
+VAbu Ali Al Ali
+p869
+sa(dp870
+g2
+S'2015-12-03'
+p871
+sg4
+Vusing our earnings report database, check out these crazy $nflx earnings stats: URL
+p872
+sg6
+S'17:13:44'
+p873
+sg8
+VBespoke
+p874
+sa(dp875
+g2
+S'2015-12-03'
+p876
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p877
+sg6
+S'17:12:14'
+p878
+sg8
+VQuickStart.
+p879
+sa(dp880
+g2
+S'2015-12-03'
+p881
+sg4
+Vmade 1.00 a share on $nflx trade that lasted like 15 minutes. $fang
+p882
+sg6
+S'17:12:03'
+p883
+sg8
+VOneBigTrade
+p884
+sa(dp885
+g2
+S'2015-12-03'
+p886
+sg4
+VAT_USER URL $nflx not a short
+p887
+sg6
+S'17:11:49'
+p888
+sg8
+VStokker
+p889
+sa(dp890
+g2
+S'2015-12-03'
+p891
+sg4
+VAT_USER $nflx, holding some $128 puts only want .30-.50 cents
+p892
+sg6
+S'17:11:17'
+p893
+sg8
+VTorero
+p894
+sa(dp895
+g2
+S'2015-12-03'
+p896
+sg4
+Vmarket is still weak and very little progress yet some leading stocks are acting very healthy $nuan $nflx $ntes $amzn $bidu and others
+p897
+sg6
+S'17:11:08'
+p898
+sg8
+VDan Zanger
+p899
+sa(dp900
+g2
+S'2015-12-03'
+p901
+sg4
+Vweaker b/o in comparison to the one \u005cu2026 $nflx URL ~ via URL
+p902
+sg6
+S'17:10:11'
+p903
+sg8
+V24/7 Crypto FX
+p904
+sa(dp905
+g2
+S'2015-12-03'
+p906
+sg4
+VAT_USER thanks, you like $nflx short here
+p907
+sg6
+S'17:09:59'
+p908
+sg8
+VTorero
+p909
+sa(dp910
+g2
+S'2015-12-03'
+p911
+sg4
+Vweaker b/o in comparison to the one \u005cu2026 $nflx URL
+p912
+sg6
+S'17:08:15'
+p913
+sg8
+VTV_Trading Ideas
+p914
+sa(dp915
+g2
+S'2015-12-03'
+p916
+sg4
+Vlooking more and more like an off day. no but alerts going off $spx $tsla $bidu $fb $nflx $amzn
+p917
+sg6
+S'17:01:31'
+p918
+sg8
+VJabeeri\u2122
+p919
+sa(dp920
+g2
+S'2015-12-03'
+p921
+sg4
+Vnetflix is still the ultimate freak beast $nflx URL
+p922
+sg6
+S'17:01:14'
+p923
+sg8
+VRaul
+p924
+sa(dp925
+g2
+S'2015-12-03'
+p926
+sg4
+V$nflx is the only safe haven, might as well go all-in on this + lever up.
+p927
+sg6
+S'17:01:11'
+p928
+sg8
+VWbr
+p929
+sa(dp930
+g2
+S'2015-12-03'
+p931
+sg4
+Vrt AT_USER 135 almost a guarantee for $nflx now. i'm short atm puts and long calls.
+p932
+sg6
+S'17:00:34'
+p933
+sg8
+VEternity101
+p934
+sa(dp935
+g2
+S'2015-12-03'
+p936
+sg4
+Vrt AT_USER $nflx want to come over to "nextflix and chill?" at 52weeks high today. dang!
+p937
+sg6
+S'17:00:30'
+p938
+sg8
+VSir Q
+p939
+sa(dp940
+g2
+S'2015-12-03'
+p941
+sg4
+Vu.s. active (stock wars): $grpn +1.95%, $nflx +2.36%, $avgo +9.92%, $amzn +0.89%, $ebr +8.28% URL stockwars
+p942
+sg6
+S'17:00:01'
+p943
+sg8
+VStock Wars
+p944
+sa(dp945
+g2
+S'2015-12-03'
+p946
+sg4
+Vtoptickertweets $spy $aapl $gbsn $spx $nflx fintech finserv URL 20151203-12:00
+p947
+sg6
+S'16:59:56'
+p948
+sg8
+VSentiQuant
+p949
+sa(dp950
+g2
+S'2015-12-03'
+p951
+sg4
+V135 almost a guarantee for $nflx now. i'm short atm puts and long calls.
+p952
+sg6
+S'16:59:25'
+p953
+sg8
+VTrevor
+p954
+sa(dp955
+g2
+S'2015-12-03'
+p956
+sg4
+Vrelative strength scan today: $kr $cost $pcln $ewz $fit $nflx
+p957
+sg6
+S'16:58:23'
+p958
+sg8
+VRobert Lesnicki
+p959
+sa(dp960
+g2
+S'2015-12-03'
+p961
+sg4
+V$nflx when it beast it doesn't stop.
+p962
+sg6
+S'16:56:28'
+p963
+sg8
+VKristin
+p964
+sa(dp965
+g2
+S'2015-12-03'
+p966
+sg4
+Vtickers trending on twtr in last 1 hour $djia $enb $gpro $nflx $vrx URL URL
+p967
+sg6
+S'16:55:39'
+p968
+sg8
+VFinBuzz
+p969
+sa(dp970
+g2
+S'2015-12-03'
+p971
+sg4
+V$nflx from 11/30 URL
+p972
+sg6
+S'16:52:52'
+p973
+sg8
+VDavid Blair
+p974
+sa(dp975
+g2
+S'2015-12-03'
+p976
+sg4
+Vs&amp;p500 stocks trend $avgo $brcm $vrsn $mnk $mdt $nflx $aal $ms $emc $fslr $yhoo $wynn $tsn $hrl $cpb $nvda @ URL
+p977
+sg6
+S'16:52:15'
+p978
+sg8
+V12Stocks.com
+p979
+sa(dp980
+g2
+S'2015-12-03'
+p981
+sg4
+Vs&amp;p500 stocks performance $avgo $brcm $nem $kr $vrsn $dg $fmc $cost $cf $mnk $mdt $tsn $ca $wmt $nflx more@ URL
+p982
+sg6
+S'16:51:58'
+p983
+sg8
+V12Stocks.com
+p984
+sa(dp985
+g2
+S'2015-12-03'
+p986
+sg4
+Vnasdaq100 stocks performance $yhoo $qcom $nflx $wynn $incy $aal $swks $ea $rost $celg $chkp $cern $regn more@ URL
+p987
+sg6
+S'16:51:46'
+p988
+sg8
+VIvy Dunce
+p989
+sa(dp990
+g2
+S'2015-12-03'
+p991
+sg4
+Vnasdaq100 stocks trend $avgo $nflx $lvnta $aal $yhoo $wynn $nvda $atvi $adsk $amzn $sndk $cost $trip $msft @ URL
+p992
+sg6
+S'16:51:41'
+p993
+sg8
+V12Stocks.com
+p994
+sa(dp995
+g2
+S'2015-12-03'
+p996
+sg4
+Vpour all ur $$ into $nflx up here! i can c investorz r still makin wize decisionz with their money...
+p997
+sg6
+S'16:51:23'
+p998
+sg8
+Vnobullshytrading
+p999
+sa(dp1000
+g2
+S'2015-12-03'
+p1001
+sg4
+V$nflx ridiculous..
+p1002
+sg6
+S'16:50:29'
+p1003
+sg8
+Vdominic
+p1004
+sa(dp1005
+g2
+S'2015-12-03'
+p1006
+sg4
+Vcovered $nflx @ 130.99. +.40
+p1007
+sg6
+S'16:50:01'
+p1008
+sg8
+VTraderMentality
+p1009
+sa(dp1010
+g2
+S'2015-12-03'
+p1011
+sg4
+Vrt AT_USER AT_USER up 30% since, short again? $nflx now even youtube competition!? $goog
+p1012
+sg6
+S'16:49:06'
+p1013
+sg8
+Vchollida1
+p1014
+sa(dp1015
+g2
+S'2015-12-03'
+p1016
+sg4
+Vrt options scanner shows netflix $nflx february 150 call option implied volatility increased 5% to 53
+p1017
+sg6
+S'16:48:10'
+p1018
+sg8
+VIVolatility 
+p1019
+sa(dp1020
+g2
+S'2015-12-03'
+p1021
+sg4
+V$nflx looks like more gains for this stock... get in where you fit in!
+p1022
+sg6
+S'16:46:50'
+p1023
+sg8
+VJoshua Rodriguez
+p1024
+sa(dp1025
+g2
+S'2015-12-03'
+p1026
+sg4
+Vwill $nflx continue to climb? URL
+p1027
+sg6
+S'16:46:33'
+p1028
+sg8
+VJoshua Rodriguez
+p1029
+sa(dp1030
+g2
+S'2015-12-03'
+p1031
+sg4
+VAT_USER every waiter / bartender with hipster beard 100% long $fb $amzn $nflx $goog laughs loudly at you and i :)
+p1032
+sg6
+S'16:45:39'
+p1033
+sg8
+VDividend Master
+p1034
+sa(dp1035
+g2
+S'2015-12-03'
+p1036
+sg4
+Vhow to make money trading $nflx URL $$ stock investing
+p1037
+sg6
+S'16:45:32'
+p1038
+sg8
+Vshahadmonjil@gmail.c
+p1039
+sa(dp1040
+g2
+S'2015-12-03'
+p1041
+sg4
+VAT_USER up 30% since, short again? $nflx now even youtube competition!? $goog
+p1042
+sg6
+S'16:41:59'
+p1043
+sg8
+VMike Reid
+p1044
+sa(dp1045
+g2
+S'2015-12-03'
+p1046
+sg4
+Vi can't stop making money why are netflix shares surging to new highs - stock market live tv URL $nflx stocks trading
+p1047
+sg6
+S'16:41:23'
+p1048
+sg8
+Vstockmarketlive.tv
+p1049
+sa(dp1050
+g2
+S'2015-12-03'
+p1051
+sg4
+Vi can't stop making money why are netflix shares surging to new highs - stock market live tv URL $nflx stocks trading
+p1052
+sg6
+S'16:41:10'
+p1053
+sg8
+VAlex Vieira
+p1054
+sa(dp1055
+g2
+S'2015-12-03'
+p1056
+sg4
+VAT_USER AT_USER simple xabcd patterns will get you targets. $nflx URL
+p1057
+sg6
+S'16:41:07'
+p1058
+sg8
+VPtheGr8
+p1059
+sa(dp1060
+g2
+S'2015-12-03'
+p1061
+sg4
+V$nflx not shorter squeezed yet, :-)
+p1062
+sg6
+S'16:39:10'
+p1063
+sg8
+VLin/\u6797\u83b9\u541b
+p1064
+sa(dp1065
+g2
+S'2015-12-03'
+p1066
+sg4
+Vyoutube red looking to add streaming movies, tv shows URL $goog $nflx
+p1067
+sg6
+S'16:37:20'
+p1068
+sg8
+VAfterDawn.com
+p1069
+sa(dp1070
+g2
+S'2015-12-03'
+p1071
+sg4
+V$nflx i'll wait for 139...
+p1072
+sg6
+S'16:36:03'
+p1073
+sg8
+Vnobullshytrading
+p1074
+sa(dp1075
+g2
+S'2015-12-03'
+p1076
+sg4
+Vcovered the other half of $nflx @ 131.02 +1$
+p1077
+sg6
+S'16:34:52'
+p1078
+sg8
+VJaytrade
+p1079
+sa(dp1080
+g2
+S'2015-12-03'
+p1081
+sg4
+Vif i had $1 for every guy who tells me they keep buying $amzn $nflx because mr market is telling you to ..... :) URL
+p1082
+sg6
+S'16:34:29'
+p1083
+sg8
+VDividend Master
+p1084
+sa(dp1085
+g2
+S'2015-12-03'
+p1086
+sg4
+V$nflx new ath this morning - shorts are getting a haircut. bullish wkly pattern - "it's a bull markt till it ain't" URL
+p1087
+sg6
+S'16:32:01'
+p1088
+sg8
+VStockOptionCoach
+p1089
+sa(dp1090
+g2
+S'2015-12-03'
+p1091
+sg4
+V$spy 'downgrade in the ratings by s&amp;p of major global banks will lower investors\u2019 confidence in the stocks' $aapl $amzn $nflx $gild $qqq
+p1092
+sg6
+S'16:31:20'
+p1093
+sg8
+VElly
+p1094
+sa(dp1095
+g2
+S'2015-12-03'
+p1096
+sg4
+Vit's urgent to sue cnbc mad money host jim cramer URL $gpro $nflx stocks cnbc scamalert URL
+p1097
+sg6
+S'16:29:58'
+p1098
+sg8
+Vstockmarketlive.tv
+p1099
+sa(dp1100
+g2
+S'2015-12-03'
+p1101
+sg4
+Vactives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom $aig $skx $yhoo $ge AT_USER URL
+p1102
+sg6
+S'16:29:52'
+p1103
+sg8
+VSportAdore
+p1104
+sa(dp1105
+g2
+S'2015-12-03'
+p1106
+sg4
+V$nflx only $10 from being fairly valued - i would be a seller at $141
+p1107
+sg6
+S'16:29:49'
+p1108
+sg8
+VCaeX
+p1109
+sa(dp1110
+g2
+S'2015-12-03'
+p1111
+sg4
+Vrt AT_USER it's urgent to sue cnbc mad money host jim cramer URL $gpro $nflx stocks cnbc scamalert URL
+p1112
+sg6
+S'16:29:43'
+p1113
+sg8
+V00
+p1114
+sa(dp1115
+g2
+S'2015-12-03'
+p1116
+sg4
+Vit's urgent to sue cnbc mad money host jim cramer URL $gpro $nflx stocks cnbc scamalert URL
+p1117
+sg6
+S'16:28:33'
+p1118
+sg8
+VAlex Vieira
+p1119
+sa(dp1120
+g2
+S'2015-12-03'
+p1121
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1122
+sg6
+S'16:26:55'
+p1123
+sg8
+Vyoaamat
+p1124
+sa(dp1125
+g2
+S'2015-12-03'
+p1126
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1127
+sg6
+S'16:26:54'
+p1128
+sg8
+VY3eZuS
+p1129
+sa(dp1130
+g2
+S'2015-12-03'
+p1131
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1132
+sg6
+S'16:26:54'
+p1133
+sg8
+VCraig Edwards
+p1134
+sa(dp1135
+g2
+S'2015-12-03'
+p1136
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1137
+sg6
+S'16:26:53'
+p1138
+sg8
+VSean Geoghegan
+p1139
+sa(dp1140
+g2
+S'2015-12-03'
+p1141
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1142
+sg6
+S'16:26:52'
+p1143
+sg8
+V\u0645\u062d\u0645\u062f \u0627\u0644\u0645\u062d\u0645\u062f\u064a #\u0627\u0644\u0647\u0644\u0627\u0644
+p1144
+sa(dp1145
+g2
+S'2015-12-03'
+p1146
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1147
+sg6
+S'16:26:52'
+p1148
+sg8
+V\u0647\u0650\u0646\u062f.
+p1149
+sa(dp1150
+g2
+S'2015-12-03'
+p1151
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1152
+sg6
+S'16:26:52'
+p1153
+sg8
+Vstayc
+p1154
+sa(dp1155
+g2
+S'2015-12-03'
+p1156
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1157
+sg6
+S'16:26:51'
+p1158
+sg8
+V\u0646\u064f\u0648\u0631\u0629 | \u0625\u0644\u0649 \u0627\u0644\u0644\u0647
+p1159
+sa(dp1160
+g2
+S'2015-12-03'
+p1161
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1162
+sg6
+S'16:26:50'
+p1163
+sg8
+V\u2022\u25ba
+p1164
+sa(dp1165
+g2
+S'2015-12-03'
+p1166
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1167
+sg6
+S'16:26:49'
+p1168
+sg8
+VAriel Viguera
+p1169
+sa(dp1170
+g2
+S'2015-12-03'
+p1171
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1172
+sg6
+S'16:26:49'
+p1173
+sg8
+VTom Spence
+p1174
+sa(dp1175
+g2
+S'2015-12-03'
+p1176
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1177
+sg6
+S'16:26:48'
+p1178
+sg8
+VNegraa\u2665
+p1179
+sa(dp1180
+g2
+S'2015-12-03'
+p1181
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1182
+sg6
+S'16:26:46'
+p1183
+sg8
+Vgewl
+p1184
+sa(dp1185
+g2
+S'2015-12-03'
+p1186
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1187
+sg6
+S'16:26:46'
+p1188
+sg8
+V\u0627\u0644\u062d\u0633\u0646 \u0639\u0627\u0645\u0631 \u0627\u0644\u0641\u062a\u062d\u064a
+p1189
+sa(dp1190
+g2
+S'2015-12-03'
+p1191
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1192
+sg6
+S'16:26:45'
+p1193
+sg8
+VDaniel Galimidi
+p1194
+sa(dp1195
+g2
+S'2015-12-03'
+p1196
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1197
+sg6
+S'16:26:43'
+p1198
+sg8
+VIván Niño\u26a1\ufe0f
+p1199
+sa(dp1200
+g2
+S'2015-12-03'
+p1201
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1202
+sg6
+S'16:26:43'
+p1203
+sg8
+VEugeña.
+p1204
+sa(dp1205
+g2
+S'2015-12-03'
+p1206
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1207
+sg6
+S'16:26:42'
+p1208
+sg8
+V\u0633\u0639\u062f \u0627\u0644 \u0639\u0644\u064a \u0660\u0660\u062d\u0627\u0626\u0644
+p1209
+sa(dp1210
+g2
+S'2015-12-03'
+p1211
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1212
+sg6
+S'16:26:42'
+p1213
+sg8
+Vsnini AL hazmi
+p1214
+sa(dp1215
+g2
+S'2015-12-03'
+p1216
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1217
+sg6
+S'16:26:42'
+p1218
+sg8
+VAmber Wells
+p1219
+sa(dp1220
+g2
+S'2015-12-03'
+p1221
+sg4
+V$nflx out .55 x 2k shares = $1,100
+p1222
+sg6
+S'16:26:40'
+p1223
+sg8
+V#1 Day Trading Coach
+p1224
+sa(dp1225
+g2
+S'2015-12-03'
+p1226
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1227
+sg6
+S'16:26:39'
+p1228
+sg8
+VCat
+p1229
+sa(dp1230
+g2
+S'2015-12-03'
+p1231
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1232
+sg6
+S'16:26:39'
+p1233
+sg8
+Vdorothy
+p1234
+sa(dp1235
+g2
+S'2015-12-03'
+p1236
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p1237
+sg6
+S'16:26:39'
+p1238
+sg8
+V21
+p1239
+sa(dp1240
+g2
+S'2015-12-03'
+p1241
+sg4
+Vrt AT_USER $nflx 131.5 | upcoming dates 12/4 a very murray christmas 12/7 ubs conference 1/10 golden globes 1/20 (est.) q4 earnings 2/\u2026
+p1242
+sg6
+S'16:26:21'
+p1243
+sg8
+VBiashara_mtu
+p1244
+sa(dp1245
+g2
+S'2015-12-03'
+p1246
+sg4
+Vrt AT_USER $nflx 131.5 | upcoming dates 12/4 a very murray christmas 12/7 ubs conference 1/10 golden globes 1/20 (est.) q4 earnings 2/\u2026
+p1247
+sg6
+S'16:26:01'
+p1248
+sg8
+VPaddyTheLeprechaun
+p1249
+sa(dp1250
+g2
+S'2015-12-03'
+p1251
+sg4
+VAT_USER AT_USER $spy make its flipping mind up ? haha this is why likes of $nflx so much more fun :d URL
+p1252
+sg6
+S'16:25:31'
+p1253
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p1254
+sa(dp1255
+g2
+S'2015-12-03'
+p1256
+sg4
+Vcovered half $nflx @ 131.50
+p1257
+sg6
+S'16:25:25'
+p1258
+sg8
+VJaytrade
+p1259
+sa(dp1260
+g2
+S'2015-12-03'
+p1261
+sg4
+Vrt AT_USER $nflx 131.5 | upcoming dates 12/4 a very murray christmas 12/7 ubs conference 1/10 golden globes 1/20 (est.) q4 earnings 2/\u2026
+p1262
+sg6
+S'16:25:05'
+p1263
+sg8
+VMike
+p1264
+sa(dp1265
+g2
+S'2015-12-03'
+p1266
+sg4
+V$nflx 131.5 | upcoming dates 12/4 a very murray christmas 12/7 ubs conference 1/10 golden globes 1/20 (est.) q4 earnings 2/27 house of cards
+p1267
+sg6
+S'16:24:50'
+p1268
+sg8
+VTom Wrigley
+p1269
+sa(dp1270
+g2
+S'2015-12-03'
+p1271
+sg4
+Vfinally $nflx hit the $131.80 target. was just one day early
+p1272
+sg6
+S'16:24:49'
+p1273
+sg8
+Vmustped
+p1274
+sa(dp1275
+g2
+S'2015-12-03'
+p1276
+sg4
+V$nflx - same 2k shares
+p1277
+sg6
+S'16:24:49'
+p1278
+sg8
+V#1 Day Trading Coach
+p1279
+sa(dp1280
+g2
+S'2015-12-03'
+p1281
+sg4
+Vclosed $nflx 131 calls 2.32 from 1.25 avg. taking break. next target still 138, but not necessarily straight line.
+p1282
+sg6
+S'16:24:22'
+p1283
+sg8
+VCarolyn Marshall
+p1284
+sa(dp1285
+g2
+S'2015-12-03'
+p1286
+sg4
+V$nflx short
+p1287
+sg6
+S'16:23:38'
+p1288
+sg8
+V#1 Day Trading Coach
+p1289
+sa(dp1290
+g2
+S'2015-12-03'
+p1291
+sg4
+Vearnings performance for $nflx has been tough URL URL
+p1292
+sg6
+S'16:23:35'
+p1293
+sg8
+VWarren of Wall St
+p1294
+sa(dp1295
+g2
+S'2015-12-03'
+p1296
+sg4
+Vout of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $spx $gg $ge $s $z $c
+p1297
+sg6
+S'16:23:33'
+p1298
+sg8
+VDay Traders Group
+p1299
+sa(dp1300
+g2
+S'2015-12-03'
+p1301
+sg4
+V$now $nflx 52-week hight.
+p1302
+sg6
+S'16:22:51'
+p1303
+sg8
+VBAD BOYZ AUCTION
+p1304
+sa(dp1305
+g2
+S'2015-12-03'
+p1306
+sg4
+Vcutting $nflx soon, losing premium on next weeks calls.
+p1307
+sg6
+S'16:22:44'
+p1308
+sg8
+VLeilani Pips\u2122
+p1309
+sa(dp1310
+g2
+S'2015-12-03'
+p1311
+sg4
+Vcommented on stocktwits: --tulips look pretty then they wither $nflx URL
+p1312
+sg6
+S'16:22:34'
+p1313
+sg8
+Veddy hooks
+p1314
+sa(dp1315
+g2
+S'2015-12-03'
+p1316
+sg4
+VAT_USER AT_USER how much higher you think $nflx can go?
+p1317
+sg6
+S'16:21:53'
+p1318
+sg8
+VDavid Racki
+p1319
+sa(dp1320
+g2
+S'2015-12-03'
+p1321
+sg4
+V$nflx $132.14 ath and pushing URL
+p1322
+sg6
+S'16:20:28'
+p1323
+sg8
+VThe Trading Ninja
+p1324
+sa(dp1325
+g2
+S'2015-12-03'
+p1326
+sg4
+Vshort $nflx 132.02
+p1327
+sg6
+S'16:19:51'
+p1328
+sg8
+VJaytrade
+p1329
+sa(dp1330
+g2
+S'2015-12-03'
+p1331
+sg4
+V$nflx want to come over to "nextflix and chill?" at 52weeks high today. dang!
+p1332
+sg6
+S'16:18:45'
+p1333
+sg8
+V$$$ Money $$$
+p1334
+sa(dp1335
+g2
+S'2015-12-03'
+p1336
+sg4
+Vboom rippy time $pcln $nflx $tsla only $vrx needs to go boom now. pay day baby let's do it.
+p1337
+sg6
+S'16:18:33'
+p1338
+sg8
+VThe HULKSTER
+p1339
+sa(dp1340
+g2
+S'2015-12-03'
+p1341
+sg4
+V$nflx goin over the top sly-style URL
+p1342
+sg6
+S'16:18:21'
+p1343
+sg8
+VTraderMentality
+p1344
+sa(dp1345
+g2
+S'2015-12-03'
+p1346
+sg4
+Vdouble top following t\u005cu2026 $nflx URL
+p1347
+sg6
+S'16:17:17'
+p1348
+sg8
+VTV_Trading Ideas
+p1349
+sa(dp1350
+g2
+S'2015-12-03'
+p1351
+sg4
+VAT_USER lol -- i do remember when $nflx dropped 84% to the 2012 lows too... company wasn't that differ. than it's prior highs or today
+p1352
+sg6
+S'16:16:57'
+p1353
+sg8
+VStock007
+p1354
+sa(dp1355
+g2
+S'2015-12-03'
+p1356
+sg4
+Vlooking to get into $amzn call. holding $nflx call now
+p1357
+sg6
+S'16:16:42'
+p1358
+sg8
+VSteve Tang
+p1359
+sa(dp1360
+g2
+S'2015-12-03'
+p1361
+sg4
+Vrt AT_USER $nflx should be able to trail stop much higher on this soon URL
+p1362
+sg6
+S'16:16:35'
+p1363
+sg8
+VPepiño da Groula
+p1364
+sa(dp1365
+g2
+S'2015-12-03'
+p1366
+sg4
+VAT_USER 1000 $nflx $140 dec calls bought just now
+p1367
+sg6
+S'16:16:07'
+p1368
+sg8
+Vjeff george
+p1369
+sa(dp1370
+g2
+S'2015-12-03'
+p1371
+sg4
+V$nflx bull train continues
+p1372
+sg6
+S'16:15:52'
+p1373
+sg8
+VDanny E
+p1374
+sa(dp1375
+g2
+S'2015-12-03'
+p1376
+sg4
+VAT_USER 1000 $nflx dec $140 calls just bought
+p1377
+sg6
+S'16:15:29'
+p1378
+sg8
+Vjeff george
+p1379
+sa(dp1380
+g2
+S'2015-12-03'
+p1381
+sg4
+V$nflx huuuge winner
+p1382
+sg6
+S'16:15:09'
+p1383
+sg8
+VTheHULK
+p1384
+sa(dp1385
+g2
+S'2015-12-03'
+p1386
+sg4
+Vrt AT_USER $nflx should be able to trail stop much higher on this soon URL
+p1387
+sg6
+S'16:14:43'
+p1388
+sg8
+Vtomandprisha
+p1389
+sa(dp1390
+g2
+S'2015-12-03'
+p1391
+sg4
+Vrt AT_USER lather. rinse. binge watch. $nflx up another 2% today to new all-time high.
+p1392
+sg6
+S'16:14:36'
+p1393
+sg8
+Vtomandprisha
+p1394
+sa(dp1395
+g2
+S'2015-12-03'
+p1396
+sg4
+V$nflx i am focusing on $es_f today .. money on sale ... URL
+p1397
+sg6
+S'16:13:35'
+p1398
+sg8
+VStockMarket With SK
+p1399
+sa(dp1400
+g2
+S'2015-12-03'
+p1401
+sg4
+VAT_USER AT_USER AT_USER $nflx 131.92 taken out next 132.65 133.78 crucial number enjoy ddrante
+p1402
+sg6
+S'16:13:26'
+p1403
+sg8
+VBUD RANTE
+p1404
+sa(dp1405
+g2
+S'2015-12-03'
+p1406
+sg4
+Vsome great strength coming in now, i'm still very heavy and haven't sold 1 share but that can change quickly. $bidu $nflx $amzn $bib $googl
+p1407
+sg6
+S'16:13:20'
+p1408
+sg8
+VWarren Bevan
+p1409
+sa(dp1410
+g2
+S'2015-12-03'
+p1411
+sg4
+Vyoutube to eat netflix's lunch? looks to getting streaming rights to tv, movies - $goog $nflx video URL
+p1412
+sg6
+S'16:13:01'
+p1413
+sg8
+VMobile Potpurri
+p1414
+sa(dp1415
+g2
+S'2015-12-03'
+p1416
+sg4
+Vrt AT_USER $tsla and $nflx hod'ing
+p1417
+sg6
+S'16:12:46'
+p1418
+sg8
+VCharlie Monson
+p1419
+sa(dp1420
+g2
+S'2015-12-03'
+p1421
+sg4
+V$nflx --tulips-tulips---beautiful fields of tulips
+p1422
+sg6
+S'16:12:43'
+p1423
+sg8
+Veddy hooks
+p1424
+sa(dp1425
+g2
+S'2015-12-03'
+p1426
+sg4
+VAT_USER you really know $nflx 133 next right?
+p1427
+sg6
+S'16:11:16'
+p1428
+sg8
+VJermaine
+p1429
+sa(dp1430
+g2
+S'2015-12-03'
+p1431
+sg4
+Vrt AT_USER lather. rinse. binge watch. $nflx up another 2% today to new all-time high.
+p1432
+sg6
+S'16:11:15'
+p1433
+sg8
+VP. Ricatti
+p1434
+sa(dp1435
+g2
+S'2015-12-03'
+p1436
+sg4
+Vmarket rallying on obama appearance instead of selling, that's a switch. $spx $es_f $nflx $amzn $googl even $fb trying to bust +106.3
+p1437
+sg6
+S'16:10:55'
+p1438
+sg8
+VCarolyn Marshall
+p1439
+sa(dp1440
+g2
+S'2015-12-03'
+p1441
+sg4
+V$tsla and $nflx hod'ing
+p1442
+sg6
+S'16:10:26'
+p1443
+sg8
+VLeilani Pips\u2122
+p1444
+sa(dp1445
+g2
+S'2015-12-03'
+p1446
+sg4
+V$nflx new high \U0001f60e
+p1447
+sg6
+S'16:08:31'
+p1448
+sg8
+Valonsoo
+p1449
+sa(dp1450
+g2
+S'2015-12-03'
+p1451
+sg4
+Vrt AT_USER fangs out in force today, writes AT_USER ...$amzn, $nflx, $goog hit record intraday highs URL
+p1452
+sg6
+S'16:08:04'
+p1453
+sg8
+VSteve Lear
+p1454
+sa(dp1455
+g2
+S'2015-12-03'
+p1456
+sg4
+V$nflx - hell of a battle longs/shorts here - taking the gain - $nflx out .62 x 2k shares = $1,240
+p1457
+sg6
+S'16:07:50'
+p1458
+sg8
+V#1 Day Trading Coach
+p1459
+sa(dp1460
+g2
+S'2015-12-03'
+p1461
+sg4
+Vrt AT_USER lather. rinse. binge watch. $nflx up another 2% today to new all-time high.
+p1462
+sg6
+S'16:07:41'
+p1463
+sg8
+VJennifer Ablan
+p1464
+sa(dp1465
+g2
+S'2015-12-03'
+p1466
+sg4
+VAT_USER hi venky your views on $nflx ? price target here?
+p1467
+sg6
+S'16:07:39'
+p1468
+sg8
+VCapitaineHaddock
+p1469
+sa(dp1470
+g2
+S'2015-12-03'
+p1471
+sg4
+Vcommented on stocktwits: gartman pair trade buy $dis sell $nflx... lol i.e. do the inverse. URL
+p1472
+sg6
+S'16:06:41'
+p1473
+sg8
+VWolf
+p1474
+sa(dp1475
+g2
+S'2015-12-03'
+p1476
+sg4
+Vrt AT_USER lather. rinse. binge watch. $nflx up another 2% today to new all-time high.
+p1477
+sg6
+S'16:06:40'
+p1478
+sg8
+V#
+p1479
+sa(dp1480
+g2
+S'2015-12-03'
+p1481
+sg4
+Vand $nflx 224%xa check \u221a URL URL
+p1482
+sg6
+S'16:06:34'
+p1483
+sg8
+VPtheGr8
+p1484
+sa(dp1485
+g2
+S'2015-12-03'
+p1486
+sg4
+VAT_USER $nflx
+p1487
+sg6
+S'16:06:33'
+p1488
+sg8
+VRytis
+p1489
+sa(dp1490
+g2
+S'2015-12-03'
+p1491
+sg4
+Vlather. rinse. binge watch. $nflx up another 2% today to new all-time high.
+p1492
+sg6
+S'16:06:27'
+p1493
+sg8
+VPaul R. La Monica
+p1494
+sa(dp1495
+g2
+S'2015-12-03'
+p1496
+sg4
+V$nflx should be able to trail stop much higher on this soon URL
+p1497
+sg6
+S'16:05:58'
+p1498
+sg8
+VJon Boorman
+p1499
+sa(dp1500
+g2
+S'2015-12-03'
+p1501
+sg4
+Vhere's your santarally $spx $djia $aapl $dis $goog $nflx URL
+p1502
+sg6
+S'16:05:07'
+p1503
+sg8
+VGrowthAndPride
+p1504
+sa(dp1505
+g2
+S'2015-12-03'
+p1506
+sg4
+V$nflx rockin' and rollin
+p1507
+sg6
+S'16:05:05'
+p1508
+sg8
+VTrax
+p1509
+sa(dp1510
+g2
+S'2015-12-03'
+p1511
+sg4
+V$fb green... $nflx all time high...nice $4 jump off lows this morning...seems to do that every day now
+p1512
+sg6
+S'16:05:03'
+p1513
+sg8
+VIan Nelson
+p1514
+sa(dp1515
+g2
+S'2015-12-03'
+p1516
+sg4
+V$nflx gonna tap out soon $tlsa no bueno haha URL
+p1517
+sg6
+S'16:04:53'
+p1518
+sg8
+VLeilani Pips\u2122
+p1519
+sa(dp1520
+g2
+S'2015-12-03'
+p1521
+sg4
+V$nflx weekly. violent price discovery mode. can't get enough of it :) URL
+p1522
+sg6
+S'16:04:43'
+p1523
+sg8
+VM³
+p1524
+sa(dp1525
+g2
+S'2015-12-03'
+p1526
+sg4
+V$nflx how can you not like $nflx lol new ath see you guys over $132 shortly URL
+p1527
+sg6
+S'16:04:07'
+p1528
+sg8
+VThe Trading Ninja
+p1529
+sa(dp1530
+g2
+S'2015-12-03'
+p1531
+sg4
+Vnow strongly suspect fund managers want $fang on their books til year end so no sell off til jan $fb $goog $nflx $amzn only explanation
+p1532
+sg6
+S'16:04:01'
+p1533
+sg8
+ViLostMoneyTrading
+p1534
+sa(dp1535
+g2
+S'2015-12-03'
+p1536
+sg4
+Vwtf $nflx why!?!?
+p1537
+sg6
+S'16:03:22'
+p1538
+sg8
+VStarving Artist
+p1539
+sa(dp1540
+g2
+S'2015-12-03'
+p1541
+sg4
+V$nflx +2% $131.48 new 52-wk high $goog URL
+p1542
+sg6
+S'16:03:17'
+p1543
+sg8
+VScott Spencer
+p1544
+sa(dp1545
+g2
+S'2015-12-03'
+p1546
+sg4
+Vshort $nflx @ 131.39
+p1547
+sg6
+S'16:02:55'
+p1548
+sg8
+VTraderMentality
+p1549
+sa(dp1550
+g2
+S'2015-12-03'
+p1551
+sg4
+V$nflx chillin at a new all time high.
+p1552
+sg6
+S'16:02:49'
+p1553
+sg8
+VWolf
+p1554
+sa(dp1555
+g2
+S'2015-12-03'
+p1556
+sg4
+V$nflx - lemony snicket's a series of unfortunate events announces worldwide casting call for key roles in URL
+p1557
+sg6
+S'16:02:04'
+p1558
+sg8
+VHot Stocks&Biotechs
+p1559
+sa(dp1560
+g2
+S'2015-12-03'
+p1561
+sg4
+V$nflx - lemony snicket's a series of unfortunate events announces worldwide casting call for key roles in URL
+p1562
+sg6
+S'16:02:03'
+p1563
+sg8
+VHot Stocks&Biotechs
+p1564
+sa(dp1565
+g2
+S'2015-12-03'
+p1566
+sg4
+V$nflx - lemony snicket's a series of unfortunate events announces worldwide casting call for key roles in URL
+p1567
+sg6
+S'16:02:02'
+p1568
+sg8
+VHot Stocks&Biotechs
+p1569
+sa(dp1570
+g2
+S'2015-12-03'
+p1571
+sg4
+V$nflx just traded at an all-time high: $131.49. congrats shorts for not panicking...
+p1572
+sg6
+S'16:00:59'
+p1573
+sg8
+VAndrew Dice Sorkin
+p1574
+sa(dp1575
+g2
+S'2015-12-03'
+p1576
+sg4
+Vsurprised this isn't trending, another ath today $nflx
+p1577
+sg6
+S'16:00:55'
+p1578
+sg8
+VCommon King
+p1579
+sa(dp1580
+g2
+S'2015-12-03'
+p1581
+sg4
+V$amzn $nflx URL
+p1582
+sg6
+S'16:00:50'
+p1583
+sg8
+V\u1d2c\u1dab\u1dab\u1d43\u1db0
+p1584
+sa(dp1585
+g2
+S'2015-12-03'
+p1586
+sg4
+V$nflx news: "here's how youtube is intensifying the battle against netflix and\u2026" URL analyze: URL
+p1587
+sg6
+S'16:00:44'
+p1588
+sg8
+VQuantpost $NFLX
+p1589
+sa(dp1590
+g2
+S'2015-12-03'
+p1591
+sg4
+V$amzn $nflx news: "here's how youtube is intensifying the battle against netflix\u2026" URL analyze: URL
+p1592
+sg6
+S'16:00:44'
+p1593
+sg8
+VQuantpost Service
+p1594
+sa(dp1595
+g2
+S'2015-12-03'
+p1596
+sg4
+Vhere's how youtube is intensifying the battle against netflix and amazon $amzn $goog $nflx URL
+p1597
+sg6
+S'16:00:42'
+p1598
+sg8
+VBenzinga.com
+p1599
+sa(dp1600
+g2
+S'2015-12-03'
+p1601
+sg4
+Vcommented on stocktwits: $nflx reminding shorts why they should just chill on the top calling. URL
+p1602
+sg6
+S'16:00:08'
+p1603
+sg8
+VWolf
+p1604
+sa(dp1605
+g2
+S'2015-12-03'
+p1606
+sg4
+Vrt AT_USER $nflx new ath again....
+p1607
+sg6
+S'16:00:01'
+p1608
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p1609
+sa(dp1610
+g2
+S'2015-12-03'
+p1611
+sg4
+V$nflx honestly seems like rotation coming in here, yet another new ath over one made test, while $spx sits 32 points off yesterday's high
+p1612
+sg6
+S'15:59:49'
+p1613
+sg8
+VCarolyn Marshall
+p1614
+sa(dp1615
+g2
+S'2015-12-03'
+p1616
+sg4
+V$wmt rippin. $atvi nice $aal dec4 44.50 lotto play $nflx $amzn $cost
+p1617
+sg6
+S'15:59:39'
+p1618
+sg8
+VYou're No Daisy
+p1619
+sa(dp1620
+g2
+S'2015-12-03'
+p1621
+sg4
+V$nflx new ath again....
+p1622
+sg6
+S'15:59:38'
+p1623
+sg8
+Vsteven spencer
+p1624
+sa(dp1625
+g2
+S'2015-12-03'
+p1626
+sg4
+Vstopped out of $nflx. small losses are better than big losses :)
+p1627
+sg6
+S'15:59:26'
+p1628
+sg8
+VVlad Mazek
+p1629
+sa(dp1630
+g2
+S'2015-12-03'
+p1631
+sg4
+Vboom! new 52wh on $nflx
+p1632
+sg6
+S'15:59:25'
+p1633
+sg8
+VLeilani Pips\u2122
+p1634
+sa(dp1635
+g2
+S'2015-12-03'
+p1636
+sg4
+V$nflx new 52w high
+p1637
+sg6
+S'15:59:05'
+p1638
+sg8
+Vrotop
+p1639
+sa(dp1640
+g2
+S'2015-12-03'
+p1641
+sg4
+V$nflx long - 2k shares
+p1642
+sg6
+S'15:59:03'
+p1643
+sg8
+V#1 Day Trading Coach
+p1644
+sa(dp1645
+g2
+S'2015-12-03'
+p1646
+sg4
+V$nflx going completely opposite the $spy rn. check out a 1min chart
+p1647
+sg6
+S'15:58:56'
+p1648
+sg8
+VOptions Omar
+p1649
+sa(dp1650
+g2
+S'2015-12-03'
+p1651
+sg4
+Vnetflix, inc. (nasdaq:nflx) invisible viewer data \u2013 even hollywood has no clue $nflx netflix URL
+p1652
+sg6
+S'15:58:52'
+p1653
+sg8
+VLearnBonds.com
+p1654
+sa(dp1655
+g2
+S'2015-12-03'
+p1656
+sg4
+V$nflx URL
+p1657
+sg6
+S'15:57:33'
+p1658
+sg8
+Vmsputoptions
+p1659
+sa(dp1660
+g2
+S'2015-12-03'
+p1661
+sg4
+V$nflx once desks have sold enough calls and shaken out their exposure to put contract bye bye nflx. ill be watching nflx in the meantime :)
+p1662
+sg6
+S'15:57:31'
+p1663
+sg8
+VCarlitos Ferg
+p1664
+sa(dp1665
+g2
+S'2015-12-03'
+p1666
+sg4
+Valmost a bag on $nflx $tsla a yawn URL
+p1667
+sg6
+S'15:57:22'
+p1668
+sg8
+VLeilani Pips\u2122
+p1669
+sa(dp1670
+g2
+S'2015-12-03'
+p1671
+sg4
+Vcommented on stocktwits: $nflx cover or perish. URL
+p1672
+sg6
+S'15:56:55'
+p1673
+sg8
+VWolf
+p1674
+sa(dp1675
+g2
+S'2015-12-03'
+p1676
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p1677
+sg6
+S'15:56:25'
+p1678
+sg8
+VNASDAQStocks
+p1679
+sa(dp1680
+g2
+S'2015-12-03'
+p1681
+sg4
+V$fxe financials updated thursday, december 3, 2015 10:11:09 am $pfe $dxj $jnj $nflx URL
+p1682
+sg6
+S'15:56:12'
+p1683
+sg8
+VIH News Desk
+p1684
+sa(dp1685
+g2
+S'2015-12-03'
+p1686
+sg4
+V$ual investor opinions updated thursday, december 3, 2015 10:11:09 am $nflx $fcx $gdxj $nflx URL
+p1687
+sg6
+S'15:56:11'
+p1688
+sg8
+VIH News Desk
+p1689
+sa(dp1690
+g2
+S'2015-12-03'
+p1691
+sg4
+V$vz financials updated thursday, december 3, 2015 10:11:09 am $dis $dba $intc $nflx URL
+p1692
+sg6
+S'15:56:10'
+p1693
+sg8
+VIH News Desk
+p1694
+sa(dp1695
+g2
+S'2015-12-03'
+p1696
+sg4
+VAT_USER his 'value investor' advice on $nflx: "short it, it's worth 5x earnings" -- i guess he'd say the same for $amzn
+p1697
+sg6
+S'15:56:04'
+p1698
+sg8
+Vrob collins
+p1699
+sa(dp1700
+g2
+S'2015-12-03'
+p1701
+sg4
+Vnetflix, inc. (nflx) beware; youtube red has begun minting money $nflx netflix URL
+p1702
+sg6
+S'15:55:45'
+p1703
+sg8
+VLearnBonds.com
+p1704
+sa(dp1705
+g2
+S'2015-12-03'
+p1706
+sg4
+V$nflx 131.35 make/break level. these longer wicked doji's on 15min make me think it fails to break above. let's see. URL
+p1707
+sg6
+S'15:55:26'
+p1708
+sg8
+VTaylor
+p1709
+sa(dp1710
+g2
+S'2015-12-03'
+p1711
+sg4
+Vrt seekingalpha: google scaling up online video URL $amzn $nflx $goog $googl
+p1712
+sg6
+S'15:55:15'
+p1713
+sg8
+VChina Invest
+p1714
+sa(dp1715
+g2
+S'2015-12-03'
+p1716
+sg4
+Vsure $nflx can beat google, and every network and cable provider, and kid with a camera, and hulu, and microsoft, URL
+p1717
+sg6
+S'15:55:14'
+p1718
+sg8
+VTom Grimes
+p1719
+sa(dp1720
+g2
+S'2015-12-03'
+p1721
+sg4
+VAT_USER nice trade. been a beast lately $nflx
+p1722
+sg6
+S'15:54:43'
+p1723
+sg8
+VJT
+p1724
+sa(dp1725
+g2
+S'2015-12-03'
+p1726
+sg4
+Vtheres an unusual sight, $tvix, $wmt and $nflx in my ira all green at the same time.
+p1727
+sg6
+S'15:54:18'
+p1728
+sg8
+VZenTrader
+p1729
+sa(dp1730
+g2
+S'2015-12-03'
+p1731
+sg4
+Vold guy doesn't understand $nflx and doesn't realize we can also own all of the competitors he lists here URL
+p1732
+sg6
+S'15:53:25'
+p1733
+sg8
+Vrob collins
+p1734
+sa(dp1735
+g2
+S'2015-12-03'
+p1736
+sg4
+Vrt AT_USER $goog $googl news: "google scaling up online video $amzn $nflx $goog $googl" URL analyze: URL
+p1737
+sg6
+S'15:52:14'
+p1738
+sg8
+VCasper Wu (\u5433\u6625\u9f8d)
+p1739
+sa(dp1740
+g2
+S'2015-12-03'
+p1741
+sg4
+VAT_USER AT_USER santa lives inside a $nflx candle ! he is packing up all my shoooooooooooooes cali hahahahaha busy elves up dn up dn
+p1742
+sg6
+S'15:51:05'
+p1743
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p1744
+sa(dp1745
+g2
+S'2015-12-03'
+p1746
+sg4
+Vvolume alert - nflx 130.00 netflix inc $nflx hit a high today of 130.92 closing the day 10:30 at 130.00 +1.07 URL
+p1747
+sg6
+S'15:50:46'
+p1748
+sg8
+Vleahanne
+p1749
+sa(dp1750
+g2
+S'2015-12-03'
+p1751
+sg4
+Vrt AT_USER covered call alerts for $nflx, $pypl, $qcom, $sbux and $tyl investorsobserver today: URL options\u2026
+p1752
+sg6
+S'15:50:31'
+p1753
+sg8
+VJames DiPlata
+p1754
+sa(dp1755
+g2
+S'2015-12-03'
+p1756
+sg4
+V$nflx - zero fux given :-)
+p1757
+sg6
+S'15:50:17'
+p1758
+sg8
+VTrax
+p1759
+sa(dp1760
+g2
+S'2015-12-03'
+p1761
+sg4
+Vrt AT_USER whoa! netflix! that's a new all-time high. $nflx just traded at $131.05 per share: URL URL
+p1762
+sg6
+S'15:49:02'
+p1763
+sg8
+VRandy
+p1764
+sa(dp1765
+g2
+S'2015-12-03'
+p1766
+sg4
+V$nflx seems to be on auto pilot long
+p1767
+sg6
+S'15:48:03'
+p1768
+sg8
+VZed_Apple_Stox
+p1769
+sa(dp1770
+g2
+S'2015-12-03'
+p1771
+sg4
+Vso we're selling everything (equity, tsys, usd) and buying $nflx? is that the new risk free hiding place?
+p1772
+sg6
+S'15:47:32'
+p1773
+sg8
+VNACMtrader17
+p1774
+sa(dp1775
+g2
+S'2015-12-03'
+p1776
+sg4
+V$nflx down it goes URL
+p1777
+sg6
+S'15:45:52'
+p1778
+sg8
+VHuy Doan
+p1779
+sa(dp1780
+g2
+S'2015-12-03'
+p1781
+sg4
+Vgoogle scaling up online video URL $amzn $nflx $goog $googl
+p1782
+sg6
+S'15:45:30'
+p1783
+sg8
+VTech Stocks
+p1784
+sa(dp1785
+g2
+S'2015-12-03'
+p1786
+sg4
+V$amzn news: "google scaling up online video $amzn $nflx $goog $googl" URL analyze: URL
+p1787
+sg6
+S'15:45:30'
+p1788
+sg8
+VQuantpost $AMZN
+p1789
+sa(dp1790
+g2
+S'2015-12-03'
+p1791
+sg4
+V$amzn $nflx news: "google scaling up online video $amzn $nflx $goog $googl" URL analyze: URL
+p1792
+sg6
+S'15:45:30'
+p1793
+sg8
+VQuantpost Service
+p1794
+sa(dp1795
+g2
+S'2015-12-03'
+p1796
+sg4
+V$nflx news: "google scaling up online video $amzn $nflx $goog $googl" URL analyze: URL
+p1797
+sg6
+S'15:45:30'
+p1798
+sg8
+VQuantpost $NFLX
+p1799
+sa(dp1800
+g2
+S'2015-12-03'
+p1801
+sg4
+V$goog $googl news: "google scaling up online video $amzn $nflx $goog $googl" URL analyze: URL
+p1802
+sg6
+S'15:45:30'
+p1803
+sg8
+VQuantpost Technology
+p1804
+sa(dp1805
+g2
+S'2015-12-03'
+p1806
+sg4
+Vgoogle scaling up online video URL $amzn $nflx $goog $googl
+p1807
+sg6
+S'15:45:30'
+p1808
+sg8
+VLong & Short Ideas
+p1809
+sa(dp1810
+g2
+S'2015-12-03'
+p1811
+sg4
+Vgoogle scaling up online video URL $amzn $nflx $goog $googl
+p1812
+sg6
+S'15:45:29'
+p1813
+sg8
+VSeeking Alpha
+p1814
+sa(dp1815
+g2
+S'2015-12-03'
+p1816
+sg4
+Vnxpi nxp semiconductor n.v. exchange URL $nxpi $nflx $cree $luv nxpi nasdaq stock
+p1817
+sg6
+S'15:44:03'
+p1818
+sg8
+VLucky Jimmy
+p1819
+sa(dp1820
+g2
+S'2015-12-03'
+p1821
+sg4
+Vnflx netflix, inc. prev close URL $nflx $sqqq $xbi $yfi.v nflx share stocks
+p1822
+sg6
+S'15:43:34'
+p1823
+sg8
+VInvestors Hangout
+p1824
+sa(dp1825
+g2
+S'2015-12-03'
+p1826
+sg4
+V$nflx short killa in the house as mentioned am. those funny shorts. 130c ~ 200% from low am. nice! trade stocks
+p1827
+sg6
+S'15:41:53'
+p1828
+sg8
+Vthomas ross
+p1829
+sa(dp1830
+g2
+S'2015-12-03'
+p1831
+sg4
+Voption millionaires: jimmybob: $nflx closing o hod again ~ URL
+p1832
+sg6
+S'15:41:36'
+p1833
+sg8
+VMani Ohli
+p1834
+sa(dp1835
+g2
+S'2015-12-03'
+p1836
+sg4
+Voption millionaires: jimmybob: $nflx closing o hod again ~ URL
+p1837
+sg6
+S'15:41:33'
+p1838
+sg8
+VPerfor Mance
+p1839
+sa(dp1840
+g2
+S'2015-12-03'
+p1841
+sg4
+Vibm international business machines shares URL $ibm $nflx $qld $impv ibm investing finance
+p1842
+sg6
+S'15:41:14'
+p1843
+sg8
+VStock Forums
+p1844
+sa(dp1845
+g2
+S'2015-12-03'
+p1846
+sg4
+Vone of our past unbiased small/micro-cap stock reports: URL $nflx, $avp $aapl, $zfgn, $spex.
+p1847
+sg6
+S'15:40:08'
+p1848
+sg8
+VFalcon's PennyStocks
+p1849
+sa(dp1850
+g2
+S'2015-12-03'
+p1851
+sg4
+Vuv course this bullshyts still up while thu rest uv thu world iz ending $amzn $panw $mnst $nflx $scty $qihu $hrl $crm awsum fukin bubble
+p1852
+sg6
+S'15:39:11'
+p1853
+sg8
+Vnobullshytrading
+p1854
+sa(dp1855
+g2
+S'2015-12-03'
+p1856
+sg4
+V$nflx bucking
+p1857
+sg6
+S'15:38:09'
+p1858
+sg8
+V\u039d\u03b9chola\u03c2
+p1859
+sa(dp1860
+g2
+S'2015-12-03'
+p1861
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p1862
+sg6
+S'15:38:08'
+p1863
+sg8
+VSteve Johnston
+p1864
+sa(dp1865
+g2
+S'2015-12-03'
+p1866
+sg4
+Vcovered call alerts for $nflx, $pypl, $qcom, $sbux and $tyl investorsobserver today: URL optionstrading coveredcalls
+p1867
+sg6
+S'15:37:27'
+p1868
+sg8
+VInvestors Observer
+p1869
+sa(dp1870
+g2
+S'2015-12-03'
+p1871
+sg4
+Vshorted $nflx at 130.65, stop above 131, let's see. the rsi is beasting but price action not so much. worth the risk for an hour, lets see.
+p1872
+sg6
+S'15:37:12'
+p1873
+sg8
+VVlad Mazek
+p1874
+sa(dp1875
+g2
+S'2015-12-03'
+p1876
+sg4
+VAT_USER new news story out this morning: "why wwe doesn't care about record-low tv ratings...yet": URL $nflx $cmcsa
+p1877
+sg6
+S'15:36:10'
+p1878
+sg8
+VWayne Duggan
+p1879
+sa(dp1880
+g2
+S'2015-12-03'
+p1881
+sg4
+Vrt AT_USER yellen can't stop the 'flx hahaha $nflx
+p1882
+sg6
+S'15:35:32'
+p1883
+sg8
+VDaniel K
+p1884
+sa(dp1885
+g2
+S'2015-12-03'
+p1886
+sg4
+Vmarket so cruel to the little bird. why isn't $twtr a part of $fang ? $goog $fb $nflx $amzn just as likely imo
+p1887
+sg6
+S'15:33:50'
+p1888
+sg8
+VMe My Selfie & I
+p1889
+sa(dp1890
+g2
+S'2015-12-03'
+p1891
+sg4
+V$nflx support back again holding price above the previous ath that stood for 5 months at 129.29
+p1892
+sg6
+S'15:32:00'
+p1893
+sg8
+VCarolyn Marshall
+p1894
+sa(dp1895
+g2
+S'2015-12-03'
+p1896
+sg4
+Vrt AT_USER $nflx just seems to not care
+p1897
+sg6
+S'15:31:14'
+p1898
+sg8
+VOphir Gottlieb
+p1899
+sa(dp1900
+g2
+S'2015-12-03'
+p1901
+sg4
+V$fb, $nflx, $amzn still green
+p1902
+sg6
+S'15:30:57'
+p1903
+sg8
+VBrutusMaximus
+p1904
+sa(dp1905
+g2
+S'2015-12-03'
+p1906
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p1907
+sg6
+S'15:30:24'
+p1908
+sg8
+VMarijuanacharts
+p1909
+sa(dp1910
+g2
+S'2015-12-03'
+p1911
+sg4
+Vrt AT_USER $nflx and chill. URL
+p1912
+sg6
+S'15:29:59'
+p1913
+sg8
+VJohn Jeffery
+p1914
+sa(dp1915
+g2
+S'2015-12-03'
+p1916
+sg4
+V$mdt $nflx $rai rel strength
+p1917
+sg6
+S'15:29:56'
+p1918
+sg8
+VJeff Davis
+p1919
+sa(dp1920
+g2
+S'2015-12-03'
+p1921
+sg4
+VAT_USER AT_USER does $nflx and chill ever have a down day????
+p1922
+sg6
+S'15:28:40'
+p1923
+sg8
+VEdward Barthelemy
+p1924
+sa(dp1925
+g2
+S'2015-12-03'
+p1926
+sg4
+V$nflx short target $131.50. AT_USER
+p1927
+sg6
+S'15:28:02'
+p1928
+sg8
+VWalter Smithy
+p1929
+sa(dp1930
+g2
+S'2015-12-03'
+p1931
+sg4
+V$nflx this stock price makes zero sense, :-)
+p1932
+sg6
+S'15:27:40'
+p1933
+sg8
+ViBuddhaTrader
+p1934
+sa(dp1935
+g2
+S'2015-12-03'
+p1936
+sg4
+Vrt AT_USER $nflx and chill. URL
+p1937
+sg6
+S'15:27:36'
+p1938
+sg8
+VMickey Graham
+p1939
+sa(dp1940
+g2
+S'2015-12-03'
+p1941
+sg4
+V$nflx is the new jdsu...like wile e. coyote running off a cliff. it just keeps going until it realizes there is no place to go but down.
+p1942
+sg6
+S'15:27:19'
+p1943
+sg8
+VJoe Arena
+p1944
+sa(dp1945
+g2
+S'2015-12-03'
+p1946
+sg4
+V$nflx --bigger the bubble the louder the pop
+p1947
+sg6
+S'15:26:51'
+p1948
+sg8
+Veddy hooks
+p1949
+sa(dp1950
+g2
+S'2015-12-03'
+p1951
+sg4
+Vyellen can't stop the 'flx hahaha $nflx
+p1952
+sg6
+S'15:26:04'
+p1953
+sg8
+VLeilani Pips\u2122
+p1954
+sa(dp1955
+g2
+S'2015-12-03'
+p1956
+sg4
+Vif you're not long $nflx right now you're a fucking asshole" yup seems to be the theme again \U0001f610 AT_USER
+p1957
+sg6
+S'15:25:51'
+p1958
+sg8
+VOmar
+p1959
+sa(dp1960
+g2
+S'2015-12-03'
+p1961
+sg4
+V$nflx &amp; $tsla rally on nothing. pour into the safety of over-priced companies??!! $vix up 7%. will u.s. equities dump further like europe?
+p1962
+sg6
+S'15:24:34'
+p1963
+sg8
+VRED Option
+p1964
+sa(dp1965
+g2
+S'2015-12-03'
+p1966
+sg4
+Vrt AT_USER $nflx just seems to not care
+p1967
+sg6
+S'15:23:51'
+p1968
+sg8
+VM³
+p1969
+sa(dp1970
+g2
+S'2015-12-03'
+p1971
+sg4
+V$nflx just seems to not care
+p1972
+sg6
+S'15:23:33'
+p1973
+sg8
+VDK1
+p1974
+sa(dp1975
+g2
+S'2015-12-03'
+p1976
+sg4
+Vso it's been decided $nflx is a better investment than $goog and $fang is the new safe haven when markets tank. nice.
+p1977
+sg6
+S'15:22:38'
+p1978
+sg8
+ViLostMoneyTrading
+p1979
+sa(dp1980
+g2
+S'2015-12-03'
+p1981
+sg4
+Vgotta hand it to $nflx it's building back up and momentum is carrying it back through 130.
+p1982
+sg6
+S'15:21:57'
+p1983
+sg8
+VVlad Mazek
+p1984
+sa(dp1985
+g2
+S'2015-12-03'
+p1986
+sg4
+V$nflx took 1/2 off + .52 .. pushes are so weak . broke even on balance . no love .
+p1987
+sg6
+S'15:21:39'
+p1988
+sg8
+VDan
+p1989
+sa(dp1990
+g2
+S'2015-12-03'
+p1991
+sg4
+Vsmall/micro-caps 94.5% avg peak gain 100% unbiased URL $nflx, $avp $aapl, $zfgn, $spex &amp; $csco URL
+p1992
+sg6
+S'15:21:36'
+p1993
+sg8
+VFalcon's PennyStocks
+p1994
+sa(dp1995
+g2
+S'2015-12-03'
+p1996
+sg4
+V$pmcb percent change updated thursday, december 3, 2015 09:59:24 am $nflx $ibb $edz $gild URL
+p1997
+sg6
+S'15:21:08'
+p1998
+sg8
+VRosner Stocks
+p1999
+sa(dp2000
+g2
+S'2015-12-03'
+p2001
+sg4
+Vrt AT_USER fangs out in force today, writes AT_USER ...$amzn, $nflx, $goog hit record intraday highs URL
+p2002
+sg6
+S'15:21:03'
+p2003
+sg8
+VJim
+p2004
+sa(dp2005
+g2
+S'2015-12-03'
+p2006
+sg4
+Vrt AT_USER $nflx gives 0 fucks
+p2007
+sg6
+S'15:19:52'
+p2008
+sg8
+VLinkToGo
+p2009
+sa(dp2010
+g2
+S'2015-12-03'
+p2011
+sg4
+V$amzn $nflx $googl don't give a shit about the market
+p2012
+sg6
+S'15:19:51'
+p2013
+sg8
+VJeff Focker
+p2014
+sa(dp2015
+g2
+S'2015-12-03'
+p2016
+sg4
+VAT_USER $nflx is the obvious safety trade! they used to buy utilities, now it's streaming video.
+p2017
+sg6
+S'15:19:44'
+p2018
+sg8
+VAdmiral Connors
+p2019
+sa(dp2020
+g2
+S'2015-12-03'
+p2021
+sg4
+Vdoes $nflx break 131 high from yesterday? in next week 133 calls!
+p2022
+sg6
+S'15:19:36'
+p2023
+sg8
+VAfter The Bell
+p2024
+sa(dp2025
+g2
+S'2015-12-03'
+p2026
+sg4
+V$nflx 144c next weeks URL
+p2027
+sg6
+S'15:19:03'
+p2028
+sg8
+VLeilani Pips\u2122
+p2029
+sa(dp2030
+g2
+S'2015-12-03'
+p2031
+sg4
+Vbto $nflx dec 140AT_USER
+p2032
+sg6
+S'15:18:42'
+p2033
+sg8
+Vmarc gendron
+p2034
+sa(dp2035
+g2
+S'2015-12-03'
+p2036
+sg4
+V$nflx gives 0 fucks
+p2037
+sg6
+S'15:18:29'
+p2038
+sg8
+VE B
+p2039
+sa(dp2040
+g2
+S'2015-12-03'
+p2041
+sg4
+V$nflx just does give a sh*t
+p2042
+sg6
+S'15:17:45'
+p2043
+sg8
+VJabeeri\u2122
+p2044
+sa(dp2045
+g2
+S'2015-12-03'
+p2046
+sg4
+Vhave an $amzn gift certificate for first person who spots a $nflx stock price makes no sense tweet ;)
+p2047
+sg6
+S'15:17:37'
+p2048
+sg8
+Vsteven spencer
+p2049
+sa(dp2050
+g2
+S'2015-12-03'
+p2051
+sg4
+V$nflx $amzn and $yelp are keeping my portfolio green today
+p2052
+sg6
+S'15:17:34'
+p2053
+sg8
+VTrax
+p2054
+sa(dp2055
+g2
+S'2015-12-03'
+p2056
+sg4
+V$nflx only goes up on days that end in "y
+p2057
+sg6
+S'15:17:24'
+p2058
+sg8
+V Know Fund
+p2059
+sa(dp2060
+g2
+S'2015-12-03'
+p2061
+sg4
+V$nflx shrugging off any sign of a correction. other leaders are holding but not as strong. finger still on the sell button but holding 4 now
+p2062
+sg6
+S'15:16:59'
+p2063
+sg8
+VWarren Bevan
+p2064
+sa(dp2065
+g2
+S'2015-12-03'
+p2066
+sg4
+V$nflx huge massive bars this morning
+p2067
+sg6
+S'15:16:36'
+p2068
+sg8
+VG
+p2069
+sa(dp2070
+g2
+S'2015-12-03'
+p2071
+sg4
+V$nflx long 130.23
+p2072
+sg6
+S'15:16:34'
+p2073
+sg8
+VDan
+p2074
+sa(dp2075
+g2
+S'2015-12-03'
+p2076
+sg4
+V$nflx boom! loaded for next week.
+p2077
+sg6
+S'15:16:12'
+p2078
+sg8
+VTheHULK
+p2079
+sa(dp2080
+g2
+S'2015-12-03'
+p2081
+sg4
+V$nflx back above 130 from the 127s 30 mins ago and making new daily highs
+p2082
+sg6
+S'15:16:03'
+p2083
+sg8
+VIan Nelson
+p2084
+sa(dp2085
+g2
+S'2015-12-03'
+p2086
+sg4
+Vrt seekingalpha: why wwe doesn't care about record-low tv ratings...yet URL $cmcsa $nflx $wwe
+p2087
+sg6
+S'15:10:02'
+p2088
+sg8
+VChina Invest
+p2089
+sa(dp2090
+g2
+S'2015-12-03'
+p2091
+sg4
+Vupdate apertura stocks us $yhoo -0.56% $dg +2.33% $shld +2.70% $aapl +0.01% $kr +2.39% $nflx -0.63% $mdt +1.64%
+p2092
+sg6
+S'15:09:26'
+p2093
+sg8
+VInvest Huddle
+p2094
+sa(dp2095
+g2
+S'2015-12-03'
+p2096
+sg4
+Vexited my $nflx position with a 38% gain since 9/8 will re-enter on next 10+% decline
+p2097
+sg6
+S'15:08:33'
+p2098
+sg8
+VKevin G
+p2099
+sa(dp2100
+g2
+S'2015-12-03'
+p2101
+sg4
+V$nflx just wants to rally, biding time above 129
+p2102
+sg6
+S'15:08:27'
+p2103
+sg8
+VCarolyn Marshall
+p2104
+sa(dp2105
+g2
+S'2015-12-03'
+p2106
+sg4
+Vamazing strength in $nflx. market tanks and it pushes into hods.
+p2107
+sg6
+S'15:08:27'
+p2108
+sg8
+VMichael Estabrooks
+p2109
+sa(dp2110
+g2
+S'2015-12-03'
+p2111
+sg4
+VAT_USER you said people won't buy vitamins online? $gnc stores will go the way of blockbuster via $nflx
+p2112
+sg6
+S'15:08:14'
+p2113
+sg8
+VChris Coleman
+p2114
+sa(dp2115
+g2
+S'2015-12-03'
+p2116
+sg4
+Vstill relentlessly pumping $amzn and $nflx fang mania; both green and plump
+p2117
+sg6
+S'15:08:01'
+p2118
+sg8
+VCapCube Sez
+p2119
+sa(dp2120
+g2
+S'2015-12-03'
+p2121
+sg4
+V$nflx says "i am heading higher, stop me if you can..
+p2122
+sg6
+S'15:07:37'
+p2123
+sg8
+VOptionsTrader
+p2124
+sa(dp2125
+g2
+S'2015-12-03'
+p2126
+sg4
+V$nflx honey badger dont give a f$$k URL
+p2127
+sg6
+S'15:07:31'
+p2128
+sg8
+Vjeff george
+p2129
+sa(dp2130
+g2
+S'2015-12-03'
+p2131
+sg4
+Vfang = $fb facebook, $amzn amazon, $nflx netflix and $googl google - URL URL via AT_USER
+p2132
+sg6
+S'15:07:13'
+p2133
+sg8
+VBen Woodward, CFA
+p2134
+sa(dp2135
+g2
+S'2015-12-03'
+p2136
+sg4
+Vfeel free to tank market. $nflx lol....
+p2137
+sg6
+S'15:04:37'
+p2138
+sg8
+Vsteven spencer
+p2139
+sa(dp2140
+g2
+S'2015-12-03'
+p2141
+sg4
+Vthe important thing is that even on days like yesterday and today, netflix is still up. $nflx healthyeconomy nopanic
+p2142
+sg6
+S'15:02:48'
+p2143
+sg8
+VGene Shmunster
+p2144
+sa(dp2145
+g2
+S'2015-12-03'
+p2146
+sg4
+Vthe morning dump - $yhoo $goog $nflx $amzn $vz uber $msft $fb appnexus $sq $box malware android URL
+p2147
+sg6
+S'15:01:21'
+p2148
+sg8
+VMr. Bytes Blog
+p2149
+sa(dp2150
+g2
+S'2015-12-03'
+p2151
+sg4
+Vah, trusty ol\u2019 $nflx. they just can\u2019t keep you down, can they :)
+p2152
+sg6
+S'15:00:37'
+p2153
+sg8
+VTrax
+p2154
+sa(dp2155
+g2
+S'2015-12-03'
+p2156
+sg4
+V$nflx there's a boatload of shoes in those 5 min candles :) up dwn up dwn bankitbuyshoesdotcom
+p2157
+sg6
+S'14:59:32'
+p2158
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p2159
+sa(dp2160
+g2
+S'2015-12-03'
+p2161
+sg4
+V$nflx why borrow $3.3 billon when they can just issue $6 billon in stock to pay off debt plus add new content.
+p2162
+sg6
+S'14:59:02'
+p2163
+sg8
+VChris Morgan
+p2164
+sa(dp2165
+g2
+S'2015-12-03'
+p2166
+sg4
+V$nflx covered some 127.80. 129.75 stop for rest.
+p2167
+sg6
+S'14:58:56'
+p2168
+sg8
+VNYC Trader
+p2169
+sa(dp2170
+g2
+S'2015-12-03'
+p2171
+sg4
+V$nflx a close above 129.30 would make me look for longs ! $spy
+p2172
+sg6
+S'14:58:01'
+p2173
+sg8
+VStocks Mentor
+p2174
+sa(dp2175
+g2
+S'2015-12-03'
+p2176
+sg4
+VAT_USER $nflx simple ;) lol
+p2177
+sg6
+S'14:57:49'
+p2178
+sg8
+VNathan Michaud
+p2179
+sa(dp2180
+g2
+S'2015-12-03'
+p2181
+sg4
+V$cmcsa $nflx news: "why wwe doesn't care about record-low tv ratings...yet\u2026" URL analyze: URL
+p2182
+sg6
+S'14:57:25'
+p2183
+sg8
+VQuantpost Service
+p2184
+sa(dp2185
+g2
+S'2015-12-03'
+p2186
+sg4
+Vwhy wwe doesn't care about record-low tv ratings...yet URL $cmcsa $nflx $wwe
+p2187
+sg6
+S'14:57:24'
+p2188
+sg8
+VLong & Short Ideas
+p2189
+sa(dp2190
+g2
+S'2015-12-03'
+p2191
+sg4
+Vwhy wwe doesn't care about record-low tv ratings...yet URL $cmcsa $nflx $wwe
+p2192
+sg6
+S'14:57:24'
+p2193
+sg8
+VSeeking Alpha
+p2194
+sa(dp2195
+g2
+S'2015-12-03'
+p2196
+sg4
+Vsome nice range outta $nflx, thus far.
+p2197
+sg6
+S'14:56:58'
+p2198
+sg8
+Vdaniel
+p2199
+sa(dp2200
+g2
+S'2015-12-03'
+p2201
+sg4
+V$nflx nothing like making 2k in 1:52 minutes with this wacky liquidity. algo guys are gaming and killing it off regular investors
+p2202
+sg6
+S'14:56:18'
+p2203
+sg8
+g2069
+sa(dp2204
+g2
+S'2015-12-03'
+p2205
+sg4
+V$nflx lol the price just went up from 127.7 to 129 in literally 20 seconds... wtf
+p2206
+sg6
+S'14:55:00'
+p2207
+sg8
+VMachi
+p2208
+sa(dp2209
+g2
+S'2015-12-03'
+p2210
+sg4
+V$amzn $googl and $nflx consolidating nicely ..as does $fb
+p2211
+sg6
+S'14:54:11'
+p2212
+sg8
+VJeff Focker
+p2213
+sa(dp2214
+g2
+S'2015-12-03'
+p2215
+sg4
+V$nflx oh great algohft scumbags..got $nflx near low and just scalp out on that bar surge near the top bar. what a market
+p2216
+sg6
+S'14:53:34'
+p2217
+sg8
+g2069
+sa(dp2218
+g2
+S'2015-12-03'
+p2219
+sg4
+V$nflx china launch?
+p2220
+sg6
+S'14:53:34'
+p2221
+sg8
+Vjeff george
+p2222
+sa(dp2223
+g2
+S'2015-12-03'
+p2224
+sg4
+Vstrong moves on high beta names $aapl $nflx to name a few $spy
+p2225
+sg6
+S'14:53:14'
+p2226
+sg8
+VStocks Mentor
+p2227
+sa(dp2228
+g2
+S'2015-12-03'
+p2229
+sg4
+V$nflx what the hell just happened? huge spike
+p2230
+sg6
+S'14:53:11'
+p2231
+sg8
+Vjeff george
+p2232
+sa(dp2233
+g2
+S'2015-12-03'
+p2234
+sg4
+V$nflx stock owners need to know about these two emerging threats. URL
+p2235
+sg6
+S'14:51:47'
+p2236
+sg8
+VInvestorPlace
+p2237
+sa(dp2238
+g2
+S'2015-12-03'
+p2239
+sg4
+V$nflx come on down ! $shooooooooooes bankit
+p2240
+sg6
+S'14:51:35'
+p2241
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p2242
+sa(dp2243
+g2
+S'2015-12-03'
+p2244
+sg4
+Vwmt wynn resorts ltd prev close URL $wmt $jnug $bac $nflx wmt nasdaq pennystocks
+p2245
+sg6
+S'14:50:41'
+p2246
+sg8
+VInvestors Hangout
+p2247
+sa(dp2248
+g2
+S'2015-12-03'
+p2249
+sg4
+Vrt AT_USER actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom $aig $skx $yhoo $ge
+p2250
+sg6
+S'14:49:39'
+p2251
+sg8
+VFHW
+p2252
+sa(dp2253
+g2
+S'2015-12-03'
+p2254
+sg4
+V$nflx green soon no doubt ath
+p2255
+sg6
+S'14:47:42'
+p2256
+sg8
+VKONNEK
+p2257
+sa(dp2258
+g2
+S'2015-12-03'
+p2259
+sg4
+V$fang immune to $3-4 down days $nflx $goog $fb $amzn despite reality and the rest of the world. momo the new safe haven. what have we become
+p2260
+sg6
+S'14:47:09'
+p2261
+sg8
+VMe My Selfie & I
+p2262
+sa(dp2263
+g2
+S'2015-12-03'
+p2264
+sg4
+V$nflx 128 key spot from yesterday on 1 hour chart. this is where it bounced yesterday afternoon
+p2265
+sg6
+S'14:47:04'
+p2266
+sg8
+VMichael Estabrooks
+p2267
+sa(dp2268
+g2
+S'2015-12-03'
+p2269
+sg4
+Vadded some $nflx short short 129.30 in chat. $goog news could hurt the stock short term.
+p2270
+sg6
+S'14:46:42'
+p2271
+sg8
+VNYC Trader
+p2272
+sa(dp2273
+g2
+S'2015-12-03'
+p2274
+sg4
+Vshort $nflx...
+p2275
+sg6
+S'14:46:12'
+p2276
+sg8
+VMometic
+p2277
+sa(dp2278
+g2
+S'2015-12-03'
+p2279
+sg4
+Vnflx netflix, inc. volume URL $nflx $rwm $abx $upro nflx invest share
+p2280
+sg6
+S'14:44:04'
+p2281
+sg8
+VInvestors Hangout
+p2282
+sa(dp2283
+g2
+S'2015-12-03'
+p2284
+sg4
+Vi like $nflx short against the $goog announcement about youtube.
+p2285
+sg6
+S'14:43:42'
+p2286
+sg8
+VPatrick Mayer
+p2287
+sa(dp2288
+g2
+S'2015-12-03'
+p2289
+sg4
+Vincredible continuation in $scty pealing off more. still out of $nflx, looking at how it handles the ath, will 131 come back or blowoff top
+p2290
+sg6
+S'14:40:43'
+p2291
+sg8
+VVlad Mazek
+p2292
+sa(dp2293
+g2
+S'2015-12-03'
+p2294
+sg4
+V$nflx cracks a bit.
+p2295
+sg6
+S'14:40:20'
+p2296
+sg8
+VNYC Trader
+p2297
+sa(dp2298
+g2
+S'2015-12-03'
+p2299
+sg4
+V$xom news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2300
+sg6
+S'14:40:13'
+p2301
+sg8
+VQuantpost $XOM
+p2302
+sa(dp2303
+g2
+S'2015-12-03'
+p2304
+sg4
+V$fb news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2305
+sg6
+S'14:40:13'
+p2306
+sg8
+VQuantpost $FB
+p2307
+sa(dp2308
+g2
+S'2015-12-03'
+p2309
+sg4
+V$aapl news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2310
+sg6
+S'14:40:13'
+p2311
+sg8
+VQuantpost Cnsmr Good
+p2312
+sa(dp2313
+g2
+S'2015-12-03'
+p2314
+sg4
+V$yhoo news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2315
+sg6
+S'14:40:13'
+p2316
+sg8
+VQuantpost $YHOO
+p2317
+sa(dp2318
+g2
+S'2015-12-03'
+p2319
+sg4
+V$nflx news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2320
+sg6
+S'14:40:13'
+p2321
+sg8
+VQuantpost Service
+p2322
+sa(dp2323
+g2
+S'2015-12-03'
+p2324
+sg4
+V$nflx news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2325
+sg6
+S'14:40:11'
+p2326
+sg8
+VQuantpost $NFLX
+p2327
+sa(dp2328
+g2
+S'2015-12-03'
+p2329
+sg4
+V$aig news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2330
+sg6
+S'14:40:11'
+p2331
+sg8
+VQuantpost $AIG
+p2332
+sa(dp2333
+g2
+S'2015-12-03'
+p2334
+sg4
+V$msft $fb $yhoo news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft \u2026" URL analyze: URL
+p2335
+sg6
+S'14:40:11'
+p2336
+sg8
+VQuantpost Technology
+p2337
+sa(dp2338
+g2
+S'2015-12-03'
+p2339
+sg4
+V$chk $xom news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb \u2026" URL analyze: URL
+p2340
+sg6
+S'14:40:11'
+p2341
+sg8
+VQuantpost Basic Mats
+p2342
+sa(dp2343
+g2
+S'2015-12-03'
+p2344
+sg4
+V$bac news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2345
+sg6
+S'14:40:11'
+p2346
+sg8
+VQuantpost $BAC
+p2347
+sa(dp2348
+g2
+S'2015-12-03'
+p2349
+sg4
+V$ge news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2350
+sg6
+S'14:40:11'
+p2351
+sg8
+VQuantpost Industrial
+p2352
+sa(dp2353
+g2
+S'2015-12-03'
+p2354
+sg4
+V$ge news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2355
+sg6
+S'14:40:11'
+p2356
+sg8
+VQuantpost $GE
+p2357
+sa(dp2358
+g2
+S'2015-12-03'
+p2359
+sg4
+V$msft news: "actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom \u2026" URL analyze: URL
+p2360
+sg6
+S'14:40:11'
+p2361
+sg8
+VQuantpost $MSFT
+p2362
+sa(dp2363
+g2
+S'2015-12-03'
+p2364
+sg4
+Vactives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom $aig $skx $yhoo $ge
+p2365
+sg6
+S'14:40:09'
+p2366
+sg8
+VCBOE
+p2367
+sa(dp2368
+g2
+S'2015-12-03'
+p2369
+sg4
+Vhard downward pressure today on $nflx...so far
+p2370
+sg6
+S'14:39:48'
+p2371
+sg8
+VThomP
+p2372
+sa(dp2373
+g2
+S'2015-12-03'
+p2374
+sg4
+Vcos.to canadian oil sands ltd. quotes URL $cos.to $eum $nflx $uslv cos.to share stock
+p2375
+sg6
+S'14:35:33'
+p2376
+sg8
+VPolgarStocks
+p2377
+sa(dp2378
+g2
+S'2015-12-03'
+p2379
+sg4
+V$nflx so what if $goog youtube is entering the market like a behemoth boss? $140 eow
+p2380
+sg6
+S'14:35:25'
+p2381
+sg8
+VMe My Selfie & I
+p2382
+sa(dp2383
+g2
+S'2015-12-03'
+p2384
+sg4
+V$nflx why not hit $200?
+p2385
+sg6
+S'14:34:56'
+p2386
+sg8
+VBrandon Campbell
+p2387
+sa(dp2388
+g2
+S'2015-12-03'
+p2389
+sg4
+Vnetflix, inc. (nasdaq:nflx) invisible viewer data \u2013 even hollywood has no clue URL $nflx
+p2390
+sg6
+S'14:34:29'
+p2391
+sg8
+VLearnBonds.com
+p2392
+sa(dp2393
+g2
+S'2015-12-03'
+p2394
+sg4
+Vnetflix, inc. (nflx) beware; youtube red has begun minting money URL $nflx
+p2395
+sg6
+S'14:32:58'
+p2396
+sg8
+VLearnBonds.com
+p2397
+sa(dp2398
+g2
+S'2015-12-03'
+p2399
+sg4
+V$nflx youtube news taming the beast
+p2400
+sg6
+S'14:32:50'
+p2401
+sg8
+VNick Smith
+p2402
+sa(dp2403
+g2
+S'2015-12-03'
+p2404
+sg4
+Vyoutube looking to take-on netflix, amazon prime with hollywood licensing deals $goog $nflx $amzn URL
+p2405
+sg6
+S'14:32:33'
+p2406
+sg8
+VJon Markman
+p2407
+sa(dp2408
+g2
+S'2015-12-03'
+p2409
+sg4
+Vnflx stock at an all time high: what\u2019s boosting netflix, inc.? URL $nflx
+p2410
+sg6
+S'14:31:59'
+p2411
+sg8
+VLearnBonds.com
+p2412
+sa(dp2413
+g2
+S'2015-12-03'
+p2414
+sg4
+Vsony $sne remains very undervalued.it's one of the few great opportunities in the stock market when you compare it to $nflx $fb $aapl $msft
+p2415
+sg6
+S'14:31:06'
+p2416
+sg8
+VFlorent Capital
+p2417
+sa(dp2418
+g2
+S'2015-12-03'
+p2419
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2420
+sg6
+S'14:30:37'
+p2421
+sg8
+VPaul Arterburn
+p2422
+sa(dp2423
+g2
+S'2015-12-03'
+p2424
+sg4
+Vrt AT_USER breaking : inflation jihadis attacking global bond markets . sell everything &amp; buy $amzn $nflx $goog ; shelter in pl\u2026
+p2425
+sg6
+S'14:30:25'
+p2426
+sg8
+VLon Plasner
+p2427
+sa(dp2428
+g2
+S'2015-12-03'
+p2429
+sg4
+V2/ netflix spent $3.3b this year, almost 2x amzn. $nflx also has arguably the best track record in identifying and buying great content.
+p2430
+sg6
+S'14:29:01'
+p2431
+sg8
+VARK Web x.0
+p2432
+sa(dp2433
+g2
+S'2015-12-03'
+p2434
+sg4
+V$scty $nflx both nice b/o y'day and holds. should see some nice cont. today.
+p2435
+sg6
+S'14:28:55'
+p2436
+sg8
+VTakingstock614
+p2437
+sa(dp2438
+g2
+S'2015-12-03'
+p2439
+sg4
+Vnetflix, inc. (nasdaq:nflx) invisible viewer data \u2013 even hollywood has no clue $nflx netflix URL
+p2440
+sg6
+S'14:28:51'
+p2441
+sg8
+VLearnBonds.com
+p2442
+sa(dp2443
+g2
+S'2015-12-03'
+p2444
+sg4
+Vnetflix, inc. (nflx) beware; youtube red has begun minting money $nflx netflix URL
+p2445
+sg6
+S'14:25:47'
+p2446
+sg8
+VLearnBonds.com
+p2447
+sa(dp2448
+g2
+S'2015-12-03'
+p2449
+sg4
+Vyoutube seeks streaming rights to tv shows, films.. $nflx has issues.. big ones.. u.s sub growth slowing and analyst yawn.. hmmm
+p2450
+sg6
+S'14:25:29'
+p2451
+sg8
+VIssaquah Capital
+p2452
+sa(dp2453
+g2
+S'2015-12-03'
+p2454
+sg4
+Vbreaking : inflation jihadis attacking global bond markets . sell everything &amp; buy $amzn $nflx $goog ; shelter in place : yellennews
+p2455
+sg6
+S'14:25:06'
+p2456
+sg8
+VDividend Master
+p2457
+sa(dp2458
+g2
+S'2015-12-03'
+p2459
+sg4
+V$nflx trendline support is 128.8ish...resistance 131.35..up in .pre-mkt and volume is huge
+p2460
+sg6
+S'14:21:02'
+p2461
+sg8
+VAli B
+p2462
+sa(dp2463
+g2
+S'2015-12-03'
+p2464
+sg4
+V$cvx company info updated thursday, december 3, 2015 08:59:23 am $titxf $nflx $ual $ugaz URL
+p2465
+sg6
+S'14:20:12'
+p2466
+sg8
+VRosner Stocks
+p2467
+sa(dp2468
+g2
+S'2015-12-03'
+p2469
+sg4
+V$brcm company info updated thursday, december 3, 2015 09:07:13 am $fcx $uso $avp $nflx URL
+p2470
+sg6
+S'14:19:08'
+p2471
+sg8
+VPolgarStocks
+p2472
+sa(dp2473
+g2
+S'2015-12-03'
+p2474
+sg4
+Vstocks in play jueves 03 de diciembre 2015: $aapl $fb $twtr $zfgn $avgo $dyax $fomx $baba $nflx $brcm $mdt $pstg $fcau $teva $vntv
+p2475
+sg6
+S'14:18:09'
+p2476
+sg8
+VHome Day Trading
+p2477
+sa(dp2478
+g2
+S'2015-12-03'
+p2479
+sg4
+Vstocks in play jueves 03 de diciembre 2015: $aapl $fb $twtr $zfgn $avgo $dyax $fomx $baba $nflx $brcm $mdt $pstg... URL
+p2480
+sg6
+S'14:16:42'
+p2481
+sg8
+VHome Day Trading
+p2482
+sa(dp2483
+g2
+S'2015-12-03'
+p2484
+sg4
+Vwatch the latest URL morningcall hosted by AT_USER URL $spx $ibb $spy $amzn $googl $nflx $aapl
+p2485
+sg6
+S'14:16:10'
+p2486
+sg8
+VEvan Lazarus
+p2487
+sa(dp2488
+g2
+S'2015-12-03'
+p2489
+sg4
+Vwatch the latest URL morningcall hosted by AT_USER URL $spx $ibb $spy $amzn $googl $nflx $aapl
+p2490
+sg6
+S'14:16:10'
+p2491
+sg8
+VRob Smith
+p2492
+sa(dp2493
+g2
+S'2015-12-03'
+p2494
+sg4
+Vwatch the latest URL morningcall hosted by AT_USER URL $spx $ibb $spy $amzn $googl $nflx $aapl
+p2495
+sg6
+S'14:16:10'
+p2496
+sg8
+VT3 Live
+p2497
+sa(dp2498
+g2
+S'2015-12-03'
+p2499
+sg4
+Vgood morning! the chart porn is ready for you! $aapl $amzn $nflx $tsla $fb $googl - URL
+p2500
+sg6
+S'14:14:40'
+p2501
+sg8
+VWall St Bully Max $$
+p2502
+sa(dp2503
+g2
+S'2015-12-03'
+p2504
+sg4
+Vstocks in play jueves 03 de diciembre 2015: $aapl $fb $twtr $zfgn $avgo $dyax $fomx $baba $nflx $brcm $mdt $pstg $fcau $teva
+p2505
+sg6
+S'14:12:58'
+p2506
+sg8
+VHome Day Trading
+p2507
+sa(dp2508
+g2
+S'2015-12-03'
+p2509
+sg4
+V$nflx back over 130
+p2510
+sg6
+S'14:08:13'
+p2511
+sg8
+VIan Nelson
+p2512
+sa(dp2513
+g2
+S'2015-12-03'
+p2514
+sg4
+V$nflx and chill. URL
+p2515
+sg6
+S'14:04:57'
+p2516
+sg8
+VJeremy Baksht
+p2517
+sa(dp2518
+g2
+S'2015-12-03'
+p2519
+sg4
+Vgood job to those who got some of those $nflx shares when they dipped in the red a little while ago
+p2520
+sg6
+S'14:04:23'
+p2521
+sg8
+VIan Nelson
+p2522
+sa(dp2523
+g2
+S'2015-12-03'
+p2524
+sg4
+Vpremarket most active stocks: $dyax, $xiv, $tvix, $qqq, $aapl, $zfgn, $fb, $nflx, $avgo, $brcm
+p2525
+sg6
+S'14:00:02'
+p2526
+sg8
+VChristopher Angus
+p2527
+sa(dp2528
+g2
+S'2015-12-03'
+p2529
+sg4
+Vnasdaq beating of the s&amp;p is bullish for traders URL $nflx
+p2530
+sg6
+S'13:58:14'
+p2531
+sg8
+VMarketWatch $NFLX
+p2532
+sa(dp2533
+g2
+S'2015-12-03'
+p2534
+sg4
+Vrt AT_USER $goog (+0.6% pre) youtube in talks with studios over streaming rights for shows, movies: wsj $nflx URL
+p2535
+sg6
+S'13:51:53'
+p2536
+sg8
+VLibertyCentric
+p2537
+sa(dp2538
+g2
+S'2015-12-03'
+p2539
+sg4
+VURL verified $307.38 loss in $nflx my trades
+p2540
+sg6
+S'13:51:37'
+p2541
+sg8
+VTradeview
+p2542
+sa(dp2543
+g2
+S'2015-12-03'
+p2544
+sg4
+Vrt AT_USER $goog (+0.6% pre) youtube in talks with studios over streaming rights for shows, movies: wsj $nflx URL
+p2545
+sg6
+S'13:48:58'
+p2546
+sg8
+VDtrades
+p2547
+sa(dp2548
+g2
+S'2015-12-03'
+p2549
+sg4
+V$qqq $adbe $grmn $nflx $urbn trade long and short from the nasdaq, 7 days trial for just $9.99, subscribe now! URL
+p2550
+sg6
+S'13:45:46'
+p2551
+sg8
+VStock Market Picks
+p2552
+sa(dp2553
+g2
+S'2015-12-03'
+p2554
+sg4
+V$myl $nflx $orcl $qcom $sbux $sohu trade long and short positions from the nasdaq, up to 190% since 2011. URL $qqq
+p2555
+sg6
+S'13:45:30'
+p2556
+sg8
+VStock Market Picks
+p2557
+sa(dp2558
+g2
+S'2015-12-03'
+p2559
+sg4
+V$myl $nflx $orcl $qcom $sbux $sohu trade long or long+short positions from the nasdaq, up to 1500% since 2010. URL
+p2560
+sg6
+S'13:44:51'
+p2561
+sg8
+VStock Market Picks
+p2562
+sa(dp2563
+g2
+S'2015-12-03'
+p2564
+sg4
+Vis now the right time to buy disney stock $dis $nflx? URL
+p2565
+sg6
+S'13:40:56'
+p2566
+sg8
+VAndres Cardenal
+p2567
+sa(dp2568
+g2
+S'2015-12-03'
+p2569
+sg4
+Vrt AT_USER early movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2570
+sg6
+S'13:35:21'
+p2571
+sg8
+VBiashara_mtu
+p2572
+sa(dp2573
+g2
+S'2015-12-03'
+p2574
+sg4
+Vmaking the case against an apple television set URL $nflx $aapl
+p2575
+sg6
+S'13:30:01'
+p2576
+sg8
+VAAPL Stock Alerts
+p2577
+sa(dp2578
+g2
+S'2015-12-03'
+p2579
+sg4
+Vanalysts argue against media companies licensing content to svod services. URL $nflx $cbs $cmcsa $dis $foxa $viab $twx
+p2580
+sg6
+S'13:29:02'
+p2581
+sg8
+Vbored2tears
+p2582
+sa(dp2583
+g2
+S'2015-12-03'
+p2584
+sg4
+Vrt AT_USER early movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2585
+sg6
+S'13:27:15'
+p2586
+sg8
+VFonsieTrader
+p2587
+sa(dp2588
+g2
+S'2015-12-03'
+p2589
+sg4
+Vrt AT_USER early movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2590
+sg6
+S'13:25:24'
+p2591
+sg8
+VHumbleBioTrader
+p2592
+sa(dp2593
+g2
+S'2015-12-03'
+p2594
+sg4
+Vrt AT_USER early movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2595
+sg6
+S'13:21:57'
+p2596
+sg8
+V$peedy Calls
+p2597
+sa(dp2598
+g2
+S'2015-12-03'
+p2599
+sg4
+Vrt AT_USER early movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2600
+sg6
+S'13:21:21'
+p2601
+sg8
+VHonestTrade
+p2602
+sa(dp2603
+g2
+S'2015-12-03'
+p2604
+sg4
+Vearly movers $cost $shld $panw $grub $mdt $le $dg $mik $aeo $pvh $avgo $yhoo $baba $iaci $googl $nflx $amzn $box URL
+p2605
+sg6
+S'13:21:12'
+p2606
+sg8
+VTom Wrigley
+p2607
+sa(dp2608
+g2
+S'2015-12-03'
+p2609
+sg4
+V$ugaz last price updated thursday, december 3, 2015 08:07:11 am $lgih $nflx $tvix $lqd URL
+p2610
+sg6
+S'13:18:07'
+p2611
+sg8
+VPolgarStocks
+p2612
+sa(dp2613
+g2
+S'2015-12-03'
+p2614
+sg4
+Vrt AT_USER $goog (+0.6% pre) youtube in talks with studios over streaming rights for shows, movies: wsj $nflx URL
+p2615
+sg6
+S'13:16:59'
+p2616
+sg8
+VCutlass
+p2617
+sa(dp2618
+g2
+S'2015-12-03'
+p2619
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax $nug
+p2620
+sg6
+S'13:14:18'
+p2621
+sg8
+VSmallCaps 
+p2622
+sa(dp2623
+g2
+S'2015-12-03'
+p2624
+sg4
+Vyou know your job pays shit when you can make a half year's salary trading a 50k $nflx posn over 4 mos.
+p2625
+sg6
+S'13:13:03'
+p2626
+sg8
+VTodd Ryder
+p2627
+sa(dp2628
+g2
+S'2015-12-03'
+p2629
+sg4
+V$tsla appears to be up &amp; ready to run higher ? $bidu asleep (so far) $googl ready 4 another round up higher ? $amzn ? i wonder $nflx yes !
+p2630
+sg6
+S'13:08:24'
+p2631
+sg8
+VEternity101
+p2632
+sa(dp2633
+g2
+S'2015-12-03'
+p2634
+sg4
+Vbalances on watch $aapl $amzn $nflx $googl URL
+p2635
+sg6
+S'13:03:56'
+p2636
+sg8
+VStockBoardAsset
+p2637
+sa(dp2638
+g2
+S'2015-12-03'
+p2639
+sg4
+Vrt AT_USER $goog (+0.6% pre) youtube in talks with studios over streaming rights for shows, movies: wsj $nflx URL
+p2640
+sg6
+S'13:03:31'
+p2641
+sg8
+VMr. S
+p2642
+sa(dp2643
+g2
+S'2015-12-03'
+p2644
+sg4
+Vrange range range will be today. $spy $aapl $nflx $fb $googl
+p2645
+sg6
+S'13:03:23'
+p2646
+sg8
+VStockBoardAsset
+p2647
+sa(dp2648
+g2
+S'2015-12-03'
+p2649
+sg4
+V$goog (+0.6% pre) youtube in talks with studios over streaming rights for shows, movies: wsj $nflx URL
+p2650
+sg6
+S'13:01:51'
+p2651
+sg8
+VOpen Outcrier
+p2652
+sa(dp2653
+g2
+S'2015-12-03'
+p2654
+sg4
+V$nflx youtube seeks streaming rights to tv shows, films URL
+p2655
+sg6
+S'13:01:09'
+p2656
+sg8
+VLloydCreekStocks
+p2657
+sa(dp2658
+g2
+S'2015-12-03'
+p2659
+sg4
+Vrt AT_USER breathtaking ongoing fall midstream names like $kmi - once darling st said " p/e irrelevant" - same will happen $fang\u2026
+p2660
+sg6
+S'12:59:45'
+p2661
+sg8
+Vearline theus
+p2662
+sa(dp2663
+g2
+S'2015-12-03'
+p2664
+sg4
+Vbringing a spoon to a gunfight'" why yahoo's video strategy failed. URL $yhoo $googl $nflx meia stockss
+p2665
+sg6
+S'12:59:34'
+p2666
+sg8
+Vbored2tears
+p2667
+sa(dp2668
+g2
+S'2015-12-03'
+p2669
+sg4
+Vnetflix, inc. (nflx) beware; youtube red has begun minting money $nflx netflix URL
+p2670
+sg6
+S'12:55:45'
+p2671
+sg8
+VLearnBonds.com
+p2672
+sa(dp2673
+g2
+S'2015-12-03'
+p2674
+sg4
+Vwmt wal-mart stores, inc. current price URL $wmt $nflx $amzn $gdxj wmt stocks stockmarket
+p2675
+sg6
+S'12:50:33'
+p2676
+sg8
+Vleahanne
+p2677
+sa(dp2678
+g2
+S'2015-12-03'
+p2679
+sg4
+Vryrsx rydex russell 2000* 2x strategy fund message board posts URL $ryrsx $panw $cost $nflx ryrsx invest share
+p2680
+sg6
+S'12:46:06'
+p2681
+sg8
+VStock Forums
+p2682
+sa(dp2683
+g2
+S'2015-12-03'
+p2684
+sg4
+Vnflx netflix, inc. 52wk low URL $nflx $xrt $jblu $kbe nflx stocks tradeideas
+p2685
+sg6
+S'12:43:08'
+p2686
+sg8
+Vjim50
+p2687
+sa(dp2688
+g2
+S'2015-12-03'
+p2689
+sg4
+Vkey keycorp change URL $key $ewm $sche $nflx key tradeideas stockmarket
+p2690
+sg6
+S'12:41:34'
+p2691
+sg8
+Vjim50
+p2692
+sa(dp2693
+g2
+S'2015-12-03'
+p2694
+sg4
+Vatd/b.to alimentation couche-tard, inc. bid size URL $atd/b.to $nflx $tna $vnm atd/b.to tradeideas nasdaq
+p2695
+sg6
+S'12:34:12'
+p2696
+sg8
+VIH NASDAQ OMX
+p2697
+sa(dp2698
+g2
+S'2015-12-03'
+p2699
+sg4
+Vatv acorn international stock forum URL $atv $atd/b.to $nflx $look.l atv invest invest
+p2700
+sg6
+S'12:34:05'
+p2701
+sg8
+Vdanrocks
+p2702
+sa(dp2703
+g2
+S'2015-12-03'
+p2704
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2705
+sg6
+S'12:33:52'
+p2706
+sg8
+VDavid Gardner
+p2707
+sa(dp2708
+g2
+S'2015-12-03'
+p2709
+sg4
+Vrt $tsla hft algos triggered buy in sigma-x, crossfinder, ats, lx @ 07:26, p/t 237.00 quant $msft $gpro $goog $amzn $nflx $fb $aapl $qqq
+p2710
+sg6
+S'12:27:28'
+p2711
+sg8
+VGuru Algo Trading 
+p2712
+sa(dp2713
+g2
+S'2015-12-03'
+p2714
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2715
+sg6
+S'12:20:45'
+p2716
+sg8
+VEugenio Duarte
+p2717
+sa(dp2718
+g2
+S'2015-12-03'
+p2719
+sg4
+V$nflx short sales updated thursday, december 3, 2015 06:59:23 am $ge $pbr $xlv $tza URL
+p2720
+sg6
+S'12:19:37'
+p2721
+sg8
+VRosner Stocks
+p2722
+sa(dp2723
+g2
+S'2015-12-03'
+p2724
+sg4
+Vthursday's trendfollowing ideas: $amcx $cfg $fbhs $nflx $xray
+p2725
+sg6
+S'12:15:33'
+p2726
+sg8
+VrocketPower
+p2727
+sa(dp2728
+g2
+S'2015-12-03'
+p2729
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2730
+sg6
+S'12:04:11'
+p2731
+sg8
+VAsim Aslam
+p2732
+sa(dp2733
+g2
+S'2015-12-03'
+p2734
+sg4
+Vwatchlist: $eyes $pah $efoi $fold $blue $clvs $nflx $fb
+p2735
+sg6
+S'12:00:14'
+p2736
+sg8
+VYasin
+p2737
+sa(dp2738
+g2
+S'2015-12-03'
+p2739
+sg4
+Vrt AT_USER $nflx URL pot. intermed top in uptrend intraweek 60m-15m-4m combo chart trading stocks URL
+p2740
+sg6
+S'11:48:13'
+p2741
+sg8
+VFinGraphs
+p2742
+sa(dp2743
+g2
+S'2015-12-03'
+p2744
+sg4
+V$nflx URL pot. intermed top in uptrend intraweek 60m-15m-4m combo chart trading stocks URL
+p2745
+sg6
+S'11:48:10'
+p2746
+sg8
+VFinGraphs US Equity
+p2747
+sa(dp2748
+g2
+S'2015-12-03'
+p2749
+sg4
+VURL &lt;- checkout cameron fous's profitly chart its pretty nice! $jdst $kndi $tlt $king $ugaz $nflx $pwrd
+p2750
+sg6
+S'11:45:33'
+p2751
+sg8
+VSmallCaps 
+p2752
+sa(dp2753
+g2
+S'2015-12-03'
+p2754
+sg4
+Voption millionaires: nolerman: $nflx is resilient....non-event imo URL
+p2755
+sg6
+S'11:40:12'
+p2756
+sg8
+VMani Ohli
+p2757
+sa(dp2758
+g2
+S'2015-12-03'
+p2759
+sg4
+Voption millionaires: nolerman: $nflx is resilient....non-event imo URL
+p2760
+sg6
+S'11:40:10'
+p2761
+sg8
+VPerfor Mance
+p2762
+sa(dp2763
+g2
+S'2015-12-03'
+p2764
+sg4
+Vmost popular tweets: $aapl $yhoo $nflx $fb $amzn $spx $goog $twtr $asti $nete lse nasdaq nyse stocks trading URL
+p2765
+sg6
+S'11:37:39'
+p2766
+sg8
+VAlpha Maven
+p2767
+sa(dp2768
+g2
+S'2015-12-03'
+p2769
+sg4
+Vhattlem: $nflx netflix inc.: crazy power display today. i must buy couple a of URL
+p2770
+sg6
+S'11:31:36'
+p2771
+sg8
+ViHangout
+p2772
+sa(dp2773
+g2
+S'2015-12-03'
+p2774
+sg4
+Vgood morning to you! the chart porn is ready to go! $aapl $amzn $nflx $tsla $googl $fb - URL
+p2775
+sg6
+S'11:30:47'
+p2776
+sg8
+VWincrease Team
+p2777
+sa(dp2778
+g2
+S'2015-12-03'
+p2779
+sg4
+Vnetflix, inc. (nflx) beware; youtube red has begun minting money $nflx netflix URL
+p2780
+sg6
+S'11:25:45'
+p2781
+sg8
+VLearnBonds.com
+p2782
+sa(dp2783
+g2
+S'2015-12-03'
+p2784
+sg4
+V$goog $nflx $dis $viab $foxa $cbs $twx URL (youtube seeks streaming rights for tv shows)
+p2785
+sg6
+S'11:22:51'
+p2786
+sg8
+VMr Connected
+p2787
+sa(dp2788
+g2
+S'2015-12-03'
+p2789
+sg4
+Vbaidu-owned iqiyi reaches 10m paid subscriber milestone. URL $bidu 12/2 close: 211.36 $nflx china svod stocks
+p2790
+sg6
+S'11:14:39'
+p2791
+sg8
+Vbored2tears
+p2792
+sa(dp2793
+g2
+S'2015-12-03'
+p2794
+sg4
+Vrt AT_USER a few on my long focus list: $nflx $rdc $x $yum $stt $mck $f
+p2795
+sg6
+S'11:13:58'
+p2796
+sg8
+VMatt
+p2797
+sa(dp2798
+g2
+S'2015-12-03'
+p2799
+sg4
+Vrt AT_USER $nflx on a tear here-nasdaq all stars does it again
+p2800
+sg6
+S'11:06:27'
+p2801
+sg8
+VEric
+p2802
+sa(dp2803
+g2
+S'2015-12-03'
+p2804
+sg4
+Vweekly s&amp;p500 stocks trend $wynn $mnk $yhoo $fslr $nflx $ms $adt $hsic $lvlt $xl $lh $mon $emc $l $esrx $mmc @ URL
+p2805
+sg6
+S'11:02:36'
+p2806
+sg8
+V12Stocks.com
+p2807
+sa(dp2808
+g2
+S'2015-12-03'
+p2809
+sg4
+Vweekly s&amp;p500 stocks performance $wynn $mnk $cnx $yhoo $aal $fslr $qcom $swks $nvda $pwr $ci $nflx $ms more@ URL
+p2810
+sg6
+S'11:02:19'
+p2811
+sg8
+V12Stocks.com
+p2812
+sa(dp2813
+g2
+S'2015-12-03'
+p2814
+sg4
+Vweekly nasdaq100 stocks performance $wynn $nxpi $yhoo $aal $qcom $swks $bidu $nvda $nflx $amat $atvi $avgo more@ URL
+p2815
+sg6
+S'11:01:46'
+p2816
+sg8
+V12Stocks.com
+p2817
+sa(dp2818
+g2
+S'2015-12-03'
+p2819
+sg4
+V$yhoo $msft $fb $nflx $amzn 10 things in tech you need to know today URL
+p2820
+sg6
+S'10:52:17'
+p2821
+sg8
+VFonsieTrader
+p2822
+sa(dp2823
+g2
+S'2015-12-03'
+p2824
+sg4
+Vmillionaire trading student URL made millions learning to trade from URL $kite $hlf $uwti $nflx $cat
+p2825
+sg6
+S'10:43:12'
+p2826
+sg8
+VStock_Huntress
+p2827
+sa(dp2828
+g2
+S'2015-12-03'
+p2829
+sg4
+Vnetflix's pricing power explained by 3 scenarios: URL $nflx
+p2830
+sg6
+S'10:36:14'
+p2831
+sg8
+VCleeng
+p2832
+sa(dp2833
+g2
+S'2015-12-03'
+p2834
+sg4
+V$nflx is now the right time to buy disney stock? URL
+p2835
+sg6
+S'10:31:12'
+p2836
+sg8
+VLloydCreekStocks
+p2837
+sa(dp2838
+g2
+S'2015-12-03'
+p2839
+sg4
+V$nflx alphabet inc's youtube red is actually making money URL
+p2840
+sg6
+S'10:31:12'
+p2841
+sg8
+VLloydCreekStocks
+p2842
+sa(dp2843
+g2
+S'2015-12-03'
+p2844
+sg4
+V$nflx youtube seeks streaming rights to tv shows, movies URL
+p2845
+sg6
+S'10:05:03'
+p2846
+sg8
+VFonsieTrader
+p2847
+sa(dp2848
+g2
+S'2015-12-03'
+p2849
+sg4
+V$dba stock price updated thursday, december 3, 2015 04:11:20 am $qid $sbux $nflx $c URL
+p2850
+sg6
+S'09:50:14'
+p2851
+sg8
+VIH News Desk
+p2852
+sa(dp2853
+g2
+S'2015-12-03'
+p2854
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2855
+sg6
+S'09:45:24'
+p2856
+sg8
+VNakul Shetty
+p2857
+sa(dp2858
+g2
+S'2015-12-03'
+p2859
+sg4
+Vrt AT_USER and stay home to watch $nflx URL
+p2860
+sg6
+S'09:44:42'
+p2861
+sg8
+VSelena Anderson
+p2862
+sa(dp2863
+g2
+S'2015-12-03'
+p2864
+sg4
+Vnflx netflix, inc. investor opinions URL $nflx $dia $ugaz $dgaz nflx stock nasdaq
+p2865
+sg6
+S'09:44:33'
+p2866
+sg8
+VPolgarStocks
+p2867
+sa(dp2868
+g2
+S'2015-12-03'
+p2869
+sg4
+Vrt seekingalpha: netflix investors whistling past the graveyard URL $nflx
+p2870
+sg6
+S'09:31:08'
+p2871
+sg8
+VChina Invest
+p2872
+sa(dp2873
+g2
+S'2015-12-03'
+p2874
+sg4
+V$nflx news: "netflix investors whistling past the graveyard $nflx" URL analyze: URL
+p2875
+sg6
+S'09:30:17'
+p2876
+sg8
+VQuantpost Service
+p2877
+sa(dp2878
+g2
+S'2015-12-03'
+p2879
+sg4
+V$nflx news: "netflix investors whistling past the graveyard $nflx" URL analyze: URL
+p2880
+sg6
+S'09:30:17'
+p2881
+sg8
+VQuantpost $NFLX
+p2882
+sa(dp2883
+g2
+S'2015-12-03'
+p2884
+sg4
+Vnetflix investors whistling past the graveyard URL $nflx
+p2885
+sg6
+S'09:30:17'
+p2886
+sg8
+VLong & Short Ideas
+p2887
+sa(dp2888
+g2
+S'2015-12-03'
+p2889
+sg4
+Vnetflix investors whistling past the graveyard URL $nflx
+p2890
+sg6
+S'09:30:16'
+p2891
+sg8
+VSeeking Alpha
+p2892
+sa(dp2893
+g2
+S'2015-12-03'
+p2894
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2895
+sg6
+S'09:29:51'
+p2896
+sg8
+VJames DiPlata
+p2897
+sa(dp2898
+g2
+S'2015-12-03'
+p2899
+sg4
+V$wtw investor opinions updated thursday, december 3, 2015 04:07:21 am $smn $nflx $dis $dal URL
+p2900
+sg6
+S'09:14:37'
+p2901
+sg8
+VPolgarStocks
+p2902
+sa(dp2903
+g2
+S'2015-12-03'
+p2904
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2905
+sg6
+S'09:05:00'
+p2906
+sg8
+VValentin
+p2907
+sa(dp2908
+g2
+S'2015-12-03'
+p2909
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2910
+sg6
+S'08:55:44'
+p2911
+sg8
+VVolatilityIndexes
+p2912
+sa(dp2913
+g2
+S'2015-12-03'
+p2914
+sg4
+Vnflx 128.93 netflix inc stock charts $nflx last updated: 12/02/15 last price: 128.93 total volume: 24,286,495 URL
+p2915
+sg6
+S'08:45:50'
+p2916
+sg8
+Vchartguy89
+p2917
+sa(dp2918
+g2
+S'2015-12-03'
+p2919
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2920
+sg6
+S'08:43:29'
+p2921
+sg8
+VNASDAQStocks
+p2922
+sa(dp2923
+g2
+S'2015-12-03'
+p2924
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2925
+sg6
+S'08:38:43'
+p2926
+sg8
+Vmadmoney1313
+p2927
+sa(dp2928
+g2
+S'2015-12-03'
+p2929
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2930
+sg6
+S'08:30:43'
+p2931
+sg8
+VMarijuanacharts
+p2932
+sa(dp2933
+g2
+S'2015-12-03'
+p2934
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2935
+sg6
+S'08:20:45'
+p2936
+sg8
+VZed
+p2937
+sa(dp2938
+g2
+S'2015-12-03'
+p2939
+sg4
+V$nflx stock message board updated thursday, december 3, 2015 03:07:20 am $nat $wtw $nke $paas URL
+p2940
+sg6
+S'08:14:10'
+p2941
+sg8
+VPolgarStocks
+p2942
+sa(dp2943
+g2
+S'2015-12-03'
+p2944
+sg4
+V$gdx financials updated thursday, december 3, 2015 03:07:20 am $sds $nflx $pmcb $xlb URL
+p2945
+sg6
+S'08:14:07'
+p2946
+sg8
+VPolgarStocks
+p2947
+sa(dp2948
+g2
+S'2015-12-03'
+p2949
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2950
+sg6
+S'08:12:57'
+p2951
+sg8
+VTim De Pauw
+p2952
+sa(dp2953
+g2
+S'2015-12-03'
+p2954
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2955
+sg6
+S'08:08:18'
+p2956
+sg8
+VEmily Ingram
+p2957
+sa(dp2958
+g2
+S'2015-12-03'
+p2959
+sg4
+Vrt AT_USER fangs out in force today, writes AT_USER ...$amzn, $nflx, $goog hit record intraday highs URL
+p2960
+sg6
+S'08:07:19'
+p2961
+sg8
+VAlex
+p2962
+sa(dp2963
+g2
+S'2015-12-03'
+p2964
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2965
+sg6
+S'07:59:58'
+p2966
+sg8
+VRoss Jaklik
+p2967
+sa(dp2968
+g2
+S'2015-12-03'
+p2969
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p2970
+sg6
+S'07:51:56'
+p2971
+sg8
+VPetrus Repo
+p2972
+sa(dp2973
+g2
+S'2015-12-03'
+p2974
+sg4
+Vif $nflx customer is valued 20 times 10 times more than youtube customer, red should help youtube, and boost $googl 10 percent higher
+p2975
+sg6
+S'07:48:10'
+p2976
+sg8
+V@me
+p2977
+sa(dp2978
+g2
+S'2015-12-03'
+p2979
+sg4
+Vrt AT_USER the year's two best performing s&amp;p 500 stocks: \u2022 $nflx +166%, 346 p/e ratio \u2022 $amzn +119%, 988 p/e ratio URL
+p2980
+sg6
+S'07:43:51'
+p2981
+sg8
+VRay Buckner, IAR
+p2982
+sa(dp2983
+g2
+S'2015-12-03'
+p2984
+sg4
+Vrt AT_USER new video - live trade on $nflx URL battling a losing trade
+p2985
+sg6
+S'07:41:00'
+p2986
+sg8
+VAssumption
+p2987
+sa(dp2988
+g2
+S'2015-12-03'
+p2989
+sg4
+Vnflx year to date has changed +164.19% percent. +19.78% in the last 30 days. $nflx netflix inc full breakdown URL
+p2990
+sg6
+S'07:33:47'
+p2991
+sg8
+VJake13
+p2992
+sa(dp2993
+g2
+S'2015-12-03'
+p2994
+sg4
+Vrt URL rt predictvalley: today's top traded sp500 stocks by dollar value: apple netflix amazon- $aapl $nflx $amzn\u2026
+p2995
+sg6
+S'07:19:09'
+p2996
+sg8
+VBinary Trader Pro
+p2997
+sa(dp2998
+g2
+S'2015-12-03'
+p2999
+sg4
+Vrt AT_USER today's top traded sp500 stocks by dollar value: apple netflix amazon- $aapl $nflx $amzn stocks stockmarket spx
+p3000
+sg6
+S'07:16:53'
+p3001
+sg8
+VMathias Paulsson
+p3002
+sa(dp3003
+g2
+S'2015-12-03'
+p3004
+sg4
+V$qid company info updated thursday, december 3, 2015 02:07:19 am $nflx $dxj $oil $cdii URL
+p3005
+sg6
+S'07:13:11'
+p3006
+sg8
+VPolgarStocks
+p3007
+sa(dp3008
+g2
+S'2015-12-03'
+p3009
+sg4
+Vrt AT_USER big call buy looks to ride $nflx deep into the $130s by mid dec. keep an eye on the action because breakout possible https:/\u2026
+p3010
+sg6
+S'06:57:13'
+p3011
+sg8
+VRamond L.
+p3012
+sa(dp3013
+g2
+S'2015-12-03'
+p3014
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3015
+sg6
+S'06:55:40'
+p3016
+sg8
+VMason Jones
+p3017
+sa(dp3018
+g2
+S'2015-12-03'
+p3019
+sg4
+Vtoday's top traded sp500 stocks by dollar value: apple netflix amazon- $aapl $nflx $amzn stocks stockmarket spx
+p3020
+sg6
+S'06:47:42'
+p3021
+sg8
+VPrediction Valley
+p3022
+sa(dp3023
+g2
+S'2015-12-03'
+p3024
+sg4
+Vrt AT_USER whoa! netflix! that's a new all-time high. $nflx just traded at $131.05 per share: URL URL
+p3025
+sg6
+S'06:46:09'
+p3026
+sg8
+VArmytage Private
+p3027
+sa(dp3028
+g2
+S'2015-12-03'
+p3029
+sg4
+Vnflx netflix, inc. short sales URL $nflx $socl $xlk $dia nflx stockmarket tradeideas
+p3030
+sg6
+S'06:45:32'
+p3031
+sg8
+VDennyT
+p3032
+sa(dp3033
+g2
+S'2015-12-03'
+p3034
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3035
+sg6
+S'06:44:14'
+p3036
+sg8
+VYan Biao Boey
+p3037
+sa(dp3038
+g2
+S'2015-12-03'
+p3039
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3040
+sg6
+S'06:41:50'
+p3041
+sg8
+VAnish Patel
+p3042
+sa(dp3043
+g2
+S'2015-12-03'
+p3044
+sg4
+Vfxl first trust technology alphadex fund open URL $fxl $avgo $nflx $baba fxl pennystocks stocks
+p3045
+sg6
+S'06:41:34'
+p3046
+sg8
+VJake13
+p3047
+sa(dp3048
+g2
+S'2015-12-03'
+p3049
+sg4
+Vcs.to capstone mining corp. financials URL $cs.to $bte.to $cdii $nflx cs.to investing share
+p3050
+sg6
+S'06:38:10'
+p3051
+sg8
+VIH NASDAQ OMX
+p3052
+sa(dp3053
+g2
+S'2015-12-03'
+p3054
+sg4
+Vreport: youtube red might become more of a netflix competitor" $goog $nflx $aapl URL
+p3055
+sg6
+S'06:28:59'
+p3056
+sg8
+Vdmackdaddy
+p3057
+sa(dp3058
+g2
+S'2015-12-03'
+p3059
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax
+p3060
+sg6
+S'06:26:58'
+p3061
+sg8
+VSmallCaps 
+p3062
+sa(dp3063
+g2
+S'2015-12-03'
+p3064
+sg4
+Vrt AT_USER $nflx still want higher but might need to base more. chart plan explains key point to watch for. confirmation is key http\u2026
+p3065
+sg6
+S'06:22:44'
+p3066
+sg8
+VInvestinwinner
+p3067
+sa(dp3068
+g2
+S'2015-12-03'
+p3069
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3070
+sg6
+S'06:20:17'
+p3071
+sg8
+VThijs Baars
+p3072
+sa(dp3073
+g2
+S'2015-12-03'
+p3074
+sg4
+Vrt AT_USER get your say in on $aapl $amzn $nflx $fb and more on speculatingstocks, the discovery engine. URL s\u2026
+p3075
+sg6
+S'06:16:02'
+p3076
+sg8
+VJames DiPlata
+p3077
+sa(dp3078
+g2
+S'2015-12-03'
+p3079
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3080
+sg6
+S'06:14:38'
+p3081
+sg8
+VJoshTodd
+p3082
+sa(dp3083
+g2
+S'2015-12-03'
+p3084
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3085
+sg6
+S'06:11:55'
+p3086
+sg8
+VNiraj Shah
+p3087
+sa(dp3088
+g2
+S'2015-12-03'
+p3089
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3090
+sg6
+S'06:10:58'
+p3091
+sg8
+VSantiago A. Dawson
+p3092
+sa(dp3093
+g2
+S'2015-12-03'
+p3094
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3095
+sg6
+S'06:09:50'
+p3096
+sg8
+VMehmet Memecan
+p3097
+sa(dp3098
+g2
+S'2015-12-03'
+p3099
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3100
+sg6
+S'06:03:44'
+p3101
+sg8
+VFitme+
+p3102
+sa(dp3103
+g2
+S'2015-12-03'
+p3104
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3105
+sg6
+S'05:59:11'
+p3106
+sg8
+VKirby Winfield
+p3107
+sa(dp3108
+g2
+S'2015-12-03'
+p3109
+sg4
+Vrt AT_USER battling netflix, amazon and hulu, youtube seeks streaming rights to movies, tv series. URL $googl $am\u2026
+p3110
+sg6
+S'05:55:26'
+p3111
+sg8
+VFinancial Buzz
+p3112
+sa(dp3113
+g2
+S'2015-12-03'
+p3114
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3115
+sg6
+S'05:53:54'
+p3116
+sg8
+Vamit kumar
+p3117
+sa(dp3118
+g2
+S'2015-12-03'
+p3119
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3120
+sg6
+S'05:53:52'
+p3121
+sg8
+VJustin Pirie
+p3122
+sa(dp3123
+g2
+S'2015-12-03'
+p3124
+sg4
+Vrt AT_USER that $nflx bounce i was talking about earlier is certainly looking iffy now. total fade off the early action.
+p3125
+sg6
+S'05:53:24'
+p3126
+sg8
+VSven
+p3127
+sa(dp3128
+g2
+S'2015-12-03'
+p3129
+sg4
+Vsfun sirius xm holdings inc. exchange URL $sfun $dust $nflx $d sfun stockmarket tradeideas
+p3130
+sg6
+S'05:49:03'
+p3131
+sg8
+Vnasdaqfan
+p3132
+sa(dp3133
+g2
+S'2015-12-03'
+p3134
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3135
+sg6
+S'05:49:01'
+p3136
+sg8
+VKhojinur Usmonov
+p3137
+sa(dp3138
+g2
+S'2015-12-03'
+p3139
+sg4
+Vnbg netflix, inc. dividend URL $nbg $brf $nflx $cy nbg pennystocks stockmarket
+p3140
+sg6
+S'05:47:03'
+p3141
+sg8
+Vnasdaqfan
+p3142
+sa(dp3143
+g2
+S'2015-12-03'
+p3144
+sg4
+Vnflx nike inc. day high URL $nflx $jnj $cnx $xlf nflx invest share
+p3145
+sg6
+S'05:47:03'
+p3146
+sg8
+VIH NASDAQ OMX
+p3147
+sa(dp3148
+g2
+S'2015-12-03'
+p3149
+sg4
+Vgmcr gamestop corp. tick URL $gmcr $aa $nflx $xlnx gmcr invest stocks
+p3150
+sg6
+S'05:43:05'
+p3151
+sg8
+VStock Forums
+p3152
+sa(dp3153
+g2
+S'2015-12-03'
+p3154
+sg4
+Vrt AT_USER another one. $nflx 127 and 130 calls boom 300% chart it believe it. keep doubting greatness and you will fail. https:/\u2026
+p3155
+sg6
+S'05:42:01'
+p3156
+sg8
+VCutlass
+p3157
+sa(dp3158
+g2
+S'2015-12-03'
+p3159
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3160
+sg6
+S'05:40:56'
+p3161
+sg8
+VDarth Charizard
+p3162
+sa(dp3163
+g2
+S'2015-12-03'
+p3164
+sg4
+Vbiggest gainers today large caps: $yhoo 5.75% $qcom 5.17% $pbr 4.43% $ntes 3.94% $bsbr 3.72% $bxlt 2.89% $nflx 2.84% $bbd 2.80% $cmi 2.64%
+p3165
+sg6
+S'05:35:07'
+p3166
+sg8
+VTom Loffman
+p3167
+sa(dp3168
+g2
+S'2015-12-03'
+p3169
+sg4
+V$nflx URL
+p3170
+sg6
+S'05:32:36'
+p3171
+sg8
+VNick Smith
+p3172
+sa(dp3173
+g2
+S'2015-12-03'
+p3174
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3175
+sg6
+S'05:31:21'
+p3176
+sg8
+VDzhabarovRoman
+p3177
+sa(dp3178
+g2
+S'2015-12-03'
+p3179
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3180
+sg6
+S'05:29:22'
+p3181
+sg8
+VAnirudh Narayan
+p3182
+sa(dp3183
+g2
+S'2015-12-03'
+p3184
+sg4
+Vrt AT_USER how not to trade $nflx earnings: URL via AT_USER
+p3185
+sg6
+S'05:26:26'
+p3186
+sg8
+VDavid
+p3187
+sa(dp3188
+g2
+S'2015-12-03'
+p3189
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3190
+sg6
+S'05:25:37'
+p3191
+sg8
+VLance Walley
+p3192
+sa(dp3193
+g2
+S'2015-12-03'
+p3194
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3195
+sg6
+S'05:22:25'
+p3196
+sg8
+VSir Austen
+p3197
+sa(dp3198
+g2
+S'2015-12-03'
+p3199
+sg4
+Vrt AT_USER note the simple base and volume on $nflx 11/17. that is where you get in! $study stocks investing
+p3200
+sg6
+S'05:22:06'
+p3201
+sg8
+VTom Canfield
+p3202
+sa(dp3203
+g2
+S'2015-12-03'
+p3204
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3205
+sg6
+S'05:15:53'
+p3206
+sg8
+VSSV
+p3207
+sa(dp3208
+g2
+S'2015-12-03'
+p3209
+sg4
+Vget your say in on $aapl $amzn $nflx $fb and more on speculatingstocks, the discovery engine. URL stocks
+p3210
+sg6
+S'05:12:12'
+p3211
+sg8
+VSpeculatingStocks
+p3212
+sa(dp3213
+g2
+S'2015-12-03'
+p3214
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3215
+sg6
+S'05:08:45'
+p3216
+sg8
+VVishveshwar Jatain
+p3217
+sa(dp3218
+g2
+S'2015-12-03'
+p3219
+sg4
+Vwatchlist (bullish) 3 december: $avp $nflx $rigl $yelp
+p3220
+sg6
+S'05:00:56'
+p3221
+sg8
+VMed City Trader
+p3222
+sa(dp3223
+g2
+S'2015-12-03'
+p3224
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3225
+sg6
+S'05:00:39'
+p3226
+sg8
+VPatrick Kelley
+p3227
+sa(dp3228
+g2
+S'2015-12-03'
+p3229
+sg4
+VAT_USER AT_USER i had $20k in $nflx in 2003 and sold a year or two after and cry now every day lol
+p3230
+sg6
+S'04:55:51'
+p3231
+sg8
+VKeith Wasserman
+p3232
+sa(dp3233
+g2
+S'2015-12-03'
+p3234
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3235
+sg6
+S'04:53:54'
+p3236
+sg8
+VNathan Becker
+p3237
+sa(dp3238
+g2
+S'2015-12-03'
+p3239
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3240
+sg6
+S'04:51:09'
+p3241
+sg8
+VManduul Nyamandeleg
+p3242
+sa(dp3243
+g2
+S'2015-12-03'
+p3244
+sg4
+Vrt URL hd home depot, inc. financials URL $hd $lvs $nflx $rwm hd stocks pennystocks
+p3245
+sg6
+S'04:46:50'
+p3246
+sg8
+VBinary Trader Pro
+p3247
+sa(dp3248
+g2
+S'2015-12-03'
+p3249
+sg4
+Vsune sunedison, inc. investor opinions URL $sune $nflx $googl $vrsn sune investing pennystocks
+p3250
+sg6
+S'04:46:33'
+p3251
+sg8
+VRosner Stocks
+p3252
+sa(dp3253
+g2
+S'2015-12-03'
+p3254
+sg4
+Vnflx netflix, inc. p/e ratio URL $nflx $dfs $atd/b.to $skx nflx stock finance
+p3255
+sg6
+S'04:43:32'
+p3256
+sg8
+VDennyT
+p3257
+sa(dp3258
+g2
+S'2015-12-03'
+p3259
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3260
+sg6
+S'04:41:33'
+p3261
+sg8
+VUSC Mantis
+p3262
+sa(dp3263
+g2
+S'2015-12-03'
+p3264
+sg4
+Vhd home depot, inc. financials URL $hd $lvs $nflx $rwm hd stocks pennystocks
+p3265
+sg6
+S'04:40:32'
+p3266
+sg8
+VEmylers
+p3267
+sa(dp3268
+g2
+S'2015-12-03'
+p3269
+sg4
+Vhow to make money trading $nflx URL $$ stock investing
+p3270
+sg6
+S'04:40:01'
+p3271
+sg8
+Vbilal george
+p3272
+sa(dp3273
+g2
+S'2015-12-03'
+p3274
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3275
+sg6
+S'04:37:05'
+p3276
+sg8
+VSadie Daryan
+p3277
+sa(dp3278
+g2
+S'2015-12-03'
+p3279
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3280
+sg6
+S'04:37:04'
+p3281
+sg8
+VAlaga
+p3282
+sa(dp3283
+g2
+S'2015-12-03'
+p3284
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3285
+sg6
+S'04:33:51'
+p3286
+sg8
+VKim Ellery
+p3287
+sa(dp3288
+g2
+S'2015-12-03'
+p3289
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3290
+sg6
+S'04:30:21'
+p3291
+sg8
+VTrent Allen
+p3292
+sa(dp3293
+g2
+S'2015-12-03'
+p3294
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3295
+sg6
+S'04:29:46'
+p3296
+sg8
+Vcameron maziejka
+p3297
+sa(dp3298
+g2
+S'2015-12-03'
+p3299
+sg4
+Vhow not to trade $nflx earnings: URL via AT_USER
+p3300
+sg6
+S'04:29:03'
+p3301
+sg8
+VKim Klaiman
+p3302
+sa(dp3303
+g2
+S'2015-12-03'
+p3304
+sg4
+Vbattling netflix, amazon and hulu, youtube seeks streaming rights to movies, tv series. URL $googl $amzn $nflx media
+p3305
+sg6
+S'04:29:01'
+p3306
+sg8
+Vbored2tears
+p3307
+sa(dp3308
+g2
+S'2015-12-03'
+p3309
+sg4
+Vffffffffff rt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today
+p3310
+sg6
+S'04:27:14'
+p3311
+sg8
+VDan Burke
+p3312
+sa(dp3313
+g2
+S'2015-12-03'
+p3314
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3315
+sg6
+S'04:26:45'
+p3316
+sg8
+VSobra \u263a
+p3317
+sa(dp3318
+g2
+S'2015-12-03'
+p3319
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3320
+sg6
+S'04:25:58'
+p3321
+sg8
+VKevin Kwan
+p3322
+sa(dp3323
+g2
+S'2015-12-03'
+p3324
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3325
+sg6
+S'04:25:43'
+p3326
+sg8
+VJamie Pawlikowski
+p3327
+sa(dp3328
+g2
+S'2015-12-03'
+p3329
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3330
+sg6
+S'04:24:55'
+p3331
+sg8
+Vjavisalom
+p3332
+sa(dp3333
+g2
+S'2015-12-03'
+p3334
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3335
+sg6
+S'04:24:32'
+p3336
+sg8
+VKarm Singh
+p3337
+sa(dp3338
+g2
+S'2015-12-03'
+p3339
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3340
+sg6
+S'04:22:32'
+p3341
+sg8
+VThomas Sessa
+p3342
+sa(dp3343
+g2
+S'2015-12-03'
+p3344
+sg4
+Vif it's allyoucandrink for $8.95/mo,maybe i'll start drinking again(just kidding,sober4 2.5yrs). tastingroom $nflx URL
+p3345
+sg6
+S'04:19:59'
+p3346
+sg8
+VAction Jackson
+p3347
+sa(dp3348
+g2
+S'2015-12-03'
+p3349
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3350
+sg6
+S'04:19:30'
+p3351
+sg8
+VManuela Rios
+p3352
+sa(dp3353
+g2
+S'2015-12-03'
+p3354
+sg4
+VAT_USER been using hulu, $amzn, and $nflx. $nflx easily has best tech/engineers, but hulu and $amzn have great content.
+p3355
+sg6
+S'04:17:48'
+p3356
+sg8
+VMarkus Erdmann
+p3357
+sa(dp3358
+g2
+S'2015-12-03'
+p3359
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3360
+sg6
+S'04:17:35'
+p3361
+sg8
+Vcl
+p3362
+sa(dp3363
+g2
+S'2015-12-03'
+p3364
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3365
+sg6
+S'04:17:05'
+p3366
+sg8
+VTosin Ojo
+p3367
+sa(dp3368
+g2
+S'2015-12-03'
+p3369
+sg4
+V$nflx now would be a great time to raise capital.
+p3370
+sg6
+S'04:16:06'
+p3371
+sg8
+VChris Morgan
+p3372
+sa(dp3373
+g2
+S'2015-12-03'
+p3374
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3375
+sg6
+S'04:14:59'
+p3376
+sg8
+VOfficeofHarry
+p3377
+sa(dp3378
+g2
+S'2015-12-03'
+p3379
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3380
+sg6
+S'04:14:35'
+p3381
+sg8
+Vtilkeshwar negi
+p3382
+sa(dp3383
+g2
+S'2015-12-03'
+p3384
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3385
+sg6
+S'04:13:16'
+p3386
+sg8
+VDulam Chandra
+p3387
+sa(dp3388
+g2
+S'2015-12-03'
+p3389
+sg4
+V$gld opinions updated wednesday, december 2, 2015 10:59:22 pm $nflx $avp $dnrg $eum URL
+p3390
+sg6
+S'04:12:34'
+p3391
+sg8
+VRosner Stocks
+p3392
+sa(dp3393
+g2
+S'2015-12-03'
+p3394
+sg4
+Vprice targets for our latest model portfolio report $nvda $hii $car $nflx $wynn URL
+p3395
+sg6
+S'04:11:44'
+p3396
+sg8
+VStephen Castellano
+p3397
+sa(dp3398
+g2
+S'2015-12-03'
+p3399
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3400
+sg6
+S'04:10:59'
+p3401
+sg8
+VTarek Younes
+p3402
+sa(dp3403
+g2
+S'2015-12-03'
+p3404
+sg4
+V$goog $nflx URL
+p3405
+sg6
+S'04:08:01'
+p3406
+sg8
+Vsdh
+p3407
+sa(dp3408
+g2
+S'2015-12-03'
+p3409
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3410
+sg6
+S'04:07:35'
+p3411
+sg8
+VBald Coworker
+p3412
+sa(dp3413
+g2
+S'2015-12-03'
+p3414
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3415
+sg6
+S'04:04:21'
+p3416
+sg8
+VChris Palmisano
+p3417
+sa(dp3418
+g2
+S'2015-12-03'
+p3419
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3420
+sg6
+S'04:04:14'
+p3421
+sg8
+VRichard LeBlanc
+p3422
+sa(dp3423
+g2
+S'2015-12-03'
+p3424
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3425
+sg6
+S'04:01:21'
+p3426
+sg8
+VLa Victoria Lab
+p3427
+sa(dp3428
+g2
+S'2015-12-03'
+p3429
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3430
+sg6
+S'03:59:13'
+p3431
+sg8
+VEthan Geller
+p3432
+sa(dp3433
+g2
+S'2015-12-03'
+p3434
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3435
+sg6
+S'03:58:44'
+p3436
+sg8
+VChris Nau
+p3437
+sa(dp3438
+g2
+S'2015-12-03'
+p3439
+sg4
+VAT_USER hello, need your opinion on $nflx please
+p3440
+sg6
+S'03:58:01'
+p3441
+sg8
+VTrader
+p3442
+sa(dp3443
+g2
+S'2015-12-03'
+p3444
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3445
+sg6
+S'03:55:50'
+p3446
+sg8
+VJason Howard
+p3447
+sa(dp3448
+g2
+S'2015-12-03'
+p3449
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3450
+sg6
+S'03:53:52'
+p3451
+sg8
+VJake Joraanstad
+p3452
+sa(dp3453
+g2
+S'2015-12-03'
+p3454
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3455
+sg6
+S'03:53:34'
+p3456
+sg8
+Vkdotv
+p3457
+sa(dp3458
+g2
+S'2015-12-03'
+p3459
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3460
+sg6
+S'03:52:21'
+p3461
+sg8
+Vvikas sukhwani
+p3462
+sa(dp3463
+g2
+S'2015-12-03'
+p3464
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3465
+sg6
+S'03:51:40'
+p3466
+sg8
+VJake P
+p3467
+sa(dp3468
+g2
+S'2015-12-03'
+p3469
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3470
+sg6
+S'03:50:33'
+p3471
+sg8
+VJody Ford
+p3472
+sa(dp3473
+g2
+S'2015-12-03'
+p3474
+sg4
+V$nflx (netflix inc) 200d ma is at $94.48, below its 50d ma URL nflx
+p3475
+sg6
+S'03:49:14'
+p3476
+sg8
+VInvestAlert .com
+p3477
+sa(dp3478
+g2
+S'2015-12-03'
+p3479
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3480
+sg6
+S'03:49:00'
+p3481
+sg8
+VNick Schwab
+p3482
+sa(dp3483
+g2
+S'2015-12-03'
+p3484
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3485
+sg6
+S'03:47:12'
+p3486
+sg8
+VWalt Stone
+p3487
+sa(dp3488
+g2
+S'2015-12-03'
+p3489
+sg4
+Vtd.to toronto-dominion bank day low URL $td.to $aa $nflx $bmy td.to nasdaq stock
+p3490
+sg6
+S'03:46:32'
+p3491
+sg8
+VStock Forums
+p3492
+sa(dp3493
+g2
+S'2015-12-03'
+p3494
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3495
+sg6
+S'03:45:36'
+p3496
+sg8
+VC. Kyle Johnston
+p3497
+sa(dp3498
+g2
+S'2015-12-03'
+p3499
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3500
+sg6
+S'03:45:18'
+p3501
+sg8
+VRachel Mayer
+p3502
+sa(dp3503
+g2
+S'2015-12-03'
+p3504
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3505
+sg6
+S'03:44:57'
+p3506
+sg8
+VDavid
+p3507
+sa(dp3508
+g2
+S'2015-12-03'
+p3509
+sg4
+Vrt AT_USER nflx netflix, inc. yield URL $nflx $vrx.to $stx $mo nflx invest stocks
+p3510
+sg6
+S'03:44:34'
+p3511
+sg8
+VDE Asset Management
+p3512
+sa(dp3513
+g2
+S'2015-12-03'
+p3514
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3515
+sg6
+S'03:43:52'
+p3516
+sg8
+Vmanisha shah
+p3517
+sa(dp3518
+g2
+S'2015-12-03'
+p3519
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3520
+sg6
+S'03:43:37'
+p3521
+sg8
+VPraveen
+p3522
+sa(dp3523
+g2
+S'2015-12-03'
+p3524
+sg4
+V$nflx (netflix inc) is at $128.93, 21.11% above its 6-month ma URL nflx
+p3525
+sg6
+S'03:43:11'
+p3526
+sg8
+VInvestAlert .com
+p3527
+sa(dp3528
+g2
+S'2015-12-03'
+p3529
+sg4
+VAT_USER have you ever considered adding $sbux to this popular groups of winning stocks? $fb, $amzn $nflx $goog (alphabet) $sbux (fangs)
+p3530
+sg6
+S'03:43:02'
+p3531
+sg8
+VRichard Edward Key
+p3532
+sa(dp3533
+g2
+S'2015-12-03'
+p3534
+sg4
+Vnflx netflix, inc. yield URL $nflx $vrx.to $stx $mo nflx invest stocks
+p3535
+sg6
+S'03:42:09'
+p3536
+sg8
+VInvestors Hangout
+p3537
+sa(dp3538
+g2
+S'2015-12-03'
+p3539
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3540
+sg6
+S'03:42:06'
+p3541
+sg8
+VSkye W.
+p3542
+sa(dp3543
+g2
+S'2015-12-03'
+p3544
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3545
+sg6
+S'03:41:52'
+p3546
+sg8
+VTrey Copeland
+p3547
+sa(dp3548
+g2
+S'2015-12-03'
+p3549
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3550
+sg6
+S'03:41:04'
+p3551
+sg8
+VChris Hedgecock
+p3552
+sa(dp3553
+g2
+S'2015-12-03'
+p3554
+sg4
+Vrt AT_USER another one. $nflx 127 and 130 calls boom 300% chart it believe it. keep doubting greatness and you will fail. https:/\u2026
+p3555
+sg6
+S'03:40:03'
+p3556
+sg8
+Vsksatours
+p3557
+sa(dp3558
+g2
+S'2015-12-03'
+p3559
+sg4
+Vintc intel corp. day high URL $intc $smn $nflx $aem intc investing stockmarket
+p3560
+sg6
+S'03:39:33'
+p3561
+sg8
+Vleahanne
+p3562
+sa(dp3563
+g2
+S'2015-12-03'
+p3564
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3565
+sg6
+S'03:38:58'
+p3566
+sg8
+VRob Boek
+p3567
+sa(dp3568
+g2
+S'2015-12-03'
+p3569
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3570
+sg6
+S'03:38:47'
+p3571
+sg8
+VJoe Fowler
+p3572
+sa(dp3573
+g2
+S'2015-12-03'
+p3574
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3575
+sg6
+S'03:38:38'
+p3576
+sg8
+VDouglas Injugu
+p3577
+sa(dp3578
+g2
+S'2015-12-03'
+p3579
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3580
+sg6
+S'03:37:16'
+p3581
+sg8
+VMark Willliams
+p3582
+sa(dp3583
+g2
+S'2015-12-03'
+p3584
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3585
+sg6
+S'03:36:33'
+p3586
+sg8
+VTrace Smith
+p3587
+sa(dp3588
+g2
+S'2015-12-03'
+p3589
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3590
+sg6
+S'03:36:28'
+p3591
+sg8
+VJimmy Gambier
+p3592
+sa(dp3593
+g2
+S'2015-12-03'
+p3594
+sg4
+Vdust direxion daily gold miners bear 3x shares investor opinions URL $dust $mcd $xli $nflx dust invest\u2026
+p3595
+sg6
+S'03:36:13'
+p3596
+sg8
+VLucky Jimmy
+p3597
+sa(dp3598
+g2
+S'2015-12-03'
+p3599
+sg4
+V$nflx (netflix inc) 50d ma is at $110.08, below its 20d ma URL nflx
+p3600
+sg6
+S'03:36:07'
+p3601
+sg8
+VInvestAlert .com
+p3602
+sa(dp3603
+g2
+S'2015-12-03'
+p3604
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3605
+sg6
+S'03:36:03'
+p3606
+sg8
+VJeff Thompson
+p3607
+sa(dp3608
+g2
+S'2015-12-03'
+p3609
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3610
+sg6
+S'03:35:34'
+p3611
+sg8
+Vbryan parman
+p3612
+sa(dp3613
+g2
+S'2015-12-03'
+p3614
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3615
+sg6
+S'03:35:15'
+p3616
+sg8
+V\u10da(\u0ca0\u76ca\u0ca0\u10da)
+p3617
+sa(dp3618
+g2
+S'2015-12-03'
+p3619
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3620
+sg6
+S'03:34:24'
+p3621
+sg8
+VAyodeji Adewunmi
+p3622
+sa(dp3623
+g2
+S'2015-12-03'
+p3624
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3625
+sg6
+S'03:34:04'
+p3626
+sg8
+VKenan Kalayc\u0131
+p3627
+sa(dp3628
+g2
+S'2015-12-03'
+p3629
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3630
+sg6
+S'03:33:47'
+p3631
+sg8
+VIStandWithIronMan
+p3632
+sa(dp3633
+g2
+S'2015-12-03'
+p3634
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3635
+sg6
+S'03:32:23'
+p3636
+sg8
+VNvania
+p3637
+sa(dp3638
+g2
+S'2015-12-03'
+p3639
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3640
+sg6
+S'03:32:18'
+p3641
+sg8
+VMo Hossain
+p3642
+sa(dp3643
+g2
+S'2015-12-03'
+p3644
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3645
+sg6
+S'03:31:20'
+p3646
+sg8
+VEric
+p3647
+sa(dp3648
+g2
+S'2015-12-03'
+p3649
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3650
+sg6
+S'03:31:15'
+p3651
+sg8
+VAnthony D. Nelson
+p3652
+sa(dp3653
+g2
+S'2015-12-03'
+p3654
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3655
+sg6
+S'03:30:29'
+p3656
+sg8
+VOrien Wu
+p3657
+sa(dp3658
+g2
+S'2015-12-03'
+p3659
+sg4
+Vbig cap tech nice performance $fb $amzn $googl $nflx URL
+p3660
+sg6
+S'03:29:56'
+p3661
+sg8
+Vdough
+p3662
+sa(dp3663
+g2
+S'2015-12-03'
+p3664
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3665
+sg6
+S'03:29:32'
+p3666
+sg8
+Vmarissa
+p3667
+sa(dp3668
+g2
+S'2015-12-03'
+p3669
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3670
+sg6
+S'03:29:31'
+p3671
+sg8
+VSiddharth Swaroop
+p3672
+sa(dp3673
+g2
+S'2015-12-03'
+p3674
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3675
+sg6
+S'03:29:24'
+p3676
+sg8
+VPablo Godel
+p3677
+sa(dp3678
+g2
+S'2015-12-03'
+p3679
+sg4
+Vnote the simple base and volume on $nflx 11/17. that is where you get in! $study stocks investing
+p3680
+sg6
+S'03:29:01'
+p3681
+sg8
+VPatrick Walker
+p3682
+sa(dp3683
+g2
+S'2015-12-03'
+p3684
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3685
+sg6
+S'03:28:54'
+p3686
+sg8
+VJames Bishop
+p3687
+sa(dp3688
+g2
+S'2015-12-03'
+p3689
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3690
+sg6
+S'03:28:38'
+p3691
+sg8
+VDan
+p3692
+sa(dp3693
+g2
+S'2015-12-03'
+p3694
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3695
+sg6
+S'03:28:26'
+p3696
+sg8
+VDonny\u263aVelazquez
+p3697
+sa(dp3698
+g2
+S'2015-12-03'
+p3699
+sg4
+Vpmarca: rt stocktwits: netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1\u2026 URL
+p3700
+sg6
+S'03:28:07'
+p3701
+sg8
+VI retweet @pmarca
+p3702
+sa(dp3703
+g2
+S'2015-12-03'
+p3704
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3705
+sg6
+S'03:28:00'
+p3706
+sg8
+VKaren Lopez
+p3707
+sa(dp3708
+g2
+S'2015-12-03'
+p3709
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3710
+sg6
+S'03:27:59'
+p3711
+sg8
+VArvel #GiveThanks
+p3712
+sa(dp3713
+g2
+S'2015-12-03'
+p3714
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3715
+sg6
+S'03:27:38'
+p3716
+sg8
+VSumit Bana
+p3717
+sa(dp3718
+g2
+S'2015-12-03'
+p3719
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3720
+sg6
+S'03:27:12'
+p3721
+sg8
+VSriram Ganesh
+p3722
+sa(dp3723
+g2
+S'2015-12-03'
+p3724
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3725
+sg6
+S'03:26:25'
+p3726
+sg8
+VDavid Dunstan
+p3727
+sa(dp3728
+g2
+S'2015-12-03'
+p3729
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3730
+sg6
+S'03:26:02'
+p3731
+sg8
+VStuart Kearney
+p3732
+sa(dp3733
+g2
+S'2015-12-03'
+p3734
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3735
+sg6
+S'03:25:42'
+p3736
+sg8
+VJeffrey Banks
+p3737
+sa(dp3738
+g2
+S'2015-12-03'
+p3739
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3740
+sg6
+S'03:25:28'
+p3741
+sg8
+VIgna Vegas
+p3742
+sa(dp3743
+g2
+S'2015-12-03'
+p3744
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3745
+sg6
+S'03:25:21'
+p3746
+sg8
+VChava
+p3747
+sa(dp3748
+g2
+S'2015-12-03'
+p3749
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3750
+sg6
+S'03:25:17'
+p3751
+sg8
+VHarout Chitilian
+p3752
+sa(dp3753
+g2
+S'2015-12-03'
+p3754
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3755
+sg6
+S'03:25:11'
+p3756
+sg8
+VStefan Aleksic
+p3757
+sa(dp3758
+g2
+S'2015-12-03'
+p3759
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3760
+sg6
+S'03:25:08'
+p3761
+sg8
+VJack
+p3762
+sa(dp3763
+g2
+S'2015-12-03'
+p3764
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3765
+sg6
+S'03:25:06'
+p3766
+sg8
+VDenver
+p3767
+sa(dp3768
+g2
+S'2015-12-03'
+p3769
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3770
+sg6
+S'03:25:01'
+p3771
+sg8
+Vjoao
+p3772
+sa(dp3773
+g2
+S'2015-12-03'
+p3774
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3775
+sg6
+S'03:24:46'
+p3776
+sg8
+VMohammed Al-Ayouti
+p3777
+sa(dp3778
+g2
+S'2015-12-03'
+p3779
+sg4
+Vwhen investing, think "franchise." no one does what $nflx does. no one does what $lnkd does. no one does what $googl. stocks investing
+p3780
+sg6
+S'03:24:36'
+p3781
+sg8
+VPatrick Walker
+p3782
+sa(dp3783
+g2
+S'2015-12-03'
+p3784
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3785
+sg6
+S'03:24:30'
+p3786
+sg8
+VJonathan Hart
+p3787
+sa(dp3788
+g2
+S'2015-12-03'
+p3789
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3790
+sg6
+S'03:24:24'
+p3791
+sg8
+VGeorge
+p3792
+sa(dp3793
+g2
+S'2015-12-03'
+p3794
+sg4
+Vrt AT_USER whoa! netflix! that's a new all-time high. $nflx just traded at $131.05 per share: URL URL
+p3795
+sg6
+S'03:24:23'
+p3796
+sg8
+Vdjflowmaster
+p3797
+sa(dp3798
+g2
+S'2015-12-03'
+p3799
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3800
+sg6
+S'03:24:18'
+p3801
+sg8
+VSafeer Mohiuddin
+p3802
+sa(dp3803
+g2
+S'2015-12-03'
+p3804
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3805
+sg6
+S'03:24:12'
+p3806
+sg8
+VWill Gardner
+p3807
+sa(dp3808
+g2
+S'2015-12-03'
+p3809
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3810
+sg6
+S'03:24:11'
+p3811
+sg8
+VNoah Sidman-Gale
+p3812
+sa(dp3813
+g2
+S'2015-12-03'
+p3814
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3815
+sg6
+S'03:24:09'
+p3816
+sg8
+VNive
+p3817
+sa(dp3818
+g2
+S'2015-12-03'
+p3819
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3820
+sg6
+S'03:24:08'
+p3821
+sg8
+VNick Yao
+p3822
+sa(dp3823
+g2
+S'2015-12-03'
+p3824
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3825
+sg6
+S'03:23:53'
+p3826
+sg8
+VRyan Thompson
+p3827
+sa(dp3828
+g2
+S'2015-12-03'
+p3829
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3830
+sg6
+S'03:23:51'
+p3831
+sg8
+Vzach schultz
+p3832
+sa(dp3833
+g2
+S'2015-12-03'
+p3834
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3835
+sg6
+S'03:23:48'
+p3836
+sg8
+VMarty Chargin
+p3837
+sa(dp3838
+g2
+S'2015-12-03'
+p3839
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3840
+sg6
+S'03:23:45'
+p3841
+sg8
+VRT pmarca
+p3842
+sa(dp3843
+g2
+S'2015-12-03'
+p3844
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3845
+sg6
+S'03:23:34'
+p3846
+sg8
+VMiky Sarkany
+p3847
+sa(dp3848
+g2
+S'2015-12-03'
+p3849
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3850
+sg6
+S'03:23:25'
+p3851
+sg8
+VDwayne Walker
+p3852
+sa(dp3853
+g2
+S'2015-12-03'
+p3854
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3855
+sg6
+S'03:23:24'
+p3856
+sg8
+VBecca
+p3857
+sa(dp3858
+g2
+S'2015-12-03'
+p3859
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3860
+sg6
+S'03:23:01'
+p3861
+sg8
+VHiccup
+p3862
+sa(dp3863
+g2
+S'2015-12-03'
+p3864
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3865
+sg6
+S'03:23:01'
+p3866
+sg8
+VAndrew Sklar
+p3867
+sa(dp3868
+g2
+S'2015-12-03'
+p3869
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3870
+sg6
+S'03:23:00'
+p3871
+sg8
+VJoe Brown
+p3872
+sa(dp3873
+g2
+S'2015-12-03'
+p3874
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3875
+sg6
+S'03:22:54'
+p3876
+sg8
+VJohn Laramie
+p3877
+sa(dp3878
+g2
+S'2015-12-03'
+p3879
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3880
+sg6
+S'03:22:53'
+p3881
+sg8
+VArjun Sethi
+p3882
+sa(dp3883
+g2
+S'2015-12-03'
+p3884
+sg4
+Vrt AT_USER yellen spooks stocks as volume spikes URL $study $fed $nflx $amzn $googl $fb $yhoo $baba $rut $comp\u2026
+p3885
+sg6
+S'03:22:30'
+p3886
+sg8
+VStock Geek
+p3887
+sa(dp3888
+g2
+S'2015-12-03'
+p3889
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3890
+sg6
+S'03:22:29'
+p3891
+sg8
+VFederico
+p3892
+sa(dp3893
+g2
+S'2015-12-03'
+p3894
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3895
+sg6
+S'03:22:28'
+p3896
+sg8
+VBrian Forde
+p3897
+sa(dp3898
+g2
+S'2015-12-03'
+p3899
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3900
+sg6
+S'03:22:16'
+p3901
+sg8
+VAndy Oterson
+p3902
+sa(dp3903
+g2
+S'2015-12-03'
+p3904
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3905
+sg6
+S'03:22:14'
+p3906
+sg8
+VArm the Fetuses!
+p3907
+sa(dp3908
+g2
+S'2015-12-03'
+p3909
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p3910
+sg6
+S'03:21:44'
+p3911
+sg8
+VMarc Andreessen
+p3912
+sa(dp3913
+g2
+S'2015-12-03'
+p3914
+sg4
+V$nflx doesn't wanna chill lol $130.00 a share pre-split that's 910. AT_USER will this thing ever pop? or is it gonna go up forever
+p3915
+sg6
+S'03:15:44'
+p3916
+sg8
+VDaniel Abraham
+p3917
+sa(dp3918
+g2
+S'2015-12-03'
+p3919
+sg4
+Vstory telling ecosystem create-develop-secure-consume bullish $nvda $gpro $nflx $adbe $rpd
+p3920
+sg6
+S'03:13:12'
+p3921
+sg8
+VPath To Purchase
+p3922
+sa(dp3923
+g2
+S'2015-12-03'
+p3924
+sg4
+Vrt AT_USER youtube seeks streaming rights to tv shows, movies URL via AT_USER $goog $nflx $amzn
+p3925
+sg6
+S'03:12:51'
+p3926
+sg8
+VJerremy Newsome
+p3927
+sa(dp3928
+g2
+S'2015-12-03'
+p3929
+sg4
+V$ugaz short sales updated wednesday, december 2, 2015 9:59:21 pm $xlb $pfe $ibb $nflx URL
+p3930
+sg6
+S'03:12:07'
+p3931
+sg8
+VRosner Stocks
+p3932
+sa(dp3933
+g2
+S'2015-12-03'
+p3934
+sg4
+Vyoutube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish sentiment URL
+p3935
+sg6
+S'03:01:45'
+p3936
+sg8
+VFinancial Buzz
+p3937
+sa(dp3938
+g2
+S'2015-12-03'
+p3939
+sg4
+Vbreakout = 144.72 r2 = 134.82 r1 = 131.88 $nflx pivot = 128.40 s1 = 125.46 s2 = 121.98 breakdown = 112.62
+p3940
+sg6
+S'02:56:53'
+p3941
+sg8
+VEternity101
+p3942
+sa(dp3943
+g2
+S'2015-12-03'
+p3944
+sg4
+Vrt AT_USER nflx netflix, inc. short sales URL $nflx $bcei $xlb $fslr nflx pennystocks pennystocks
+p3945
+sg6
+S'02:54:30'
+p3946
+sg8
+VGetRichStockPicks
+p3947
+sa(dp3948
+g2
+S'2015-12-03'
+p3949
+sg4
+Vyellen spooks stocks as volume spikes URL $study $fed $nflx $amzn $googl $fb $yhoo $baba $rut $compq $spx $djia
+p3950
+sg6
+S'02:51:58'
+p3951
+sg8
+VJoshua Hayes
+p3952
+sa(dp3953
+g2
+S'2015-12-03'
+p3954
+sg4
+Vyoutube battling netflix, amazon for tv and movies $nflx URL URL URL
+p3955
+sg6
+S'02:50:34'
+p3956
+sg8
+VWLST.com
+p3957
+sa(dp3958
+g2
+S'2015-12-03'
+p3959
+sg4
+Vyoutube battling netflix, amazon for tv and movies URL $nflx
+p3960
+sg6
+S'02:50:27'
+p3961
+sg8
+VMarketWatch $NFLX
+p3962
+sa(dp3963
+g2
+S'2015-12-03'
+p3964
+sg4
+Vslowly getting into the thick of things after long holiday. $nflx still squeezing. how many millionaries has it created? geez
+p3965
+sg6
+S'02:49:16'
+p3966
+sg8
+VDebo Oso
+p3967
+sa(dp3968
+g2
+S'2015-12-03'
+p3969
+sg4
+Vrt AT_USER i analyzed $nflx $uso $zfgn and much more in my video market recap from earlier: URL $spy $yhoo stocks
+p3970
+sg6
+S'02:48:12'
+p3971
+sg8
+VVan Castle
+p3972
+sa(dp3973
+g2
+S'2015-12-03'
+p3974
+sg4
+Vrt AT_USER $nflx breaking out to all-time high. URL
+p3975
+sg6
+S'02:48:11'
+p3976
+sg8
+VOracle of Boxford
+p3977
+sa(dp3978
+g2
+S'2015-12-03'
+p3979
+sg4
+VAT_USER no worries once it is $nflx will pick it up causing the stock to rally
+p3980
+sg6
+S'02:47:56'
+p3981
+sg8
+VTodd
+p3982
+sa(dp3983
+g2
+S'2015-12-03'
+p3984
+sg4
+Vsh proshares short s&amp;p 500 fund exchange URL $sh $nflx $xop $calm sh nasdaq investing
+p3985
+sg6
+S'02:46:33'
+p3986
+sg8
+Vjim50
+p3987
+sa(dp3988
+g2
+S'2015-12-03'
+p3989
+sg4
+V$tza financials updated wednesday, december 2, 2015 9:11:03 pm $dy $wtw $nflx $sbux URL
+p3990
+sg6
+S'02:45:14'
+p3991
+sg8
+VIH News Desk
+p3992
+sa(dp3993
+g2
+S'2015-12-03'
+p3994
+sg4
+V$xly stock message board updated wednesday, december 2, 2015 9:11:03 pm $nflx $mscc $nat $qid URL
+p3995
+sg6
+S'02:45:14'
+p3996
+sg8
+VIH News Desk
+p3997
+sa(dp3998
+g2
+S'2015-12-03'
+p3999
+sg4
+Vnflx netflix, inc. dividend URL $nflx $pbr $amzn $ahs nflx stock stockmarket
+p4000
+sg6
+S'02:45:13'
+p4001
+sg8
+VInvestors Hangout
+p4002
+sa(dp4003
+g2
+S'2015-12-03'
+p4004
+sg4
+Vma mastercard prev close URL $ma $fit $nflx $dgaz ma finance stocks
+p4005
+sg6
+S'02:44:03'
+p4006
+sg8
+VEmylers
+p4007
+sa(dp4008
+g2
+S'2015-12-03'
+p4009
+sg4
+Vhrl hormel foods corp. day high URL $hrl $txn $xop $nflx hrl tradeideas stocks
+p4010
+sg6
+S'02:42:10'
+p4011
+sg8
+Vdanrocks
+p4012
+sa(dp4013
+g2
+S'2015-12-03'
+p4014
+sg4
+Vrt AT_USER the year's two best performing s&amp;p 500 stocks: \u2022 $nflx +166%, 346 p/e ratio \u2022 $amzn +119%, 988 p/e ratio URL
+p4015
+sg6
+S'02:37:34'
+p4016
+sg8
+VAslam Shakir, PMP
+p4017
+sa(dp4018
+g2
+S'2015-12-03'
+p4019
+sg4
+Vdbe powershares db multi-sector commodity trust energy fund message board posts URL $dbe $incy $intc $nflx dbe\u2026
+p4020
+sg6
+S'02:37:03'
+p4021
+sg8
+VInvestors Hangout
+p4022
+sa(dp4023
+g2
+S'2015-12-03'
+p4024
+sg4
+Vdia spdr dj industrial average etf trust p/e ratio URL $dia $luv $nflx $gild dia pennystocks nasdaq
+p4025
+sg6
+S'02:37:03'
+p4026
+sg8
+VIH News Desk
+p4027
+sa(dp4028
+g2
+S'2015-12-03'
+p4029
+sg4
+V$spy $iwm $uso $aapl $nflx $amzn $baba $fb URL
+p4030
+sg6
+S'02:35:45'
+p4031
+sg8
+VVenky Srinivasan
+p4032
+sa(dp4033
+g2
+S'2015-12-03'
+p4034
+sg4
+VAT_USER yes! $nflx was a great call. $hd also.
+p4035
+sg6
+S'02:35:42'
+p4036
+sg8
+VStockMan81
+p4037
+sa(dp4038
+g2
+S'2015-12-03'
+p4039
+sg4
+Vnew video: market recap, sector analysis, and individual names URL $spy $iwm $uso $aapl $nflx $amzn $baba $fb &amp; more
+p4040
+sg6
+S'02:32:56'
+p4041
+sg8
+VEvan Medeiros
+p4042
+sa(dp4043
+g2
+S'2015-12-03'
+p4044
+sg4
+Vgain from movement in these buzzing assets $eurusd $goog $nflx $nikkei $usdjpy URL URL
+p4045
+sg6
+S'02:30:13'
+p4046
+sg8
+VFinBuzz
+p4047
+sa(dp4048
+g2
+S'2015-12-03'
+p4049
+sg4
+Va mere coincidence wsj releases a carefully worded 7:59pm article by the disney reporter, $nflx closed at all-time high. rehash old news
+p4050
+sg6
+S'02:30:03'
+p4051
+sg8
+VLou Jacobs
+p4052
+sa(dp4053
+g2
+S'2015-12-03'
+p4054
+sg4
+Vof course, $nflx at $102 on nov 16 (2 weeks ago) was super pricey. it's an absolute steal now at $129 ($903 pre split; icahn sold at $700)
+p4055
+sg6
+S'02:30:00'
+p4056
+sg8
+VCapCube Sez
+p4057
+sa(dp4058
+g2
+S'2015-12-03'
+p4059
+sg4
+Vyoutube to seek streaming rights for tv, movies; wsj - just another challenge to netflix and amazon buybuybuy $nflx $googl $amzn
+p4060
+sg6
+S'02:28:30'
+p4061
+sg8
+VCapCube Sez
+p4062
+sa(dp4063
+g2
+S'2015-12-03'
+p4064
+sg4
+V$nflx youtube seeks streaming rights to tv shows, movies URL
+p4065
+sg6
+S'02:25:52'
+p4066
+sg8
+VLloydCreekStocks
+p4067
+sa(dp4068
+g2
+S'2015-12-03'
+p4069
+sg4
+V$qqq $adbe $grmn $nflx $urbn trade long and short from the nasdaq, 7 days trial for just $9.99, subscribe now! URL $spy
+p4070
+sg6
+S'02:23:57'
+p4071
+sg8
+VStock Market Picks
+p4072
+sa(dp4073
+g2
+S'2015-12-03'
+p4074
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4075
+sg6
+S'02:13:28'
+p4076
+sg8
+VPJ
+p4077
+sa(dp4078
+g2
+S'2015-12-03'
+p4079
+sg4
+V$fang currently has no cavities $fb $amzn $nflx $goog
+p4080
+sg6
+S'02:13:04'
+p4081
+sg8
+VBrian Coniglio
+p4082
+sa(dp4083
+g2
+S'2015-12-03'
+p4084
+sg4
+V$nflx - youtube seeks streaming rights to tv shows, movies URL
+p4085
+sg6
+S'02:11:38'
+p4086
+sg8
+VHot Stocks&Biotechs
+p4087
+sa(dp4088
+g2
+S'2015-12-03'
+p4089
+sg4
+Vrt AT_USER $nflx complete animal since call sweepers jumped the breakout couple wks ago. more upside from here? URL
+p4090
+sg6
+S'02:03:40'
+p4091
+sg8
+Vkenr0966
+p4092
+sa(dp4093
+g2
+S'2015-12-03'
+p4094
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4095
+sg6
+S'01:55:15'
+p4096
+sg8
+VTimothy Buck
+p4097
+sa(dp4098
+g2
+S'2015-12-03'
+p4099
+sg4
+V$spy $iwm $aapl $tsla $nflx $baba $wynn $fb $amzn $mon $gg $tgt scary market see why! URL URL
+p4100
+sg6
+S'01:54:24'
+p4101
+sg8
+VMcBillion
+p4102
+sa(dp4103
+g2
+S'2015-12-03'
+p4104
+sg4
+Vxly consumer discretionary select sector spdr % change URL $xly $fez $cmg $nflx xly nasdaq share
+p4105
+sg6
+S'01:52:03'
+p4106
+sg8
+Vjim50
+p4107
+sa(dp4108
+g2
+S'2015-12-03'
+p4109
+sg4
+Vi analyzed $nflx $uso $zfgn and much more in my video market recap from earlier: URL $spy $yhoo stocks
+p4110
+sg6
+S'01:51:08'
+p4111
+sg8
+VChess
+p4112
+sa(dp4113
+g2
+S'2015-12-03'
+p4114
+sg4
+V$nflx 52wks high today, the strength and trend is strong. our pt365 team options calls did good today URL
+p4115
+sg6
+S'01:48:37'
+p4116
+sg8
+V$$$ Money $$$
+p4117
+sa(dp4118
+g2
+S'2015-12-03'
+p4119
+sg4
+V$tza reviews updated wednesday, december 2, 2015 8:11:03 pm $mscc $ugaz $nflx $csco URL
+p4120
+sg6
+S'01:45:22'
+p4121
+sg8
+VIH News Desk
+p4122
+sa(dp4123
+g2
+S'2015-12-03'
+p4124
+sg4
+Vnflx netflix, inc. ex-div date URL $nflx $goog $gld $tbt nflx investing stock
+p4125
+sg6
+S'01:45:16'
+p4126
+sg8
+Vclayton
+p4127
+sa(dp4128
+g2
+S'2015-12-03'
+p4129
+sg4
+Vtickers trending on twtr in last 1 hour $eurusd $googl $msft $nflx $nikkei URL URL
+p4130
+sg6
+S'01:44:52'
+p4131
+sg8
+VFinBuzz
+p4132
+sa(dp4133
+g2
+S'2015-12-03'
+p4134
+sg4
+Vanother one. $nflx 127 and 130 calls boom 300% chart it believe it. keep doubting greatness and you will fail. URL
+p4135
+sg6
+S'01:43:41'
+p4136
+sg8
+VStan
+p4137
+sa(dp4138
+g2
+S'2015-12-03'
+p4139
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p4140
+sg6
+S'01:43:19'
+p4141
+sg8
+VNASDAQStocks
+p4142
+sa(dp4143
+g2
+S'2015-12-03'
+p4144
+sg4
+V$nflx wow wsj only a month behind theverge URL
+p4145
+sg6
+S'01:42:01'
+p4146
+sg8
+VLou Jacobs
+p4147
+sa(dp4148
+g2
+S'2015-12-03'
+p4149
+sg4
+Vrt AT_USER fundamental truth of the market matter URL $xle volatility $spx $usdx eps $fb $amzn $nflx $goog ja\u2026
+p4150
+sg6
+S'01:39:16'
+p4151
+sg8
+VJohn W. Green JW
+p4152
+sa(dp4153
+g2
+S'2015-12-03'
+p4154
+sg4
+Vdwti velocityshares 3x inverse crude etn last price URL $dwti $nflx $smn $fxy dwti investing nasdaq
+p4155
+sg6
+S'01:37:32'
+p4156
+sg8
+VStock Forums
+p4157
+sa(dp4158
+g2
+S'2015-12-03'
+p4159
+sg4
+VAT_USER nate we both know u going to join me tomorrow red/green tomorrow $nflx and chill
+p4160
+sg6
+S'01:33:51'
+p4161
+sg8
+VDan
+p4162
+sa(dp4163
+g2
+S'2015-12-03'
+p4164
+sg4
+Vrt AT_USER $dis $nflx $disca espn fears overdone at disney. disney stockanalysis amigobulls URL URL
+p4165
+sg6
+S'01:33:24'
+p4166
+sg8
+VVirendra singh
+p4167
+sa(dp4168
+g2
+S'2015-12-03'
+p4169
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4170
+sg6
+S'01:33:19'
+p4171
+sg8
+VHerman Chan, CHS
+p4172
+sa(dp4173
+g2
+S'2015-12-03'
+p4174
+sg4
+Vfundamental truth of the market matter URL $xle volatility $spx $usdx eps $fb $amzn $nflx $goog japan china
+p4175
+sg6
+S'01:33:03'
+p4176
+sg8
+VBriefing.com
+p4177
+sa(dp4178
+g2
+S'2015-12-03'
+p4179
+sg4
+Vyoutube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish sentiment surrounding $nflx URL
+p4180
+sg6
+S'01:31:04'
+p4181
+sg8
+VFinancial Buzz
+p4182
+sa(dp4183
+g2
+S'2015-12-03'
+p4184
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p4185
+sg6
+S'01:30:26'
+p4186
+sg8
+VMarijuanacharts
+p4187
+sa(dp4188
+g2
+S'2015-12-03'
+p4189
+sg4
+Vyoutube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish sentiment surrounding $nflx URL
+p4190
+sg6
+S'01:30:21'
+p4191
+sg8
+VFinancial Buzz
+p4192
+sa(dp4193
+g2
+S'2015-12-03'
+p4194
+sg4
+V$nflx - youtube seeks streaming right to tv shows, movies URL
+p4195
+sg6
+S'01:30:17'
+p4196
+sg8
+VHot Stocks&Biotechs
+p4197
+sa(dp4198
+g2
+S'2015-12-03'
+p4199
+sg4
+Vyoutube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish URL
+p4200
+sg6
+S'01:29:39'
+p4201
+sg8
+VFinancial Buzz
+p4202
+sa(dp4203
+g2
+S'2015-12-03'
+p4204
+sg4
+Vrobert kyncl, $nflx veteran now youtube\u2019s chief business officer is apart of the launch in tv shows &amp; movies doesn't bode well for $nflx
+p4205
+sg6
+S'01:28:45'
+p4206
+sg8
+VFinancial Buzz
+p4207
+sa(dp4208
+g2
+S'2015-12-03'
+p4209
+sg4
+Vkelly merryman, former $nflx content executive apart of youtube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish
+p4210
+sg6
+S'01:26:50'
+p4211
+sg8
+VFinancial Buzz
+p4212
+sa(dp4213
+g2
+S'2015-12-03'
+p4214
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4215
+sg6
+S'01:26:39'
+p4216
+sg8
+VArthur Levy
+p4217
+sa(dp4218
+g2
+S'2015-12-03'
+p4219
+sg4
+Vyoutube seeks streaming rights to tv shows, movies URL via AT_USER $hulu $nflx $amzn
+p4220
+sg6
+S'01:26:34'
+p4221
+sg8
+VRavi Romo
+p4222
+sa(dp4223
+g2
+S'2015-12-03'
+p4224
+sg4
+Vsusanne daniels, former programming chief of mtv apart of youtube launch into original tv shows &amp; movies doesn't bode well for $nflx bearish
+p4225
+sg6
+S'01:26:12'
+p4226
+sg8
+VFinancial Buzz
+p4227
+sa(dp4228
+g2
+S'2015-12-03'
+p4229
+sg4
+VAT_USER AT_USER nate everything neg for $nflx but that thing is on barry bonds juice
+p4230
+sg6
+S'01:25:19'
+p4231
+sg8
+VDan
+p4232
+sa(dp4233
+g2
+S'2015-12-03'
+p4234
+sg4
+Vyoutube seeks streaming right to tv shows, movies $nflx URL URL
+p4235
+sg6
+S'01:25:13'
+p4236
+sg8
+VWLST.com
+p4237
+sa(dp4238
+g2
+S'2015-12-03'
+p4239
+sg4
+V$nflx youtube seeks streaming right to tv shows, movies URL
+p4240
+sg6
+S'01:25:09'
+p4241
+sg8
+VLloydCreekStocks
+p4242
+sa(dp4243
+g2
+S'2015-12-03'
+p4244
+sg4
+Vrt AT_USER youtube said to seek streaming rights for tv, movies: wsj $nflx $googl $amzn
+p4245
+sg6
+S'01:22:57'
+p4246
+sg8
+VMichael W
+p4247
+sa(dp4248
+g2
+S'2015-12-03'
+p4249
+sg4
+Vrt AT_USER youtube is seeking streaming rights to tv series and movies. $9.99-a-month subscription service called red $amzn $nflx\u2026
+p4250
+sg6
+S'01:22:47'
+p4251
+sg8
+VOptions Answers
+p4252
+sa(dp4253
+g2
+S'2015-12-03'
+p4254
+sg4
+Vyoutube seeking streaming rights to tv series, movies intensifying rivalry with $nflx, $amzn, $hulu. URL $googl
+p4255
+sg6
+S'01:22:44'
+p4256
+sg8
+VBits & Pieces 112814
+p4257
+sa(dp4258
+g2
+S'2015-12-03'
+p4259
+sg4
+V*breaking news from AT_USER youtube $googl $goog seeks streaming rights to tv shows &amp; movies negative impact on $nflx! URL
+p4260
+sg6
+S'01:20:36'
+p4261
+sg8
+VFinancial Buzz
+p4262
+sa(dp4263
+g2
+S'2015-12-03'
+p4264
+sg4
+Vtrack trending assets in 1 watchlist $eurusd $gbpaud $goog $msft $nflx URL URL
+p4265
+sg6
+S'01:20:16'
+p4266
+sg8
+VFinBuzz
+p4267
+sa(dp4268
+g2
+S'2015-12-03'
+p4269
+sg4
+Vrt AT_USER youtube said to seek streaming rights for tv, movies: wsj $nflx $googl $amzn
+p4270
+sg6
+S'01:19:50'
+p4271
+sg8
+VBefree
+p4272
+sa(dp4273
+g2
+S'2015-12-03'
+p4274
+sg4
+VAT_USER good. i hope they bankrupt $nflx
+p4275
+sg6
+S'01:17:11'
+p4276
+sg8
+VBacon
+p4277
+sa(dp4278
+g2
+S'2015-12-03'
+p4279
+sg4
+Vyoutube $googl $goog looking to become nflx with streaming tv shows &amp;movies wow $nflx will be like $p to $aapl music URL
+p4280
+sg6
+S'01:16:50'
+p4281
+sg8
+VFinancial Buzz
+p4282
+sa(dp4283
+g2
+S'2015-12-03'
+p4284
+sg4
+Vyoutube trying to acquire tv and movie streaming rights to compete with netflix and amazon. - wsj. $nflx $amzn
+p4285
+sg6
+S'01:16:16'
+p4286
+sg8
+VBreakingNewsTrading
+p4287
+sa(dp4288
+g2
+S'2015-12-03'
+p4289
+sg4
+V$nflx? URL
+p4290
+sg6
+S'01:15:57'
+p4291
+sg8
+VQ
+p4292
+sa(dp4293
+g2
+S'2015-12-03'
+p4294
+sg4
+Vyoutube is seeking streaming rights to tv series and movies. $9.99-a-month subscription service called red $amzn $nflx $googl $goog - wsj
+p4295
+sg6
+S'01:15:42'
+p4296
+sg8
+VLive2Trade
+p4297
+sa(dp4298
+g2
+S'2015-12-03'
+p4299
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4300
+sg6
+S'01:15:31'
+p4301
+sg8
+VGreen Lantern
+p4302
+sa(dp4303
+g2
+S'2015-12-03'
+p4304
+sg4
+Vrt AT_USER big call buy looks to ride $nflx deep into the $130s by mid dec. keep an eye on the action because breakout possible https:/\u2026
+p4305
+sg6
+S'01:13:52'
+p4306
+sg8
+Vstockassassin
+p4307
+sa(dp4308
+g2
+S'2015-12-03'
+p4309
+sg4
+Vrt AT_USER youtube seeks streaming rights to tv shows, movies URL via AT_USER $goog $nflx $amzn
+p4310
+sg6
+S'01:12:45'
+p4311
+sg8
+VGekko Trading Co.
+p4312
+sa(dp4313
+g2
+S'2015-12-03'
+p4314
+sg4
+Vyoutube seeks streaming rights to tv shows, movies URL via AT_USER $goog $nflx $amzn
+p4315
+sg6
+S'01:12:27'
+p4316
+sg8
+VHipster
+p4317
+sa(dp4318
+g2
+S'2015-12-03'
+p4319
+sg4
+VAT_USER good, i almost pussed out and sold 129's against my open 131 calls into the close today but hesitated. $nflx
+p4320
+sg6
+S'01:11:54'
+p4321
+sg8
+VCarolyn Marshall
+p4322
+sa(dp4323
+g2
+S'2015-12-03'
+p4324
+sg4
+V$nflx received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 482
+p4325
+sg6
+S'01:11:04'
+p4326
+sg8
+VMedia Sentiment
+p4327
+sa(dp4328
+g2
+S'2015-12-03'
+p4329
+sg4
+Vrt AT_USER negative for $nflx URL
+p4330
+sg6
+S'01:10:58'
+p4331
+sg8
+VTraderMentality
+p4332
+sa(dp4333
+g2
+S'2015-12-03'
+p4334
+sg4
+Vrt AT_USER youtube said to seek streaming rights for tv, movies: wsj $nflx $googl $amzn
+p4335
+sg6
+S'01:10:27'
+p4336
+sg8
+VZOZO
+p4337
+sa(dp4338
+g2
+S'2015-12-03'
+p4339
+sg4
+V$googl good $nflx bad URL
+p4340
+sg6
+S'01:10:15'
+p4341
+sg8
+VDavid Bergstrom
+p4342
+sa(dp4343
+g2
+S'2015-12-03'
+p4344
+sg4
+Vbig call buy looks to ride $nflx deep into the $130s by mid dec. keep an eye on the action because breakout possible URL
+p4345
+sg6
+S'01:10:13'
+p4346
+sg8
+VSang Lucci\u2122
+p4347
+sa(dp4348
+g2
+S'2015-12-03'
+p4349
+sg4
+Vrt AT_USER negative for $nflx URL
+p4350
+sg6
+S'01:09:57'
+p4351
+sg8
+VLifeSciencesMkt
+p4352
+sa(dp4353
+g2
+S'2015-12-03'
+p4354
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4355
+sg6
+S'01:08:55'
+p4356
+sg8
+VSeth Hittman
+p4357
+sa(dp4358
+g2
+S'2015-12-03'
+p4359
+sg4
+Vyoutube said to seek streaming rights for tv, movies: wsj $nflx $googl $amzn
+p4360
+sg6
+S'01:08:55'
+p4361
+sg8
+VTopstepTrader
+p4362
+sa(dp4363
+g2
+S'2015-12-03'
+p4364
+sg4
+Vnegative for $nflx URL
+p4365
+sg6
+S'01:08:20'
+p4366
+sg8
+VNathan Michaud
+p4367
+sa(dp4368
+g2
+S'2015-12-03'
+p4369
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4370
+sg6
+S'01:05:35'
+p4371
+sg8
+VRyan Baptiste
+p4372
+sa(dp4373
+g2
+S'2015-12-03'
+p4374
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4375
+sg6
+S'01:00:42'
+p4376
+sg8
+VMassy Sky
+p4377
+sa(dp4378
+g2
+S'2015-12-03'
+p4379
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4380
+sg6
+S'00:59:59'
+p4381
+sg8
+VBrian McCullough
+p4382
+sa(dp4383
+g2
+S'2015-12-03'
+p4384
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4385
+sg6
+S'00:59:54'
+p4386
+sg8
+VRob Manoff
+p4387
+sa(dp4388
+g2
+S'2015-12-03'
+p4389
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4390
+sg6
+S'00:59:04'
+p4391
+sg8
+Vhowardlindzon
+p4392
+sa(dp4393
+g2
+S'2015-12-03'
+p4394
+sg4
+Vkevin marder: markets provide a healthy menu for growth-stock speculators via AT_USER URL $compx $nflx $panw
+p4395
+sg6
+S'00:53:49'
+p4396
+sg8
+VMarketSmith
+p4397
+sa(dp4398
+g2
+S'2015-12-03'
+p4399
+sg4
+Vkevin marder: markets provide a healthy menu for growth-stock speculators via AT_USER URL $compx $nflx $panw
+p4400
+sg6
+S'00:53:49'
+p4401
+sg8
+VTop Stocks
+p4402
+sa(dp4403
+g2
+S'2015-12-03'
+p4404
+sg4
+Vrt AT_USER the year's two best performing s&amp;p 500 stocks: \u2022 $nflx +166%, 346 p/e ratio \u2022 $amzn +119%, 988 p/e ratio URL
+p4405
+sg6
+S'00:48:04'
+p4406
+sg8
+VJoao Paulo Pires
+p4407
+sa(dp4408
+g2
+S'2015-12-03'
+p4409
+sg4
+Vrgld royal gold, inc. quotes URL $rgld $tip $nflx $iyt rgld stockmarket share
+p4410
+sg6
+S'00:45:33'
+p4411
+sg8
+VInvestors Hangout
+p4412
+sa(dp4413
+g2
+S'2015-12-03'
+p4414
+sg4
+Vqcom qualcomm inc. news URL $qcom $hyg $nflx $cwb.to qcom nasdaq invest
+p4415
+sg6
+S'00:45:16'
+p4416
+sg8
+Vlookn4wins
+p4417
+sa(dp4418
+g2
+S'2015-12-03'
+p4419
+sg4
+V$nflx received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 469
+p4420
+sg6
+S'00:44:49'
+p4421
+sg8
+VMedia Sentiment
+p4422
+sa(dp4423
+g2
+S'2015-12-03'
+p4424
+sg4
+Viyt ishares dj transportation average index fund shares URL $iyt $nflx $sbux $jblu iyt stock nasdaq
+p4425
+sg6
+S'00:42:13'
+p4426
+sg8
+Vjim50
+p4427
+sa(dp4428
+g2
+S'2015-12-03'
+p4429
+sg4
+Vrt AT_USER $aapl $nflx $googl $amzn URL
+p4430
+sg6
+S'00:41:42'
+p4431
+sg8
+Vjohn pagnotta
+p4432
+sa(dp4433
+g2
+S'2015-12-03'
+p4434
+sg4
+Vupdate cierre stocks major news $baba +1.19% $qcom +5.17% $jpm -1.41% $zfgn -60.58% $nflx +2.84% $ge -0.66% $dal +1.38% $mcd -0.64%
+p4435
+sg6
+S'00:38:58'
+p4436
+sg8
+VInvest Huddle
+p4437
+sa(dp4438
+g2
+S'2015-12-03'
+p4439
+sg4
+V$nflx alerted short @ 12:06p et +1.28% vwap thevwap scanner URL
+p4440
+sg6
+S'00:38:20'
+p4441
+sg8
+VZach Hurwitz
+p4442
+sa(dp4443
+g2
+S'2015-12-03'
+p4444
+sg4
+Vwhatever happened to that conviction $nflx short?
+p4445
+sg6
+S'00:37:45'
+p4446
+sg8
+VCarleton, E. S.
+p4447
+sa(dp4448
+g2
+S'2015-12-03'
+p4449
+sg4
+V$nflx received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 467
+p4450
+sg6
+S'00:37:01'
+p4451
+sg8
+VMedia Sentiment
+p4452
+sa(dp4453
+g2
+S'2015-12-03'
+p4454
+sg4
+V$aapl $nflx $googl $amzn URL
+p4455
+sg6
+S'00:36:06'
+p4456
+sg8
+VStockBoardAsset
+p4457
+sa(dp4458
+g2
+S'2015-12-03'
+p4459
+sg4
+Vrt AT_USER just cancelled our $nflx subscription this afternoon...hence the weakness. i don't get it...nothing on that service worth w\u2026
+p4460
+sg6
+S'00:35:19'
+p4461
+sg8
+VSally Akhtar
+p4462
+sa(dp4463
+g2
+S'2015-12-03'
+p4464
+sg4
+Vrt AT_USER next up $nflx first order of business today. the main focus and she was a beauty. our calls rocket ship charted to per\u2026
+p4465
+sg6
+S'00:35:14'
+p4466
+sg8
+VJAME$
+p4467
+sa(dp4468
+g2
+S'2015-12-03'
+p4469
+sg4
+Vrt AT_USER $nflx complete animal since call sweepers jumped the breakout couple wks ago. more upside from here? URL
+p4470
+sg6
+S'00:34:37'
+p4471
+sg8
+VForex First Aids
+p4472
+sa(dp4473
+g2
+S'2015-12-03'
+p4474
+sg4
+Vnext up $nflx first order of business today. the main focus and she was a beauty. our calls rocket ship charted to perfection
+p4475
+sg6
+S'00:33:28'
+p4476
+sg8
+VStan
+p4477
+sa(dp4478
+g2
+S'2015-12-03'
+p4479
+sg4
+Va agilent technologies, inc. day high URL $a $swks $tip $nflx a stocks share
+p4480
+sg6
+S'00:33:09'
+p4481
+sg8
+VIH NASDAQ OMX
+p4482
+sa(dp4483
+g2
+S'2015-12-03'
+p4484
+sg4
+V$nflx max pain is 122.00 for maturity 12/04/2015. price = 128.97. URL
+p4485
+sg6
+S'00:30:33'
+p4486
+sg8
+VDan
+p4487
+sa(dp4488
+g2
+S'2015-12-03'
+p4489
+sg4
+Vrt AT_USER $nflx complete animal since call sweepers jumped the breakout couple wks ago. more upside from here? URL
+p4490
+sg6
+S'00:27:57'
+p4491
+sg8
+VSang Lucci\u2122
+p4492
+sa(dp4493
+g2
+S'2015-12-03'
+p4494
+sg4
+Vcan under armour inc shareholders find a blueprint in nike inc? -- the motley fool $nflx URL URL
+p4495
+sg6
+S'00:26:39'
+p4496
+sg8
+VWLST.com
+p4497
+sa(dp4498
+g2
+S'2015-12-03'
+p4499
+sg4
+V$nflx complete animal since call sweepers jumped the breakout couple wks ago. more upside from here? URL via AT_USER
+p4500
+sg6
+S'00:26:16'
+p4501
+sg8
+VJE$US
+p4502
+sa(dp4503
+g2
+S'2015-12-03'
+p4504
+sg4
+V$nflx - can under armour inc shareholders find a blueprint in nike inc? URL
+p4505
+sg6
+S'00:26:08'
+p4506
+sg8
+VHot Stocks&Biotechs
+p4507
+sa(dp4508
+g2
+S'2015-12-03'
+p4509
+sg4
+Vt3 live daily recap: a difficult trading day URL $spy $amzn $nflx $fb $msft $uso $yhoo $baba $tsla $gs $vix
+p4510
+sg6
+S'00:25:02'
+p4511
+sg8
+VColin Macleod
+p4512
+sa(dp4513
+g2
+S'2015-12-03'
+p4514
+sg4
+Vnflx stock hit an all time high today: what\u2019s boosting netflix, inc.? $nflx netflix URL
+p4515
+sg6
+S'00:20:19'
+p4516
+sg8
+VLearnBonds.com
+p4517
+sa(dp4518
+g2
+S'2015-12-03'
+p4519
+sg4
+Vtop stock trade ideas: $nflx forecast for december 09, 2015. target: 132.43 [2.61%] current view: buy URL
+p4520
+sg6
+S'00:19:56'
+p4521
+sg8
+VZipETF Market Update
+p4522
+sa(dp4523
+g2
+S'2015-12-03'
+p4524
+sg4
+Vnetflix, inc. $nflx reaches new 1-year high at $131.35 URL
+p4525
+sg6
+S'00:14:22'
+p4526
+sg8
+VThe Legacy News
+p4527
+sa(dp4528
+g2
+S'2015-12-03'
+p4529
+sg4
+Vnetflix, inc. $nflx reaches new 1-year high at $131.35 URL
+p4530
+sg6
+S'00:10:13'
+p4531
+sg8
+VTicker Report
+p4532
+sa(dp4533
+g2
+S'2015-12-03'
+p4534
+sg4
+Vrt AT_USER whoa! netflix! that's a new all-time high. $nflx just traded at $131.05 per share: URL URL
+p4535
+sg6
+S'00:04:33'
+p4536
+sg8
+VGustavo Ariza
+p4537
+sa(dp4538
+g2
+S'2015-12-03'
+p4539
+sg4
+Vs&amp;p500 stocks performance $yhoo $qcom $nflx $cmi $fslr $wynn $ual $luk $dal $aal $kmx $pvh $mnk $unh $emc more@ URL
+p4540
+sg6
+S'00:02:35'
+p4541
+sg8
+V12Stocks.com
+p4542
+sa(dp4543
+g2
+S'2015-12-03'
+p4544
+sg4
+Vnasdaq100 stocks trend $yhoo $wynn $lrcx $rost $hsic $msft $amat $adsk $nvda $nxpi $nflx $cern $dltr $esrx @ URL
+p4545
+sg6
+S'00:02:14'
+p4546
+sg8
+V12Stocks.com
+p4547
+sa(dp4548
+g2
+S'2015-12-03'
+p4549
+sg4
+Vnasdaq100 stocks performance $yhoo $qcom $nflx $wynn $incy $aal $swks $ea $rost $celg $chkp $cern $regn more@ URL
+p4550
+sg6
+S'00:01:57'
+p4551
+sg8
+V12Stocks.com
+p4552
+sa.

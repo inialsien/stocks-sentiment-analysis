@@ -1,0 +1,11563 @@
+(lp0
+(dp1
+S'date'
+p2
+S'2015-12-04'
+p3
+sS'text'
+p4
+Vrt AT_USER $nflx now a 615 forward pe . oh sure they can grow into that
+p5
+sS'time'
+p6
+S'20:55:05'
+p7
+sS'author'
+p8
+VHarry D. Bean
+p9
+sa(dp10
+g2
+S'2015-12-04'
+p11
+sg4
+Vrt AT_USER optionstrading: $nflx, $fmi, $fb live video streaming, $bac s&amp;p credit downgrade, $aapl URL URL
+p12
+sg6
+S'20:54:51'
+p13
+sg8
+VCraig Garbers
+p14
+sa(dp15
+g2
+S'2015-12-04'
+p16
+sg4
+V$nflx calls flying off the shelves. sweep.
+p17
+sg6
+S'20:54:04'
+p18
+sg8
+VSpeculator
+p19
+sa(dp20
+g2
+S'2015-12-04'
+p21
+sg4
+V$nflx just jamming those calls; what a ridiculous move in 1 month
+p22
+sg6
+S'20:53:30'
+p23
+sg8
+VCapCube Sez
+p24
+sa(dp25
+g2
+S'2015-12-04'
+p26
+sg4
+Vwhat a call by AT_USER to buy next weeks $nflx 130 calls yesterday at 1.80s
+p27
+sg6
+S'20:52:25'
+p28
+sg8
+VSyed Shah MPH
+p29
+sa(dp30
+g2
+S'2015-12-04'
+p31
+sg4
+Vrt AT_USER requesting the sec test $nflx for peds
+p32
+sg6
+S'20:52:07'
+p33
+sg8
+VJ
+p34
+sa(dp35
+g2
+S'2015-12-04'
+p36
+sg4
+Vrt AT_USER optionstrading: $nflx, $fmi, $fb live video streaming, $bac s&amp;p credit downgrade, $aapl URL URL
+p37
+sg6
+S'20:51:45'
+p38
+sg8
+VJames DiPlata
+p39
+sa(dp40
+g2
+S'2015-12-04'
+p41
+sg4
+Vupdate cierre stocks us top 5 most active $kmi 136.95m $aapl 49.89m $msft 35.64m $nflx 18.60m $fb 18.15m
+p42
+sg6
+S'20:50:19'
+p43
+sg8
+VInvest Huddle
+p44
+sa(dp45
+g2
+S'2015-12-04'
+p46
+sg4
+Vsooo pissed i got stopped out on my $nflx, stop was too close when it dipped after noon.......stupid
+p47
+sg6
+S'20:50:03'
+p48
+sg8
+VMeta Syn
+p49
+sa(dp50
+g2
+S'2015-12-04'
+p51
+sg4
+Vsold too early with $nflx, when will i learn... lol, $fb ready to wake up next week or what?
+p52
+sg6
+S'20:50:03'
+p53
+sg8
+VRyan Daniel
+p54
+sa(dp55
+g2
+S'2015-12-04'
+p56
+sg4
+Vrequesting the sec test $nflx for peds
+p57
+sg6
+S'20:49:35'
+p58
+sg8
+VJoe Kunkle
+p59
+sa(dp60
+g2
+S'2015-12-04'
+p61
+sg4
+V$nflx now a 615 forward pe . oh sure they can grow into that
+p62
+sg6
+S'20:49:24'
+p63
+sg8
+VDividend Master
+p64
+sa(dp65
+g2
+S'2015-12-04'
+p66
+sg4
+Vleft money on the table on with those $nflx calls but i'm glad to get out of this week flat
+p67
+sg6
+S'20:49:23'
+p68
+sg8
+VHadjPadjjjjjjjjjjjj
+p69
+sa(dp70
+g2
+S'2015-12-04'
+p71
+sg4
+V$nflx is losing its mind into the close URL
+p72
+sg6
+S'20:48:16'
+p73
+sg8
+VOphir Gottlieb
+p74
+sa(dp75
+g2
+S'2015-12-04'
+p76
+sg4
+V$nflx - what a beaut
+p77
+sg6
+S'20:47:27'
+p78
+sg8
+VTrax
+p79
+sa(dp80
+g2
+S'2015-12-04'
+p81
+sg4
+Voptionstrading: $nflx, $fmi, $fb live video streaming, $bac s&amp;p credit downgrade, $aapl URL URL
+p82
+sg6
+S'20:47:25'
+p83
+sg8
+VCBOE TV
+p84
+sa(dp85
+g2
+S'2015-12-04'
+p86
+sg4
+Vthis $nflx non stop. missed the afternoon move.
+p87
+sg6
+S'20:47:15'
+p88
+sg8
+VSpeculator
+p89
+sa(dp90
+g2
+S'2015-12-04'
+p91
+sg4
+V$nflx hod
+p92
+sg6
+S'20:45:49'
+p93
+sg8
+VNick Smith
+p94
+sa(dp95
+g2
+S'2015-12-04'
+p96
+sg4
+Vnflx netflix, inc. prev close URL $nflx $su $yum $gold nflx tradeideas finance
+p97
+sg6
+S'20:43:33'
+p98
+sg8
+Vnasdaqfan
+p99
+sa(dp100
+g2
+S'2015-12-04'
+p101
+sg4
+Vthe big cap tech stocks are always good" brought to you by your good friends AT_USER fang $fb $amzn $nflx $googl $aapl $msft
+p102
+sg6
+S'20:40:51'
+p103
+sg8
+VSpecial Agent Utah
+p104
+sa(dp105
+g2
+S'2015-12-04'
+p106
+sg4
+V$nflx received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 329
+p107
+sg6
+S'20:40:49'
+p108
+sg8
+VMedia Sentiment
+p109
+sa(dp110
+g2
+S'2015-12-04'
+p111
+sg4
+V$googl timed that credit spread pretty good. should expire worthless. risky trade. $bidu $nflx daily/weekly vids URL
+p112
+sg6
+S'20:40:38'
+p113
+sg8
+VMoneyflip MD
+p114
+sa(dp115
+g2
+S'2015-12-04'
+p116
+sg4
+Vis youtube red a real threat to netflix? URL $nflx $goog $googl
+p117
+sg6
+S'20:40:36'
+p118
+sg8
+VEric Martin
+p119
+sa(dp120
+g2
+S'2015-12-04'
+p121
+sg4
+Vrt AT_USER is you tube red a real threat to netflix? URL $nflx $goog $googl
+p122
+sg6
+S'20:40:36'
+p123
+sg8
+VCoNimby Fund
+p124
+sa(dp125
+g2
+S'2015-12-04'
+p126
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p127
+sg6
+S'20:40:26'
+p128
+sg8
+VStock Forums
+p129
+sa(dp130
+g2
+S'2015-12-04'
+p131
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p132
+sg6
+S'20:40:25'
+p133
+sg8
+VStock Forums
+p134
+sa(dp135
+g2
+S'2015-12-04'
+p136
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p137
+sg6
+S'20:40:25'
+p138
+sg8
+Vlookn4wins
+p139
+sa(dp140
+g2
+S'2015-12-04'
+p141
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p142
+sg6
+S'20:40:25'
+p143
+sg8
+VStock Forums
+p144
+sa(dp145
+g2
+S'2015-12-04'
+p146
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p147
+sg6
+S'20:40:25'
+p148
+sg8
+Vlookn4wins
+p149
+sa(dp150
+g2
+S'2015-12-04'
+p151
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p152
+sg6
+S'20:40:24'
+p153
+sg8
+VStock Forums
+p154
+sa(dp155
+g2
+S'2015-12-04'
+p156
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p157
+sg6
+S'20:40:24'
+p158
+sg8
+Vlookn4wins
+p159
+sa(dp160
+g2
+S'2015-12-04'
+p161
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p162
+sg6
+S'20:40:23'
+p163
+sg8
+Vlookn4wins
+p164
+sa(dp165
+g2
+S'2015-12-04'
+p166
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p167
+sg6
+S'20:40:23'
+p168
+sg8
+Vlookn4wins
+p169
+sa(dp170
+g2
+S'2015-12-04'
+p171
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest invest
+p172
+sg6
+S'20:40:22'
+p173
+sg8
+Vlookn4wins
+p174
+sa(dp175
+g2
+S'2015-12-04'
+p176
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p177
+sg6
+S'20:40:20'
+p178
+sg8
+VInvestors Hangout
+p179
+sa(dp180
+g2
+S'2015-12-04'
+p181
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p182
+sg6
+S'20:40:16'
+p183
+sg8
+VEmylers
+p184
+sa(dp185
+g2
+S'2015-12-04'
+p186
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p187
+sg6
+S'20:40:15'
+p188
+sg8
+VEmylers
+p189
+sa(dp190
+g2
+S'2015-12-04'
+p191
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p192
+sg6
+S'20:40:15'
+p193
+sg8
+Vnasdaqfan
+p194
+sa(dp195
+g2
+S'2015-12-04'
+p196
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p197
+sg6
+S'20:40:14'
+p198
+sg8
+VEmylers
+p199
+sa(dp200
+g2
+S'2015-12-04'
+p201
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p202
+sg6
+S'20:40:13'
+p203
+sg8
+VInvestors Hangout
+p204
+sa(dp205
+g2
+S'2015-12-04'
+p206
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p207
+sg6
+S'20:40:13'
+p208
+sg8
+Vnasdaqfan
+p209
+sa(dp210
+g2
+S'2015-12-04'
+p211
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p212
+sg6
+S'20:40:12'
+p213
+sg8
+VEmylers
+p214
+sa(dp215
+g2
+S'2015-12-04'
+p216
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p217
+sg6
+S'20:40:12'
+p218
+sg8
+VInvestors Hangout
+p219
+sa(dp220
+g2
+S'2015-12-04'
+p221
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p222
+sg6
+S'20:40:12'
+p223
+sg8
+Vnasdaqfan
+p224
+sa(dp225
+g2
+S'2015-12-04'
+p226
+sg4
+Vgg goldcorp, inc. summary URL $gg $nflx $gild $nem gg invest investgild gilead sciences, inc. ideas\u2026
+p227
+sg6
+S'20:40:12'
+p228
+sg8
+VEmylers
+p229
+sa(dp230
+g2
+S'2015-12-04'
+p231
+sg4
+V$wtw if monday bigger volume than today this could rally again to a new high... $aapl $twtr $nflx $amzn $fb
+p232
+sg6
+S'20:39:34'
+p233
+sg8
+VDAlcan
+p234
+sa(dp235
+g2
+S'2015-12-04'
+p236
+sg4
+Vrt AT_USER 30 minutes until market close $nflx we still love you stock stocks trading stocktrading pennystocks daytrader p\u2026
+p237
+sg6
+S'20:39:17'
+p238
+sg8
+VSkilled Academy
+p239
+sa(dp240
+g2
+S'2015-12-04'
+p241
+sg4
+Vf ford motor co. exchange URL $f $rsx $live $nflx f stockmarket tradeideas
+p242
+sg6
+S'20:38:04'
+p243
+sg8
+VInvestors Hangout
+p244
+sa(dp245
+g2
+S'2015-12-04'
+p246
+sg4
+Vlol. go right ahead and pull $nflx down w ya
+p247
+sg6
+S'20:36:01'
+p248
+sg8
+VTraderMentality
+p249
+sa(dp250
+g2
+S'2015-12-04'
+p251
+sg4
+V30 minutes until market close $nflx we still love you stock stocks trading stocktrading pennystocks daytrader pennyboard otcbb
+p252
+sg6
+S'20:33:53'
+p253
+sg8
+VPlatinum Penny Picks
+p254
+sa(dp255
+g2
+S'2015-12-04'
+p256
+sg4
+Vfrom our pre-market game plan. $nflx URL
+p257
+sg6
+S'20:33:03'
+p258
+sg8
+Vsteven spencer
+p259
+sa(dp260
+g2
+S'2015-12-04'
+p261
+sg4
+V$twtr big trade alert! $fb $nflx $aapl $qqq URL
+p262
+sg6
+S'20:32:11'
+p263
+sg8
+VDAILYALERTSBLUE
+p264
+sa(dp265
+g2
+S'2015-12-04'
+p266
+sg4
+Vadded $baba, started $nflx
+p267
+sg6
+S'20:32:10'
+p268
+sg8
+VLP
+p269
+sa(dp270
+g2
+S'2015-12-04'
+p271
+sg4
+V$nflx re-tested the 126 breakout from 2 days ago. re-test always great risk/reward
+p272
+sg6
+S'20:31:46'
+p273
+sg8
+Vsteven spencer
+p274
+sa(dp275
+g2
+S'2015-12-04'
+p276
+sg4
+Vrt AT_USER $nflx hod-ing
+p277
+sg6
+S'20:30:19'
+p278
+sg8
+VMichael W
+p279
+sa(dp280
+g2
+S'2015-12-04'
+p281
+sg4
+Vrt seekingalpha: is you tube red a real threat to netflix? URL $nflx $goog $googl
+p282
+sg6
+S'20:29:12'
+p283
+sg8
+VChina Invest
+p284
+sa(dp285
+g2
+S'2015-12-04'
+p286
+sg4
+V$nflx big picture + up close and personal. ascending broadening wedge on 240, rising wedge on 5. URL
+p287
+sg6
+S'20:26:23'
+p288
+sg8
+VTraderMentality
+p289
+sa(dp290
+g2
+S'2015-12-04'
+p291
+sg4
+Vrt AT_USER $nflx hod-ing
+p292
+sg6
+S'20:23:17'
+p293
+sg8
+VOphir Gottlieb
+p294
+sa(dp295
+g2
+S'2015-12-04'
+p296
+sg4
+V$nflx hod-ing
+p297
+sg6
+S'20:22:57'
+p298
+sg8
+VJE$US
+p299
+sa(dp300
+g2
+S'2015-12-04'
+p301
+sg4
+V$nflx a go for next week, can't wait.
+p302
+sg6
+S'20:22:42'
+p303
+sg8
+VSpeculator
+p304
+sa(dp305
+g2
+S'2015-12-04'
+p306
+sg4
+V$nflx news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p307
+sg6
+S'20:21:24'
+p308
+sg8
+VQuantpost $NFLX
+p309
+sa(dp310
+g2
+S'2015-12-04'
+p311
+sg4
+V$goog $googl news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p312
+sg6
+S'20:21:20'
+p313
+sg8
+VQuantpost Technology
+p314
+sa(dp315
+g2
+S'2015-12-04'
+p316
+sg4
+V$nflx news: "is you tube red a real threat to netflix? $nflx $goog $googl" URL analyze: URL
+p317
+sg6
+S'20:21:20'
+p318
+sg8
+VQuantpost Service
+p319
+sa(dp320
+g2
+S'2015-12-04'
+p321
+sg4
+Vis you tube red a real threat to netflix? URL $nflx $goog $googl
+p322
+sg6
+S'20:21:20'
+p323
+sg8
+VLong & Short Ideas
+p324
+sa(dp325
+g2
+S'2015-12-04'
+p326
+sg4
+Vis you tube red a real threat to netflix? URL $nflx $goog $googl
+p327
+sg6
+S'20:21:20'
+p328
+sg8
+VSeeking Alpha
+p329
+sa(dp330
+g2
+S'2015-12-04'
+p331
+sg4
+Vcommented on stocktwits: it's breaking. chart from november URL $nflx URL
+p332
+sg6
+S'20:21:18'
+p333
+sg8
+VDavid Blair
+p334
+sa(dp335
+g2
+S'2015-12-04'
+p336
+sg4
+V$nflx $aapl $gild great day today, bulls trapped many bears this week, especially yesterday, rally continues next week, have a nice weekend
+p337
+sg6
+S'20:21:00'
+p338
+sg8
+Vtony.
+p339
+sa(dp340
+g2
+S'2015-12-04'
+p341
+sg4
+V$nflx eod squeeze
+p342
+sg6
+S'20:20:41'
+p343
+sg8
+VNick Smith
+p344
+sa(dp345
+g2
+S'2015-12-04'
+p346
+sg4
+Vtrade $nflx and chill?
+p347
+sg6
+S'20:17:08'
+p348
+sg8
+VSamuel Butler
+p349
+sa(dp350
+g2
+S'2015-12-04'
+p351
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p352
+sg6
+S'20:15:04'
+p353
+sg8
+VJimmy Leak
+p354
+sa(dp355
+g2
+S'2015-12-04'
+p356
+sg4
+Vbahahaha. child please. furu that charges $1.50 to help u, and thinks $nflx is goin to the moon. lmao. \U0001f602 URL
+p357
+sg6
+S'20:10:56'
+p358
+sg8
+VTraderMentality
+p359
+sa(dp360
+g2
+S'2015-12-04'
+p361
+sg4
+V$nflx 'movie enjoyment made easy.' URL
+p362
+sg6
+S'20:10:39'
+p363
+sg8
+Vtribeless
+p364
+sa(dp365
+g2
+S'2015-12-04'
+p366
+sg4
+V$nflx beast $138 soon
+p367
+sg6
+S'20:10:14'
+p368
+sg8
+Vtony.
+p369
+sa(dp370
+g2
+S'2015-12-04'
+p371
+sg4
+Vrt AT_USER $nflx - the open interest in the 130 calls was a clue that should have been paid attention to; could have bought 127-129 calls\u2026
+p372
+sg6
+S'20:06:25'
+p373
+sg8
+ViLostMoneyTrading
+p374
+sa(dp375
+g2
+S'2015-12-04'
+p376
+sg4
+VAT_USER guess u r back in the red on your $nflx short, getting bitten by the fang we warned u about
+p377
+sg6
+S'20:03:25'
+p378
+sg8
+ViLostMoneyTrading
+p379
+sa(dp380
+g2
+S'2015-12-04'
+p381
+sg4
+Vtoday is the grand finale of the central banker put. no more free lunch for hft ecb draghi fed yellen stocks $spy $vix $amzn $fb $nflx
+p382
+sg6
+S'20:00:13'
+p383
+sg8
+VBTR
+p384
+sa(dp385
+g2
+S'2015-12-04'
+p386
+sg4
+VAT_USER AT_USER AT_USER yup and then you have $amzn up 115% $nflx 166% ytd, why fang meme exists
+p387
+sg6
+S'20:00:08'
+p388
+sg8
+VD Robertson
+p389
+sa(dp390
+g2
+S'2015-12-04'
+p391
+sg4
+VAT_USER that dog shoudl be named f.a.n.g. to commemorate bull market $fb $amzn $nflx $googl
+p392
+sg6
+S'19:58:39'
+p393
+sg8
+VT3 Live
+p394
+sa(dp395
+g2
+S'2015-12-04'
+p396
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p397
+sg6
+S'19:58:20'
+p398
+sg8
+VSwiss
+p399
+sa(dp400
+g2
+S'2015-12-04'
+p401
+sg4
+V$nflx not an area to be long going into the close 130.00
+p402
+sg6
+S'19:52:38'
+p403
+sg8
+VPounder
+p404
+sa(dp405
+g2
+S'2015-12-04'
+p406
+sg4
+V$nflx 130 was the number after 126 - there ya' go.
+p407
+sg6
+S'19:52:03'
+p408
+sg8
+VJT
+p409
+sa(dp410
+g2
+S'2015-12-04'
+p411
+sg4
+V$nflx payus. URL
+p412
+sg6
+S'19:49:50'
+p413
+sg8
+VWolf
+p414
+sa(dp415
+g2
+S'2015-12-04'
+p416
+sg4
+V$nflx - the open interest in the 130 calls was a clue that should have been paid attention to; could have bought 127-129 calls cheap early
+p417
+sg6
+S'19:48:47'
+p418
+sg8
+VCapCube Sez
+p419
+sa(dp420
+g2
+S'2015-12-04'
+p421
+sg4
+Vseveral co presenting next wk $nflx $twtr and many other at barclaystelecommedia
+p422
+sg6
+S'19:44:56'
+p423
+sg8
+VJohnny Trades
+p424
+sa(dp425
+g2
+S'2015-12-04'
+p426
+sg4
+V$nflx (5m) slow grind to r1 pivot
+p427
+sg6
+S'19:44:55'
+p428
+sg8
+VTrade Archer
+p429
+sa(dp430
+g2
+S'2015-12-04'
+p431
+sg4
+Vbreathtaking ongoing fall midstream names like $kmi - once darling st said " p/e irrelevant" - same will happen $fang s - $amzn / $nflx
+p432
+sg6
+S'19:42:41'
+p433
+sg8
+VNorma Dowman
+p434
+sa(dp435
+g2
+S'2015-12-04'
+p436
+sg4
+V$nflx a beast
+p437
+sg6
+S'19:41:18'
+p438
+sg8
+Vstockassassin
+p439
+sa(dp440
+g2
+S'2015-12-04'
+p441
+sg4
+V$nflx 130s are in itm now :)
+p442
+sg6
+S'19:39:22'
+p443
+sg8
+VAlphatraders
+p444
+sa(dp445
+g2
+S'2015-12-04'
+p446
+sg4
+V$nflx 130s are in itm now :)
+p447
+sg6
+S'19:39:22'
+p448
+sg8
+VSeekingOptions
+p449
+sa(dp450
+g2
+S'2015-12-04'
+p451
+sg4
+V$nflx 130s are in itm now :)
+p452
+sg6
+S'19:39:22'
+p453
+sg8
+ViTrade (I am alpha)
+p454
+sa(dp455
+g2
+S'2015-12-04'
+p456
+sg4
+V.AT_USER can we just get the aths over with $nflx
+p457
+sg6
+S'19:38:52'
+p458
+sg8
+VTimothy Parker
+p459
+sa(dp460
+g2
+S'2015-12-04'
+p461
+sg4
+Vremember all of the calls for $cl_f to be at $200 so goes $nflx as people puke the $40 level breakdown, oil is a buy down here
+p462
+sg6
+S'19:36:16'
+p463
+sg8
+VJames S Burrell II
+p464
+sa(dp465
+g2
+S'2015-12-04'
+p466
+sg4
+Vwent to lunch and got stopped out of my $nflx position before the run up...bummer
+p467
+sg6
+S'19:36:12'
+p468
+sg8
+VMeta Syn
+p469
+sa(dp470
+g2
+S'2015-12-04'
+p471
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p472
+sg6
+S'19:35:51'
+p473
+sg8
+VHIONSPD
+p474
+sa(dp475
+g2
+S'2015-12-04'
+p476
+sg4
+Vrt AT_USER new best selling products ~~&gt; $hjoe ready to go! $fnma $mjmj $dnrg $cocp $logg $arth $pvsp $nugn $goog $fb $usd $twtr $tsla\u2026
+p477
+sg6
+S'19:35:36'
+p478
+sg8
+VThe Hammer
+p479
+sa(dp480
+g2
+S'2015-12-04'
+p481
+sg4
+Vnew best selling products ~~&gt; $hjoe ready to go! $fnma $mjmj $dnrg $cocp $logg $arth $pvsp $nugn $goog $fb $usd $twtr $tsla $nflx $eaph
+p482
+sg6
+S'19:34:24'
+p483
+sg8
+VCHETRA744_TIGER
+p484
+sa(dp485
+g2
+S'2015-12-04'
+p486
+sg4
+V$spy $qqq $aapl $iwm $es_f $spx $fb $amzn $googl $nflx $djia classic\u2122 URL
+p487
+sg6
+S'19:34:12'
+p488
+sg8
+VPatrick J. Rooney
+p489
+sa(dp490
+g2
+S'2015-12-04'
+p491
+sg4
+Vrt AT_USER $nflx measly 30k sh waiting at 130 ... &amp; it just gobbled them up (like leftover turkey from last week) - close &gt; 130 good \u2026
+p492
+sg6
+S'19:33:24'
+p493
+sg8
+VHumbleBioTrader
+p494
+sa(dp495
+g2
+S'2015-12-04'
+p496
+sg4
+V$nflx measly 30k sh waiting at 130 ... &amp; it just gobbled them up (like leftover turkey from last week) - close &gt; 130 good for cont. next wk
+p497
+sg6
+S'19:32:31'
+p498
+sg8
+VTom Wrigley
+p499
+sa(dp500
+g2
+S'2015-12-04'
+p501
+sg4
+V$nflx rippage
+p502
+sg6
+S'19:29:30'
+p503
+sg8
+VM³
+p504
+sa(dp505
+g2
+S'2015-12-04'
+p506
+sg4
+Vrt AT_USER is you tube red a real threat to netflix ? URL by trefis team $nflx $dis $twc
+p507
+sg6
+S'19:29:22'
+p508
+sg8
+VWall Street Hip Hop
+p509
+sa(dp510
+g2
+S'2015-12-04'
+p511
+sg4
+V$nflx 12/4 wklys got play &amp; 12/11 130 c URL
+p512
+sg6
+S'19:29:11'
+p513
+sg8
+VJE$US
+p514
+sa(dp515
+g2
+S'2015-12-04'
+p516
+sg4
+VAT_USER i have leap put exposure to $nflx but hard to bet against the other 3, and am loaded in mid and long term calls in $fb
+p517
+sg6
+S'19:28:13'
+p518
+sg8
+VShomik Ghosh
+p519
+sa(dp520
+g2
+S'2015-12-04'
+p521
+sg4
+VAT_USER $nflx and $ fit thanks bro
+p522
+sg6
+S'19:27:49'
+p523
+sg8
+Vmanny
+p524
+sa(dp525
+g2
+S'2015-12-04'
+p526
+sg4
+Vexited $nflx here at 129.74 from off the open
+p527
+sg6
+S'19:21:52'
+p528
+sg8
+VThomP
+p529
+sa(dp530
+g2
+S'2015-12-04'
+p531
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p532
+sg6
+S'19:19:25'
+p533
+sg8
+VTim Pettigrew
+p534
+sa(dp535
+g2
+S'2015-12-04'
+p536
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p537
+sg6
+S'19:18:33'
+p538
+sg8
+V\u0627\u0644\u062d\u0627\u0644\u0645\u0647
+p539
+sa(dp540
+g2
+S'2015-12-04'
+p541
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p542
+sg6
+S'19:18:32'
+p543
+sg8
+V\u0639\u0632\u06c5\u200f\u200b\u0641\u0640\u0627 \ufe8e\u0644\u0633\u0628\u064a\u0640\u0639\u064a
+p544
+sa(dp545
+g2
+S'2015-12-04'
+p546
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p547
+sg6
+S'19:18:31'
+p548
+sg8
+V\u062e\u0644\u0648\u062f \u0627\u0644\u062d\u0631\u0628\u064a
+p549
+sa(dp550
+g2
+S'2015-12-04'
+p551
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p552
+sg6
+S'19:18:29'
+p553
+sg8
+V\u0646\u0647\u0626 \u0627\u0644\u062e\u0627\u0644\u062f\u064a
+p554
+sa(dp555
+g2
+S'2015-12-04'
+p556
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p557
+sg6
+S'19:18:28'
+p558
+sg8
+V\u0647\u064a\u0641\u0627\u0621 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p559
+sa(dp560
+g2
+S'2015-12-04'
+p561
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p562
+sg6
+S'19:18:27'
+p563
+sg8
+V\u0634\u0645\u0640\u0640\u0648\u062e \u200f
+p564
+sa(dp565
+g2
+S'2015-12-04'
+p566
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p567
+sg6
+S'19:18:26'
+p568
+sg8
+V\u0627\u0646\u0647\u0627\u0631 \u0627\u0644\u0641\u064a\u0635\u0644
+p569
+sa(dp570
+g2
+S'2015-12-04'
+p571
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p572
+sg6
+S'19:18:25'
+p573
+sg8
+V\u0627\u062b\u064a\u0631 \u0627\u0644\u0639\u0635\u064a\u0645\u064a
+p574
+sa(dp575
+g2
+S'2015-12-04'
+p576
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p577
+sg6
+S'19:18:24'
+p578
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p579
+sa(dp580
+g2
+S'2015-12-04'
+p581
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p582
+sg6
+S'19:18:23'
+p583
+sg8
+V\u0631\u062c\u064a\u062a\u0643
+p584
+sa(dp585
+g2
+S'2015-12-04'
+p586
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p587
+sg6
+S'19:18:22'
+p588
+sg8
+V\u0643\u0644\u064a \u064a\u0628\u064a\u0643\u0640 \u273f
+p589
+sa(dp590
+g2
+S'2015-12-04'
+p591
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p592
+sg6
+S'19:18:21'
+p593
+sg8
+V\u0646\u0633\u0627\u064a\u0645 \u0644\u064a\u0644
+p594
+sa(dp595
+g2
+S'2015-12-04'
+p596
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p597
+sg6
+S'19:18:20'
+p598
+sg8
+V\u0634\u0648\u0642 \u0627\u0644\u062d\u0631\u0628\u064a
+p599
+sa(dp600
+g2
+S'2015-12-04'
+p601
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p602
+sg6
+S'19:18:19'
+p603
+sg8
+V\u0628\u0646\u062a \u0645\u0637\u064a\u0631
+p604
+sa(dp605
+g2
+S'2015-12-04'
+p606
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p607
+sg6
+S'19:18:17'
+p608
+sg8
+V\u2654 \u0622\u0645\u0648\u064f\u0634\u064e\u06c1 \u200f
+p609
+sa(dp610
+g2
+S'2015-12-04'
+p611
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p612
+sg6
+S'19:18:16'
+p613
+sg8
+V\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0631\u0648\u064a\u0644\u064a
+p614
+sa(dp615
+g2
+S'2015-12-04'
+p616
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p617
+sg6
+S'19:18:15'
+p618
+sg8
+V\u0631\u06af\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0627\u062f\u06be?!
+p619
+sa(dp620
+g2
+S'2015-12-04'
+p621
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p622
+sg6
+S'19:18:14'
+p623
+sg8
+V\u0645\u0635\u0639\u0628 \u0627\u0644\u0639\u0645\u0631\u064a
+p624
+sa(dp625
+g2
+S'2015-12-04'
+p626
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p627
+sg6
+S'19:18:13'
+p628
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a
+p629
+sa(dp630
+g2
+S'2015-12-04'
+p631
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p632
+sg6
+S'19:18:12'
+p633
+sg8
+V\u062c\u064f\u0648\u064a\u0650\u062f
+p634
+sa(dp635
+g2
+S'2015-12-04'
+p636
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p637
+sg6
+S'19:18:11'
+p638
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p639
+sa(dp640
+g2
+S'2015-12-04'
+p641
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p642
+sg6
+S'19:18:10'
+p643
+sg8
+V\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u0634\u0645\u0631\u064a
+p644
+sa(dp645
+g2
+S'2015-12-04'
+p646
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p647
+sg6
+S'19:18:09'
+p648
+sg8
+V\u0633\u0637\u0627\u0645 \u0627\u0644\u0631\u0648\u0642\u064a
+p649
+sa(dp650
+g2
+S'2015-12-04'
+p651
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p652
+sg6
+S'19:18:08'
+p653
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p654
+sa(dp655
+g2
+S'2015-12-04'
+p656
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p657
+sg6
+S'19:18:07'
+p658
+sg8
+V\u0648\u0644\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0647
+p659
+sa(dp660
+g2
+S'2015-12-04'
+p661
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p662
+sg6
+S'19:18:06'
+p663
+sg8
+V\u0633\u0639\u062f \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p664
+sa(dp665
+g2
+S'2015-12-04'
+p666
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p667
+sg6
+S'19:17:58'
+p668
+sg8
+V\u0628\u064e\u0639\u0652\u062b\u064e\u0631\u0629 \u0645\u064f\u0648\u064e\u0622\u062c\u0652\u0639 \u200f
+p669
+sa(dp670
+g2
+S'2015-12-04'
+p671
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p672
+sg6
+S'19:17:57'
+p673
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p674
+sa(dp675
+g2
+S'2015-12-04'
+p676
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p677
+sg6
+S'19:17:56'
+p678
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0628\u0646 \u0645\u062d\u0645\u062f
+p679
+sa(dp680
+g2
+S'2015-12-04'
+p681
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p682
+sg6
+S'19:17:55'
+p683
+sg8
+V\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p684
+sa(dp685
+g2
+S'2015-12-04'
+p686
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p687
+sg6
+S'19:17:54'
+p688
+sg8
+V\u0632\u0642\u0631\u062a\u064a \u0642\u062f\u064a\u0645
+p689
+sa(dp690
+g2
+S'2015-12-04'
+p691
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p692
+sg6
+S'19:17:53'
+p693
+sg8
+V\u0631\u0627\u0626\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a
+p694
+sa(dp695
+g2
+S'2015-12-04'
+p696
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p697
+sg6
+S'19:17:51'
+p698
+sg8
+V\u062d\u0633\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p699
+sa(dp700
+g2
+S'2015-12-04'
+p701
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p702
+sg6
+S'19:17:50'
+p703
+sg8
+V\u0631\u0627\u0634\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p704
+sa(dp705
+g2
+S'2015-12-04'
+p706
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p707
+sg6
+S'19:17:48'
+p708
+sg8
+V\u0646\u0651\u064f\u0648\u0646\u064f \u200f
+p709
+sa(dp710
+g2
+S'2015-12-04'
+p711
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p712
+sg6
+S'19:17:47'
+p713
+sg8
+V\u0628\u0646\u062f\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p714
+sa(dp715
+g2
+S'2015-12-04'
+p716
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p717
+sg6
+S'19:17:45'
+p718
+sg8
+V\u0646\u0648\u0627\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p719
+sa(dp720
+g2
+S'2015-12-04'
+p721
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p722
+sg6
+S'19:17:44'
+p723
+sg8
+V\u0645\u0637\u0644\u0642 \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p724
+sa(dp725
+g2
+S'2015-12-04'
+p726
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p727
+sg6
+S'19:17:43'
+p728
+sg8
+V\u062e\u0622\u0644\u062f \u0627\u0644\u06af\u0646\u062f\u0631\u064a
+p729
+sa(dp730
+g2
+S'2015-12-04'
+p731
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p732
+sg6
+S'19:17:42'
+p733
+sg8
+V\u0635\u0627\u0644\u062d \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p734
+sa(dp735
+g2
+S'2015-12-04'
+p736
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p737
+sg6
+S'19:17:40'
+p738
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0641\u0642\u064a\u0631
+p739
+sa(dp740
+g2
+S'2015-12-04'
+p741
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p742
+sg6
+S'19:17:39'
+p743
+sg8
+V\u0645\u0631\u0634\u062f \u0627\u0644\u0628\u0630\u0627\u0644\u064a
+p744
+sa(dp745
+g2
+S'2015-12-04'
+p746
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p747
+sg6
+S'19:17:38'
+p748
+sg8
+V\u0627\u0644\u062f\u0644\u0628\u062d\u064a ?
+p749
+sa(dp750
+g2
+S'2015-12-04'
+p751
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p752
+sg6
+S'19:17:37'
+p753
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p754
+sa(dp755
+g2
+S'2015-12-04'
+p756
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p757
+sg6
+S'19:17:35'
+p758
+sg8
+V\u0645\u0627\u062c\u062f \u0627\u0644\u0633\u0631\u0628\u0627\u062a\u064a
+p759
+sa(dp760
+g2
+S'2015-12-04'
+p761
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p762
+sg6
+S'19:17:34'
+p763
+sg8
+V\u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0641\u0627\u0631\u0633
+p764
+sa(dp765
+g2
+S'2015-12-04'
+p766
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p767
+sg6
+S'19:17:33'
+p768
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0645\u0637\u064a\u0631\u064a
+p769
+sa(dp770
+g2
+S'2015-12-04'
+p771
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p772
+sg6
+S'19:17:31'
+p773
+sg8
+V\u062e\u0644\u0648\u0648\u062f\u064a
+p774
+sa(dp775
+g2
+S'2015-12-04'
+p776
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p777
+sg6
+S'19:17:30'
+p778
+sg8
+V? \u0623\u0645\u0628\u0631\u0627\u0637\u0648\u0631 ? \u200f
+p779
+sa(dp780
+g2
+S'2015-12-04'
+p781
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p782
+sg6
+S'19:17:29'
+p783
+sg8
+V\u062d\u0633\u064a\u0646 \u0633\u0644\u0637\u0627\u0646
+p784
+sa(dp785
+g2
+S'2015-12-04'
+p786
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p787
+sg6
+S'19:17:28'
+p788
+sg8
+V\u0623\u0639\u062a\u064f\u0642\u064a\u0646\u0651\u064a
+p789
+sa(dp790
+g2
+S'2015-12-04'
+p791
+sg4
+Vrt AT_USER this bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p792
+sg6
+S'19:17:27'
+p793
+sg8
+V\u0622\u0631\u06af\u062f \u0641\u062f\u064a\u0650\u062a\u06af
+p794
+sa(dp795
+g2
+S'2015-12-04'
+p796
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p797
+sg6
+S'19:14:55'
+p798
+sg8
+VTrader12
+p799
+sa(dp800
+g2
+S'2015-12-04'
+p801
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p802
+sg6
+S'19:12:32'
+p803
+sg8
+VDjRaiVer
+p804
+sa(dp805
+g2
+S'2015-12-04'
+p806
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p807
+sg6
+S'19:12:13'
+p808
+sg8
+V\u0648\u0644\u064a\u062f \u0627\u0644\u062c\u0631\u064a\u0633\u064a
+p809
+sa(dp810
+g2
+S'2015-12-04'
+p811
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p812
+sg6
+S'19:12:12'
+p813
+sg8
+V\u0631\u0627\u0645\u064a !!
+p814
+sa(dp815
+g2
+S'2015-12-04'
+p816
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p817
+sg6
+S'19:12:11'
+p818
+sg8
+V\u0639\u064a\u0633\u0649 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p819
+sa(dp820
+g2
+S'2015-12-04'
+p821
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p822
+sg6
+S'19:12:10'
+p823
+sg8
+V\u0633\u0627\u0644\u0645 \u0627\u0644\u0633\u0628\u064a\u0639\u064a
+p824
+sa(dp825
+g2
+S'2015-12-04'
+p826
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p827
+sg6
+S'19:12:09'
+p828
+sg8
+V\u0639\u0627\u0645\u0631 \u0627\u0644\u0646\u0641\u064a\u0639\u064a
+p829
+sa(dp830
+g2
+S'2015-12-04'
+p831
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p832
+sg6
+S'19:12:08'
+p833
+sg8
+V\u0641\u0647\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p834
+sa(dp835
+g2
+S'2015-12-04'
+p836
+sg4
+Vrt AT_USER AT_USER reall wish i'd bought it 13 years ago: URL $nflx netflix netflixandchill
+p837
+sg6
+S'19:12:07'
+p838
+sg8
+VThe Slickest
+p839
+sa(dp840
+g2
+S'2015-12-04'
+p841
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p842
+sg6
+S'19:12:06'
+p843
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0632\u0643\u0631\u064a
+p844
+sa(dp845
+g2
+S'2015-12-04'
+p846
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p847
+sg6
+S'19:12:05'
+p848
+sg8
+V\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0631\u0648\u0642\u064a
+p849
+sa(dp850
+g2
+S'2015-12-04'
+p851
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p852
+sg6
+S'19:12:04'
+p853
+sg8
+V\u062d\u0633\u064a\u0646 \u0627\u0644\u0633\u0644\u0637\u0627\u0646
+p854
+sa(dp855
+g2
+S'2015-12-04'
+p856
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p857
+sg6
+S'19:12:03'
+p858
+sg8
+V\u0647\u0640\u0643\u0648\u0646\u0640\u0627 \u0645\u0640\u0627\u062a\u0640\u0627\u062a\u0640\u0627?
+p859
+sa(dp860
+g2
+S'2015-12-04'
+p861
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p862
+sg6
+S'19:11:59'
+p863
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u064a\u0627\u0641\u0639\u064a
+p864
+sa(dp865
+g2
+S'2015-12-04'
+p866
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p867
+sg6
+S'19:11:58'
+p868
+sg8
+V\u0631\u064e\u062d\u0651\u0640\u0640\u0640\u0640\u0640\u0627\u0644
+p869
+sa(dp870
+g2
+S'2015-12-04'
+p871
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p872
+sg6
+S'19:11:57'
+p873
+sg8
+V\u0646\u0647\u064a\u0631 \u0627\u0644\u0634\u0645\u0631\u064a
+p874
+sa(dp875
+g2
+S'2015-12-04'
+p876
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p877
+sg6
+S'19:11:55'
+p878
+sg8
+V\u0631\u0627\u0643\u0627\u0646 \u0627\u0644\u0639\u062c\u0645\u064a
+p879
+sa(dp880
+g2
+S'2015-12-04'
+p881
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p882
+sg6
+S'19:11:54'
+p883
+sg8
+V:$\u064a\u0627 \u0628\u0639\u062f\u0647\u0640\u0645 \u06af\u0644\u0647\u0640\u0645:$
+p884
+sa(dp885
+g2
+S'2015-12-04'
+p886
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p887
+sg6
+S'19:11:53'
+p888
+sg8
+V\u0628\u0646\u062a \u0633\u062f\u064a\u0631
+p889
+sa(dp890
+g2
+S'2015-12-04'
+p891
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p892
+sg6
+S'19:11:52'
+p893
+sg8
+V~~\u0645\u062a\u0641\u0627\u0626\u0644\u0647~~
+p894
+sa(dp895
+g2
+S'2015-12-04'
+p896
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p897
+sg6
+S'19:11:51'
+p898
+sg8
+V\u0645\u064a\u0633\u0645 \u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p899
+sa(dp900
+g2
+S'2015-12-04'
+p901
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p902
+sg6
+S'19:11:50'
+p903
+sg8
+V\u0627\u0644\u0632\u0647\u0631\u0647 \u0627\u0644\u0628\u064a\u0636\u0627\u0621
+p904
+sa(dp905
+g2
+S'2015-12-04'
+p906
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p907
+sg6
+S'19:11:49'
+p908
+sg8
+V\u0644\u0637\u064a\u0641\u0647
+p909
+sa(dp910
+g2
+S'2015-12-04'
+p911
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p912
+sg6
+S'19:11:48'
+p913
+sg8
+V\u0628\u0646\u0648\u062a\u0647 \u0645\u0632\u064a\u0648\u0646\u0647
+p914
+sa(dp915
+g2
+S'2015-12-04'
+p916
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p917
+sg6
+S'19:11:46'
+p918
+sg8
+V\u062e\u0648\u0644\u06c1\u064e\u06c1 \u0627\u0644\u0641\u0631\u064a\u0640\u03b6\u270e \u200f
+p919
+sa(dp920
+g2
+S'2015-12-04'
+p921
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p922
+sg6
+S'19:11:45'
+p923
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u062f\u0644\u0645
+p924
+sa(dp925
+g2
+S'2015-12-04'
+p926
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p927
+sg6
+S'19:11:44'
+p928
+sg8
+V\u0648\u062c\u062f\u0627\u0646 \u0627\u0644\u0646\u0627\u0635\u0631
+p929
+sa(dp930
+g2
+S'2015-12-04'
+p931
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p932
+sg6
+S'19:11:43'
+p933
+sg8
+V\u0639\u0634\u06d2\u0642 \u0628\u062f\u0648\u064a\u06d2\u0647
+p934
+sa(dp935
+g2
+S'2015-12-04'
+p936
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p937
+sg6
+S'19:11:42'
+p938
+sg8
+V\u0627\u0631\u0648\u0639 \u0627\u0646\u0633\u0627\u0646\u0647\ue414
+p939
+sa(dp940
+g2
+S'2015-12-04'
+p941
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p942
+sg6
+S'19:11:41'
+p943
+sg8
+V\u0634\u064a\u062e\u0629 \u0627\u0644\u0628\u0646\u0627\u062a
+p944
+sa(dp945
+g2
+S'2015-12-04'
+p946
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p947
+sg6
+S'19:11:40'
+p948
+sg8
+V\u0639\u0622\u0628\u0650\u062b\u064e\u0647\u0647\u0651 \u266a
+p949
+sa(dp950
+g2
+S'2015-12-04'
+p951
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p952
+sg6
+S'19:11:39'
+p953
+sg8
+V\u0622\u0622\u0622\u0622\u0622\u0646\u064a\u064d\u0646 \u200b\u200f\u200b\u200f\u200b\u200f\u200b
+p954
+sa(dp955
+g2
+S'2015-12-04'
+p956
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p957
+sg6
+S'19:11:38'
+p958
+sg8
+V\u0645\u0646\u0648\u0648\u0648\u0644 \u0627\u0644\u0634\u06c1\u0631\u06cc\u06d2
+p959
+sa(dp960
+g2
+S'2015-12-04'
+p961
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p962
+sg6
+S'19:11:37'
+p963
+sg8
+V\u0641\u0627\u0637\u0645\u0647 \u0627\u0644\u0645\u062d\u064a\u0633\u0646
+p964
+sa(dp965
+g2
+S'2015-12-04'
+p966
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p967
+sg6
+S'19:11:36'
+p968
+sg8
+V\u0645\u064f\u062e\u062a\u0644\u0641\u064e\u0647\u06c1
+p969
+sa(dp970
+g2
+S'2015-12-04'
+p971
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p972
+sg6
+S'19:11:35'
+p973
+sg8
+V\u0627\u0644\u0628\u062a\u0648\u0644 \u0647\u0632\u0627\u0632\u064a
+p974
+sa(dp975
+g2
+S'2015-12-04'
+p976
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p977
+sg6
+S'19:11:33'
+p978
+sg8
+V\u0631\u062a\u064a\u0644 \u0627\u0644 \u0639\u0628\u062f\u0627\u0644\u0644\u0647
+p979
+sa(dp980
+g2
+S'2015-12-04'
+p981
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p982
+sg6
+S'19:11:32'
+p983
+sg8
+V\u0641\u0631\u064a\u0627\u0644 \u0627\u0644\u0639\u0627\u0632\u0645\u064a
+p984
+sa(dp985
+g2
+S'2015-12-04'
+p986
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p987
+sg6
+S'19:11:31'
+p988
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p989
+sa(dp990
+g2
+S'2015-12-04'
+p991
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p992
+sg6
+S'19:11:30'
+p993
+sg8
+V\u0632\u0648\u0632\u062a\u0643\u0643\u064e \u266b'\u0633\u0645\u0631\u0648\u0646\u0647\u0647
+p994
+sa(dp995
+g2
+S'2015-12-04'
+p996
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p997
+sg6
+S'19:11:29'
+p998
+sg8
+V\u0645\u0628\u0631\u0642\u0639\u0647
+p999
+sa(dp1000
+g2
+S'2015-12-04'
+p1001
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1002
+sg6
+S'19:11:28'
+p1003
+sg8
+V\u0645\u0627\u0647\u0645\u0646\u064a \u0631\u062d\u064a\u0644\u0643.
+p1004
+sa(dp1005
+g2
+S'2015-12-04'
+p1006
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1007
+sg6
+S'19:11:27'
+p1008
+sg8
+V\u0645\u0647\u0627 \u0627\u0644\u0628\u0644\u0648\u064a
+p1009
+sa(dp1010
+g2
+S'2015-12-04'
+p1011
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1012
+sg6
+S'19:11:23'
+p1013
+sg8
+V\u266a\u2661 \u0627\u0644\u0645\u062c\u0646\u0624\u0646\u0640\u06c1\u064e\u06c1 \u060c\u060c
+p1014
+sa(dp1015
+g2
+S'2015-12-04'
+p1016
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1017
+sg6
+S'19:11:22'
+p1018
+sg8
+V\u0635\u064a\u062a\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1019
+sa(dp1020
+g2
+S'2015-12-04'
+p1021
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1022
+sg6
+S'19:11:21'
+p1023
+sg8
+V\u067a\u0639\u0628 \u062d\u0622\u0644\u064a\u06d2
+p1024
+sa(dp1025
+g2
+S'2015-12-04'
+p1026
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1027
+sg6
+S'19:11:20'
+p1028
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u062c\u0627\u0628\u0631\u064a
+p1029
+sa(dp1030
+g2
+S'2015-12-04'
+p1031
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1032
+sg6
+S'19:11:19'
+p1033
+sg8
+V\u0627\u0644\u062d\u0627\u0644\u0645\u0647
+p1034
+sa(dp1035
+g2
+S'2015-12-04'
+p1036
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1037
+sg6
+S'19:11:18'
+p1038
+sg8
+V\u0639\u0632\u06c5\u200f\u200b\u0641\u0640\u0627 \ufe8e\u0644\u0633\u0628\u064a\u0640\u0639\u064a
+p1039
+sa(dp1040
+g2
+S'2015-12-04'
+p1041
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1042
+sg6
+S'19:11:17'
+p1043
+sg8
+V\u062e\u0644\u0648\u062f \u0627\u0644\u062d\u0631\u0628\u064a
+p1044
+sa(dp1045
+g2
+S'2015-12-04'
+p1046
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1047
+sg6
+S'19:11:15'
+p1048
+sg8
+V\u0646\u0647\u0626 \u0627\u0644\u062e\u0627\u0644\u062f\u064a
+p1049
+sa(dp1050
+g2
+S'2015-12-04'
+p1051
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1052
+sg6
+S'19:11:14'
+p1053
+sg8
+V\u0647\u064a\u0641\u0627\u0621 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p1054
+sa(dp1055
+g2
+S'2015-12-04'
+p1056
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1057
+sg6
+S'19:11:13'
+p1058
+sg8
+V\u0634\u0645\u0640\u0640\u0648\u062e \u200f
+p1059
+sa(dp1060
+g2
+S'2015-12-04'
+p1061
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1062
+sg6
+S'19:11:12'
+p1063
+sg8
+V\u0627\u0646\u0647\u0627\u0631 \u0627\u0644\u0641\u064a\u0635\u0644
+p1064
+sa(dp1065
+g2
+S'2015-12-04'
+p1066
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1067
+sg6
+S'19:11:11'
+p1068
+sg8
+V\u0627\u062b\u064a\u0631 \u0627\u0644\u0639\u0635\u064a\u0645\u064a
+p1069
+sa(dp1070
+g2
+S'2015-12-04'
+p1071
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1072
+sg6
+S'19:11:10'
+p1073
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p1074
+sa(dp1075
+g2
+S'2015-12-04'
+p1076
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1077
+sg6
+S'19:11:09'
+p1078
+sg8
+V\u0631\u062c\u064a\u062a\u0643
+p1079
+sa(dp1080
+g2
+S'2015-12-04'
+p1081
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1082
+sg6
+S'19:11:08'
+p1083
+sg8
+V\u0643\u0644\u064a \u064a\u0628\u064a\u0643\u0640 \u273f
+p1084
+sa(dp1085
+g2
+S'2015-12-04'
+p1086
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1087
+sg6
+S'19:11:07'
+p1088
+sg8
+V\u0646\u0633\u0627\u064a\u0645 \u0644\u064a\u0644
+p1089
+sa(dp1090
+g2
+S'2015-12-04'
+p1091
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1092
+sg6
+S'19:11:05'
+p1093
+sg8
+V\u0634\u0648\u0642 \u0627\u0644\u062d\u0631\u0628\u064a
+p1094
+sa(dp1095
+g2
+S'2015-12-04'
+p1096
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1097
+sg6
+S'19:11:04'
+p1098
+sg8
+V\u0628\u0646\u062a \u0645\u0637\u064a\u0631
+p1099
+sa(dp1100
+g2
+S'2015-12-04'
+p1101
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1102
+sg6
+S'19:11:03'
+p1103
+sg8
+V\u2654 \u0622\u0645\u0648\u064f\u0634\u064e\u06c1 \u200f
+p1104
+sa(dp1105
+g2
+S'2015-12-04'
+p1106
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1107
+sg6
+S'19:11:02'
+p1108
+sg8
+V\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0631\u0648\u064a\u0644\u064a
+p1109
+sa(dp1110
+g2
+S'2015-12-04'
+p1111
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1112
+sg6
+S'19:11:01'
+p1113
+sg8
+V\u0631\u06af\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0627\u062f\u06be?!
+p1114
+sa(dp1115
+g2
+S'2015-12-04'
+p1116
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1117
+sg6
+S'19:11:00'
+p1118
+sg8
+V\u0645\u0635\u0639\u0628 \u0627\u0644\u0639\u0645\u0631\u064a
+p1119
+sa(dp1120
+g2
+S'2015-12-04'
+p1121
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1122
+sg6
+S'19:10:59'
+p1123
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a
+p1124
+sa(dp1125
+g2
+S'2015-12-04'
+p1126
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1127
+sg6
+S'19:10:59'
+p1128
+sg8
+VDr. Lipschitz
+p1129
+sa(dp1130
+g2
+S'2015-12-04'
+p1131
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1132
+sg6
+S'19:10:58'
+p1133
+sg8
+V\u062c\u064f\u0648\u064a\u0650\u062f
+p1134
+sa(dp1135
+g2
+S'2015-12-04'
+p1136
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1137
+sg6
+S'19:10:57'
+p1138
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1139
+sa(dp1140
+g2
+S'2015-12-04'
+p1141
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1142
+sg6
+S'19:10:56'
+p1143
+sg8
+V\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u0634\u0645\u0631\u064a
+p1144
+sa(dp1145
+g2
+S'2015-12-04'
+p1146
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1147
+sg6
+S'19:10:55'
+p1148
+sg8
+V\u0633\u0637\u0627\u0645 \u0627\u0644\u0631\u0648\u0642\u064a
+p1149
+sa(dp1150
+g2
+S'2015-12-04'
+p1151
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1152
+sg6
+S'19:10:53'
+p1153
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1154
+sa(dp1155
+g2
+S'2015-12-04'
+p1156
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1157
+sg6
+S'19:10:52'
+p1158
+sg8
+V\u0648\u0644\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0647
+p1159
+sa(dp1160
+g2
+S'2015-12-04'
+p1161
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1162
+sg6
+S'19:10:52'
+p1163
+sg8
+VJustin Cuomo
+p1164
+sa(dp1165
+g2
+S'2015-12-04'
+p1166
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1167
+sg6
+S'19:10:51'
+p1168
+sg8
+V\u0633\u0639\u062f \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p1169
+sa(dp1170
+g2
+S'2015-12-04'
+p1171
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1172
+sg6
+S'19:10:47'
+p1173
+sg8
+V\u0628\u064e\u0639\u0652\u062b\u064e\u0631\u0629 \u0645\u064f\u0648\u064e\u0622\u062c\u0652\u0639 \u200f
+p1174
+sa(dp1175
+g2
+S'2015-12-04'
+p1176
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1177
+sg6
+S'19:10:46'
+p1178
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p1179
+sa(dp1180
+g2
+S'2015-12-04'
+p1181
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1182
+sg6
+S'19:10:45'
+p1183
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0628\u0646 \u0645\u062d\u0645\u062f
+p1184
+sa(dp1185
+g2
+S'2015-12-04'
+p1186
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1187
+sg6
+S'19:10:44'
+p1188
+sg8
+V\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p1189
+sa(dp1190
+g2
+S'2015-12-04'
+p1191
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1192
+sg6
+S'19:10:43'
+p1193
+sg8
+V\u0632\u0642\u0631\u062a\u064a \u0642\u062f\u064a\u0645
+p1194
+sa(dp1195
+g2
+S'2015-12-04'
+p1196
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1197
+sg6
+S'19:10:42'
+p1198
+sg8
+V\u0631\u0627\u0626\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a
+p1199
+sa(dp1200
+g2
+S'2015-12-04'
+p1201
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1202
+sg6
+S'19:10:41'
+p1203
+sg8
+V\u062d\u0633\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p1204
+sa(dp1205
+g2
+S'2015-12-04'
+p1206
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1207
+sg6
+S'19:10:40'
+p1208
+sg8
+V\u0631\u0627\u0634\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p1209
+sa(dp1210
+g2
+S'2015-12-04'
+p1211
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1212
+sg6
+S'19:10:38'
+p1213
+sg8
+V\u0646\u0651\u064f\u0648\u0646\u064f \u200f
+p1214
+sa(dp1215
+g2
+S'2015-12-04'
+p1216
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1217
+sg6
+S'19:10:36'
+p1218
+sg8
+V\u0628\u0646\u062f\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1219
+sa(dp1220
+g2
+S'2015-12-04'
+p1221
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1222
+sg6
+S'19:10:35'
+p1223
+sg8
+V\u0646\u0648\u0627\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1224
+sa(dp1225
+g2
+S'2015-12-04'
+p1226
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1227
+sg6
+S'19:10:34'
+p1228
+sg8
+V\u0645\u0637\u0644\u0642 \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p1229
+sa(dp1230
+g2
+S'2015-12-04'
+p1231
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1232
+sg6
+S'19:10:33'
+p1233
+sg8
+V\u062e\u0622\u0644\u062f \u0627\u0644\u06af\u0646\u062f\u0631\u064a
+p1234
+sa(dp1235
+g2
+S'2015-12-04'
+p1236
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1237
+sg6
+S'19:10:32'
+p1238
+sg8
+V\u0635\u0627\u0644\u062d \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p1239
+sa(dp1240
+g2
+S'2015-12-04'
+p1241
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1242
+sg6
+S'19:10:30'
+p1243
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0641\u0642\u064a\u0631
+p1244
+sa(dp1245
+g2
+S'2015-12-04'
+p1246
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1247
+sg6
+S'19:10:29'
+p1248
+sg8
+V\u0645\u0631\u0634\u062f \u0627\u0644\u0628\u0630\u0627\u0644\u064a
+p1249
+sa(dp1250
+g2
+S'2015-12-04'
+p1251
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1252
+sg6
+S'19:10:28'
+p1253
+sg8
+V\u0627\u0644\u062f\u0644\u0628\u062d\u064a ?
+p1254
+sa(dp1255
+g2
+S'2015-12-04'
+p1256
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1257
+sg6
+S'19:10:27'
+p1258
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p1259
+sa(dp1260
+g2
+S'2015-12-04'
+p1261
+sg4
+Vgeneral electrics new marketing strategy? live tv only $ge $nflx URL via AT_USER
+p1262
+sg6
+S'19:10:26'
+p1263
+sg8
+VFrank J. Radice
+p1264
+sa(dp1265
+g2
+S'2015-12-04'
+p1266
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1267
+sg6
+S'19:10:25'
+p1268
+sg8
+V\u0645\u0627\u062c\u062f \u0627\u0644\u0633\u0631\u0628\u0627\u062a\u064a
+p1269
+sa(dp1270
+g2
+S'2015-12-04'
+p1271
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1272
+sg6
+S'19:10:24'
+p1273
+sg8
+V\u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0641\u0627\u0631\u0633
+p1274
+sa(dp1275
+g2
+S'2015-12-04'
+p1276
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1277
+sg6
+S'19:10:22'
+p1278
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0645\u0637\u064a\u0631\u064a
+p1279
+sa(dp1280
+g2
+S'2015-12-04'
+p1281
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1282
+sg6
+S'19:10:21'
+p1283
+sg8
+V\u062e\u0644\u0648\u0648\u062f\u064a
+p1284
+sa(dp1285
+g2
+S'2015-12-04'
+p1286
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1287
+sg6
+S'19:10:20'
+p1288
+sg8
+V? \u0623\u0645\u0628\u0631\u0627\u0637\u0648\u0631 ? \u200f
+p1289
+sa(dp1290
+g2
+S'2015-12-04'
+p1291
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1292
+sg6
+S'19:10:19'
+p1293
+sg8
+V\u062d\u0633\u064a\u0646 \u0633\u0644\u0637\u0627\u0646
+p1294
+sa(dp1295
+g2
+S'2015-12-04'
+p1296
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1297
+sg6
+S'19:10:18'
+p1298
+sg8
+V\u0623\u0639\u062a\u064f\u0642\u064a\u0646\u0651\u064a
+p1299
+sa(dp1300
+g2
+S'2015-12-04'
+p1301
+sg4
+Vrt AT_USER looks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1302
+sg6
+S'19:10:17'
+p1303
+sg8
+V\u0622\u0631\u06af\u062f \u0641\u062f\u064a\u0650\u062a\u06af
+p1304
+sa(dp1305
+g2
+S'2015-12-04'
+p1306
+sg4
+Vgot out of my $nflx 129s flat...that's actually good
+p1307
+sg6
+S'19:09:53'
+p1308
+sg8
+VHadjPadjjjjjjjjjjjj
+p1309
+sa(dp1310
+g2
+S'2015-12-04'
+p1311
+sg4
+Vthis bear flag pattern says $oil has 2$ target down .. 38 is next.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1312
+sg6
+S'19:08:22'
+p1313
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p1314
+sa(dp1315
+g2
+S'2015-12-04'
+p1316
+sg4
+V$nflx calls seeing play -- possible they rolling out some of this week's action
+p1317
+sg6
+S'19:08:04'
+p1318
+sg8
+VJE$US
+p1319
+sa(dp1320
+g2
+S'2015-12-04'
+p1321
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1322
+sg6
+S'19:07:25'
+p1323
+sg8
+VAaron Hebert
+p1324
+sa(dp1325
+g2
+S'2015-12-04'
+p1326
+sg4
+Vfor your price only $nflx URL ~ via URL
+p1327
+sg6
+S'19:07:20'
+p1328
+sg8
+V24/7 Crypto FX
+p1329
+sa(dp1330
+g2
+S'2015-12-04'
+p1331
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1332
+sg6
+S'19:05:59'
+p1333
+sg8
+VHunter
+p1334
+sa(dp1335
+g2
+S'2015-12-04'
+p1336
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1337
+sg6
+S'19:05:37'
+p1338
+sg8
+VMoneyMakingStocks
+p1339
+sa(dp1340
+g2
+S'2015-12-04'
+p1341
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1342
+sg6
+S'19:05:14'
+p1343
+sg8
+VJahson Hollett
+p1344
+sa(dp1345
+g2
+S'2015-12-04'
+p1346
+sg4
+Vrt AT_USER told my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1347
+sg6
+S'19:05:08'
+p1348
+sg8
+VGrand Puba
+p1349
+sa(dp1350
+g2
+S'2015-12-04'
+p1351
+sg4
+Vtold my girl we are going to netflix &amp; chill... yes $nflx trading and chill...! URL
+p1352
+sg6
+S'19:04:51'
+p1353
+sg8
+VModern_Rock
+p1354
+sa(dp1355
+g2
+S'2015-12-04'
+p1356
+sg4
+Vgreat day for the $spy and the market... $nflx boom calls.. great week $es_f especially.. what a week!
+p1357
+sg6
+S'19:03:19'
+p1358
+sg8
+VStan
+p1359
+sa(dp1360
+g2
+S'2015-12-04'
+p1361
+sg4
+V$nflx new hod
+p1362
+sg6
+S'19:01:34'
+p1363
+sg8
+VTrax
+p1364
+sa(dp1365
+g2
+S'2015-12-04'
+p1366
+sg4
+Vfor your price only $nflx URL
+p1367
+sg6
+S'19:01:26'
+p1368
+sg8
+VTV_Trading Ideas
+p1369
+sa(dp1370
+g2
+S'2015-12-04'
+p1371
+sg4
+Vanyone short the fang? lot of haters. anyone got money against them? $fb $amzn $nflx $goog
+p1372
+sg6
+S'19:01:01'
+p1373
+sg8
+Vdasan
+p1374
+sa(dp1375
+g2
+S'2015-12-04'
+p1376
+sg4
+VAT_USER like what i just said on $pcln about 1300, there might be some money up here wanting to pin $nflx under 130
+p1377
+sg6
+S'18:41:41'
+p1378
+sg8
+VCarolyn Marshall
+p1379
+sa(dp1380
+g2
+S'2015-12-04'
+p1381
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p1382
+sg6
+S'18:36:57'
+p1383
+sg8
+VChicagoE_MMZ
+p1384
+sa(dp1385
+g2
+S'2015-12-04'
+p1386
+sg4
+V$nflx another excellent call by AT_USER
+p1387
+sg6
+S'18:31:25'
+p1388
+sg8
+Vtony.
+p1389
+sa(dp1390
+g2
+S'2015-12-04'
+p1391
+sg4
+Vbut if you are selling against today's expiration, let time decay do it's thing and perhaps you get close under 129 and do nothing. $nflx
+p1392
+sg6
+S'18:27:17'
+p1393
+sg8
+VCarolyn Marshall
+p1394
+sa(dp1395
+g2
+S'2015-12-04'
+p1396
+sg4
+V$nflx failed at 129.29, which was a chance to sell 29's gainst your higher strike. you may need to cover that at some point, watch 127.5
+p1397
+sg6
+S'18:24:36'
+p1398
+sg8
+VCarolyn Marshall
+p1399
+sa(dp1400
+g2
+S'2015-12-04'
+p1401
+sg4
+Vrt AT_USER AT_USER - per your question on $nflx yesterday. URL if your question was a job interview, i pass\u2026
+p1402
+sg6
+S'18:23:39'
+p1403
+sg8
+Vtony.
+p1404
+sa(dp1405
+g2
+S'2015-12-04'
+p1406
+sg4
+V$nflx 130+ would be great
+p1407
+sg6
+S'18:22:37'
+p1408
+sg8
+VHadjPadjjjjjjjjjjjj
+p1409
+sa(dp1410
+g2
+S'2015-12-04'
+p1411
+sg4
+Valert: new william %r signal created on $nflx - sell at 128.7 - time: 18:20 - strength: 7. powered by URL
+p1412
+sg6
+S'18:20:45'
+p1413
+sg8
+VTrusted Stocks
+p1414
+sa(dp1415
+g2
+S'2015-12-04'
+p1416
+sg4
+VAT_USER - per your question on $nflx yesterday. URL if your question was a job interview, i passed. ;)
+p1417
+sg6
+S'18:18:57'
+p1418
+sg8
+VJerremy Newsome
+p1419
+sa(dp1420
+g2
+S'2015-12-04'
+p1421
+sg4
+V$nflx breaking out from the cup and handle pattern URL
+p1422
+sg6
+S'18:13:19'
+p1423
+sg8
+VSTOXX
+p1424
+sa(dp1425
+g2
+S'2015-12-04'
+p1426
+sg4
+Vis you tube red a real threat to netflix ? URL by trefis team $nflx $dis $twc
+p1427
+sg6
+S'18:06:59'
+p1428
+sg8
+VTrefis.com
+p1429
+sa(dp1430
+g2
+S'2015-12-04'
+p1431
+sg4
+V$nflx all out some erious resistance ahead and its friday! tgif URL
+p1432
+sg6
+S'18:06:00'
+p1433
+sg8
+VHaj
+p1434
+sa(dp1435
+g2
+S'2015-12-04'
+p1436
+sg4
+Vhere's a reason why netflix $nflx stock is rallying today URL
+p1437
+sg6
+S'18:02:05'
+p1438
+sg8
+VTrader Daily
+p1439
+sa(dp1440
+g2
+S'2015-12-04'
+p1441
+sg4
+Vhere's a reason why netflix $nflx stock is rallying today URL
+p1442
+sg6
+S'18:02:04'
+p1443
+sg8
+VTheStreet SpeedDesk
+p1444
+sa(dp1445
+g2
+S'2015-12-04'
+p1446
+sg4
+Vbreakout = 142.16 r2 = 134.28 r1 = 130.54 $nflx pivot= 128.47 s1 = 124.73 s2 = 122.66 breakdown = 113.11 day high 129.37 day low 125.75
+p1447
+sg6
+S'18:01:20'
+p1448
+sg8
+VEternity101
+p1449
+sa(dp1450
+g2
+S'2015-12-04'
+p1451
+sg4
+Vnote $nflx up against 129.29 same time $spx up against yesterday's high/today's breakout point 2085.
+p1452
+sg6
+S'18:00:26'
+p1453
+sg8
+VCarolyn Marshall
+p1454
+sa(dp1455
+g2
+S'2015-12-04'
+p1456
+sg4
+V$spy $nflx $compq $dji santa came little early thank expected lol congrats longs! URL
+p1457
+sg6
+S'17:56:12'
+p1458
+sg8
+VHaj
+p1459
+sa(dp1460
+g2
+S'2015-12-04'
+p1461
+sg4
+V$uvxy $aapl $pcln worked. $tsla i never entered. scalped quick $amzn trades. $nflx would have worked had i been more patient. awesome week.
+p1462
+sg6
+S'17:56:04'
+p1463
+sg8
+VZenTrader
+p1464
+sa(dp1465
+g2
+S'2015-12-04'
+p1466
+sg4
+V+$2138 overall today. mostly all in $svxy and $tvix. still holding $nflx and $dltr shorts. hope you guys have a great weekend. i'm out.
+p1467
+sg6
+S'17:55:23'
+p1468
+sg8
+VTraderMentality
+p1469
+sa(dp1470
+g2
+S'2015-12-04'
+p1471
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p1472
+sg6
+S'17:52:11'
+p1473
+sg8
+VManya Zuba
+p1474
+sa(dp1475
+g2
+S'2015-12-04'
+p1476
+sg4
+Vout rest 1/4 left on $nflx at 129.10 for a 2.15 winner, done for the day. have a great weekend ! $spy
+p1477
+sg6
+S'17:45:01'
+p1478
+sg8
+VStocks Mentor
+p1479
+sa(dp1480
+g2
+S'2015-12-04'
+p1481
+sg4
+Vtop watches 12/04/15: $euri, $efut, $kbio $sbfm, $aezs, $vltc, $ohrp, $gene, $mcur $aapl $nflx gonna be tough to keep up from my laptop
+p1482
+sg6
+S'17:41:02'
+p1483
+sg8
+VVapesMj
+p1484
+sa(dp1485
+g2
+S'2015-12-04'
+p1486
+sg4
+V$nflx 130 by eod
+p1487
+sg6
+S'17:41:00'
+p1488
+sg8
+VMeta Syn
+p1489
+sa(dp1490
+g2
+S'2015-12-04'
+p1491
+sg4
+V$nflx long 130 calls..
+p1492
+sg6
+S'17:35:58'
+p1493
+sg8
+VSeekingOptions
+p1494
+sa(dp1495
+g2
+S'2015-12-04'
+p1496
+sg4
+V$nflx long 130 calls..
+p1497
+sg6
+S'17:35:58'
+p1498
+sg8
+VAlphatraders
+p1499
+sa(dp1500
+g2
+S'2015-12-04'
+p1501
+sg4
+V$nflx long 130 calls..
+p1502
+sg6
+S'17:35:58'
+p1503
+sg8
+ViTrade (I am alpha)
+p1504
+sa(dp1505
+g2
+S'2015-12-04'
+p1506
+sg4
+V$nflx still levitating; verrrrrrryyyyyy pricey
+p1507
+sg6
+S'17:34:15'
+p1508
+sg8
+VCapCube Sez
+p1509
+sa(dp1510
+g2
+S'2015-12-04'
+p1511
+sg4
+V$nflx pattern alerted in chat, one of many patterns found today. URL
+p1512
+sg6
+S'17:33:29'
+p1513
+sg8
+VTheChartGuys
+p1514
+sa(dp1515
+g2
+S'2015-12-04'
+p1516
+sg4
+V$wtw breaking out in a low volume amazing! $twtr $aapl $nflx $kbio $avp
+p1517
+sg6
+S'17:31:14'
+p1518
+sg8
+VDAlcan
+p1519
+sa(dp1520
+g2
+S'2015-12-04'
+p1521
+sg4
+Vinstead of spending $100+ per month on cable, i see a strong case for just using $nflx, AT_USER AT_USER and other network apps.
+p1522
+sg6
+S'17:31:10'
+p1523
+sg8
+VJacob the 1st
+p1524
+sa(dp1525
+g2
+S'2015-12-04'
+p1526
+sg4
+Vautomate your trading of $nflx, $tsla, $gs stocks URL URL
+p1527
+sg6
+S'17:30:58'
+p1528
+sg8
+VSureSignals
+p1529
+sa(dp1530
+g2
+S'2015-12-04'
+p1531
+sg4
+V2nd uptrend channel vision at $spy 15min chart $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1532
+sg6
+S'17:30:37'
+p1533
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p1534
+sa(dp1535
+g2
+S'2015-12-04'
+p1536
+sg4
+V$nflx isn't content to grind, i think we see more ath's to come
+p1537
+sg6
+S'17:30:28'
+p1538
+sg8
+VMeta Syn
+p1539
+sa(dp1540
+g2
+S'2015-12-04'
+p1541
+sg4
+Vthought $nflx would stay flat today, was wrong and jumped in calls for next week, up nicely
+p1542
+sg6
+S'17:29:57'
+p1543
+sg8
+VMeta Syn
+p1544
+sa(dp1545
+g2
+S'2015-12-04'
+p1546
+sg4
+V$nflx 138 here we come
+p1547
+sg6
+S'17:25:56'
+p1548
+sg8
+Vtony.
+p1549
+sa(dp1550
+g2
+S'2015-12-04'
+p1551
+sg4
+Vlooks like uptrend channel at $spy 15min chart ! $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1552
+sg6
+S'17:24:52'
+p1553
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p1554
+sa(dp1555
+g2
+S'2015-12-04'
+p1556
+sg4
+V$nflx looks like it might still have room to run a bit higher. i'd only trade it on momentum right now. my 2 cents.
+p1557
+sg6
+S'17:21:43'
+p1558
+sg8
+VJacob the 1st
+p1559
+sa(dp1560
+g2
+S'2015-12-04'
+p1561
+sg4
+Voption millionaires: mahp32: $nflx dec 11'15 $135 calls AT_USER URL
+p1562
+sg6
+S'17:19:34'
+p1563
+sg8
+VMani Ohli
+p1564
+sa(dp1565
+g2
+S'2015-12-04'
+p1566
+sg4
+Voption millionaires: mahp32: $nflx dec 11'15 $135 calls AT_USER URL
+p1567
+sg6
+S'17:19:32'
+p1568
+sg8
+VPerfor Mance
+p1569
+sa(dp1570
+g2
+S'2015-12-04'
+p1571
+sg4
+Vrt AT_USER investors buy shares of netflix, inc. $nflx on weakness URL
+p1572
+sg6
+S'17:16:30'
+p1573
+sg8
+Vstockassassin
+p1574
+sa(dp1575
+g2
+S'2015-12-04'
+p1576
+sg4
+Vrt AT_USER 30yr ust rocketing to hod and gold soaring ..... that must mean $amzn $700 &amp; $nflx $150 a lock ( using algo logic )
+p1577
+sg6
+S'17:16:12'
+p1578
+sg8
+Vstockassassin
+p1579
+sa(dp1580
+g2
+S'2015-12-04'
+p1581
+sg4
+Vtech stocks to check out $fb $twtr $aapl $nflx URL
+p1582
+sg6
+S'17:11:28'
+p1583
+sg8
+VDAILYALERTSBLUE
+p1584
+sa(dp1585
+g2
+S'2015-12-04'
+p1586
+sg4
+Vrt AT_USER optionstrading: $pbr brazil presidential impeachment, $bac vulnerability, $fb, $nflx, $aapl URL URL
+p1587
+sg6
+S'17:10:26'
+p1588
+sg8
+VCraig Garbers
+p1589
+sa(dp1590
+g2
+S'2015-12-04'
+p1591
+sg4
+V30yr ust rocketing to hod and gold soaring ..... that must mean $amzn $700 &amp; $nflx $150 a lock ( using algo logic )
+p1592
+sg6
+S'17:09:20'
+p1593
+sg8
+VDividend Master
+p1594
+sa(dp1595
+g2
+S'2015-12-04'
+p1596
+sg4
+Vnice dip-buy opp on $nflx this am :-)
+p1597
+sg6
+S'17:08:33'
+p1598
+sg8
+VTrax
+p1599
+sa(dp1600
+g2
+S'2015-12-04'
+p1601
+sg4
+Vhmmm youtube competing with netflix and now problems with netflix in chrome? $nflx $googl
+p1602
+sg6
+S'17:06:26'
+p1603
+sg8
+VJersey Drew
+p1604
+sa(dp1605
+g2
+S'2015-12-04'
+p1606
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p1607
+sg6
+S'17:00:24'
+p1608
+sg8
+VShane Castle
+p1609
+sa(dp1610
+g2
+S'2015-12-04'
+p1611
+sg4
+Vu.s. active (stock wars): $amzn +0.64%, $nflx +0.79%, $aapl +2.41%, $nugt +12.47%, $efa -0.08% URL stockwars
+p1612
+sg6
+S'17:00:00'
+p1613
+sg8
+VStock Wars
+p1614
+sa(dp1615
+g2
+S'2015-12-04'
+p1616
+sg4
+Vinvestors buy shares of netflix, inc. $nflx on weakness URL
+p1617
+sg6
+S'16:56:40'
+p1618
+sg8
+VThe Legacy News
+p1619
+sa(dp1620
+g2
+S'2015-12-04'
+p1621
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax $nug
+p1622
+sg6
+S'16:54:32'
+p1623
+sg8
+VSmallCaps 
+p1624
+sa(dp1625
+g2
+S'2015-12-04'
+p1626
+sg4
+Vrt AT_USER folks take advantage of 1 year plans comes with great discounts. $fb $nflx
+p1627
+sg6
+S'16:53:10'
+p1628
+sg8
+VCutlass
+p1629
+sa(dp1630
+g2
+S'2015-12-04'
+p1631
+sg4
+Vnasdaq100 stocks trend $aal $mat $ca $avgo $nvda $cost $adsk $yhoo $txn $sndk $gmcr $swks $nflx $dltr $chkp @ URL
+p1632
+sg6
+S'16:51:52'
+p1633
+sg8
+V12Stocks.com
+p1634
+sa(dp1635
+g2
+S'2015-12-04'
+p1636
+sg4
+Vfang under performance doesn't bode well for this rally to hold $fb $amzn $nflx $googl
+p1637
+sg6
+S'16:51:43'
+p1638
+sg8
+VMr Popular
+p1639
+sa(dp1640
+g2
+S'2015-12-04'
+p1641
+sg4
+Vinvestors buy shares of netflix, inc. $nflx on weakness URL
+p1642
+sg6
+S'16:51:34'
+p1643
+sg8
+VTicker Report
+p1644
+sa(dp1645
+g2
+S'2015-12-04'
+p1646
+sg4
+Vinvestors buy shares of netflix, inc. $nflx on weakness URL
+p1647
+sg6
+S'16:49:29'
+p1648
+sg8
+VUS Banking News
+p1649
+sa(dp1650
+g2
+S'2015-12-04'
+p1651
+sg4
+Vrt AT_USER $nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) https:/\u2026
+p1652
+sg6
+S'16:48:14'
+p1653
+sg8
+VIan Nelson
+p1654
+sa(dp1655
+g2
+S'2015-12-04'
+p1656
+sg4
+Vfolks take advantage of 1 year plans comes with great discounts. $fb $nflx
+p1657
+sg6
+S'16:47:55'
+p1658
+sg8
+VOptionsGenius
+p1659
+sa(dp1660
+g2
+S'2015-12-04'
+p1661
+sg4
+V$nflx should test the highs again.
+p1662
+sg6
+S'16:37:26'
+p1663
+sg8
+VPounder
+p1664
+sa(dp1665
+g2
+S'2015-12-04'
+p1666
+sg4
+Vpopular: $gild, $nflx, $sbux, $xon, $pfpt, $bac, $fold, $bis, $labd, $upro, $aria, $jblu, $vrtx
+p1667
+sg6
+S'16:36:43'
+p1668
+sg8
+VCynthia Chandter
+p1669
+sa(dp1670
+g2
+S'2015-12-04'
+p1671
+sg4
+Vshort term elliott wave look at $msft $fb $nflx $klac URL
+p1672
+sg6
+S'16:36:20'
+p1673
+sg8
+VIntraday Updates
+p1674
+sa(dp1675
+g2
+S'2015-12-04'
+p1676
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p1677
+sg6
+S'16:33:21'
+p1678
+sg8
+VRich Anderson
+p1679
+sa(dp1680
+g2
+S'2015-12-04'
+p1681
+sg4
+Vdec 04 friday, $nflx new high is $128.50 and hit my 1st bullish target $128.50\U0001f37a\U0001f6ac\U0001f4b0\U0001f64c
+p1682
+sg6
+S'16:32:26'
+p1683
+sg8
+VCutlass
+p1684
+sa(dp1685
+g2
+S'2015-12-04'
+p1686
+sg4
+Vrt AT_USER $nflx dip got bought again.
+p1687
+sg6
+S'16:30:16'
+p1688
+sg8
+Vstockassassin
+p1689
+sa(dp1690
+g2
+S'2015-12-04'
+p1691
+sg4
+Vrt AT_USER $nflx dip got bought again.
+p1692
+sg6
+S'16:29:59'
+p1693
+sg8
+VWall Street Hip Hop
+p1694
+sa(dp1695
+g2
+S'2015-12-04'
+p1696
+sg4
+Voption millionaires: truman321: $nflx got greedy with the puts, had 1/2 URL
+p1697
+sg6
+S'16:29:36'
+p1698
+sg8
+VMani Ohli
+p1699
+sa(dp1700
+g2
+S'2015-12-04'
+p1701
+sg4
+Voption millionaires: truman321: $nflx got greedy with the puts, had 1/2 URL
+p1702
+sg6
+S'16:29:32'
+p1703
+sg8
+VPerfor Mance
+p1704
+sa(dp1705
+g2
+S'2015-12-04'
+p1706
+sg4
+Vrt AT_USER $nflx dip got bought again.
+p1707
+sg6
+S'16:28:36'
+p1708
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p1709
+sa(dp1710
+g2
+S'2015-12-04'
+p1711
+sg4
+V$nflx dip got bought again.
+p1712
+sg6
+S'16:27:03'
+p1713
+sg8
+VNYC Trader
+p1714
+sa(dp1715
+g2
+S'2015-12-04'
+p1716
+sg4
+V$nflx cover or perish.
+p1717
+sg6
+S'16:26:08'
+p1718
+sg8
+VWolf
+p1719
+sa(dp1720
+g2
+S'2015-12-04'
+p1721
+sg4
+Vfomo rally is on. jump aboard before its too late. chase for yr-end performance is on. $nflx $fb $googl $amzn $dis $msft $ibb $gs $nke $bidu
+p1722
+sg6
+S'16:22:45'
+p1723
+sg8
+VRavi Romo
+p1724
+sa(dp1725
+g2
+S'2015-12-04'
+p1726
+sg4
+Vyesss !! 1/4 out on $nflx at 128 - 1 dollar winnner so far !! $spy
+p1727
+sg6
+S'16:22:30'
+p1728
+sg8
+VStocks Mentor
+p1729
+sa(dp1730
+g2
+S'2015-12-04'
+p1731
+sg4
+Vexcellent options trading alerts. profit consistently! URL $fb $ual $ba $aal $nflx $twtr
+p1732
+sg6
+S'16:15:47'
+p1733
+sg8
+VOptions Strategies
+p1734
+sa(dp1735
+g2
+S'2015-12-04'
+p1736
+sg4
+Vrt AT_USER these miners , today's rally and $nflx trade at 16.38% saved my rear this week
+p1737
+sg6
+S'16:15:24'
+p1738
+sg8
+VJesper Ternstedt
+p1739
+sa(dp1740
+g2
+S'2015-12-04'
+p1741
+sg4
+Vthese miners , today's rally and $nflx trade at 16.38% saved my rear this week
+p1742
+sg6
+S'16:14:44'
+p1743
+sg8
+VLeni
+p1744
+sa(dp1745
+g2
+S'2015-12-04'
+p1746
+sg4
+V$nflx last to join the party, i think it should start to climb here, just doubled up my cs for a quick trade
+p1747
+sg6
+S'16:13:05'
+p1748
+sg8
+VRagingBull
+p1749
+sa(dp1750
+g2
+S'2015-12-04'
+p1751
+sg4
+V$fb $amzn $nflx $googl lagging $comp on a day with good news. listen to what the market is saying... $iyt $rut lagging
+p1752
+sg6
+S'16:11:22'
+p1753
+sg8
+VtraderBXV
+p1754
+sa(dp1755
+g2
+S'2015-12-04'
+p1756
+sg4
+V$nflx feels like it should rally from here. it should have stayed weak. strong move off the lows and last weeks trade
+p1757
+sg6
+S'16:10:34'
+p1758
+sg8
+VPounder
+p1759
+sa(dp1760
+g2
+S'2015-12-04'
+p1761
+sg4
+V$nflx neutral bias for now
+p1762
+sg6
+S'16:07:07'
+p1763
+sg8
+VPounder
+p1764
+sa(dp1765
+g2
+S'2015-12-04'
+p1766
+sg4
+Vstop of second half on $nflx moved to entry (126.95) $spy trading
+p1767
+sg6
+S'16:06:31'
+p1768
+sg8
+VStocks Mentor
+p1769
+sa(dp1770
+g2
+S'2015-12-04'
+p1771
+sg4
+Von $nflx
+p1772
+sg6
+S'16:02:15'
+p1773
+sg8
+VCarolyn Marshall
+p1774
+sa(dp1775
+g2
+S'2015-12-04'
+p1776
+sg4
+V$nflx if takes out 129.29 and $spx follows through to 2085 and higher, then good to go for a shot at another ath
+p1777
+sg6
+S'16:02:01'
+p1778
+sg8
+VCarolyn Marshall
+p1779
+sa(dp1780
+g2
+S'2015-12-04'
+p1781
+sg4
+V$nflx URL
+p1782
+sg6
+S'16:01:59'
+p1783
+sg8
+VNick Smith
+p1784
+sa(dp1785
+g2
+S'2015-12-04'
+p1786
+sg4
+V$nflx pumping and dumping URL
+p1787
+sg6
+S'16:01:34'
+p1788
+sg8
+VKarmjit Singh
+p1789
+sa(dp1790
+g2
+S'2015-12-04'
+p1791
+sg4
+V$nflx if cannot take out 129.29, can see what you get for selling the 129 calls against anything higher strike you have open. if gets more$
+p1792
+sg6
+S'16:01:26'
+p1793
+sg8
+VCarolyn Marshall
+p1794
+sa(dp1795
+g2
+S'2015-12-04'
+p1796
+sg4
+V$nflx off its sluggish lod. boom
+p1797
+sg6
+S'16:01:12'
+p1798
+sg8
+VThomP
+p1799
+sa(dp1800
+g2
+S'2015-12-04'
+p1801
+sg4
+V$amba $fold $isis $kerx $mdvn $nflx $sgy $wetf $wpx autocharts @ URL
+p1802
+sg6
+S'15:59:45'
+p1803
+sg8
+VUS_proptrader
+p1804
+sa(dp1805
+g2
+S'2015-12-04'
+p1806
+sg4
+Voption millionaires: nlightn: $nflx has got its red lipstick on URL
+p1807
+sg6
+S'15:59:42'
+p1808
+sg8
+VMani Ohli
+p1809
+sa(dp1810
+g2
+S'2015-12-04'
+p1811
+sg4
+Vhalf out $nflx 127.55
+p1812
+sg6
+S'15:58:56'
+p1813
+sg8
+VStocks Mentor
+p1814
+sa(dp1815
+g2
+S'2015-12-04'
+p1816
+sg4
+V$nflx ok, need to see 129.29 go down and hold support.
+p1817
+sg6
+S'15:58:42'
+p1818
+sg8
+VCarolyn Marshall
+p1819
+sa(dp1820
+g2
+S'2015-12-04'
+p1821
+sg4
+Voption millionaires: nlightn: $nflx has got its red lipstick on URL
+p1822
+sg6
+S'15:57:05'
+p1823
+sg8
+VPerfor Mance
+p1824
+sa(dp1825
+g2
+S'2015-12-04'
+p1826
+sg4
+V$nflx long 126.95
+p1827
+sg6
+S'15:56:31'
+p1828
+sg8
+VStocks Mentor
+p1829
+sa(dp1830
+g2
+S'2015-12-04'
+p1831
+sg4
+Vgain from movement in these buzzing assets $gpro $nflx $rgzpf $rjf $usdcad URL URL
+p1832
+sg6
+S'15:54:27'
+p1833
+sg8
+VFinBuzz
+p1834
+sa(dp1835
+g2
+S'2015-12-04'
+p1836
+sg4
+V$nflx long time...
+p1837
+sg6
+S'15:52:43'
+p1838
+sg8
+VOptionsAim
+p1839
+sa(dp1840
+g2
+S'2015-12-04'
+p1841
+sg4
+Vrt AT_USER $nflx aware of problems watching in chrome $goog
+p1842
+sg6
+S'15:52:25'
+p1843
+sg8
+VOptions Answers
+p1844
+sa(dp1845
+g2
+S'2015-12-04'
+p1846
+sg4
+Vnetflix: smells like holiday spirit -- the motley fool $nflx URL URL URL
+p1847
+sg6
+S'15:51:06'
+p1848
+sg8
+VWLST.com
+p1849
+sa(dp1850
+g2
+S'2015-12-04'
+p1851
+sg4
+V$nflx - netflix: smells like holiday spirit URL
+p1852
+sg6
+S'15:51:03'
+p1853
+sg8
+VHot Stocks&Biotechs
+p1854
+sa(dp1855
+g2
+S'2015-12-04'
+p1856
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1857
+sg6
+S'15:47:15'
+p1858
+sg8
+V\u0627\u0646\u0647\u0627\u0631 \u0627\u0644\u0641\u064a\u0635\u0644
+p1859
+sa(dp1860
+g2
+S'2015-12-04'
+p1861
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1862
+sg6
+S'15:47:14'
+p1863
+sg8
+V\u0627\u062b\u064a\u0631 \u0627\u0644\u0639\u0635\u064a\u0645\u064a
+p1864
+sa(dp1865
+g2
+S'2015-12-04'
+p1866
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1867
+sg6
+S'15:47:12'
+p1868
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p1869
+sa(dp1870
+g2
+S'2015-12-04'
+p1871
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1872
+sg6
+S'15:47:11'
+p1873
+sg8
+V\u0631\u062c\u064a\u062a\u0643
+p1874
+sa(dp1875
+g2
+S'2015-12-04'
+p1876
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1877
+sg6
+S'15:47:10'
+p1878
+sg8
+V\u0643\u0644\u064a \u064a\u0628\u064a\u0643\u0640 \u273f
+p1879
+sa(dp1880
+g2
+S'2015-12-04'
+p1881
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1882
+sg6
+S'15:47:09'
+p1883
+sg8
+V\u0646\u0633\u0627\u064a\u0645 \u0644\u064a\u0644
+p1884
+sa(dp1885
+g2
+S'2015-12-04'
+p1886
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1887
+sg6
+S'15:47:08'
+p1888
+sg8
+V\u0634\u0648\u0642 \u0627\u0644\u062d\u0631\u0628\u064a
+p1889
+sa(dp1890
+g2
+S'2015-12-04'
+p1891
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1892
+sg6
+S'15:47:07'
+p1893
+sg8
+V\u0628\u0646\u062a \u0645\u0637\u064a\u0631
+p1894
+sa(dp1895
+g2
+S'2015-12-04'
+p1896
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1897
+sg6
+S'15:47:06'
+p1898
+sg8
+V\u2654 \u0622\u0645\u0648\u064f\u0634\u064e\u06c1 \u200f
+p1899
+sa(dp1900
+g2
+S'2015-12-04'
+p1901
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1902
+sg6
+S'15:47:05'
+p1903
+sg8
+V\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0631\u0648\u064a\u0644\u064a
+p1904
+sa(dp1905
+g2
+S'2015-12-04'
+p1906
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1907
+sg6
+S'15:47:04'
+p1908
+sg8
+V\u0631\u06af\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0627\u062f\u06be?!
+p1909
+sa(dp1910
+g2
+S'2015-12-04'
+p1911
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1912
+sg6
+S'15:47:03'
+p1913
+sg8
+V\u0645\u0635\u0639\u0628 \u0627\u0644\u0639\u0645\u0631\u064a
+p1914
+sa(dp1915
+g2
+S'2015-12-04'
+p1916
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1917
+sg6
+S'15:47:01'
+p1918
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a
+p1919
+sa(dp1920
+g2
+S'2015-12-04'
+p1921
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1922
+sg6
+S'15:47:00'
+p1923
+sg8
+V\u062c\u064f\u0648\u064a\u0650\u062f
+p1924
+sa(dp1925
+g2
+S'2015-12-04'
+p1926
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1927
+sg6
+S'15:46:59'
+p1928
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1929
+sa(dp1930
+g2
+S'2015-12-04'
+p1931
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1932
+sg6
+S'15:46:58'
+p1933
+sg8
+V\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u0634\u0645\u0631\u064a
+p1934
+sa(dp1935
+g2
+S'2015-12-04'
+p1936
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1937
+sg6
+S'15:46:57'
+p1938
+sg8
+V\u0633\u0637\u0627\u0645 \u0627\u0644\u0631\u0648\u0642\u064a
+p1939
+sa(dp1940
+g2
+S'2015-12-04'
+p1941
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1942
+sg6
+S'15:46:56'
+p1943
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p1944
+sa(dp1945
+g2
+S'2015-12-04'
+p1946
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1947
+sg6
+S'15:46:55'
+p1948
+sg8
+V\u0648\u0644\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0647
+p1949
+sa(dp1950
+g2
+S'2015-12-04'
+p1951
+sg4
+V$nflx are the s&amp;p 500's best stocks in 2015 still worth buying? URL
+p1952
+sg6
+S'15:46:54'
+p1953
+sg8
+VLloydCreekStocks
+p1954
+sa(dp1955
+g2
+S'2015-12-04'
+p1956
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1957
+sg6
+S'15:46:54'
+p1958
+sg8
+V\u0633\u0639\u062f \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p1959
+sa(dp1960
+g2
+S'2015-12-04'
+p1961
+sg4
+V$nflx pre-market most active for dec 4, 2015 : xiv, itub, abev, bac, p, tvix, rbs, qqq, avp, gpro, amba, nflx URL
+p1962
+sg6
+S'15:46:54'
+p1963
+sg8
+VLloydCreekStocks
+p1964
+sa(dp1965
+g2
+S'2015-12-04'
+p1966
+sg4
+V$nflx central banks continue to rule equity and commodity markets URL
+p1967
+sg6
+S'15:46:53'
+p1968
+sg8
+VLloydCreekStocks
+p1969
+sa(dp1970
+g2
+S'2015-12-04'
+p1971
+sg4
+V$nflx 50% of americans watch netflix, topping youtube viewers URL
+p1972
+sg6
+S'15:46:51'
+p1973
+sg8
+VLloydCreekStocks
+p1974
+sa(dp1975
+g2
+S'2015-12-04'
+p1976
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1977
+sg6
+S'15:46:33'
+p1978
+sg8
+V\u0628\u064e\u0639\u0652\u062b\u064e\u0631\u0629 \u0645\u064f\u0648\u064e\u0622\u062c\u0652\u0639 \u200f
+p1979
+sa(dp1980
+g2
+S'2015-12-04'
+p1981
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1982
+sg6
+S'15:46:32'
+p1983
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p1984
+sa(dp1985
+g2
+S'2015-12-04'
+p1986
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1987
+sg6
+S'15:46:31'
+p1988
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0628\u0646 \u0645\u062d\u0645\u062f
+p1989
+sa(dp1990
+g2
+S'2015-12-04'
+p1991
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1992
+sg6
+S'15:46:30'
+p1993
+sg8
+V\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p1994
+sa(dp1995
+g2
+S'2015-12-04'
+p1996
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p1997
+sg6
+S'15:46:29'
+p1998
+sg8
+V\u0632\u0642\u0631\u062a\u064a \u0642\u062f\u064a\u0645
+p1999
+sa(dp2000
+g2
+S'2015-12-04'
+p2001
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2002
+sg6
+S'15:46:27'
+p2003
+sg8
+V\u0631\u0627\u0626\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a
+p2004
+sa(dp2005
+g2
+S'2015-12-04'
+p2006
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2007
+sg6
+S'15:46:26'
+p2008
+sg8
+V\u062d\u0633\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p2009
+sa(dp2010
+g2
+S'2015-12-04'
+p2011
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2012
+sg6
+S'15:46:25'
+p2013
+sg8
+V\u0631\u0627\u0634\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2014
+sa(dp2015
+g2
+S'2015-12-04'
+p2016
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2017
+sg6
+S'15:46:23'
+p2018
+sg8
+V\u0646\u0651\u064f\u0648\u0646\u064f \u200f
+p2019
+sa(dp2020
+g2
+S'2015-12-04'
+p2021
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2022
+sg6
+S'15:46:22'
+p2023
+sg8
+V\u0628\u0646\u062f\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2024
+sa(dp2025
+g2
+S'2015-12-04'
+p2026
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2027
+sg6
+S'15:46:20'
+p2028
+sg8
+V\u0646\u0648\u0627\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2029
+sa(dp2030
+g2
+S'2015-12-04'
+p2031
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2032
+sg6
+S'15:46:19'
+p2033
+sg8
+V\u0645\u0637\u0644\u0642 \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2034
+sa(dp2035
+g2
+S'2015-12-04'
+p2036
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2037
+sg6
+S'15:46:18'
+p2038
+sg8
+V\u062e\u0622\u0644\u062f \u0627\u0644\u06af\u0646\u062f\u0631\u064a
+p2039
+sa(dp2040
+g2
+S'2015-12-04'
+p2041
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2042
+sg6
+S'15:46:17'
+p2043
+sg8
+V\u0635\u0627\u0644\u062d \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2044
+sa(dp2045
+g2
+S'2015-12-04'
+p2046
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2047
+sg6
+S'15:46:15'
+p2048
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0641\u0642\u064a\u0631
+p2049
+sa(dp2050
+g2
+S'2015-12-04'
+p2051
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2052
+sg6
+S'15:46:14'
+p2053
+sg8
+V\u0645\u0631\u0634\u062f \u0627\u0644\u0628\u0630\u0627\u0644\u064a
+p2054
+sa(dp2055
+g2
+S'2015-12-04'
+p2056
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2057
+sg6
+S'15:46:13'
+p2058
+sg8
+V\u0627\u0644\u062f\u0644\u0628\u062d\u064a ?
+p2059
+sa(dp2060
+g2
+S'2015-12-04'
+p2061
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2062
+sg6
+S'15:46:12'
+p2063
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p2064
+sa(dp2065
+g2
+S'2015-12-04'
+p2066
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2067
+sg6
+S'15:46:10'
+p2068
+sg8
+V\u0645\u0627\u062c\u062f \u0627\u0644\u0633\u0631\u0628\u0627\u062a\u064a
+p2069
+sa(dp2070
+g2
+S'2015-12-04'
+p2071
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2072
+sg6
+S'15:46:09'
+p2073
+sg8
+V\u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0641\u0627\u0631\u0633
+p2074
+sa(dp2075
+g2
+S'2015-12-04'
+p2076
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2077
+sg6
+S'15:46:08'
+p2078
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0645\u0637\u064a\u0631\u064a
+p2079
+sa(dp2080
+g2
+S'2015-12-04'
+p2081
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2082
+sg6
+S'15:46:07'
+p2083
+sg8
+V\u062e\u0644\u0648\u0648\u062f\u064a
+p2084
+sa(dp2085
+g2
+S'2015-12-04'
+p2086
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2087
+sg6
+S'15:46:06'
+p2088
+sg8
+V? \u0623\u0645\u0628\u0631\u0627\u0637\u0648\u0631 ? \u200f
+p2089
+sa(dp2090
+g2
+S'2015-12-04'
+p2091
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2092
+sg6
+S'15:46:05'
+p2093
+sg8
+V\u062d\u0633\u064a\u0646 \u0633\u0644\u0637\u0627\u0646
+p2094
+sa(dp2095
+g2
+S'2015-12-04'
+p2096
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2097
+sg6
+S'15:46:04'
+p2098
+sg8
+V\u0623\u0639\u062a\u064f\u0642\u064a\u0646\u0651\u064a
+p2099
+sa(dp2100
+g2
+S'2015-12-04'
+p2101
+sg4
+Vrt AT_USER if 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2102
+sg6
+S'15:46:02'
+p2103
+sg8
+V\u0622\u0631\u06af\u062f \u0641\u062f\u064a\u0650\u062a\u06af
+p2104
+sa(dp2105
+g2
+S'2015-12-04'
+p2106
+sg4
+V$nflx oi for maturity 12/04/2015. 115.00 highest put. 130.00 highest call. URL URL
+p2107
+sg6
+S'15:45:56'
+p2108
+sg8
+VDan
+p2109
+sa(dp2110
+g2
+S'2015-12-04'
+p2111
+sg4
+V$nflx long 126.14
+p2112
+sg6
+S'15:44:33'
+p2113
+sg8
+VHaj
+p2114
+sa(dp2115
+g2
+S'2015-12-04'
+p2116
+sg4
+V$nflx 126 puts
+p2117
+sg6
+S'15:44:13'
+p2118
+sg8
+VJosh Brown
+p2119
+sa(dp2120
+g2
+S'2015-12-04'
+p2121
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2122
+sg6
+S'15:43:33'
+p2123
+sg8
+VNASDAQStocks
+p2124
+sa(dp2125
+g2
+S'2015-12-04'
+p2126
+sg4
+VAT_USER AT_USER saying "nope" is like pretending you were comfortable holding $nflx from $300 to $50 to now. just silly.
+p2127
+sg6
+S'15:43:31'
+p2128
+sg8
+VGene Shmunster
+p2129
+sa(dp2130
+g2
+S'2015-12-04'
+p2131
+sg4
+Vrt AT_USER $nflx 125.78 - so there's the intraday 2x bottom - just a "bit of support", 8sma - risk to upside vs. downside, imo https:/\u2026
+p2132
+sg6
+S'15:43:26'
+p2133
+sg8
+Vlendar79
+p2134
+sa(dp2135
+g2
+S'2015-12-04'
+p2136
+sg4
+Voption millionaires: nolerman: come to papa $nflx URL
+p2137
+sg6
+S'15:40:34'
+p2138
+sg8
+VMani Ohli
+p2139
+sa(dp2140
+g2
+S'2015-12-04'
+p2141
+sg4
+Voption millionaires: truman321: $nflx 127 wps avg of .86 URL
+p2142
+sg6
+S'15:40:34'
+p2143
+sg8
+VMani Ohli
+p2144
+sa(dp2145
+g2
+S'2015-12-04'
+p2146
+sg4
+Voption millionaires: nolerman: come to papa $nflx URL
+p2147
+sg6
+S'15:40:34'
+p2148
+sg8
+VPerfor Mance
+p2149
+sa(dp2150
+g2
+S'2015-12-04'
+p2151
+sg4
+Voption millionaires: truman321: $nflx 127 wps avg of .86 URL
+p2152
+sg6
+S'15:40:33'
+p2153
+sg8
+VPerfor Mance
+p2154
+sa(dp2155
+g2
+S'2015-12-04'
+p2156
+sg4
+VAT_USER $nflx is one of the weakest imho
+p2157
+sg6
+S'15:37:44'
+p2158
+sg8
+VBapikas
+p2159
+sa(dp2160
+g2
+S'2015-12-04'
+p2161
+sg4
+Vi'm taking it a little easy today. watching $nflx and $dltr.
+p2162
+sg6
+S'15:36:59'
+p2163
+sg8
+VTraderMentality
+p2164
+sa(dp2165
+g2
+S'2015-12-04'
+p2166
+sg4
+Vrumor has it AT_USER told his army of followers to unload their $amzn $nflx $tsla and buy big banks this morning
+p2167
+sg6
+S'15:36:56'
+p2168
+sg8
+VDividend Master
+p2169
+sa(dp2170
+g2
+S'2015-12-04'
+p2171
+sg4
+Vthe morning report AT_USER 12 4 15, 09 02 URL via AT_USER $es_f $tf_f $cl_f $aapl $nflx $tsla $bidu $yhoo $fb
+p2172
+sg6
+S'15:36:55'
+p2173
+sg8
+VAnne Marie Baiynd
+p2174
+sa(dp2175
+g2
+S'2015-12-04'
+p2176
+sg4
+V$nflx deddddddddddd
+p2177
+sg6
+S'15:36:17'
+p2178
+sg8
+Vnobullshytrading
+p2179
+sa(dp2180
+g2
+S'2015-12-04'
+p2181
+sg4
+VAT_USER this a new problem? use chrome all the time with $nflx no problems
+p2182
+sg6
+S'15:35:52'
+p2183
+sg8
+VJT
+p2184
+sa(dp2185
+g2
+S'2015-12-04'
+p2186
+sg4
+V$nflx 125.78 - so there's the intraday 2x bottom - just a "bit of support", 8sma - risk to upside vs. downside, imo URL
+p2187
+sg6
+S'15:35:31'
+p2188
+sg8
+VTom Wrigley
+p2189
+sa(dp2190
+g2
+S'2015-12-04'
+p2191
+sg4
+V$nflx and $amzn red, lower high on breadth &amp; intraday divergences on spy/es. if things mattered i'd be concerned. janet will save us.
+p2192
+sg6
+S'15:34:15'
+p2193
+sg8
+VBob Byrne
+p2194
+sa(dp2195
+g2
+S'2015-12-04'
+p2196
+sg4
+V$nflx aware of problems watching in chrome $goog
+p2197
+sg6
+S'15:34:15'
+p2198
+sg8
+VOpen Outcrier
+p2199
+sa(dp2200
+g2
+S'2015-12-04'
+p2201
+sg4
+V$amzn $tsla and even $nflx taking a breather i guess. weakonastrongday
+p2202
+sg6
+S'15:34:14'
+p2203
+sg8
+VVenky Srinivasan
+p2204
+sa(dp2205
+g2
+S'2015-12-04'
+p2206
+sg4
+Vrt AT_USER $nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) https:/\u2026
+p2207
+sg6
+S'15:32:28'
+p2208
+sg8
+VEssex Trading
+p2209
+sa(dp2210
+g2
+S'2015-12-04'
+p2211
+sg4
+V$nflx watching for $125 o/u for potential long. if breaks and holds below will go short.
+p2212
+sg6
+S'15:32:18'
+p2213
+sg8
+VMichael Estabrooks
+p2214
+sa(dp2215
+g2
+S'2015-12-04'
+p2216
+sg4
+Vrt AT_USER $nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) https:/\u2026
+p2217
+sg6
+S'15:32:16'
+p2218
+sg8
+VHumbleBioTrader
+p2219
+sa(dp2220
+g2
+S'2015-12-04'
+p2221
+sg4
+V$nflx 10dma coming up. held up tuesday, dunno today.
+p2222
+sg6
+S'15:31:52'
+p2223
+sg8
+VZenTrader
+p2224
+sa(dp2225
+g2
+S'2015-12-04'
+p2226
+sg4
+V$amzn, $fb, $nflx kind of weak, $aapl and $msft strong
+p2227
+sg6
+S'15:31:32'
+p2228
+sg8
+VEssex Trading
+p2229
+sa(dp2230
+g2
+S'2015-12-04'
+p2231
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2232
+sg6
+S'15:31:28'
+p2233
+sg8
+VDronepedia
+p2234
+sa(dp2235
+g2
+S'2015-12-04'
+p2236
+sg4
+V$nflx &amp; $amzn not participating atm. but with it being fri probably doesn\u2019t mean too much
+p2237
+sg6
+S'15:31:28'
+p2238
+sg8
+VTrax
+p2239
+sa(dp2240
+g2
+S'2015-12-04'
+p2241
+sg4
+V$fang rotation out of momo today is significant with job report. real investment companies are safest now $nflx $fb $amzn
+p2242
+sg6
+S'15:30:45'
+p2243
+sg8
+VMe My Selfie & I
+p2244
+sa(dp2245
+g2
+S'2015-12-04'
+p2246
+sg4
+V$nflx plop. open range break.
+p2247
+sg6
+S'15:30:40'
+p2248
+sg8
+VNYC Trader
+p2249
+sa(dp2250
+g2
+S'2015-12-04'
+p2251
+sg4
+V$nflx lows?
+p2252
+sg6
+S'15:30:40'
+p2253
+sg8
+VOpen Outcrier
+p2254
+sa(dp2255
+g2
+S'2015-12-04'
+p2256
+sg4
+V$nflx max pain is 125.00 for maturity 12/04/2015. price = 126.05. URL
+p2257
+sg6
+S'15:30:23'
+p2258
+sg8
+VDan
+p2259
+sa(dp2260
+g2
+S'2015-12-04'
+p2261
+sg4
+V$fang not there...at least $nflx and $amzn...$nflx lod
+p2262
+sg6
+S'15:29:48'
+p2263
+sg8
+VG
+p2264
+sa(dp2265
+g2
+S'2015-12-04'
+p2266
+sg4
+V$nflx 125.50 downside target
+p2267
+sg6
+S'15:29:20'
+p2268
+sg8
+VPounder
+p2269
+sa(dp2270
+g2
+S'2015-12-04'
+p2271
+sg4
+V$nflx goes down while $spy goes up. $nflx might be in trouble today
+p2272
+sg6
+S'15:27:52'
+p2273
+sg8
+VPounder
+p2274
+sa(dp2275
+g2
+S'2015-12-04'
+p2276
+sg4
+Vrt AT_USER not impressed by the bounce so far on some leader stocks. $nflx $amzn.
+p2277
+sg6
+S'15:27:12'
+p2278
+sg8
+VWalter White
+p2279
+sa(dp2280
+g2
+S'2015-12-04'
+p2281
+sg4
+V$nflx rolling red on the day now. definitely not looking healthy after the pullback yesterday.
+p2282
+sg6
+S'15:26:39'
+p2283
+sg8
+VMichael Estabrooks
+p2284
+sa(dp2285
+g2
+S'2015-12-04'
+p2286
+sg4
+Vcommented on stocktwits: $nflx 124s would be nice today... URL
+p2287
+sg6
+S'15:25:42'
+p2288
+sg8
+Vtheoptiondon
+p2289
+sa(dp2290
+g2
+S'2015-12-04'
+p2291
+sg4
+Voption millionaires: truman321: $nflx legging into 127 wps URL
+p2292
+sg6
+S'15:25:15'
+p2293
+sg8
+VPerfor Mance
+p2294
+sa(dp2295
+g2
+S'2015-12-04'
+p2296
+sg4
+Vrt AT_USER not impressed by the bounce so far on some leader stocks. $nflx $amzn.
+p2297
+sg6
+S'15:25:12'
+p2298
+sg8
+VInstaCalls
+p2299
+sa(dp2300
+g2
+S'2015-12-04'
+p2301
+sg4
+Voption millionaires: truman321: $nflx legging into 127 wps URL
+p2302
+sg6
+S'15:25:10'
+p2303
+sg8
+VMani Ohli
+p2304
+sa(dp2305
+g2
+S'2015-12-04'
+p2306
+sg4
+V$nflx weak.. if we break the 207 in $spy it can flush
+p2307
+sg6
+S'15:24:41'
+p2308
+sg8
+VStocks Mentor
+p2309
+sa(dp2310
+g2
+S'2015-12-04'
+p2311
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2312
+sg6
+S'15:24:36'
+p2313
+sg8
+VFIC Media Law
+p2314
+sa(dp2315
+g2
+S'2015-12-04'
+p2316
+sg4
+V$nflx not getting too excited, but looking to crush longs and take out today's lows
+p2317
+sg6
+S'15:23:43'
+p2318
+sg8
+VPounder
+p2319
+sa(dp2320
+g2
+S'2015-12-04'
+p2321
+sg4
+Vnot impressed by the bounce so far on some leader stocks. $nflx $amzn.
+p2322
+sg6
+S'15:23:27'
+p2323
+sg8
+VNYC Trader
+p2324
+sa(dp2325
+g2
+S'2015-12-04'
+p2326
+sg4
+Vrt AT_USER $nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) https:/\u2026
+p2327
+sg6
+S'15:22:57'
+p2328
+sg8
+VAaron
+p2329
+sa(dp2330
+g2
+S'2015-12-04'
+p2331
+sg4
+Vrt AT_USER $nflx 131.5 | upcoming dates 12/4 a very murray christmas 12/7 ubs conference 1/10 golden globes 1/20 (est.) q4 earnings 2/\u2026
+p2332
+sg6
+S'15:22:35'
+p2333
+sg8
+Vlendar79
+p2334
+sa(dp2335
+g2
+S'2015-12-04'
+p2336
+sg4
+Vrt AT_USER $nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) https:/\u2026
+p2337
+sg6
+S'15:21:53'
+p2338
+sg8
+Voptionstrader
+p2339
+sa(dp2340
+g2
+S'2015-12-04'
+p2341
+sg4
+VAT_USER i put in an order to buy $nflx options earlier and the trade just sat. prices weren't updating either.
+p2342
+sg6
+S'15:20:59'
+p2343
+sg8
+VLive2Trade
+p2344
+sa(dp2345
+g2
+S'2015-12-04'
+p2346
+sg4
+V$nflx unless it gets above 127.50 trading a short bias now
+p2347
+sg6
+S'15:20:03'
+p2348
+sg8
+VPounder
+p2349
+sa(dp2350
+g2
+S'2015-12-04'
+p2351
+sg4
+V$nflx URL
+p2352
+sg6
+S'15:17:53'
+p2353
+sg8
+VBAD BOYZ AUCTION
+p2354
+sa(dp2355
+g2
+S'2015-12-04'
+p2356
+sg4
+Vif 30mins candle close this way as doji , we gonna ride the way down.. $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2357
+sg6
+S'15:17:04'
+p2358
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p2359
+sa(dp2360
+g2
+S'2015-12-04'
+p2361
+sg4
+V$nflx 127.20 funny how shorts pressing in front of chief content officer presenting mon, ubs (know your timeframes) URL
+p2362
+sg6
+S'15:16:35'
+p2363
+sg8
+VTom Wrigley
+p2364
+sa(dp2365
+g2
+S'2015-12-04'
+p2366
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p2367
+sg6
+S'15:16:15'
+p2368
+sg8
+VMarijuanacharts
+p2369
+sa(dp2370
+g2
+S'2015-12-04'
+p2371
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2372
+sg6
+S'15:16:15'
+p2373
+sg8
+V\u0648\u0644\u064a\u062f \u0627\u0644\u062c\u0631\u064a\u0633\u064a
+p2374
+sa(dp2375
+g2
+S'2015-12-04'
+p2376
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2377
+sg6
+S'15:16:14'
+p2378
+sg8
+V\u0631\u0627\u0645\u064a !!
+p2379
+sa(dp2380
+g2
+S'2015-12-04'
+p2381
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2382
+sg6
+S'15:16:12'
+p2383
+sg8
+V\u0639\u064a\u0633\u0649 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2384
+sa(dp2385
+g2
+S'2015-12-04'
+p2386
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2387
+sg6
+S'15:16:10'
+p2388
+sg8
+V\u0633\u0627\u0644\u0645 \u0627\u0644\u0633\u0628\u064a\u0639\u064a
+p2389
+sa(dp2390
+g2
+S'2015-12-04'
+p2391
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2392
+sg6
+S'15:16:09'
+p2393
+sg8
+V\u0639\u0627\u0645\u0631 \u0627\u0644\u0646\u0641\u064a\u0639\u064a
+p2394
+sa(dp2395
+g2
+S'2015-12-04'
+p2396
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2397
+sg6
+S'15:16:08'
+p2398
+sg8
+V\u0641\u0647\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p2399
+sa(dp2400
+g2
+S'2015-12-04'
+p2401
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2402
+sg6
+S'15:16:06'
+p2403
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0632\u0643\u0631\u064a
+p2404
+sa(dp2405
+g2
+S'2015-12-04'
+p2406
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2407
+sg6
+S'15:16:04'
+p2408
+sg8
+V\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0631\u0648\u0642\u064a
+p2409
+sa(dp2410
+g2
+S'2015-12-04'
+p2411
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2412
+sg6
+S'15:16:03'
+p2413
+sg8
+V\u062d\u0633\u064a\u0646 \u0627\u0644\u0633\u0644\u0637\u0627\u0646
+p2414
+sa(dp2415
+g2
+S'2015-12-04'
+p2416
+sg4
+V$nflx got long again risking unch
+p2417
+sg6
+S'15:16:02'
+p2418
+sg8
+VPounder
+p2419
+sa(dp2420
+g2
+S'2015-12-04'
+p2421
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2422
+sg6
+S'15:16:01'
+p2423
+sg8
+V\u0647\u0640\u0643\u0648\u0646\u0640\u0627 \u0645\u0640\u0627\u062a\u0640\u0627\u062a\u0640\u0627?
+p2424
+sa(dp2425
+g2
+S'2015-12-04'
+p2426
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2427
+sg6
+S'15:15:13'
+p2428
+sg8
+VErin Rhinehart
+p2429
+sa(dp2430
+g2
+S'2015-12-04'
+p2431
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2432
+sg6
+S'15:15:05'
+p2433
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u064a\u0627\u0641\u0639\u064a
+p2434
+sa(dp2435
+g2
+S'2015-12-04'
+p2436
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2437
+sg6
+S'15:15:04'
+p2438
+sg8
+V\u0631\u064e\u062d\u0651\u0640\u0640\u0640\u0640\u0640\u0627\u0644
+p2439
+sa(dp2440
+g2
+S'2015-12-04'
+p2441
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2442
+sg6
+S'15:15:03'
+p2443
+sg8
+V\u0646\u0647\u064a\u0631 \u0627\u0644\u0634\u0645\u0631\u064a
+p2444
+sa(dp2445
+g2
+S'2015-12-04'
+p2446
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2447
+sg6
+S'15:15:02'
+p2448
+sg8
+V\u0631\u0627\u0643\u0627\u0646 \u0627\u0644\u0639\u062c\u0645\u064a
+p2449
+sa(dp2450
+g2
+S'2015-12-04'
+p2451
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2452
+sg6
+S'15:15:01'
+p2453
+sg8
+V:$\u064a\u0627 \u0628\u0639\u062f\u0647\u0640\u0645 \u06af\u0644\u0647\u0640\u0645:$
+p2454
+sa(dp2455
+g2
+S'2015-12-04'
+p2456
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2457
+sg6
+S'15:15:00'
+p2458
+sg8
+V\u0628\u0646\u062a \u0633\u062f\u064a\u0631
+p2459
+sa(dp2460
+g2
+S'2015-12-04'
+p2461
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2462
+sg6
+S'15:14:59'
+p2463
+sg8
+V~~\u0645\u062a\u0641\u0627\u0626\u0644\u0647~~
+p2464
+sa(dp2465
+g2
+S'2015-12-04'
+p2466
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2467
+sg6
+S'15:14:58'
+p2468
+sg8
+V\u0645\u064a\u0633\u0645 \u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p2469
+sa(dp2470
+g2
+S'2015-12-04'
+p2471
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2472
+sg6
+S'15:14:56'
+p2473
+sg8
+V\u0627\u0644\u0632\u0647\u0631\u0647 \u0627\u0644\u0628\u064a\u0636\u0627\u0621
+p2474
+sa(dp2475
+g2
+S'2015-12-04'
+p2476
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2477
+sg6
+S'15:14:55'
+p2478
+sg8
+V\u0644\u0637\u064a\u0641\u0647
+p2479
+sa(dp2480
+g2
+S'2015-12-04'
+p2481
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2482
+sg6
+S'15:14:54'
+p2483
+sg8
+V\u0628\u0646\u0648\u062a\u0647 \u0645\u0632\u064a\u0648\u0646\u0647
+p2484
+sa(dp2485
+g2
+S'2015-12-04'
+p2486
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2487
+sg6
+S'15:14:53'
+p2488
+sg8
+V\u062e\u0648\u0644\u06c1\u064e\u06c1 \u0627\u0644\u0641\u0631\u064a\u0640\u03b6\u270e \u200f
+p2489
+sa(dp2490
+g2
+S'2015-12-04'
+p2491
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2492
+sg6
+S'15:14:52'
+p2493
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u062f\u0644\u0645
+p2494
+sa(dp2495
+g2
+S'2015-12-04'
+p2496
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2497
+sg6
+S'15:14:51'
+p2498
+sg8
+V\u0648\u062c\u062f\u0627\u0646 \u0627\u0644\u0646\u0627\u0635\u0631
+p2499
+sa(dp2500
+g2
+S'2015-12-04'
+p2501
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2502
+sg6
+S'15:14:50'
+p2503
+sg8
+V\u0639\u0634\u06d2\u0642 \u0628\u062f\u0648\u064a\u06d2\u0647
+p2504
+sa(dp2505
+g2
+S'2015-12-04'
+p2506
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2507
+sg6
+S'15:14:49'
+p2508
+sg8
+V\u0627\u0631\u0648\u0639 \u0627\u0646\u0633\u0627\u0646\u0647\ue414
+p2509
+sa(dp2510
+g2
+S'2015-12-04'
+p2511
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2512
+sg6
+S'15:14:48'
+p2513
+sg8
+V\u0634\u064a\u062e\u0629 \u0627\u0644\u0628\u0646\u0627\u062a
+p2514
+sa(dp2515
+g2
+S'2015-12-04'
+p2516
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2517
+sg6
+S'15:14:47'
+p2518
+sg8
+V\u0639\u0622\u0628\u0650\u062b\u064e\u0647\u0647\u0651 \u266a
+p2519
+sa(dp2520
+g2
+S'2015-12-04'
+p2521
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2522
+sg6
+S'15:14:46'
+p2523
+sg8
+V\u0622\u0622\u0622\u0622\u0622\u0646\u064a\u064d\u0646 \u200b\u200f\u200b\u200f\u200b\u200f\u200b
+p2524
+sa(dp2525
+g2
+S'2015-12-04'
+p2526
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2527
+sg6
+S'15:14:45'
+p2528
+sg8
+V\u0645\u0646\u0648\u0648\u0648\u0644 \u0627\u0644\u0634\u06c1\u0631\u06cc\u06d2
+p2529
+sa(dp2530
+g2
+S'2015-12-04'
+p2531
+sg4
+Vrt AT_USER why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech into no\u2026
+p2532
+sg6
+S'15:14:45'
+p2533
+sg8
+VZayyyy
+p2534
+sa(dp2535
+g2
+S'2015-12-04'
+p2536
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2537
+sg6
+S'15:14:43'
+p2538
+sg8
+V\u0641\u0627\u0637\u0645\u0647 \u0627\u0644\u0645\u062d\u064a\u0633\u0646
+p2539
+sa(dp2540
+g2
+S'2015-12-04'
+p2541
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2542
+sg6
+S'15:14:42'
+p2543
+sg8
+V\u0645\u064f\u062e\u062a\u0644\u0641\u064e\u0647\u06c1
+p2544
+sa(dp2545
+g2
+S'2015-12-04'
+p2546
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2547
+sg6
+S'15:14:42'
+p2548
+sg8
+VDavid Varner
+p2549
+sa(dp2550
+g2
+S'2015-12-04'
+p2551
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2552
+sg6
+S'15:14:41'
+p2553
+sg8
+V\u0627\u0644\u0628\u062a\u0648\u0644 \u0647\u0632\u0627\u0632\u064a
+p2554
+sa(dp2555
+g2
+S'2015-12-04'
+p2556
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2557
+sg6
+S'15:14:40'
+p2558
+sg8
+V\u0631\u062a\u064a\u0644 \u0627\u0644 \u0639\u0628\u062f\u0627\u0644\u0644\u0647
+p2559
+sa(dp2560
+g2
+S'2015-12-04'
+p2561
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2562
+sg6
+S'15:14:39'
+p2563
+sg8
+V\u0641\u0631\u064a\u0627\u0644 \u0627\u0644\u0639\u0627\u0632\u0645\u064a
+p2564
+sa(dp2565
+g2
+S'2015-12-04'
+p2566
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2567
+sg6
+S'15:14:38'
+p2568
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p2569
+sa(dp2570
+g2
+S'2015-12-04'
+p2571
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2572
+sg6
+S'15:14:37'
+p2573
+sg8
+V\u0632\u0648\u0632\u062a\u0643\u0643\u064e \u266b'\u0633\u0645\u0631\u0648\u0646\u0647\u0647
+p2574
+sa(dp2575
+g2
+S'2015-12-04'
+p2576
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2577
+sg6
+S'15:14:36'
+p2578
+sg8
+V\u0645\u0628\u0631\u0642\u0639\u0647
+p2579
+sa(dp2580
+g2
+S'2015-12-04'
+p2581
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2582
+sg6
+S'15:14:35'
+p2583
+sg8
+V\u0645\u0627\u0647\u0645\u0646\u064a \u0631\u062d\u064a\u0644\u0643.
+p2584
+sa(dp2585
+g2
+S'2015-12-04'
+p2586
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2587
+sg6
+S'15:14:34'
+p2588
+sg8
+V\u0645\u0647\u0627 \u0627\u0644\u0628\u0644\u0648\u064a
+p2589
+sa(dp2590
+g2
+S'2015-12-04'
+p2591
+sg4
+V$nflx if it doesnt fall apart, ill get long again looking for another push towards 129ish
+p2592
+sg6
+S'15:13:10'
+p2593
+sg8
+VPounder
+p2594
+sa(dp2595
+g2
+S'2015-12-04'
+p2596
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2597
+sg6
+S'15:13:09'
+p2598
+sg8
+V\u266a\u2661 \u0627\u0644\u0645\u062c\u0646\u0624\u0646\u0640\u06c1\u064e\u06c1 \u060c\u060c
+p2599
+sa(dp2600
+g2
+S'2015-12-04'
+p2601
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2602
+sg6
+S'15:13:08'
+p2603
+sg8
+V\u0635\u064a\u062a\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2604
+sa(dp2605
+g2
+S'2015-12-04'
+p2606
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2607
+sg6
+S'15:13:05'
+p2608
+sg8
+V\u067a\u0639\u0628 \u062d\u0622\u0644\u064a\u06d2
+p2609
+sa(dp2610
+g2
+S'2015-12-04'
+p2611
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2612
+sg6
+S'15:13:04'
+p2613
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u062c\u0627\u0628\u0631\u064a
+p2614
+sa(dp2615
+g2
+S'2015-12-04'
+p2616
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2617
+sg6
+S'15:13:02'
+p2618
+sg8
+V\u0627\u0644\u062d\u0627\u0644\u0645\u0647
+p2619
+sa(dp2620
+g2
+S'2015-12-04'
+p2621
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2622
+sg6
+S'15:13:01'
+p2623
+sg8
+V\u0639\u0632\u06c5\u200f\u200b\u0641\u0640\u0627 \ufe8e\u0644\u0633\u0628\u064a\u0640\u0639\u064a
+p2624
+sa(dp2625
+g2
+S'2015-12-04'
+p2626
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2627
+sg6
+S'15:12:59'
+p2628
+sg8
+V\u062e\u0644\u0648\u062f \u0627\u0644\u062d\u0631\u0628\u064a
+p2629
+sa(dp2630
+g2
+S'2015-12-04'
+p2631
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2632
+sg6
+S'15:12:58'
+p2633
+sg8
+V\u0646\u0647\u0626 \u0627\u0644\u062e\u0627\u0644\u062f\u064a
+p2634
+sa(dp2635
+g2
+S'2015-12-04'
+p2636
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2637
+sg6
+S'15:12:56'
+p2638
+sg8
+V\u0647\u064a\u0641\u0627\u0621 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p2639
+sa(dp2640
+g2
+S'2015-12-04'
+p2641
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2642
+sg6
+S'15:12:55'
+p2643
+sg8
+V\u0634\u0645\u0640\u0640\u0648\u062e \u200f
+p2644
+sa(dp2645
+g2
+S'2015-12-04'
+p2646
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2647
+sg6
+S'15:12:53'
+p2648
+sg8
+V\u0627\u0646\u0647\u0627\u0631 \u0627\u0644\u0641\u064a\u0635\u0644
+p2649
+sa(dp2650
+g2
+S'2015-12-04'
+p2651
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2652
+sg6
+S'15:12:51'
+p2653
+sg8
+V\u0627\u062b\u064a\u0631 \u0627\u0644\u0639\u0635\u064a\u0645\u064a
+p2654
+sa(dp2655
+g2
+S'2015-12-04'
+p2656
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2657
+sg6
+S'15:12:50'
+p2658
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p2659
+sa(dp2660
+g2
+S'2015-12-04'
+p2661
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2662
+sg6
+S'15:12:48'
+p2663
+sg8
+V\u0631\u062c\u064a\u062a\u0643
+p2664
+sa(dp2665
+g2
+S'2015-12-04'
+p2666
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2667
+sg6
+S'15:12:47'
+p2668
+sg8
+V\u0643\u0644\u064a \u064a\u0628\u064a\u0643\u0640 \u273f
+p2669
+sa(dp2670
+g2
+S'2015-12-04'
+p2671
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2672
+sg6
+S'15:12:45'
+p2673
+sg8
+V\u0646\u0633\u0627\u064a\u0645 \u0644\u064a\u0644
+p2674
+sa(dp2675
+g2
+S'2015-12-04'
+p2676
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2677
+sg6
+S'15:12:44'
+p2678
+sg8
+V\u0634\u0648\u0642 \u0627\u0644\u062d\u0631\u0628\u064a
+p2679
+sa(dp2680
+g2
+S'2015-12-04'
+p2681
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2682
+sg6
+S'15:12:42'
+p2683
+sg8
+V\u0628\u0646\u062a \u0645\u0637\u064a\u0631
+p2684
+sa(dp2685
+g2
+S'2015-12-04'
+p2686
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2687
+sg6
+S'15:12:41'
+p2688
+sg8
+V\u2654 \u0622\u0645\u0648\u064f\u0634\u064e\u06c1 \u200f
+p2689
+sa(dp2690
+g2
+S'2015-12-04'
+p2691
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2692
+sg6
+S'15:12:39'
+p2693
+sg8
+V\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0631\u0648\u064a\u0644\u064a
+p2694
+sa(dp2695
+g2
+S'2015-12-04'
+p2696
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2697
+sg6
+S'15:12:38'
+p2698
+sg8
+V\u0631\u06af\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0627\u062f\u06be?!
+p2699
+sa(dp2700
+g2
+S'2015-12-04'
+p2701
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2702
+sg6
+S'15:12:36'
+p2703
+sg8
+V\u0645\u0635\u0639\u0628 \u0627\u0644\u0639\u0645\u0631\u064a
+p2704
+sa(dp2705
+g2
+S'2015-12-04'
+p2706
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2707
+sg6
+S'15:12:35'
+p2708
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a
+p2709
+sa(dp2710
+g2
+S'2015-12-04'
+p2711
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2712
+sg6
+S'15:12:33'
+p2713
+sg8
+V\u062c\u064f\u0648\u064a\u0650\u062f
+p2714
+sa(dp2715
+g2
+S'2015-12-04'
+p2716
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2717
+sg6
+S'15:12:32'
+p2718
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2719
+sa(dp2720
+g2
+S'2015-12-04'
+p2721
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2722
+sg6
+S'15:12:30'
+p2723
+sg8
+V\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u0634\u0645\u0631\u064a
+p2724
+sa(dp2725
+g2
+S'2015-12-04'
+p2726
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2727
+sg6
+S'15:12:29'
+p2728
+sg8
+V\u0633\u0637\u0627\u0645 \u0627\u0644\u0631\u0648\u0642\u064a
+p2729
+sa(dp2730
+g2
+S'2015-12-04'
+p2731
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2732
+sg6
+S'15:12:27'
+p2733
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2734
+sa(dp2735
+g2
+S'2015-12-04'
+p2736
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2737
+sg6
+S'15:12:26'
+p2738
+sg8
+V\u0648\u0644\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0647
+p2739
+sa(dp2740
+g2
+S'2015-12-04'
+p2741
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2742
+sg6
+S'15:12:24'
+p2743
+sg8
+V\u0633\u0639\u062f \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p2744
+sa(dp2745
+g2
+S'2015-12-04'
+p2746
+sg4
+Vusatoday: rt lauramandaro: why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tec\u2026
+p2747
+sg6
+S'15:12:13'
+p2748
+sg8
+VMichael Voolaid
+p2749
+sa(dp2750
+g2
+S'2015-12-04'
+p2751
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2752
+sg6
+S'15:11:47'
+p2753
+sg8
+V\u0628\u064e\u0639\u0652\u062b\u064e\u0631\u0629 \u0645\u064f\u0648\u064e\u0622\u062c\u0652\u0639 \u200f
+p2754
+sa(dp2755
+g2
+S'2015-12-04'
+p2756
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2757
+sg6
+S'15:11:46'
+p2758
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p2759
+sa(dp2760
+g2
+S'2015-12-04'
+p2761
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2762
+sg6
+S'15:11:45'
+p2763
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0628\u0646 \u0645\u062d\u0645\u062f
+p2764
+sa(dp2765
+g2
+S'2015-12-04'
+p2766
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2767
+sg6
+S'15:11:44'
+p2768
+sg8
+V\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p2769
+sa(dp2770
+g2
+S'2015-12-04'
+p2771
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2772
+sg6
+S'15:11:43'
+p2773
+sg8
+V\u0632\u0642\u0631\u062a\u064a \u0642\u062f\u064a\u0645
+p2774
+sa(dp2775
+g2
+S'2015-12-04'
+p2776
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2777
+sg6
+S'15:11:41'
+p2778
+sg8
+V\u0631\u0627\u0626\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a
+p2779
+sa(dp2780
+g2
+S'2015-12-04'
+p2781
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2782
+sg6
+S'15:11:40'
+p2783
+sg8
+V\u062d\u0633\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p2784
+sa(dp2785
+g2
+S'2015-12-04'
+p2786
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2787
+sg6
+S'15:11:39'
+p2788
+sg8
+V\u0631\u0627\u0634\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2789
+sa(dp2790
+g2
+S'2015-12-04'
+p2791
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2792
+sg6
+S'15:11:37'
+p2793
+sg8
+V\u0646\u0651\u064f\u0648\u0646\u064f \u200f
+p2794
+sa(dp2795
+g2
+S'2015-12-04'
+p2796
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2797
+sg6
+S'15:11:35'
+p2798
+sg8
+V\u0628\u0646\u062f\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2799
+sa(dp2800
+g2
+S'2015-12-04'
+p2801
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2802
+sg6
+S'15:11:34'
+p2803
+sg8
+V\u0646\u0648\u0627\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2804
+sa(dp2805
+g2
+S'2015-12-04'
+p2806
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2807
+sg6
+S'15:11:32'
+p2808
+sg8
+V\u0645\u0637\u0644\u0642 \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2809
+sa(dp2810
+g2
+S'2015-12-04'
+p2811
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2812
+sg6
+S'15:11:31'
+p2813
+sg8
+V\u062e\u0622\u0644\u062f \u0627\u0644\u06af\u0646\u062f\u0631\u064a
+p2814
+sa(dp2815
+g2
+S'2015-12-04'
+p2816
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2817
+sg6
+S'15:11:30'
+p2818
+sg8
+V\u0635\u0627\u0644\u062d \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p2819
+sa(dp2820
+g2
+S'2015-12-04'
+p2821
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2822
+sg6
+S'15:11:28'
+p2823
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0641\u0642\u064a\u0631
+p2824
+sa(dp2825
+g2
+S'2015-12-04'
+p2826
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2827
+sg6
+S'15:11:27'
+p2828
+sg8
+V\u0645\u0631\u0634\u062f \u0627\u0644\u0628\u0630\u0627\u0644\u064a
+p2829
+sa(dp2830
+g2
+S'2015-12-04'
+p2831
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2832
+sg6
+S'15:11:26'
+p2833
+sg8
+V\u0627\u0644\u062f\u0644\u0628\u062d\u064a ?
+p2834
+sa(dp2835
+g2
+S'2015-12-04'
+p2836
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2837
+sg6
+S'15:11:25'
+p2838
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p2839
+sa(dp2840
+g2
+S'2015-12-04'
+p2841
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2842
+sg6
+S'15:11:23'
+p2843
+sg8
+V\u0645\u0627\u062c\u062f \u0627\u0644\u0633\u0631\u0628\u0627\u062a\u064a
+p2844
+sa(dp2845
+g2
+S'2015-12-04'
+p2846
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2847
+sg6
+S'15:11:22'
+p2848
+sg8
+V\u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0641\u0627\u0631\u0633
+p2849
+sa(dp2850
+g2
+S'2015-12-04'
+p2851
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2852
+sg6
+S'15:11:21'
+p2853
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0645\u0637\u064a\u0631\u064a
+p2854
+sa(dp2855
+g2
+S'2015-12-04'
+p2856
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2857
+sg6
+S'15:11:20'
+p2858
+sg8
+V\u062e\u0644\u0648\u0648\u062f\u064a
+p2859
+sa(dp2860
+g2
+S'2015-12-04'
+p2861
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2862
+sg6
+S'15:11:19'
+p2863
+sg8
+V? \u0623\u0645\u0628\u0631\u0627\u0637\u0648\u0631 ? \u200f
+p2864
+sa(dp2865
+g2
+S'2015-12-04'
+p2866
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2867
+sg6
+S'15:11:18'
+p2868
+sg8
+V\u062d\u0633\u064a\u0646 \u0633\u0644\u0637\u0627\u0646
+p2869
+sa(dp2870
+g2
+S'2015-12-04'
+p2871
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2872
+sg6
+S'15:11:17'
+p2873
+sg8
+V\u0623\u0639\u062a\u064f\u0642\u064a\u0646\u0651\u064a
+p2874
+sa(dp2875
+g2
+S'2015-12-04'
+p2876
+sg4
+Vrt AT_USER here we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2877
+sg6
+S'15:11:15'
+p2878
+sg8
+V\u0622\u0631\u06af\u062f \u0641\u062f\u064a\u0650\u062a\u06af
+p2879
+sa(dp2880
+g2
+S'2015-12-04'
+p2881
+sg4
+Vthe spoofing in $nflx is remarkable
+p2882
+sg6
+S'15:11:08'
+p2883
+sg8
+VDart
+p2884
+sa(dp2885
+g2
+S'2015-12-04'
+p2886
+sg4
+V$nflx the next short candidate off its double top.
+p2887
+sg6
+S'15:09:54'
+p2888
+sg8
+Vtheoptiondon
+p2889
+sa(dp2890
+g2
+S'2015-12-04'
+p2891
+sg4
+Vhere we go , 207.41 is strong enough $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2892
+sg6
+S'15:09:46'
+p2893
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p2894
+sa(dp2895
+g2
+S'2015-12-04'
+p2896
+sg4
+Vusatoday: rt lauramandaro: why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tec\u2026
+p2897
+sg6
+S'15:08:40'
+p2898
+sg8
+VDonna Stucker
+p2899
+sa(dp2900
+g2
+S'2015-12-04'
+p2901
+sg4
+V$nflx need to see it work or im out
+p2902
+sg6
+S'15:07:21'
+p2903
+sg8
+VPounder
+p2904
+sa(dp2905
+g2
+S'2015-12-04'
+p2906
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2907
+sg6
+S'15:06:47'
+p2908
+sg8
+VZayyyy
+p2909
+sa(dp2910
+g2
+S'2015-12-04'
+p2911
+sg4
+V$spy - call me skeptical, but w fang underperfoming, not sure this rally has legs today $fb $amzn $nflx $goog
+p2912
+sg6
+S'15:06:12'
+p2913
+sg8
+VResearch First
+p2914
+sa(dp2915
+g2
+S'2015-12-04'
+p2916
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2917
+sg6
+S'15:05:06'
+p2918
+sg8
+Vtigresunl
+p2919
+sa(dp2920
+g2
+S'2015-12-04'
+p2921
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2922
+sg6
+S'15:04:40'
+p2923
+sg8
+V@jAyLeN_b
+p2924
+sa(dp2925
+g2
+S'2015-12-04'
+p2926
+sg4
+Vnews rt lauramandaro: why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech in\u2026
+p2927
+sg6
+S'15:03:20'
+p2928
+sg8
+Vmoha.mmeddki88557474
+p2929
+sa(dp2930
+g2
+S'2015-12-04'
+p2931
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2932
+sg6
+S'15:02:01'
+p2933
+sg8
+VRoberto Roldan
+p2934
+sa(dp2935
+g2
+S'2015-12-04'
+p2936
+sg4
+Vupdate us stocks major news $cp -3.25% $msft +0.33% $yahoo +0.13% $googl +0.37% $gpro -5.23% $lyg +0.11% $nflx +0.51% $pfe +1.08%
+p2937
+sg6
+S'15:01:52'
+p2938
+sg8
+VInvest Huddle
+p2939
+sa(dp2940
+g2
+S'2015-12-04'
+p2941
+sg4
+Vrt AT_USER why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech into no\u2026
+p2942
+sg6
+S'14:58:53'
+p2943
+sg8
+VABT Publications
+p2944
+sa(dp2945
+g2
+S'2015-12-04'
+p2946
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p2947
+sg6
+S'14:58:46'
+p2948
+sg8
+VUSA TODAY
+p2949
+sa(dp2950
+g2
+S'2015-12-04'
+p2951
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2952
+sg6
+S'14:58:32'
+p2953
+sg8
+V\u0648\u0644\u064a\u062f \u0627\u0644\u062c\u0631\u064a\u0633\u064a
+p2954
+sa(dp2955
+g2
+S'2015-12-04'
+p2956
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2957
+sg6
+S'14:58:31'
+p2958
+sg8
+V\u0631\u0627\u0645\u064a !!
+p2959
+sa(dp2960
+g2
+S'2015-12-04'
+p2961
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2962
+sg6
+S'14:58:30'
+p2963
+sg8
+V\u0639\u064a\u0633\u0649 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p2964
+sa(dp2965
+g2
+S'2015-12-04'
+p2966
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2967
+sg6
+S'14:58:29'
+p2968
+sg8
+V\u0633\u0627\u0644\u0645 \u0627\u0644\u0633\u0628\u064a\u0639\u064a
+p2969
+sa(dp2970
+g2
+S'2015-12-04'
+p2971
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2972
+sg6
+S'14:58:28'
+p2973
+sg8
+V\u0639\u0627\u0645\u0631 \u0627\u0644\u0646\u0641\u064a\u0639\u064a
+p2974
+sa(dp2975
+g2
+S'2015-12-04'
+p2976
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2977
+sg6
+S'14:58:27'
+p2978
+sg8
+V\u0641\u0647\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p2979
+sa(dp2980
+g2
+S'2015-12-04'
+p2981
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2982
+sg6
+S'14:58:26'
+p2983
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0632\u0643\u0631\u064a
+p2984
+sa(dp2985
+g2
+S'2015-12-04'
+p2986
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2987
+sg6
+S'14:58:24'
+p2988
+sg8
+V\u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0631\u0648\u0642\u064a
+p2989
+sa(dp2990
+g2
+S'2015-12-04'
+p2991
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2992
+sg6
+S'14:58:23'
+p2993
+sg8
+V\u062d\u0633\u064a\u0646 \u0627\u0644\u0633\u0644\u0637\u0627\u0646
+p2994
+sa(dp2995
+g2
+S'2015-12-04'
+p2996
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p2997
+sg6
+S'14:58:22'
+p2998
+sg8
+V\u0647\u0640\u0643\u0648\u0646\u0640\u0627 \u0645\u0640\u0627\u062a\u0640\u0627\u062a\u0640\u0627?
+p2999
+sa(dp3000
+g2
+S'2015-12-04'
+p3001
+sg4
+Vrt AT_USER why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech into no\u2026
+p3002
+sg6
+S'14:57:15'
+p3003
+sg8
+VUSA TODAY
+p3004
+sa(dp3005
+g2
+S'2015-12-04'
+p3006
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p3007
+sg6
+S'14:56:55'
+p3008
+sg8
+VJordan Hall
+p3009
+sa(dp3010
+g2
+S'2015-12-04'
+p3011
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3012
+sg6
+S'14:56:20'
+p3013
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0627\u0627\u0644\u0647 \u0627\u0644\u064a\u0627\u0641\u0639\u064a
+p3014
+sa(dp3015
+g2
+S'2015-12-04'
+p3016
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3017
+sg6
+S'14:56:19'
+p3018
+sg8
+V\u0631\u064e\u062d\u0651\u0640\u0640\u0640\u0640\u0640\u0627\u0644
+p3019
+sa(dp3020
+g2
+S'2015-12-04'
+p3021
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3022
+sg6
+S'14:56:18'
+p3023
+sg8
+V\u0646\u0647\u064a\u0631 \u0627\u0644\u0634\u0645\u0631\u064a
+p3024
+sa(dp3025
+g2
+S'2015-12-04'
+p3026
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3027
+sg6
+S'14:56:17'
+p3028
+sg8
+V\u0631\u0627\u0643\u0627\u0646 \u0627\u0644\u0639\u062c\u0645\u064a
+p3029
+sa(dp3030
+g2
+S'2015-12-04'
+p3031
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3032
+sg6
+S'14:56:16'
+p3033
+sg8
+V:$\u064a\u0627 \u0628\u0639\u062f\u0647\u0640\u0645 \u06af\u0644\u0647\u0640\u0645:$
+p3034
+sa(dp3035
+g2
+S'2015-12-04'
+p3036
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3037
+sg6
+S'14:56:15'
+p3038
+sg8
+V\u0628\u0646\u062a \u0633\u062f\u064a\u0631
+p3039
+sa(dp3040
+g2
+S'2015-12-04'
+p3041
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3042
+sg6
+S'14:56:14'
+p3043
+sg8
+V~~\u0645\u062a\u0641\u0627\u0626\u0644\u0647~~
+p3044
+sa(dp3045
+g2
+S'2015-12-04'
+p3046
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3047
+sg6
+S'14:56:13'
+p3048
+sg8
+V\u0645\u064a\u0633\u0645 \u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p3049
+sa(dp3050
+g2
+S'2015-12-04'
+p3051
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3052
+sg6
+S'14:56:12'
+p3053
+sg8
+V\u0627\u0644\u0632\u0647\u0631\u0647 \u0627\u0644\u0628\u064a\u0636\u0627\u0621
+p3054
+sa(dp3055
+g2
+S'2015-12-04'
+p3056
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3057
+sg6
+S'14:56:10'
+p3058
+sg8
+V\u0644\u0637\u064a\u0641\u0647
+p3059
+sa(dp3060
+g2
+S'2015-12-04'
+p3061
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3062
+sg6
+S'14:56:09'
+p3063
+sg8
+V\u0628\u0646\u0648\u062a\u0647 \u0645\u0632\u064a\u0648\u0646\u0647
+p3064
+sa(dp3065
+g2
+S'2015-12-04'
+p3066
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3067
+sg6
+S'14:56:08'
+p3068
+sg8
+V\u062e\u0648\u0644\u06c1\u064e\u06c1 \u0627\u0644\u0641\u0631\u064a\u0640\u03b6\u270e \u200f
+p3069
+sa(dp3070
+g2
+S'2015-12-04'
+p3071
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3072
+sg6
+S'14:56:07'
+p3073
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u062f\u0644\u0645
+p3074
+sa(dp3075
+g2
+S'2015-12-04'
+p3076
+sg4
+Vrt AT_USER leader stocks holding up so far. $nflx $goog $amzn.
+p3077
+sg6
+S'14:56:07'
+p3078
+sg8
+VCraig Howard
+p3079
+sa(dp3080
+g2
+S'2015-12-04'
+p3081
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3082
+sg6
+S'14:56:06'
+p3083
+sg8
+V\u0648\u062c\u062f\u0627\u0646 \u0627\u0644\u0646\u0627\u0635\u0631
+p3084
+sa(dp3085
+g2
+S'2015-12-04'
+p3086
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3087
+sg6
+S'14:56:05'
+p3088
+sg8
+V\u0639\u0634\u06d2\u0642 \u0628\u062f\u0648\u064a\u06d2\u0647
+p3089
+sa(dp3090
+g2
+S'2015-12-04'
+p3091
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3092
+sg6
+S'14:56:04'
+p3093
+sg8
+V\u0627\u0631\u0648\u0639 \u0627\u0646\u0633\u0627\u0646\u0647\ue414
+p3094
+sa(dp3095
+g2
+S'2015-12-04'
+p3096
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3097
+sg6
+S'14:56:03'
+p3098
+sg8
+V\u0634\u064a\u062e\u0629 \u0627\u0644\u0628\u0646\u0627\u062a
+p3099
+sa(dp3100
+g2
+S'2015-12-04'
+p3101
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3102
+sg6
+S'14:56:02'
+p3103
+sg8
+V\u0639\u0622\u0628\u0650\u062b\u064e\u0647\u0647\u0651 \u266a
+p3104
+sa(dp3105
+g2
+S'2015-12-04'
+p3106
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3107
+sg6
+S'14:56:01'
+p3108
+sg8
+V\u0622\u0622\u0622\u0622\u0622\u0646\u064a\u064d\u0646 \u200b\u200f\u200b\u200f\u200b\u200f\u200b
+p3109
+sa(dp3110
+g2
+S'2015-12-04'
+p3111
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3112
+sg6
+S'14:55:59'
+p3113
+sg8
+V\u0645\u0646\u0648\u0648\u0648\u0644 \u0627\u0644\u0634\u06c1\u0631\u06cc\u06d2
+p3114
+sa(dp3115
+g2
+S'2015-12-04'
+p3116
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3117
+sg6
+S'14:55:58'
+p3118
+sg8
+V\u0641\u0627\u0637\u0645\u0647 \u0627\u0644\u0645\u062d\u064a\u0633\u0646
+p3119
+sa(dp3120
+g2
+S'2015-12-04'
+p3121
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3122
+sg6
+S'14:55:57'
+p3123
+sg8
+V\u0645\u064f\u062e\u062a\u0644\u0641\u064e\u0647\u06c1
+p3124
+sa(dp3125
+g2
+S'2015-12-04'
+p3126
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3127
+sg6
+S'14:55:56'
+p3128
+sg8
+V\u0627\u0644\u0628\u062a\u0648\u0644 \u0647\u0632\u0627\u0632\u064a
+p3129
+sa(dp3130
+g2
+S'2015-12-04'
+p3131
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3132
+sg6
+S'14:55:55'
+p3133
+sg8
+V\u0631\u062a\u064a\u0644 \u0627\u0644 \u0639\u0628\u062f\u0627\u0644\u0644\u0647
+p3134
+sa(dp3135
+g2
+S'2015-12-04'
+p3136
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3137
+sg6
+S'14:55:54'
+p3138
+sg8
+V\u0641\u0631\u064a\u0627\u0644 \u0627\u0644\u0639\u0627\u0632\u0645\u064a
+p3139
+sa(dp3140
+g2
+S'2015-12-04'
+p3141
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3142
+sg6
+S'14:55:53'
+p3143
+sg8
+V\u0628\u0646\u062a \u0627\u0644\u0631\u064a\u0627\u0636
+p3144
+sa(dp3145
+g2
+S'2015-12-04'
+p3146
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3147
+sg6
+S'14:55:52'
+p3148
+sg8
+V\u0632\u0648\u0632\u062a\u0643\u0643\u064e \u266b'\u0633\u0645\u0631\u0648\u0646\u0647\u0647
+p3149
+sa(dp3150
+g2
+S'2015-12-04'
+p3151
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3152
+sg6
+S'14:55:51'
+p3153
+sg8
+V\u0645\u0628\u0631\u0642\u0639\u0647
+p3154
+sa(dp3155
+g2
+S'2015-12-04'
+p3156
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3157
+sg6
+S'14:55:50'
+p3158
+sg8
+V\u0645\u0627\u0647\u0645\u0646\u064a \u0631\u062d\u064a\u0644\u0643.
+p3159
+sa(dp3160
+g2
+S'2015-12-04'
+p3161
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3162
+sg6
+S'14:55:49'
+p3163
+sg8
+V\u0645\u0647\u0627 \u0627\u0644\u0628\u0644\u0648\u064a
+p3164
+sa(dp3165
+g2
+S'2015-12-04'
+p3166
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3167
+sg6
+S'14:54:56'
+p3168
+sg8
+V\u266a\u2661 \u0627\u0644\u0645\u062c\u0646\u0624\u0646\u0640\u06c1\u064e\u06c1 \u060c\u060c
+p3169
+sa(dp3170
+g2
+S'2015-12-04'
+p3171
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3172
+sg6
+S'14:54:55'
+p3173
+sg8
+V\u0635\u064a\u062a\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p3174
+sa(dp3175
+g2
+S'2015-12-04'
+p3176
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3177
+sg6
+S'14:54:54'
+p3178
+sg8
+V\u067a\u0639\u0628 \u062d\u0622\u0644\u064a\u06d2
+p3179
+sa(dp3180
+g2
+S'2015-12-04'
+p3181
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3182
+sg6
+S'14:54:53'
+p3183
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u062c\u0627\u0628\u0631\u064a
+p3184
+sa(dp3185
+g2
+S'2015-12-04'
+p3186
+sg4
+Vrt AT_USER fcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t\u2026
+p3187
+sg6
+S'14:54:53'
+p3188
+sg8
+VLaura Mandaro
+p3189
+sa(dp3190
+g2
+S'2015-12-04'
+p3191
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3192
+sg6
+S'14:54:52'
+p3193
+sg8
+V\u0627\u0644\u062d\u0627\u0644\u0645\u0647
+p3194
+sa(dp3195
+g2
+S'2015-12-04'
+p3196
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3197
+sg6
+S'14:54:51'
+p3198
+sg8
+V\u0639\u0632\u06c5\u200f\u200b\u0641\u0640\u0627 \ufe8e\u0644\u0633\u0628\u064a\u0640\u0639\u064a
+p3199
+sa(dp3200
+g2
+S'2015-12-04'
+p3201
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3202
+sg6
+S'14:54:50'
+p3203
+sg8
+V\u062e\u0644\u0648\u062f \u0627\u0644\u062d\u0631\u0628\u064a
+p3204
+sa(dp3205
+g2
+S'2015-12-04'
+p3206
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3207
+sg6
+S'14:54:49'
+p3208
+sg8
+V\u0646\u0647\u0626 \u0627\u0644\u062e\u0627\u0644\u062f\u064a
+p3209
+sa(dp3210
+g2
+S'2015-12-04'
+p3211
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3212
+sg6
+S'14:54:48'
+p3213
+sg8
+V\u0647\u064a\u0641\u0627\u0621 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p3214
+sa(dp3215
+g2
+S'2015-12-04'
+p3216
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3217
+sg6
+S'14:54:47'
+p3218
+sg8
+V\u0634\u0645\u0640\u0640\u0648\u062e \u200f
+p3219
+sa(dp3220
+g2
+S'2015-12-04'
+p3221
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3222
+sg6
+S'14:54:46'
+p3223
+sg8
+V\u0627\u0646\u0647\u0627\u0631 \u0627\u0644\u0641\u064a\u0635\u0644
+p3224
+sa(dp3225
+g2
+S'2015-12-04'
+p3226
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3227
+sg6
+S'14:54:45'
+p3228
+sg8
+V\u0627\u062b\u064a\u0631 \u0627\u0644\u0639\u0635\u064a\u0645\u064a
+p3229
+sa(dp3230
+g2
+S'2015-12-04'
+p3231
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3232
+sg6
+S'14:54:43'
+p3233
+sg8
+V\u0631\u064a\u0646\u0627\u062f \u0627\u0644\u0634\u0645\u0631\u064a
+p3234
+sa(dp3235
+g2
+S'2015-12-04'
+p3236
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3237
+sg6
+S'14:54:42'
+p3238
+sg8
+V\u0631\u062c\u064a\u062a\u0643
+p3239
+sa(dp3240
+g2
+S'2015-12-04'
+p3241
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3242
+sg6
+S'14:54:41'
+p3243
+sg8
+V\u0643\u0644\u064a \u064a\u0628\u064a\u0643\u0640 \u273f
+p3244
+sa(dp3245
+g2
+S'2015-12-04'
+p3246
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3247
+sg6
+S'14:54:40'
+p3248
+sg8
+V\u0646\u0633\u0627\u064a\u0645 \u0644\u064a\u0644
+p3249
+sa(dp3250
+g2
+S'2015-12-04'
+p3251
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3252
+sg6
+S'14:54:39'
+p3253
+sg8
+V\u0634\u0648\u0642 \u0627\u0644\u062d\u0631\u0628\u064a
+p3254
+sa(dp3255
+g2
+S'2015-12-04'
+p3256
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3257
+sg6
+S'14:54:38'
+p3258
+sg8
+V\u0628\u0646\u062a \u0645\u0637\u064a\u0631
+p3259
+sa(dp3260
+g2
+S'2015-12-04'
+p3261
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3262
+sg6
+S'14:54:37'
+p3263
+sg8
+V\u2654 \u0622\u0645\u0648\u064f\u0634\u064e\u06c1 \u200f
+p3264
+sa(dp3265
+g2
+S'2015-12-04'
+p3266
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3267
+sg6
+S'14:54:36'
+p3268
+sg8
+V\u062f\u0627\u0646\u064a\u0629 \u0627\u0644\u0631\u0648\u064a\u0644\u064a
+p3269
+sa(dp3270
+g2
+S'2015-12-04'
+p3271
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3272
+sg6
+S'14:54:35'
+p3273
+sg8
+V\u0631\u06af\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0640\u064e\u0627\u062f\u06be?!
+p3274
+sa(dp3275
+g2
+S'2015-12-04'
+p3276
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3277
+sg6
+S'14:54:34'
+p3278
+sg8
+V\u0645\u0635\u0639\u0628 \u0627\u0644\u0639\u0645\u0631\u064a
+p3279
+sa(dp3280
+g2
+S'2015-12-04'
+p3281
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3282
+sg6
+S'14:54:32'
+p3283
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0634\u0631\u0627\u0631\u064a
+p3284
+sa(dp3285
+g2
+S'2015-12-04'
+p3286
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3287
+sg6
+S'14:54:31'
+p3288
+sg8
+V\u062c\u064f\u0648\u064a\u0650\u062f
+p3289
+sa(dp3290
+g2
+S'2015-12-04'
+p3291
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3292
+sg6
+S'14:54:30'
+p3293
+sg8
+V\u062e\u0627\u0644\u062f \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p3294
+sa(dp3295
+g2
+S'2015-12-04'
+p3296
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3297
+sg6
+S'14:54:29'
+p3298
+sg8
+V\u0627\u0633\u0627\u0645\u0647 \u0627\u0644\u0634\u0645\u0631\u064a
+p3299
+sa(dp3300
+g2
+S'2015-12-04'
+p3301
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3302
+sg6
+S'14:54:28'
+p3303
+sg8
+V\u0633\u0637\u0627\u0645 \u0627\u0644\u0631\u0648\u0642\u064a
+p3304
+sa(dp3305
+g2
+S'2015-12-04'
+p3306
+sg4
+Vsubscription revenue can be overvalued. look at $nflx, trading at p/s ratio comp to companies with twice the gross margin $twtr $googl
+p3307
+sg6
+S'14:54:28'
+p3308
+sg8
+VTom Carmona
+p3309
+sa(dp3310
+g2
+S'2015-12-04'
+p3311
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3312
+sg6
+S'14:54:27'
+p3313
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p3314
+sa(dp3315
+g2
+S'2015-12-04'
+p3316
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3317
+sg6
+S'14:54:26'
+p3318
+sg8
+V\u0648\u0644\u062f \u0627\u0644\u0634\u0631\u0642\u064a\u0647
+p3319
+sa(dp3320
+g2
+S'2015-12-04'
+p3321
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3322
+sg6
+S'14:54:25'
+p3323
+sg8
+V\u0633\u0639\u062f \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p3324
+sa(dp3325
+g2
+S'2015-12-04'
+p3326
+sg4
+V$googl running but $amzn and $nflx stuck. likley because of that youtube streaming content news bite du jour
+p3327
+sg6
+S'14:54:18'
+p3328
+sg8
+VCarolyn Marshall
+p3329
+sa(dp3330
+g2
+S'2015-12-04'
+p3331
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3332
+sg6
+S'14:53:41'
+p3333
+sg8
+V\u0628\u064e\u0639\u0652\u062b\u064e\u0631\u0629 \u0645\u064f\u0648\u064e\u0622\u062c\u0652\u0639 \u200f
+p3334
+sa(dp3335
+g2
+S'2015-12-04'
+p3336
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3337
+sg6
+S'14:53:40'
+p3338
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p3339
+sa(dp3340
+g2
+S'2015-12-04'
+p3341
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3342
+sg6
+S'14:53:39'
+p3343
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0628\u0646 \u0645\u062d\u0645\u062f
+p3344
+sa(dp3345
+g2
+S'2015-12-04'
+p3346
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3347
+sg6
+S'14:53:38'
+p3348
+sg8
+V\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0645\u0631\u0627\u0646\u064a
+p3349
+sa(dp3350
+g2
+S'2015-12-04'
+p3351
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3352
+sg6
+S'14:53:37'
+p3353
+sg8
+V\u0632\u0642\u0631\u062a\u064a \u0642\u062f\u064a\u0645
+p3354
+sa(dp3355
+g2
+S'2015-12-04'
+p3356
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3357
+sg6
+S'14:53:36'
+p3358
+sg8
+V\u0631\u0627\u0626\u062f \u0627\u0644\u063a\u0627\u0645\u062f\u064a
+p3359
+sa(dp3360
+g2
+S'2015-12-04'
+p3361
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3362
+sg6
+S'14:53:35'
+p3363
+sg8
+V\u062d\u0633\u0627\u0646 \u0627\u0644\u062a\u0645\u064a\u0645\u064a
+p3364
+sa(dp3365
+g2
+S'2015-12-04'
+p3366
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3367
+sg6
+S'14:53:34'
+p3368
+sg8
+V\u0631\u0627\u0634\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p3369
+sa(dp3370
+g2
+S'2015-12-04'
+p3371
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3372
+sg6
+S'14:53:32'
+p3373
+sg8
+V\u0646\u0651\u064f\u0648\u0646\u064f \u200f
+p3374
+sa(dp3375
+g2
+S'2015-12-04'
+p3376
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3377
+sg6
+S'14:53:30'
+p3378
+sg8
+V\u0628\u0646\u062f\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p3379
+sa(dp3380
+g2
+S'2015-12-04'
+p3381
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3382
+sg6
+S'14:53:29'
+p3383
+sg8
+V\u0646\u0648\u0627\u0631 \u0627\u0644\u0639\u062a\u064a\u0628\u064a
+p3384
+sa(dp3385
+g2
+S'2015-12-04'
+p3386
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3387
+sg6
+S'14:53:28'
+p3388
+sg8
+V\u0645\u0637\u0644\u0642 \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p3389
+sa(dp3390
+g2
+S'2015-12-04'
+p3391
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3392
+sg6
+S'14:53:27'
+p3393
+sg8
+V\u062e\u0622\u0644\u062f \u0627\u0644\u06af\u0646\u062f\u0631\u064a
+p3394
+sa(dp3395
+g2
+S'2015-12-04'
+p3396
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3397
+sg6
+S'14:53:25'
+p3398
+sg8
+V\u0635\u0627\u0644\u062d \u0627\u0644\u0631\u0634\u064a\u062f\u064a
+p3399
+sa(dp3400
+g2
+S'2015-12-04'
+p3401
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3402
+sg6
+S'14:53:24'
+p3403
+sg8
+V\u062b\u0627\u0645\u0631 \u0627\u0644\u0641\u0642\u064a\u0631
+p3404
+sa(dp3405
+g2
+S'2015-12-04'
+p3406
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3407
+sg6
+S'14:53:23'
+p3408
+sg8
+V\u0645\u0631\u0634\u062f \u0627\u0644\u0628\u0630\u0627\u0644\u064a
+p3409
+sa(dp3410
+g2
+S'2015-12-04'
+p3411
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3412
+sg6
+S'14:53:22'
+p3413
+sg8
+V\u0627\u0644\u062f\u0644\u0628\u062d\u064a ?
+p3414
+sa(dp3415
+g2
+S'2015-12-04'
+p3416
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3417
+sg6
+S'14:53:21'
+p3418
+sg8
+V\u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u062f\u0648\u0633\u0631\u064a
+p3419
+sa(dp3420
+g2
+S'2015-12-04'
+p3421
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3422
+sg6
+S'14:53:18'
+p3423
+sg8
+V\u0645\u0627\u062c\u062f \u0627\u0644\u0633\u0631\u0628\u0627\u062a\u064a
+p3424
+sa(dp3425
+g2
+S'2015-12-04'
+p3426
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3427
+sg6
+S'14:53:17'
+p3428
+sg8
+V\u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0641\u0627\u0631\u0633
+p3429
+sa(dp3430
+g2
+S'2015-12-04'
+p3431
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3432
+sg6
+S'14:53:16'
+p3433
+sg8
+V\u0628\u062f\u0631 \u0627\u0644\u0645\u0637\u064a\u0631\u064a
+p3434
+sa(dp3435
+g2
+S'2015-12-04'
+p3436
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3437
+sg6
+S'14:53:15'
+p3438
+sg8
+V\u062e\u0644\u0648\u0648\u062f\u064a
+p3439
+sa(dp3440
+g2
+S'2015-12-04'
+p3441
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3442
+sg6
+S'14:53:14'
+p3443
+sg8
+V? \u0623\u0645\u0628\u0631\u0627\u0637\u0648\u0631 ? \u200f
+p3444
+sa(dp3445
+g2
+S'2015-12-04'
+p3446
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3447
+sg6
+S'14:53:13'
+p3448
+sg8
+V\u062d\u0633\u064a\u0646 \u0633\u0644\u0637\u0627\u0646
+p3449
+sa(dp3450
+g2
+S'2015-12-04'
+p3451
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3452
+sg6
+S'14:53:12'
+p3453
+sg8
+V\u0623\u0639\u062a\u064f\u0642\u064a\u0646\u0651\u064a
+p3454
+sa(dp3455
+g2
+S'2015-12-04'
+p3456
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3457
+sg6
+S'14:53:11'
+p3458
+sg8
+V\u0622\u0631\u06af\u062f \u0641\u062f\u064a\u0650\u062a\u06af
+p3459
+sa(dp3460
+g2
+S'2015-12-04'
+p3461
+sg4
+Vrt AT_USER leader stocks holding up so far. $nflx $goog $amzn.
+p3462
+sg6
+S'14:53:03'
+p3463
+sg8
+V\u266b\u266a Soul Girl \u266a\u266b
+p3464
+sa(dp3465
+g2
+S'2015-12-04'
+p3466
+sg4
+Vrt AT_USER $spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3467
+sg6
+S'14:52:58'
+p3468
+sg8
+V\u0646\u0627\u0635\u0631 \u0622\u0644 \u062d\u0633\u064a\u0646\u0647
+p3469
+sa(dp3470
+g2
+S'2015-12-04'
+p3471
+sg4
+V$nflx got long on this little pullback.
+p3472
+sg6
+S'14:52:18'
+p3473
+sg8
+VPounder
+p3474
+sa(dp3475
+g2
+S'2015-12-04'
+p3476
+sg4
+Vno quit in $nflx....
+p3477
+sg6
+S'14:51:58'
+p3478
+sg8
+VAndrew Dice Sorkin
+p3479
+sa(dp3480
+g2
+S'2015-12-04'
+p3481
+sg4
+Vfcc to defend its netneutrality rules in court friday. here\u2019s a rundown of players and rules. URL $t $nflx
+p3482
+sg6
+S'14:51:49'
+p3483
+sg8
+VUSA TODAY Tech
+p3484
+sa(dp3485
+g2
+S'2015-12-04'
+p3486
+sg4
+V$spy is testing last support .. keep eyes on 207.41 level $spx $qqq $dji $uso $uup $nflx $gool $bidu URL
+p3487
+sg6
+S'14:51:23'
+p3488
+sg8
+V\u062c\u0627\u0628\u0631 \u0646\u0641\u0627\u0639
+p3489
+sa(dp3490
+g2
+S'2015-12-04'
+p3491
+sg4
+Veasy morning on $nflx $ibb buying the intraday breakouts, $bidu bit of a pull-pack but averaged in quickly. all done for now except $ibb
+p3492
+sg6
+S'14:50:27'
+p3493
+sg8
+VMichael Estabrooks
+p3494
+sa(dp3495
+g2
+S'2015-12-04'
+p3496
+sg4
+Vleader stocks holding up so far. $nflx $goog $amzn.
+p3497
+sg6
+S'14:49:58'
+p3498
+sg8
+VNYC Trader
+p3499
+sa(dp3500
+g2
+S'2015-12-04'
+p3501
+sg4
+Voption millionaires: nolerman: bto $nflx $125 wps AT_USER going to look for URL
+p3502
+sg6
+S'14:49:36'
+p3503
+sg8
+VPerfor Mance
+p3504
+sa(dp3505
+g2
+S'2015-12-04'
+p3506
+sg4
+Voption millionaires: nolerman: bto $nflx $125 wps AT_USER going to look for URL
+p3507
+sg6
+S'14:49:36'
+p3508
+sg8
+VMani Ohli
+p3509
+sa(dp3510
+g2
+S'2015-12-04'
+p3511
+sg4
+Va lack of r4 breakouts over the last 3 weeks on $nflx, $amzn, $googl, this will be my tell of strength, when i see more r4 breakouts
+p3512
+sg6
+S'14:49:19'
+p3513
+sg8
+VMark Moskowitz
+p3514
+sa(dp3515
+g2
+S'2015-12-04'
+p3516
+sg4
+Vrt AT_USER mid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol http\u2026
+p3517
+sg6
+S'14:48:37'
+p3518
+sg8
+VTopFiveTraders
+p3519
+sa(dp3520
+g2
+S'2015-12-04'
+p3521
+sg4
+Vrt AT_USER mid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol h\u2026
+p3522
+sg6
+S'14:48:37'
+p3523
+sg8
+VTopFiveTraders
+p3524
+sa(dp3525
+g2
+S'2015-12-04'
+p3526
+sg4
+Vlot's of chatter about fang underperforming $fb $amzn $nflx $goog - come on people, what do you want them to be up 3% every day?
+p3527
+sg6
+S'14:45:53'
+p3528
+sg8
+VVlad Mazek
+p3529
+sa(dp3530
+g2
+S'2015-12-04'
+p3531
+sg4
+V$nflx in 225 p seeing some divergence..
+p3532
+sg6
+S'14:44:20'
+p3533
+sg8
+VOptionsAim
+p3534
+sa(dp3535
+g2
+S'2015-12-04'
+p3536
+sg4
+Vrt AT_USER why is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech into no\u2026
+p3537
+sg6
+S'14:44:19'
+p3538
+sg8
+VUSA TODAY Tech
+p3539
+sa(dp3540
+g2
+S'2015-12-04'
+p3541
+sg4
+Vwhy is tech attractive? cloud computing; expansion of internet economy that benefits co\u2019s like $nflx, $lnkd; tech into non-tech markets16
+p3542
+sg6
+S'14:43:43'
+p3543
+sg8
+VLaura Mandaro
+p3544
+sa(dp3545
+g2
+S'2015-12-04'
+p3546
+sg4
+Vrt AT_USER mid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol http\u2026
+p3547
+sg6
+S'14:42:52'
+p3548
+sg8
+VNASDAQStocks
+p3549
+sa(dp3550
+g2
+S'2015-12-04'
+p3551
+sg4
+Vrt AT_USER mid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol h\u2026
+p3552
+sg6
+S'14:42:51'
+p3553
+sg8
+VNASDAQStocks
+p3554
+sa(dp3555
+g2
+S'2015-12-04'
+p3556
+sg4
+Vholy epic squeeze! $baba $fit $nflx $vrx $panw
+p3557
+sg6
+S'14:42:02'
+p3558
+sg8
+VTrax
+p3559
+sa(dp3560
+g2
+S'2015-12-04'
+p3561
+sg4
+Vlong $amzn 665.08 looking for a run higher today in $spy and $qqq. also long $nflx 127.07
+p3562
+sg6
+S'14:40:22'
+p3563
+sg8
+VSteve Wakelin
+p3564
+sa(dp3565
+g2
+S'2015-12-04'
+p3566
+sg4
+V$nflx bounce
+p3567
+sg6
+S'14:39:25'
+p3568
+sg8
+VNick Smith
+p3569
+sa(dp3570
+g2
+S'2015-12-04'
+p3571
+sg4
+Vmy $nflx shares just got called away... i'm fine with that; 'twas a good run-- iphone 6s paid for many times over..
+p3572
+sg6
+S'14:36:49'
+p3573
+sg8
+VEddy Heisenberg Mah
+p3574
+sa(dp3575
+g2
+S'2015-12-04'
+p3576
+sg4
+V$nflx has almost completely reversed wednesday's big pop. stock sitting at bottom of uptrend channel tho.
+p3577
+sg6
+S'14:35:02'
+p3578
+sg8
+VDr. Duru
+p3579
+sa(dp3580
+g2
+S'2015-12-04'
+p3581
+sg4
+Vfang underperforming...uh-oh fund manager group think not working $googl $fb $amzn $nflx
+p3582
+sg6
+S'14:33:39'
+p3583
+sg8
+VMr Popular
+p3584
+sa(dp3585
+g2
+S'2015-12-04'
+p3586
+sg4
+Vto be honest i am tired of $nflx .. i can't find any movie i want to watch ..
+p3587
+sg6
+S'14:29:20'
+p3588
+sg8
+VTradeTherapAnalytics
+p3589
+sa(dp3590
+g2
+S'2015-12-04'
+p3591
+sg4
+Vradar: $nflx $127 calls
+p3592
+sg6
+S'14:28:56'
+p3593
+sg8
+VLive2Trade
+p3594
+sa(dp3595
+g2
+S'2015-12-04'
+p3596
+sg4
+V$nflx form 4's arrive in the morning and they scream buy! heavy buying by insiders since december 1, 2015!
+p3597
+sg6
+S'14:24:30'
+p3598
+sg8
+VHaj
+p3599
+sa(dp3600
+g2
+S'2015-12-04'
+p3601
+sg4
+Vi focused on one. i'm batting about 50% on them, but wins are much larger than losses. $cmg $aapl $nflx
+p3602
+sg6
+S'14:24:20'
+p3603
+sg8
+VJT
+p3604
+sa(dp3605
+g2
+S'2015-12-04'
+p3606
+sg4
+Vrt AT_USER mid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol h\u2026
+p3607
+sg6
+S'14:19:45'
+p3608
+sg8
+VArmand
+p3609
+sa(dp3610
+g2
+S'2015-12-04'
+p3611
+sg4
+Vkeeping an eye on yest low for poss ss clip on $nflx
+p3612
+sg6
+S'14:14:53'
+p3613
+sg8
+VTug
+p3614
+sa(dp3615
+g2
+S'2015-12-04'
+p3616
+sg4
+Vnflx top news - dec 4th, 2015 $nflx URL
+p3617
+sg6
+S'14:14:52'
+p3618
+sg8
+VSweet Platform
+p3619
+sa(dp3620
+g2
+S'2015-12-04'
+p3621
+sg4
+Vmid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol URL
+p3622
+sg6
+S'14:08:26'
+p3623
+sg8
+VWarrior Trading News
+p3624
+sa(dp3625
+g2
+S'2015-12-04'
+p3626
+sg4
+Vmid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol URL
+p3627
+sg6
+S'14:08:15'
+p3628
+sg8
+VMike H
+p3629
+sa(dp3630
+g2
+S'2015-12-04'
+p3631
+sg4
+Vmid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol URL
+p3632
+sg6
+S'14:08:05'
+p3633
+sg8
+VSwing Trade Warrior
+p3634
+sa(dp3635
+g2
+S'2015-12-04'
+p3636
+sg4
+Vmid-day market recap from warrior trading URL stocks trading $gpro $spy $nflx $trvn $aria $tol URL
+p3637
+sg6
+S'14:08:01'
+p3638
+sg8
+VRoss Cameron
+p3639
+sa(dp3640
+g2
+S'2015-12-04'
+p3641
+sg4
+VAT_USER reall wish i'd bought it 13 years ago: URL $nflx netflix netflixandchill
+p3642
+sg6
+S'14:04:46'
+p3643
+sg8
+VStockchoker
+p3644
+sa(dp3645
+g2
+S'2015-12-04'
+p3646
+sg4
+V$nflx investors should learn some math: URL the company is going downhill. the only thing that saves it - more equity
+p3647
+sg6
+S'14:01:31'
+p3648
+sg8
+VSociete Financiers
+p3649
+sa(dp3650
+g2
+S'2015-12-04'
+p3651
+sg4
+Vshaping a corporate culture. no one goes hungry. $nflx URL
+p3652
+sg6
+S'13:59:35'
+p3653
+sg8
+V149
+p3654
+sa(dp3655
+g2
+S'2015-12-04'
+p3656
+sg4
+V$nflx nasdaq trading stocks this week's trading report URL
+p3657
+sg6
+S'13:59:34'
+p3658
+sg8
+VBruce J Moschella 
+p3659
+sa(dp3660
+g2
+S'2015-12-04'
+p3661
+sg4
+VAT_USER just buy $nflx every day
+p3662
+sg6
+S'13:48:50'
+p3663
+sg8
+VNorthy
+p3664
+sa(dp3665
+g2
+S'2015-12-04'
+p3666
+sg4
+Vjonathan friedland sells 1,309 shares of netflix, inc. $nflx stock URL
+p3667
+sg6
+S'13:38:56'
+p3668
+sg8
+VDakota Financial
+p3669
+sa(dp3670
+g2
+S'2015-12-04'
+p3671
+sg4
+Vjonathan friedland sells 1,309 shares of netflix, inc. $nflx stock URL acn
+p3672
+sg6
+S'13:35:28'
+p3673
+sg8
+VConsumer News
+p3674
+sa(dp3675
+g2
+S'2015-12-04'
+p3676
+sg4
+Vjonathan friedland sells 1,309 shares of netflix, inc. $nflx stock URL
+p3677
+sg6
+S'13:34:29'
+p3678
+sg8
+VTicker Report
+p3679
+sa(dp3680
+g2
+S'2015-12-04'
+p3681
+sg4
+V$nflx received a new alert. find out why at URL stocks daytrading trading mkt nyse nasdaq markets 164
+p3682
+sg6
+S'13:34:25'
+p3683
+sg8
+VMedia Sentiment
+p3684
+sa(dp3685
+g2
+S'2015-12-04'
+p3686
+sg4
+Vjonathan friedland sells 1,309 shares of netflix, inc. $nflx stock URL
+p3687
+sg6
+S'13:32:33'
+p3688
+sg8
+VUS Banking News
+p3689
+sa(dp3690
+g2
+S'2015-12-04'
+p3691
+sg4
+V$nflx - are the s&amp;p 500's best stocks in 2015 still worth buying? URL
+p3692
+sg6
+S'13:06:03'
+p3693
+sg8
+VHot Stocks&Biotechs
+p3694
+sa(dp3695
+g2
+S'2015-12-04'
+p3696
+sg4
+Vmaking the case against an apple television set URL $nflx $aapl
+p3697
+sg6
+S'13:00:05'
+p3698
+sg8
+VAAPL Stock Alerts
+p3699
+sa(dp3700
+g2
+S'2015-12-04'
+p3701
+sg4
+Vwill be watching $bidu $nflx and $ibb again. spent a couple hours last night reviewing them all on a couple different time frames.
+p3702
+sg6
+S'12:56:30'
+p3703
+sg8
+VMichael Estabrooks
+p3704
+sa(dp3705
+g2
+S'2015-12-04'
+p3706
+sg4
+V$nflx URL
+p3707
+sg6
+S'12:55:18'
+p3708
+sg8
+VRickyP
+p3709
+sa(dp3710
+g2
+S'2015-12-04'
+p3711
+sg4
+V$spy $iwm $aapl $nflx $baba if you didn't watch my video update last night URL
+p3712
+sg6
+S'12:34:26'
+p3713
+sg8
+VMcBillion
+p3714
+sa(dp3715
+g2
+S'2015-12-04'
+p3716
+sg4
+Vpre market fang weekly expiration pump job: $googl +5 $ $amzn +3 $fb +0.50 &amp; $nflx +0.70 pump it pump it $qqq
+p3717
+sg6
+S'12:32:48'
+p3718
+sg8
+VCapCube Sez
+p3719
+sa(dp3720
+g2
+S'2015-12-04'
+p3721
+sg4
+V$nflx as always.....the illegal run up just to steal the put buyer premiums.
+p3722
+sg6
+S'12:22:31'
+p3723
+sg8
+VSarcasm Bot
+p3724
+sa(dp3725
+g2
+S'2015-12-04'
+p3726
+sg4
+Vrt AT_USER fast money traders share their opinion about netflix and disney $dis $nflx via AT_USER URL
+p3727
+sg6
+S'12:14:07'
+p3728
+sg8
+VThe Hammer
+p3729
+sa(dp3730
+g2
+S'2015-12-04'
+p3731
+sg4
+Vfast money traders share their opinion about netflix and disney $dis $nflx via AT_USER URL
+p3732
+sg6
+S'12:04:37'
+p3733
+sg8
+V#
+p3734
+sa(dp3735
+g2
+S'2015-12-04'
+p3736
+sg4
+Vrt AT_USER hope everybody has their "flash crash bounce buys" list set up for the holiday season! $gild $aapl $isis $nflx $alny ht\u2026
+p3737
+sg6
+S'11:49:19'
+p3738
+sg8
+VDavid Herlevic
+p3739
+sa(dp3740
+g2
+S'2015-12-04'
+p3741
+sg4
+Vrt AT_USER leaders leaders and leaders - that's my focus $googl $fb $amzn $nflx $lnkd and many many more
+p3742
+sg6
+S'11:28:27'
+p3743
+sg8
+VPeter Jennings
+p3744
+sa(dp3745
+g2
+S'2015-12-04'
+p3746
+sg4
+Vrt AT_USER why is $nflx hard to beat? netflix stockanalysis URL URL
+p3747
+sg6
+S'11:17:13'
+p3748
+sg8
+VVirendra singh
+p3749
+sa(dp3750
+g2
+S'2015-12-04'
+p3751
+sg4
+Vrt AT_USER why is $nflx hard to beat? netflix stockanalysis URL URL
+p3752
+sg6
+S'11:11:33'
+p3753
+sg8
+VOracleoftheeast
+p3754
+sa(dp3755
+g2
+S'2015-12-04'
+p3756
+sg4
+Vwhy is $nflx hard to beat? netflix stockanalysis URL URL
+p3757
+sg6
+S'11:02:35'
+p3758
+sg8
+VAmigobulls
+p3759
+sa(dp3760
+g2
+S'2015-12-04'
+p3761
+sg4
+Vweekly nasdaq100 stocks trend $avgo $gmcr $cost $sndk $wynn $yhoo $trip $ca $adsk $nflx $nvda $sbac $aal $amat @ URL
+p3762
+sg6
+S'11:02:03'
+p3763
+sg8
+V12Stocks.com
+p3764
+sa(dp3765
+g2
+S'2015-12-04'
+p3766
+sg4
+Vfous4x2 daytrading dvd review: URL $ual $nflx $fdx $luk $mu $mas $beav $gcap $nvax
+p3767
+sg6
+S'10:41:19'
+p3768
+sg8
+VSmallCaps 
+p3769
+sa(dp3770
+g2
+S'2015-12-04'
+p3771
+sg4
+Vhope everybody has their "flash crash bounce buys" list set up for the holiday season! $gild $aapl $isis $nflx $alny URL
+p3772
+sg6
+S'10:33:57'
+p3773
+sg8
+VWhiteCoatMafia
+p3774
+sa(dp3775
+g2
+S'2015-12-04'
+p3776
+sg4
+Vrt AT_USER $nflx boom! loaded for next week.
+p3777
+sg6
+S'09:37:48'
+p3778
+sg8
+VRuth Anderson
+p3779
+sa(dp3780
+g2
+S'2015-12-04'
+p3781
+sg4
+Vrt AT_USER i did make it in to do today's morning call &amp; here is the early recap. as if 2:00 $spy $spx $ibb $aapl $nflx $amzn URL
+p3782
+sg6
+S'09:33:07'
+p3783
+sg8
+VWynner Trader
+p3784
+sa(dp3785
+g2
+S'2015-12-04'
+p3786
+sg4
+Vrt AT_USER warrior student shares his road to success - URL stocks trading $pacb $nflx $fb $tsla $twtr $z h\u2026
+p3787
+sg6
+S'09:12:26'
+p3788
+sg8
+VTopFiveTraders
+p3789
+sa(dp3790
+g2
+S'2015-12-04'
+p3791
+sg4
+Vwarrior student shares his road to success - URL stocks trading $pacb $nflx $fb $tsla $twtr $z URL
+p3792
+sg6
+S'09:10:03'
+p3793
+sg8
+VRoss Cameron
+p3794
+sa(dp3795
+g2
+S'2015-12-04'
+p3796
+sg4
+Vrt AT_USER $goog youtube attempting to get rights for streaming tv &amp; movies for its $9.99/month sub - $aapl $nflx $cmcsa $twc $t $dtv $b\u2026
+p3797
+sg6
+S'09:04:59'
+p3798
+sg8
+VJames DiPlata
+p3799
+sa(dp3800
+g2
+S'2015-12-04'
+p3801
+sg4
+Vnflx netflix, inc. yield URL $nflx $pot.to $epd $ma nflx stock stocks
+p3802
+sg6
+S'08:46:09'
+p3803
+sg8
+VPolgarStocks
+p3804
+sa(dp3805
+g2
+S'2015-12-04'
+p3806
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p3807
+sg6
+S'08:34:43'
+p3808
+sg8
+VNASDAQStocks
+p3809
+sa(dp3810
+g2
+S'2015-12-04'
+p3811
+sg4
+V$tvix stock message board updated friday, december 4, 2015 02:59:22 am $eltp $unh $nflx $sco URL
+p3812
+sg6
+S'08:34:30'
+p3813
+sg8
+VRosner Stocks
+p3814
+sa(dp3815
+g2
+S'2015-12-04'
+p3816
+sg4
+Vjoin URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p3817
+sg6
+S'08:15:46'
+p3818
+sg8
+VMarijuanacharts
+p3819
+sa(dp3820
+g2
+S'2015-12-04'
+p3821
+sg4
+V$goog youtube attempting to get rights for streaming tv &amp; movies for its $9.99/month sub - $aapl $nflx $cmcsa $twc $t $dtv $bce $rci
+p3822
+sg6
+S'08:12:36'
+p3823
+sg8
+VRo Patel
+p3824
+sa(dp3825
+g2
+S'2015-12-04'
+p3826
+sg4
+V$insy stock price updated friday, december 4, 2015 02:11:30 am $au $bhp $nflx $insy URL
+p3827
+sg6
+S'08:08:37'
+p3828
+sg8
+VIH News Desk
+p3829
+sa(dp3830
+g2
+S'2015-12-04'
+p3831
+sg4
+Vuso proshares ultra vix short-term futures etf current price URL $uso $nflx $ung $dgly uso nasdaq stock
+p3832
+sg6
+S'07:50:03'
+p3833
+sg8
+VDennyT
+p3834
+sa(dp3835
+g2
+S'2015-12-04'
+p3836
+sg4
+Vma mcdonalds corp. quotes URL $ma $rwm $goog $nflx ma finance share
+p3837
+sg6
+S'07:44:07'
+p3838
+sg8
+VIH News Desk
+p3839
+sa(dp3840
+g2
+S'2015-12-04'
+p3841
+sg4
+V$nflx recent news updated friday, december 4, 2015 02:07:29 am $sune $eum $xbi $apc URL
+p3842
+sg6
+S'07:31:08'
+p3843
+sg8
+VPolgarStocks
+p3844
+sa(dp3845
+g2
+S'2015-12-04'
+p3846
+sg4
+V$cvx stock forum updated friday, december 4, 2015 02:07:29 am $xbi $nflx $unh $ambs URL
+p3847
+sg6
+S'07:31:07'
+p3848
+sg8
+VPolgarStocks
+p3849
+sa(dp3850
+g2
+S'2015-12-04'
+p3851
+sg4
+VURL &lt;- checkout cameron fous's profitly chart its pretty nice! $jdst $kndi $tlt $king $ugaz $nflx $pwrd
+p3852
+sg6
+S'07:30:46'
+p3853
+sg8
+VSmallCaps 
+p3854
+sa(dp3855
+g2
+S'2015-12-04'
+p3856
+sg4
+Vung united states natural gas fund shares URL $ung $sbux $hyg $nflx ung stock tradeideas
+p3857
+sg6
+S'06:49:32'
+p3858
+sg8
+VLucky Jimmy
+p3859
+sa(dp3860
+g2
+S'2015-12-04'
+p3861
+sg4
+Vtlt ishares barclays 20+ year treasury bond fund bid URL $tlt $nflx $fnma $kmi tlt tradeideas finance
+p3862
+sg6
+S'06:49:13'
+p3863
+sg8
+VIH NASDAQ OMX
+p3864
+sa(dp3865
+g2
+S'2015-12-04'
+p3866
+sg4
+Vnflx netflix, inc. open URL $nflx $nerg $twtr $amzn nflx share investing
+p3867
+sg6
+S'06:45:07'
+p3868
+sg8
+VRosner Stocks
+p3869
+sa(dp3870
+g2
+S'2015-12-04'
+p3871
+sg4
+Vitb ishares dow jones u.s. home construction shares URL $itb $ambs $fxe $nflx itb stock invest
+p3872
+sg6
+S'06:43:04'
+p3873
+sg8
+VStock_Tracker
+p3874
+sa(dp3875
+g2
+S'2015-12-04'
+p3876
+sg4
+Vgt goodyear tire &amp; rubber co. tick URL $gt $nflx $p $pg gt share pennystocks
+p3877
+sg6
+S'06:41:33'
+p3878
+sg8
+VJake13
+p3879
+sa(dp3880
+g2
+S'2015-12-04'
+p3881
+sg4
+Vrt AT_USER actives on open @ cboe: $aapl $chk $bac $nflx $msft $avgo $fb $xom $aig $skx $yhoo $ge
+p3882
+sg6
+S'06:39:25'
+p3883
+sg8
+Vchris Conner
+p3884
+sa(dp3885
+g2
+S'2015-12-04'
+p3886
+sg4
+Vblx.to boralex, inc. open URL $blx.to $nflx $slb $cost blx.to stock nasdaq
+p3887
+sg6
+S'06:36:07'
+p3888
+sg8
+Vdanrocks
+p3889
+sa(dp3890
+g2
+S'2015-12-04'
+p3891
+sg4
+V$nflx i'm beginning to think nflx is the aol of this bull market.
+p3892
+sg6
+S'06:24:58'
+p3893
+sg8
+VRamsel Ruiz
+p3894
+sa(dp3895
+g2
+S'2015-12-04'
+p3896
+sg4
+Vnflx 126.81 netflix inc stock charts $nflx last updated: 12/03/15 last price: 126.81 total volume: 27,136,624 URL
+p3897
+sg6
+S'06:24:30'
+p3898
+sg8
+Vchartguy89
+p3899
+sa(dp3900
+g2
+S'2015-12-04'
+p3901
+sg4
+Vnflx year to date has changed +159.85% percent. +15.55% in the last 30 days. $nflx netflix inc full breakdown URL
+p3902
+sg6
+S'05:41:45'
+p3903
+sg8
+VJake13
+p3904
+sa(dp3905
+g2
+S'2015-12-04'
+p3906
+sg4
+VAT_USER i didn't see any mention of $nflx
+p3907
+sg6
+S'05:28:44'
+p3908
+sg8
+Vinursha
+p3909
+sa(dp3910
+g2
+S'2015-12-04'
+p3911
+sg4
+V$bib recent news updated thursday, december 3, 2015 11:11:25 pm $gpor $avxl $abbv $nflx URL
+p3912
+sg6
+S'05:07:19'
+p3913
+sg8
+VIH News Desk
+p3914
+sa(dp3915
+g2
+S'2015-12-04'
+p3916
+sg4
+VAT_USER watching it for sure man. stalking calls in $fb everyday and $nflx
+p3917
+sg6
+S'04:56:11'
+p3918
+sg8
+VRyan Daniel
+p3919
+sa(dp3920
+g2
+S'2015-12-04'
+p3921
+sg4
+Vnew entrants in 2015 $gild $biib $nflx $axa $ttm $mar $bt $ma 50mostinnovative via AT_USER URL
+p3922
+sg6
+S'04:55:42'
+p3923
+sg8
+VBQ Eq Resch Training
+p3924
+sa(dp3925
+g2
+S'2015-12-04'
+p3926
+sg4
+Vnflx -1.64% stock charts $nflx netflix inc. (nasdaq) last updated: 12/03/2015 22:49:06 nflx stock chart - 1 mo URL
+p3927
+sg6
+S'04:49:02'
+p3928
+sg8
+Vchartguy89
+p3929
+sa(dp3930
+g2
+S'2015-12-04'
+p3931
+sg4
+Vrt AT_USER $nflx gonna tap out soon $tlsa no bueno haha URL
+p3932
+sg6
+S'04:43:50'
+p3933
+sg8
+VJ. Wes
+p3934
+sa(dp3935
+g2
+S'2015-12-04'
+p3936
+sg4
+Vnflx netflix, inc. ex-div date URL $nflx $avgo $amzn $x nflx stocks stocks
+p3937
+sg6
+S'04:43:32'
+p3938
+sg8
+Vclayton
+p3939
+sa(dp3940
+g2
+S'2015-12-04'
+p3941
+sg4
+Vrt AT_USER here's how youtube is intensifying the battle against netflix and amazon $amzn $goog $nflx URL
+p3942
+sg6
+S'04:35:47'
+p3943
+sg8
+VAdelitas Photography
+p3944
+sa(dp3945
+g2
+S'2015-12-04'
+p3946
+sg4
+Vbought our 1st tv ever (not big tv ppl). got a ridiculous tv at a great price on $amzn on cyber mon. remote has $nflx &amp; $amzn buttons.
+p3947
+sg6
+S'04:31:48'
+p3948
+sg8
+VMaria Hidalgo
+p3949
+sa(dp3950
+g2
+S'2015-12-04'
+p3951
+sg4
+Vbreakout = 142.16 r2 = 134.28 r1 = 130.54 $nflx pivot= 128.47 s1 = 124.73 s2 = 122.66 breakdown = 113.11
+p3952
+sg6
+S'04:21:37'
+p3953
+sg8
+VEternity101
+p3954
+sa(dp3955
+g2
+S'2015-12-04'
+p3956
+sg4
+V$aapl if any weakness this could have another good down day. $aapl $p $msft $nflx URL URL
+p3957
+sg6
+S'04:20:14'
+p3958
+sg8
+VMoneyflip MD
+p3959
+sa(dp3960
+g2
+S'2015-12-04'
+p3961
+sg4
+V$fb. $nflx $ge i call this the fuck newt gingrich play
+p3962
+sg6
+S'04:16:28'
+p3963
+sg8
+VChristopher Walsh
+p3964
+sa(dp3965
+g2
+S'2015-12-04'
+p3966
+sg4
+V$spy $iwm $aapl $tsla $nflx $baba $wynn $fb $amzn $mon $gg $tgt $apa URL
+p3967
+sg6
+S'04:09:52'
+p3968
+sg8
+VMcBillion
+p3969
+sa(dp3970
+g2
+S'2015-12-04'
+p3971
+sg4
+Vrt AT_USER a top in $nflx, double top with news of youtube red entering market! URL URL
+p3972
+sg6
+S'04:05:14'
+p3973
+sg8
+VTodd Ingersoll
+p3974
+sa(dp3975
+g2
+S'2015-12-04'
+p3976
+sg4
+Vrt AT_USER too late to get into $nflx? no! here's why AT_USER thinks it's going higher URL cramerq URL
+p3977
+sg6
+S'04:04:02'
+p3978
+sg8
+VAron Mouse
+p3979
+sa(dp3980
+g2
+S'2015-12-04'
+p3981
+sg4
+Vrt AT_USER the companies or products i use every week and their return this year on average $nflx, $amzn, $wba, $aapl $ibkr $nke \u2026
+p3982
+sg6
+S'04:03:42'
+p3983
+sg8
+VLifan Guo
+p3984
+sa(dp3985
+g2
+S'2015-12-04'
+p3986
+sg4
+VURL $fb if this breaks 104 it could get ugly. tgt 101-100 $nflx $googl $amzn URL
+p3987
+sg6
+S'03:55:06'
+p3988
+sg8
+VMoneyflip MD
+p3989
+sa(dp3990
+g2
+S'2015-12-04'
+p3991
+sg4
+Vgreat day trading $nflx i stopped trading at 12 so i didn't make any stupid mistakes &amp; give $ back that was hard. i wanted to keep trading
+p3992
+sg6
+S'03:54:46'
+p3993
+sg8
+VMarcey Sipes
+p3994
+sa(dp3995
+g2
+S'2015-12-04'
+p3996
+sg4
+Vrcl royal caribbean cruises tick URL $rcl $c $nflx $xle rcl pennystocks finance
+p3997
+sg6
+S'03:46:18'
+p3998
+sg8
+VIH NASDAQ OMX
+p3999
+sa(dp4000
+g2
+S'2015-12-04'
+p4001
+sg4
+Vnflx netflix, inc. tick URL $nflx $ng $vrsn $amd nflx stockmarket stocks
+p4002
+sg6
+S'03:43:35'
+p4003
+sg8
+VStock Forums
+p4004
+sa(dp4005
+g2
+S'2015-12-04'
+p4006
+sg4
+Vjo ipath bloomberg coffee subindex total return etn short sales URL $jo $nflx $dust $nxga jo stock stockmarket
+p4007
+sg6
+S'03:41:02'
+p4008
+sg8
+Vdanrocks
+p4009
+sa(dp4010
+g2
+S'2015-12-04'
+p4011
+sg4
+Vrt AT_USER here's how youtube is intensifying the battle against netflix and amazon $amzn $goog $nflx URL
+p4012
+sg6
+S'03:40:27'
+p4013
+sg8
+VCapCube Sez
+p4014
+sa(dp4015
+g2
+S'2015-12-04'
+p4016
+sg4
+V$bidu like this one long but i want more discount $googl $nflx $lnkd $aapl URL URL
+p4017
+sg6
+S'03:40:07'
+p4018
+sg8
+VMoneyflip MD
+p4019
+sa(dp4020
+g2
+S'2015-12-04'
+p4021
+sg4
+Vrt AT_USER here's how youtube is intensifying the battle against netflix and amazon $amzn $goog $nflx URL
+p4022
+sg6
+S'03:35:35'
+p4023
+sg8
+Vsdh
+p4024
+sa(dp4025
+g2
+S'2015-12-04'
+p4026
+sg4
+VAT_USER AT_USER naw they $shld just couldn't prevent the likes $amzn $aapl $msft $nflx from being created!! AT_USER
+p4027
+sg6
+S'03:10:29'
+p4028
+sg8
+VTerry
+p4029
+sa(dp4030
+g2
+S'2015-12-04'
+p4031
+sg4
+VAT_USER if it weren't for $amzn $sbux $amwd $nflx i would be having a bad year. with them though growth accounts still +12% ytd
+p4032
+sg6
+S'03:06:52'
+p4033
+sg8
+VCody Freeman
+p4034
+sa(dp4035
+g2
+S'2015-12-04'
+p4036
+sg4
+Vgoogle scaling up online video...URL $amzn $nflx $goog $googl
+p4037
+sg6
+S'02:58:41'
+p4038
+sg8
+VGary Reiner
+p4039
+sa(dp4040
+g2
+S'2015-12-04'
+p4041
+sg4
+Vas well it should. this is a must-read if you're interested in $nflx, $amzn, hbo or the future of media consumption. URL
+p4042
+sg6
+S'02:53:39'
+p4043
+sg8
+VTyler Hayes \u272e
+p4044
+sa(dp4045
+g2
+S'2015-12-04'
+p4046
+sg4
+V$nflx above all mas,breakout back test so far.has 21 sma at 118.34 if it drops lower.still the strongest of the lot. URL
+p4047
+sg6
+S'02:53:35'
+p4048
+sg8
+VVenky Srinivasan
+p4049
+sa(dp4050
+g2
+S'2015-12-04'
+p4051
+sg4
+V$nflx URL pot. consolid in uptrend intraweek 60m-15m-4m combo chart netflix trading URL
+p4052
+sg6
+S'02:53:01'
+p4053
+sg8
+VCo-Branded FinGraphs
+p4054
+sa(dp4055
+g2
+S'2015-12-04'
+p4056
+sg4
+Vnflx netflix, inc. short sales URL $nflx $myec $c $labu nflx investing invest
+p4057
+sg6
+S'02:44:32'
+p4058
+sg8
+Vleahanne
+p4059
+sa(dp4060
+g2
+S'2015-12-04'
+p4061
+sg4
+Vgern geron corp. current price URL $gern $atvi $nflx $goog gern invest finance
+p4062
+sg6
+S'02:40:11'
+p4063
+sg8
+VJake13
+p4064
+sa(dp4065
+g2
+S'2015-12-04'
+p4066
+sg4
+Vrt AT_USER rt buy tonight whole nasdaq 100 or just $qqq quant $gpro $intc $csco $orcl $qcom $sbux$msft $bidu $gpro $goog $amzn $nflx\u2026
+p4067
+sg6
+S'02:38:16'
+p4068
+sg8
+VJames DiPlata
+p4069
+sa(dp4070
+g2
+S'2015-12-04'
+p4071
+sg4
+VAT_USER AT_USER cause we're feared into the cocoon my friends $nflx URL
+p4072
+sg6
+S'02:37:31'
+p4073
+sg8
+VRude Limpball
+p4074
+sa(dp4075
+g2
+S'2015-12-04'
+p4076
+sg4
+Vnot too much damage done to $fb $amzn $nflx $googl and $nuan today
+p4077
+sg6
+S'02:36:00'
+p4078
+sg8
+VJDiRico
+p4079
+sa(dp4080
+g2
+S'2015-12-04'
+p4081
+sg4
+Vrt AT_USER and when AT_USER (11 yrs at $nflx) stopped by the netflix vs. hbo conversation URL
+p4082
+sg6
+S'02:33:24'
+p4083
+sg8
+V\u270fAustin W. Gunter
+p4084
+sa(dp4085
+g2
+S'2015-12-04'
+p4086
+sg4
+Vnetflix inc rating and forecast report for $nflx by AT_USER URL mrx stocks AT_USER URL
+p4087
+sg6
+S'02:31:03'
+p4088
+sg8
+VResearchPool
+p4089
+sa(dp4090
+g2
+S'2015-12-04'
+p4091
+sg4
+Vrt AT_USER the companies or products i use every week and their return this year on average $nflx, $amzn, $wba, $aapl $ibkr $nke \u2026
+p4092
+sg6
+S'02:28:23'
+p4093
+sg8
+Vmktrades
+p4094
+sa(dp4095
+g2
+S'2015-12-04'
+p4096
+sg4
+Vrt AT_USER out of $nflx dec15 132.00 calls AT_USER from entry moments ago AT_USER - members alerted entry/exits in real time $spy $\u2026
+p4097
+sg6
+S'02:27:10'
+p4098
+sg8
+VShannon Boy
+p4099
+sa(dp4100
+g2
+S'2015-12-04'
+p4101
+sg4
+V$iev percent change updated thursday, december 3, 2015 9:07:21 pm $aezs $mmm $nflx $edz URL
+p4102
+sg6
+S'02:26:06'
+p4103
+sg8
+VPolgarStocks
+p4104
+sa(dp4105
+g2
+S'2015-12-04'
+p4106
+sg4
+V$spy $iwm $aapl $tsla $nflx $baba $wynn $fb $amzn $mon $gg $tgt hot market\u2026 just watch URL URL
+p4107
+sg6
+S'02:21:00'
+p4108
+sg8
+VMcBillion
+p4109
+sa(dp4110
+g2
+S'2015-12-04'
+p4111
+sg4
+Vrt AT_USER a top in $nflx, double top with news of youtube red entering market! URL URL
+p4112
+sg6
+S'02:16:00'
+p4113
+sg8
+Vjbrousseau1
+p4114
+sa(dp4115
+g2
+S'2015-12-04'
+p4116
+sg4
+V$nflx soft support forming at $124.50 level, look for this to burst pass $132 soon URL
+p4117
+sg6
+S'02:15:09'
+p4118
+sg8
+VChris Thompson
+p4119
+sa(dp4120
+g2
+S'2015-12-04'
+p4121
+sg4
+Vsee why these assets are trending in 1 watchlist $has $ma $mfc $nbg $nflx URL URL
+p4122
+sg6
+S'02:13:36'
+p4123
+sg8
+VFinBuzz
+p4124
+sa(dp4125
+g2
+S'2015-12-04'
+p4126
+sg4
+Vthe companies or products i use every week and their return this year on average $nflx, $amzn, $wba, $aapl $ibkr $nke $hum up 30% in 2015!
+p4127
+sg6
+S'02:12:26'
+p4128
+sg8
+Vhedgefundclone
+p4129
+sa(dp4130
+g2
+S'2015-12-04'
+p4131
+sg4
+Vrt AT_USER and when AT_USER (11 yrs at $nflx) stopped by the netflix vs. hbo conversation URL
+p4132
+sg6
+S'02:11:20'
+p4133
+sg8
+VJason Hitchcock
+p4134
+sa(dp4135
+g2
+S'2015-12-04'
+p4136
+sg4
+Va top in $nflx, double top with news of youtube red entering market! URL URL
+p4137
+sg6
+S'02:06:30'
+p4138
+sg8
+Vhedgefundclone
+p4139
+sa(dp4140
+g2
+S'2015-12-04'
+p4141
+sg4
+Vand when AT_USER (11 yrs at $nflx) stopped by the netflix vs. hbo conversation URL
+p4142
+sg6
+S'02:05:48'
+p4143
+sg8
+VTyler Hayes \u272e
+p4144
+sa(dp4145
+g2
+S'2015-12-04'
+p4146
+sg4
+V$nflx - 50% of americans watch netflix, topping youtube viewers URL
+p4147
+sg6
+S'02:01:22'
+p4148
+sg8
+VHot Stocks&Biotechs
+p4149
+sa(dp4150
+g2
+S'2015-12-04'
+p4151
+sg4
+Vrt AT_USER negative for $nflx URL
+p4152
+sg6
+S'02:01:06'
+p4153
+sg8
+VTy Reamer
+p4154
+sa(dp4155
+g2
+S'2015-12-04'
+p4156
+sg4
+Vrt AT_USER these are the stocks that tiger cubs are buying $agn $fb $nflx $jd URL URL
+p4157
+sg6
+S'02:00:34'
+p4158
+sg8
+VFaryan Amir-Ghassemi
+p4159
+sa(dp4160
+g2
+S'2015-12-04'
+p4161
+sg4
+V$amzn $nflx news: "here's how youtube is intensifying the battle against netflix\u2026" URL analyze: URL
+p4162
+sg6
+S'02:00:12'
+p4163
+sg8
+VQuantpost Service
+p4164
+sa(dp4165
+g2
+S'2015-12-04'
+p4166
+sg4
+V$nflx news: "here's how youtube is intensifying the battle against netflix and\u2026" URL analyze: URL
+p4167
+sg6
+S'02:00:12'
+p4168
+sg8
+VQuantpost $NFLX
+p4169
+sa(dp4170
+g2
+S'2015-12-04'
+p4171
+sg4
+Vhere's how youtube is intensifying the battle against netflix and amazon $amzn $goog $nflx URL
+p4172
+sg6
+S'02:00:12'
+p4173
+sg8
+VBenzinga.com
+p4174
+sa(dp4175
+g2
+S'2015-12-04'
+p4176
+sg4
+Vrt AT_USER youtube to eat netflix's lunch? looks to getting streaming rights to tv, movies - $goog $nflx video URL
+p4177
+sg6
+S'01:58:12'
+p4178
+sg8
+VChris Foo
+p4179
+sa(dp4180
+g2
+S'2015-12-04'
+p4181
+sg4
+Vclear &amp; concise descriptive model: $fb $amzn $nflx $googl,d channel centerline test. URL
+p4182
+sg6
+S'01:47:44'
+p4183
+sg8
+VStockBoardAsset
+p4184
+sa(dp4185
+g2
+S'2015-12-04'
+p4186
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4187
+sg6
+S'01:46:31'
+p4188
+sg8
+VIH News Desk
+p4189
+sa(dp4190
+g2
+S'2015-12-04'
+p4191
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4192
+sg6
+S'01:46:31'
+p4193
+sg8
+VIH News Desk
+p4194
+sa(dp4195
+g2
+S'2015-12-04'
+p4196
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4197
+sg6
+S'01:46:30'
+p4198
+sg8
+VIH News Desk
+p4199
+sa(dp4200
+g2
+S'2015-12-04'
+p4201
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4202
+sg6
+S'01:46:30'
+p4203
+sg8
+VIH News Desk
+p4204
+sa(dp4205
+g2
+S'2015-12-04'
+p4206
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4207
+sg6
+S'01:46:29'
+p4208
+sg8
+VIH News Desk
+p4209
+sa(dp4210
+g2
+S'2015-12-04'
+p4211
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4212
+sg6
+S'01:46:21'
+p4213
+sg8
+VDennyT
+p4214
+sa(dp4215
+g2
+S'2015-12-04'
+p4216
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4217
+sg6
+S'01:46:21'
+p4218
+sg8
+VInvestors Hangout
+p4219
+sa(dp4220
+g2
+S'2015-12-04'
+p4221
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4222
+sg6
+S'01:46:21'
+p4223
+sg8
+VDennyT
+p4224
+sa(dp4225
+g2
+S'2015-12-04'
+p4226
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4227
+sg6
+S'01:46:20'
+p4228
+sg8
+VStock Forums
+p4229
+sa(dp4230
+g2
+S'2015-12-04'
+p4231
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4232
+sg6
+S'01:46:20'
+p4233
+sg8
+VDennyT
+p4234
+sa(dp4235
+g2
+S'2015-12-04'
+p4236
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4237
+sg6
+S'01:46:18'
+p4238
+sg8
+VStock Forums
+p4239
+sa(dp4240
+g2
+S'2015-12-04'
+p4241
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4242
+sg6
+S'01:46:18'
+p4243
+sg8
+VDennyT
+p4244
+sa(dp4245
+g2
+S'2015-12-04'
+p4246
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4247
+sg6
+S'01:46:17'
+p4248
+sg8
+Vjim50
+p4249
+sa(dp4250
+g2
+S'2015-12-04'
+p4251
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4252
+sg6
+S'01:46:17'
+p4253
+sg8
+VDennyT
+p4254
+sa(dp4255
+g2
+S'2015-12-04'
+p4256
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4257
+sg6
+S'01:46:15'
+p4258
+sg8
+VStock Forums
+p4259
+sa(dp4260
+g2
+S'2015-12-04'
+p4261
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4262
+sg6
+S'01:46:15'
+p4263
+sg8
+Vjim50
+p4264
+sa(dp4265
+g2
+S'2015-12-04'
+p4266
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stock
+p4267
+sg6
+S'01:46:15'
+p4268
+sg8
+VDennyT
+p4269
+sa(dp4270
+g2
+S'2015-12-04'
+p4271
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4272
+sg6
+S'01:46:15'
+p4273
+sg8
+VStock Forums
+p4274
+sa(dp4275
+g2
+S'2015-12-04'
+p4276
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4277
+sg6
+S'01:46:13'
+p4278
+sg8
+VEmylers
+p4279
+sa(dp4280
+g2
+S'2015-12-04'
+p4281
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4282
+sg6
+S'01:46:12'
+p4283
+sg8
+Vjim50
+p4284
+sa(dp4285
+g2
+S'2015-12-04'
+p4286
+sg4
+Vnflx netflix, inc. last trade URL $nflx $nbg $edc $mfc.to nflx nasdaq stocknke nike inc. ask\u2026
+p4287
+sg6
+S'01:46:10'
+p4288
+sg8
+VEmylers
+p4289
+sa(dp4290
+g2
+S'2015-12-04'
+p4291
+sg4
+Vmax list stocks: $amzn, $aapl, $nflx, $fb, $googl, $lnkd lead advance. action in coming days will tell you everything. stocks investing
+p4292
+sg6
+S'01:45:41'
+p4293
+sg8
+VPatrick Walker
+p4294
+sa(dp4295
+g2
+S'2015-12-04'
+p4296
+sg4
+Vrt AT_USER stock market recap for dec 3rd 2015 bears follow through URL $aapl $iwm $pcln $tsla $gs $ma $nflx
+p4297
+sg6
+S'01:37:14'
+p4298
+sg8
+VRMB Investor
+p4299
+sa(dp4300
+g2
+S'2015-12-04'
+p4301
+sg4
+V$nflx our pt365 like to trade this, but is it ready for pullback? ta chart looks to repeat fr last time highs URL
+p4302
+sg6
+S'01:35:35'
+p4303
+sg8
+V$$$ Money $$$
+p4304
+sa(dp4305
+g2
+S'2015-12-04'
+p4306
+sg4
+Vrt buy tonight whole nasdaq 100 or just $qqq quant $gpro $intc $csco $orcl $qcom $sbux$msft $bidu $gpro $goog $amzn $nflx $fb $aapl $tsla
+p4307
+sg6
+S'01:31:04'
+p4308
+sg8
+VGuru Algo Trading 
+p4309
+sa(dp4310
+g2
+S'2015-12-04'
+p4311
+sg4
+Vrt AT_USER retail buying above 130 and big money dumping. lovin' it. $nflx URL
+p4312
+sg6
+S'01:30:24'
+p4313
+sg8
+VSheen!
+p4314
+sa(dp4315
+g2
+S'2015-12-04'
+p4316
+sg4
+Vi analyzed $amba $gpro $nflx and much more in my video market recap from earlier: URL $spy $twtr stocks
+p4317
+sg6
+S'01:24:02'
+p4318
+sg8
+VChess
+p4319
+sa(dp4320
+g2
+S'2015-12-04'
+p4321
+sg4
+Vretail buying above 130 and big money dumping. lovin' it. $nflx URL
+p4322
+sg6
+S'01:21:19'
+p4323
+sg8
+Vtradewithjoe
+p4324
+sa(dp4325
+g2
+S'2015-12-04'
+p4326
+sg4
+Vthis was the stubborn one. watching fang. $qqq $nflx $amzn $fb $googl $goog URL
+p4327
+sg6
+S'01:18:16'
+p4328
+sg8
+Vtradewithjoe
+p4329
+sa(dp4330
+g2
+S'2015-12-04'
+p4331
+sg4
+Voption millionaires: ad: $nflx is goin' up forever, arr arr. URL
+p4332
+sg6
+S'01:11:33'
+p4333
+sg8
+VMani Ohli
+p4334
+sa(dp4335
+g2
+S'2015-12-04'
+p4336
+sg4
+Voption millionaires: ad: $nflx is goin' up forever, arr arr. URL
+p4337
+sg6
+S'01:11:33'
+p4338
+sg8
+VPerfor Mance
+p4339
+sa(dp4340
+g2
+S'2015-12-04'
+p4341
+sg4
+Vrt AT_USER netflix is up 10,450% since its 2002 ipo. $10,000 invested in $nflx then would be worth $1.2 million today: URL
+p4342
+sg6
+S'01:08:58'
+p4343
+sg8
+VJohan Jessen
+p4344
+sa(dp4345
+g2
+S'2015-12-04'
+p4346
+sg4
+VAT_USER $nflx.
+p4347
+sg6
+S'01:05:58'
+p4348
+sg8
+VSmallCapLS
+p4349
+sa(dp4350
+g2
+S'2015-12-04'
+p4351
+sg4
+Vinstead of $nflx &amp; chill it feels more like decongestant ($wag) &amp; nap. \U0001f630\U0001f634\U0001f912\U0001f637
+p4352
+sg6
+S'01:03:01'
+p4353
+sg8
+VTweed
+p4354
+sa(dp4355
+g2
+S'2015-12-04'
+p4356
+sg4
+V$mcd $dish $nflx news: "7 of the world's most famous corporate rivalries $aapl \u2026" URL analyze: URL
+p4357
+sg6
+S'01:00:22'
+p4358
+sg8
+VQuantpost Service
+p4359
+sa(dp4360
+g2
+S'2015-12-04'
+p4361
+sg4
+V$nflx news: "7 of the world's most famous corporate rivalries $aapl $msft $ko \u2026" URL analyze: URL
+p4362
+sg6
+S'01:00:22'
+p4363
+sg8
+VQuantpost $NFLX
+p4364
+sa(dp4365
+g2
+S'2015-12-04'
+p4366
+sg4
+V7 of the world's most famous corporate rivalries $aapl $msft $ko $pep $f $gm $nke $mcd $qsr $bud $sbmry $dish $nflx URL
+p4367
+sg6
+S'01:00:20'
+p4368
+sg8
+VBenzinga.com
+p4369
+sa(dp4370
+g2
+S'2015-12-04'
+p4371
+sg4
+VAT_USER no kidding. buy $ibm, $intc, $aapl, $nflx, $goog. etc. so embarassing--i was in the tech sector-myopia!. now mainly oil lol
+p4372
+sg6
+S'00:44:44'
+p4373
+sg8
+VTommy Tirader
+p4374
+sa(dp4375
+g2
+S'2015-12-04'
+p4376
+sg4
+Vnflx netflix, inc. market cap URL $nflx $kr $dgaz $ewt nflx stockmarket stockmarket
+p4377
+sg6
+S'00:44:02'
+p4378
+sg8
+Vdanrocks
+p4379
+sa(dp4380
+g2
+S'2015-12-04'
+p4381
+sg4
+Vhyg ishares iboxx high yield corporate bond fund day low URL $hyg $nflx $nvda $cvx hyg share tradeideas
+p4382
+sg6
+S'00:41:33'
+p4383
+sg8
+VIH News Desk
+p4384
+sa(dp4385
+g2
+S'2015-12-04'
+p4386
+sg4
+Vfb facebook, inc. ask URL $fb $oil $ewz $nflx fb finance share
+p4387
+sg6
+S'00:39:05'
+p4388
+sg8
+VInvestors Hangout
+p4389
+sa(dp4390
+g2
+S'2015-12-04'
+p4391
+sg4
+Vcentral bankers may cause temporary market downdraft, but fang will drive historic highs in 2016 $fb $amzn $nflx $goog
+p4392
+sg6
+S'00:38:48'
+p4393
+sg8
+VRobert Young
+p4394
+sa(dp4395
+g2
+S'2015-12-04'
+p4396
+sg4
+Vefa ishares msci eafe index fund message board posts URL $efa $so $aal $nflx efa stockmarket share
+p4397
+sg6
+S'00:38:03'
+p4398
+sg8
+Vclayton
+p4399
+sa(dp4400
+g2
+S'2015-12-04'
+p4401
+sg4
+Vrt AT_USER rt $tsla hft algos triggered buy in sigma-x, crossfinder, ats, lx @ 18:46, p/t 237.00 quant $msft $gpro $goog $amzn $nflx\u2026
+p4402
+sg6
+S'00:34:40'
+p4403
+sg8
+VAlejandro
+p4404
+sa(dp4405
+g2
+S'2015-12-04'
+p4406
+sg4
+Vhow to trade netflix as streaming gets crowded $nflx $aapl $goog $googl $dis fastmoney URL URL
+p4407
+sg6
+S'00:31:58'
+p4408
+sg8
+VWLST.com
+p4409
+sa(dp4410
+g2
+S'2015-12-04'
+p4411
+sg4
+Vhow to trade netflix as streaming gets crowded $nflx $aapl $goog $googl $dis URL
+p4412
+sg6
+S'00:31:56'
+p4413
+sg8
+VClark Joseph Kent
+p4414
+sa(dp4415
+g2
+S'2015-12-04'
+p4416
+sg4
+Vomg $nflx almost pulled back to it's 5 day ema! superbearish URL
+p4417
+sg6
+S'00:26:51'
+p4418
+sg8
+VM³
+p4419
+sa(dp4420
+g2
+S'2015-12-04'
+p4421
+sg4
+Vrt AT_USER join URL and make money trading options - $fb, $aapl, $biib, $tsla, $nflx - sourcingtsocks URL
+p4422
+sg6
+S'00:21:56'
+p4423
+sg8
+VJames DiPlata
+p4424
+sa(dp4425
+g2
+S'2015-12-04'
+p4426
+sg4
+Vcup with no handle? check out netflix URL $nflx URL
+p4427
+sg6
+S'00:09:53'
+p4428
+sg8
+VColin Macleod
+p4429
+sa(dp4430
+g2
+S'2015-12-04'
+p4431
+sg4
+V$nflx: friedland jonathan sold a net $83,323 in netflix inc. URL
+p4432
+sg6
+S'00:03:31'
+p4433
+sg8
+VInsider Filings
+p4434
+sa(dp4435
+g2
+S'2015-12-04'
+p4436
+sg4
+V$gdx opinions updated thursday, december 3, 2015 6:11:03 pm $rai $nflx $uvxy $skx URL
+p4437
+sg6
+S'00:02:33'
+p4438
+sg8
+VIH News Desk
+p4439
+sa(dp4440
+g2
+S'2015-12-04'
+p4441
+sg4
+Vnasdaq100 stocks trend $avgo $gmcr $cost $sndk $trip $yhoo $wynn $ca $adsk $nflx $nvda $sbac $txn $aal $myl @ URL
+p4442
+sg6
+S'00:02:07'
+p4443
+sg8
+V12Stocks.com
+p4444
+sa(dp4445
+g2
+S'2015-12-04'
+p4446
+sg4
+Vnew insider transaction on $nflx reported a moment ago: URL
+p4447
+sg6
+S'00:02:05'
+p4448
+sg8
+VInsider Alerts
+p4449
+sa.
